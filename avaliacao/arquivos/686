@@ -1,0 +1,95 @@
+PN 77105
+RN 00686 
+AN 77209374
+AU Vogelstein-B.  Kowarski-A.  Lietman-P-S.
+TI The pharmacokinetics of amikacin in children.
+SO J-Pediatr. 1977 Aug. 91(2). P 333-9.
+MJ AMIKACIN: bl.  KANAMYCIN: aa.  METABOLIC-CLEARANCE-RATE.
+MN ADNEXITIS: bl.  ADOLESCENCE.  AMIKACIN: ad.  ANEMIA-APLASTIC: bl.
+   APPENDICITIS: bl.  CHILD.  CHILD-PRESCHOOL.  CYSTIC-FIBROSIS: bl.
+   FEMALE.  HALF-LIFE.  HUMAN.  KIDNEY: me.  LEUKEMIA: bl.  MALE.
+   NEOPLASMS: bl.  NEUTROPENIA: bl.  SUPPORT-U-S-GOVT-P-H-S.
+AB The pharmacokinetic variables of amikacin were measured in 20
+   children  and adolescents, four to 16 years of age.  The mean
+   plasma clearance of amikacin was 120 ml/minute/1.73 m2.  The major
+   route of elimination was renal (82%).  Simultaneously measured
+   inulin clearance showed that a majority (64%) of the drug filtered
+   by the kidneys was excreted in the urine.  The mean volume of
+   distribution of amikacin was 32% of body weight; half-life during
+   the final (pseudoequilibrium) phase averaged 1.6 hours.  No
+   significant accumulation of the drug was seen when four doses were
+   given intravenously at 420 mg/m2 every 8 hours; the plasma
+   concentration just before injection of the fourth dose averaged 2.4
+   plus or minus 1.1 microgram/ml.  The mean plasma concentration at 60
+   to 75 minutes after injection of the drug was 28.7 microg/ml with
+   little interpatient variation (SD 3.5 microg/ml).  When the dose was
+   expressed in terms of milligrams per kilogram, it was found that
+   children often needed 50 to 100% more of the drug, compared to
+   adults, to achieve equivalent plasma concentrations; this larger
+   requirement was primarily due to a higher clearance of amikacin in
+   proportion to body weight.  Dosages based on surface area, however,
+   resulted in uniform requirements and predictable plasma
+   concentrations in all patients studied.
+RF 001   WOLF SM               N ENGL J MED                   291   733 974
+   003   UMEZAWA A             J ANTIBIOT (TOKYO)              24   274 971
+   004   SMITH CR              N ENGL J MED                   296   349 977
+   005   SHARP PM              ANTIMICROB AGENTS CHEMOTHER      5   435 974
+   006   TALLY FP              ANN INTERN MED                  83   484 975
+   007   MEYER RD              ANN INTERN MED                  83   790 975
+   008   VALDIVIESCO M         AM J MED SCI                   270   453 975
+   009   PRICE KE              ANTIMICROB AGENTS CHEMOTHER      5   143 974
+   010   RIES K                ANTIMICROB AGENTS CHEMOTHER      3   552 973
+   011   HOLMES SW             PROC ICAAC 12TH                        7 972
+   012   PRICE KE              J ANTIBIOT (TOKYO)              25   709 972
+   013   CLARKE JT             CLIN PHARMACOL THER             15   610 974
+   014   CABANA BE             ANTIMICROB AGENTS CHEMOTHER      3   478 973
+   015   BODEY GP              ANTIMICROB AGENTS CHEMOTHER      5   508 974
+   016   HOWARD JB             ANTIMICROB AGENTS CHEMOTHER      8    86 975
+   017   SIBER GR              J INFECT DIS                   132   637 975
+   018   NUNNERY AW            J INFECT DIS                   119   402 969
+   019   NAGASHIMA R           J PHARM SCI                     57  1888 968
+   020   GIBALDI M             J PHARM SCI                     58   193 969
+   021   KOWARSKI A            J CLIN ENDOCRINOL METAB         32   356 971
+   023   SMITH HW              PRINCIPLES OF RENAL PHYSIOLOG        196 956
+   024   COLE BR               N ENGL J MED                   287  1109 972
+   025   HAAS MJ               ANTIMICROB AGENTS CHEMOTHER      4   497 973
+   026   BOJENSEN E            ACTA MED SCAND SUPPL 266             275 952
+   027   DEAN RFA              J PHYSIOL (LOND)               109    81 947
+   028   AGUSTA VE             J UROL                         110   113 973
+   029   GOMBOS EA             ANTIMICROB AGENTS CHEMOTHER      4   373 964
+   030   PRESTON FW            ANTIBIOT ANN                     7   857 960
+   031   WYAN JB               ARCH SURG                       98   381 969
+   032   GRYSELYNCK AM         J INFECT DIS SUPPL             124    70 971
+   033   JUSKO WJ              J PHARM SCI                     61  1270 972
+   034   LAUGHMAN PM           J PEDIATR                       88   869 976
+   035   SCHMIDT-NIELSEN K     FED PROC                        29  1524 970
+   036   SHIRKEY HC            IN: SHIRKEY HC                        22 975
+CT   1   MCCRACKEN GH          J PEDIATR                       91   358 977
+     2   RODIERE M             NOUV PRESSE MED                  8  3479 979
+     3   KOWARSKI CR           DRUG INTEL CLIN PHARM           13   782 979
+     4   KOWARSKI CR           DRUG INTEL CLIN PHARM           13   409 979
+     5   CLEARY TG             ANTIMICROB AGENTS CHEMOTHER     16   829 979
+     6   KRAMER WG             CLIN PHARMACOL THER             26   635 979
+     7   KAFETZIS DA           ACTA PAEDIATR SCAND             68   419 979
+     8   FINKELSTEIN E         J PEDIATR                       94   163 979
+     9   CHRYMKO M             AM J HOSP PHARM                 37   713 980
+    10   LANAO JM              KIDNEY INT                      20   115 981
+    11   KAUFFMAN RE           PEDIATR CLIN NORTH AM           28    35 981
+    12   PIEN FD               AM J HOSP PHARM                 38   981 981
+    13   PHILIPS JB            SEM PERINATOL                    6   166 982
+    14   LEVY J                J ANTIMICROB CHEMOTHER          10   227 982
+    15   LANAO JM              EUR J CLIN PHARMACOL            23   155 982
+    16   MEISTAS MT            DIABETES                        31   449 982
+    17   KELLY HB              J PEDIATR                      100   318 982
+    18   KUMOR KM              DEVELOP PHARM THER               7   368 984
+    19   NAHATA MC             DEVELOP PHARM THER               7   221 984
+    20   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984
+    21   SCHOFIELD DH          DRUG INTEL CLIN PHARM           18   153 984
+    22   LEEDER JS             CLIN PHARMACOL THER             36   355 984
+    23   COLANGELO PM          AM J HOSP PHARM                 41  2650 984
+    24   MISCHLER EH           SEM RESPIR MED                   6   271 985
+    25   HORREVORTS AM         CHEST                           88   260 985
+    26   HALL JW               INT J PEDIATR OTORHINOLARYNGO   12   187 986
+    27   AUTRET E              EUR J CLIN PHARMACOL            31    79 986
+    28   KEARNS GL             J PEDIATR                      108   847 986
+    29   HORNER GW             DRUG INTEL CLIN PHARM           21   276 987

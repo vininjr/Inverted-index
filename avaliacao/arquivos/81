@@ -1,0 +1,77 @@
+PN 74082
+RN 00081 
+AN 75018083
+AU Young-L-S.
+TI Role of antibody in infections due to Pseudomonas aeruginosa.
+SO J-Infect-Dis. 1974 Nov. 130 Suppl(0). P S111-8.
+MJ PSEUDOMONAS-AERUGINOSA: im.  PSEUDOMONAS-INFECTIONS: im.
+MN ANTIBODIES-BACTERIAL: an.  ANTIGENS-BACTERIAL.
+   COMPLEMENT-FIXATION-TESTS.  CYSTIC-FIBROSIS: im.
+   ENTEROBACTERIACEAE-INFECTIONS: im.  FLUORESCENT-ANTIBODY-TECHNIC.
+   GEL-DIFFUSION-TESTS.  HEAT.  HEMAGGLUTINATION-TESTS.
+   CROSS-INFECTION: pc.  HUMAN.  IGG: an.  IGM: an.  IMMUNITY.
+   IMMUNOSUPPRESSION.  LEUKOPENIA: im.  OPSONINS: an.  PHAGOCYTOSIS.
+AB Various techniques have been utilized for measurement of antibodies
+   against Pseudomonas aeruginosa.  In general, the results of such
+   measurements tend to parallel each other, but the principal
+   functional antibodies against Pseudomonas appear to be opsonins of
+   the IgG and IgM immunoglobulin classes.  These antibodies are
+   potentiated by the complement system, activated either through the
+   "classical" or "alternate" pathways.  Susceptibility to fatal
+   infection with Pseudomonas is associated with antibody deficiency,
+   but this defect is usually correlated with other data regarding the
+   state of the host, such as underlying disease, immunosuppressive
+   therapy, and functional leukopenia.  Additional information is
+   needed on the relative protective role of IgG and IgM antibodies,
+   the affinity of such antibodies for viable bacteria, and the role of
+   antibodies against nonlipopolysaccharide antigens, such as protein
+   components of the cell wall and Pseudomonas exotoxins.
+RF 001   CROWDER JG            J LAB CLIN MED                  75   128 970
+   002   YOUNG LS              INFECT IMMUN                     2   495 970
+   003   JONES RJ              LANCET                           2   623 965
+   004   FEINGOLD DS           ARCH INTERN MED                116   326 965
+   005   WILLIAMS RC JR        IMMUNOLOGY                      17   249 969
+   006   GAINES S              J BACTERIOL                     69   628 955
+   007   AJELLO GW             INVEST UROL                      5   203 967
+   008   FISHER MW             J IMMUNOL                       81    29 958
+   009   YOUNG LS              J INFECT DIS                   126   257 972
+   010   YOUNG LS              CRC CRIT REV CLIN LAB SCI        3   291 972
+   011   YOUNG LS              ANN INTERN MED                  79   518 973
+   012   HOMMA JY              JAPAN J EXP MED                 41   387 971
+   013   ROANTREE RJ           J CLIN INVEST                   39    72 960
+   014   FARR RS               J INFECT DIS                   103   239 958
+   015   DOSSETT JH            PEDIATRICS                      44    49 969
+   016   SCHREIBER AD          J CLIN INVEST                   51   583 972
+   017   MCCALL C              CLIN RES                        21   607 973
+   018   RUDDY S               N ENGL J MED                   287   489 972
+   019   BJORNSON AB           J INFECT DIS SUPPL             128   174 973
+   020   JOHNSTON RB JR        N ENGL J MED                   288   803 973
+   021   SPEIRS CF             LANCET                           2   710 963
+   022   WILLIAMS RC JR        J IMMUNOL                      106    51 971
+   023   DIAZ F                AM J MED SCI                   259   340 970
+   024   DIAZ F                J INFECT DIS                   121   269 970
+   025   MCCABE WR             N ENGL J MED                   287   261 972
+   026   YOUNG LS              CLIN RES                        22  187A 974
+   027   BJORNSON AB           INFECT IMMUN                     2   453 970
+   028   FEINGOLD DS           J INFECT DIS                   120   437 969
+   029   FAULK WP              PEDIATRICS                      47   399 971
+   030   ALEXANDER JW          J TRAUMA                        10   565 970
+   031   ALEXANDER JW          ARCH SURG                      102    31 971
+   032   YOUNG LS              CLIN RES                        21   613 973
+   033   YOUNG LS              J INFECT DIS                   126   257 972
+   034   REYNOLDS HY           J IMMUNOL                      111   358 973
+   035   JOHANSON WG           N ENGL J MED                   281  1137 969
+CT   1   KOLKER II             ZH MIKROBIO EPIDEMIO IMMUNOBI 1976   113 976
+     2   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   142 977
+     3   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   107 977
+     4   PETERSON PK           J LAB CLIN MED                  92   883 978
+     5   SMALLEY DL            J CLIN MICROBIOL                10   251 979
+     6   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   87   229 979
+     7   VILDE JL              J CLIN LAB IMMUNOL               4    41 980
+     8   LAXON JH              IRCS MED SCI BIOCHEM             9  1012 981
+     9   TRAUB WH              ZENTRALBL BAKT MIKROB HYG (A)  250    84 981
+    10   CRYZ SJ               INFECT IMMUN                    39  1072 983
+    11   PENKETH A             AM REV RESPIR DIS              127   605 983
+    12   DUMA RJ               AM J MED                        78   154 985
+    13   WAGNER DK             ARCH INTERN MED                145  1073 985
+    14   DALHOFF A             INFECTION                       15    69 987

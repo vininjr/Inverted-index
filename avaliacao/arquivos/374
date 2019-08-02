@@ -1,0 +1,166 @@
+PN 76019
+RN 00374 
+AN 77064517
+AU Boat-T-F.  Cheng-P-W.  Iyer-R-N.  Carlson-D-M.  Polony-I.
+TI Human respiratory tract secretion.  Mucous glycoproteins of
+   nonpurulent tracheobronchial secretions, and sputum of patients with
+   bronchitis and cystic fibrosis.
+SO Arch-Biochem-Biophys. 1976 Nov. 177(1). P 95-104.
+MJ BRONCHITIS: me.  CYSTIC-FIBROSIS: me.  GLYCOPROTEINS.  MUCUS: se.
+   RESPIRATORY-SYSTEM: se.  SPUTUM: se.
+MN ADOLESCENCE.  AMINO-ACIDS: an.  CASE-REPORT.  FEMALE.  FUCOSE: an.
+   GALACTOSE: an.  GLYCOPROTEINS: se.  HEXOSAMINES: an.  HUMAN.
+   SIALIC-ACIDS: an.  SULFURIC-ACIDS: an.  SUPPORT-U-S-GOVT-P-H-S.
+AB Mucous glycoproteins were isolated by agarose gel filtration from
+   nonpurulent tracheobronchial secretions and purulent sputum which
+   had been reduced, carboxymethylated and, in the case of purulent
+   secretions, treated with deoxyribonuclease.  The solubilized and
+   purified glycoproteins were fractioned on diethylaminoethyl
+   cellulose into two major (I, II) and two minor (Ia, III) blood group
+   active components.  Components I and II had similar carbohydrate and
+   amino acid compositions which were typical for human blood group
+   substances.  These two components did differ in several respects.
+   Component I contained 1.4-2.6% sulfate and did not inhibit influenza
+   virus hemagglutination while component II contained 7.1-7.8% sulfate
+   and was a potent inhibitor of virus hemagglutination.  Component II
+   also migrated more rapidly on sodium dodecyl sulfate-3.3% acrylamide
+   gel electrophoresis.  Components I and II in purulent secretions
+   displayed only minor compositional differences from their
+   counterparts in nonpurulent secretions.  Component II was more
+   abundant in two sputum samples from subjects with cystic fibrosis
+   than in purulent bronchitic secretions or in nonpurulent secretions.
+RF 001   YEAGER H JR           AM J MED                        50   493 971
+   002   TOREMALM NG           ACTA OTOLARYNGOL STOCKH SUPPL  158    43 960
+   003   BISERTE G             EXP ANNU BIOCHIM MED            24    85 963
+   004   HAVEZ R               CLIN CHIM ACTA                  17   281 967
+   005   HAVEZ R               CLIN CHIM ACTA                  17   463 967
+   006   HAVEZ R               BULL SOC CHIM BIOL              51   245 969
+   007   HAVEZ R               IN: PEETERS H                   16   343 968
+   008   ROUSSEL P             CLIN CHIM ACTA                  36   315 972
+   009   LAMBLIN G             CLIN CHIM ACTA                  36   329 972
+   010   DEGAND P              BULL PHYSIOPATH RESPIR NANCY     9   199 973
+   011   MASSON PL             BIOCHIM BIOPHYS ACTA           111   466 965
+   012   SCHULTZE HE           MOLECULAR BIOL OF HUMAN PROTE    1       966
+   013   ROUSSEL P             J BIOL CHEM                    250  2114 975
+   014   ROBERTS GP            EUR J BIOCHEM                   50   265 974
+   015   LAMBLIN G             BIOCHIM BIOPHYS ACTA           322   372 973
+   016   BROGAN TD             BIOCHEM J                       71   125 959
+   017   BISERTE G             LILLE MED                        6    52 961
+   018   BUKANTZ SC            J ALLERGY                       29    29 958
+   019   BROGAN TD             BR J EXP PATHOL                 41   288 960
+   020   LOWRY OH              J BIOL CHEM                    193   265 951
+   021   BURTON K              BIOCHEM J                       62   315 956
+   022   ANTONOPOULOS CA       ACTA CHEM SCAND                 16  1521 962
+   023   COTLOVE E             J LAB CLIN MED                  51   461 958
+   024   DUBOIS M              ANAL CHEM                       28   350 956
+   025   BOAT TF               AM REV RESPIR DIS              110   428 974
+   026   DAVIS BJ              ANN NY ACAD SCI                121   404 964
+   027   REISFELD RA           NATURE                         195   281 962
+   028   WEBER K               METHODS ENZYMOL                 26     3 972
+   029   GLOSSMAN H            J BIOL CHEM                    246  6339 971
+   030   KABAT EA              EXPERIMENTAL IMMUNOCHEMISTRY             961
+   031   PRICE VE              J BIOL CHEM                    171   477 947
+   032   IYER RN               ARCH BIOCHEM BIOPHYS           142   101 971
+   033   ROVIS L               BIOCHEMISTRY                    12  1955 973
+   034   LUCAS AM              ARCH OTOLARYNGOL                20   518 934
+   035   SPIRO RG              ADV PROT CHEM                   27   349 973
+   036   GOTTSCHALK A          IN: GOTTSCHALK A                 2   810 972
+   037   WATKINS WM            IN: GOTTSCHALK A                     830 972
+   038   HOLDEN KG             BIOCHEMISTRY                    10  3105 971
+   039   PITT-RIVERS R         BIOCHEM J                      109   825 968
+   040   SPRINGER GF           PROC NAT ACAD SCI USA           64   635 969
+   041   SNARY D               BIOCHEM BIOPHYS RES COMMUN      40   844 970
+   042   MOORE S               J BIOL CHEM                    238   235 963
+   043   CRESTFIELD AM         J BIOL CHEM                    238   622 963
+   044   JONES R               HISTOCHEM J                      5    19 973
+   045   DEGAND P              BIOCHIM BIOPHYS ACTA           320   318 973
+   046   NEUBERGER A           IN: GOTTSCHALK A                 1   474 972
+   047   KEAL EE               THORAX                          27   643 972
+   048   CARLSON DM            IN: AMINOFF D                        229 970
+   049   LEV R                 AM J PATHOL                     46    23 965
+   050   LAMB D                BR J DIS CHEST                  66   239 972
+CT   1   BOAT TF               PEDIATR RES                     11   977 977
+     2   CREETH JM             BIOCHEM J                      167   557 977
+     3   GALLAGHER JT          TRENDS BIOCHEM SCI               3    38 978
+     4   ALHADEFF JA           CLIN GENET                      14   189 978
+     5   FORSTNER JF           DIGESTION                       17   234 978
+     6   MARTIN GP             GUT                             19   103 978
+     7   CLAMP JR              BR MED BULL                     34    25 978
+     8   CREETH JM             BR MED BULL                     34    17 978
+     9   CHENG PW              ANAL BIOCHEM                    85   276 978
+    10   ROUSSEL P             LUNG                           154   241 978
+    11   SACHDEV GP            BIOCHIM BIOPHYS ACTA           536   184 978
+    12   BOAT TF               BIOCHIM BIOPHYS ACTA           540   127 978
+    13   MAWHINNEY TP          PEDIATR RES                     13   760 979
+    14   FELDHOFF PA           BIOCHEMISTRY                    18  2430 979
+    15   ROSE MC               BIOCHEMISTRY                    18  4030 979
+    16   LAMBLIN G             BIOCHIMIE                       61    23 979
+    17   KAIZU T               COMP BIOCHEM PHYSIOL (B)        62   195 979
+    18   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+    19   HERZBERG MC           J BIOL CHEM                    254  1487 979
+    20   LIAO TH               BIOCHIM BIOPHYS ACTA           577   442 979
+    21   CLARK JN              BIOCHIM BIOPHYS ACTA           588   357 979
+    22   SACHDEV GP            BIOCHEM MED                     24    82 980
+    23   LAST JA               ENVIRON HEALTH PERSPECT         35   131 980
+    24   BOAT TF               FED PROC                        39  3067 980
+    25   SHELHAMER JH          J CLIN INVEST                   66  1400 980
+    26   MAWHINNEY TP          ANAL BIOCHEM                   101   112 980
+    27   ESTEP JA              J APPL PHYSIOL                  50   383 981
+    28   CHENG PW              ANAL BIOCHEM                   117   301 981
+    29   BROWN DT              AM REV RESPIR DIS              124   285 981
+    30   SHERMAN JM            AM REV RESPIR DIS              124   476 981
+    31   BHASKAR KR            J BIOL CHEM                    256  7583 981
+    32   HOUDRET N             BIOCHIM BIOPHYS ACTA           668   413 981
+    33   ADLER KB              EXP LUNG RES                     3    69 982
+    34   TABAK LA              J ORAL PATHOL                   11     1 982
+    35   BLITZER MG            PEDIATR RES                     16   203 982
+    36   BOAT TF               PEDIATR RES                     16   792 982
+    37   WOODWARD H            BIOCHEMISTRY                    21   694 982
+    38   WILLIAMS IP           EUR J RESPIR DIS                63   510 982
+    39   SNYDER CE             CARBOHYD RES                   105    87 982
+    40   GALLAGHER JT          ADV EXP MED BIOL               144   335 982
+    41   REID L                ADV EXP MED BIOL               144   369 982
+    42   MIAN N                BIOCHEM J                      201   533 982
+    43   DOUGLAS WHJ           ANAT REC                       202   285 982
+    44   CHENG PW              J BIOL CHEM                    257  6251 982
+    45   REID L                EXP LUNG RES                     4   157 983
+    46   FRATES RC             PEDIATR RES                     17    30 983
+    47   MARGOLIES R           PEDIATR RES                     17   931 983
+    48   WESLEY A              PEDIATR RES                     17    65 983
+    49   VERDUGO P             BIORHEOLOGY                     20   223 983
+    50   BLOOMFIELD VA         BIOPOLYMERS                     22  2141 983
+    51   KOHLER D              KLIN WSCHR                      61   243 983
+    52   CHACE KV              CLIN CHIM ACTA                 132   143 983
+    53   HOUDRET N             BIOCHIM BIOPHYS ACTA           758    24 983
+    54   WOOD RE               SEM RESPIR MED                   5   336 984
+    55   SHELHAMER JH          EXP LUNG RES                     7   149 984
+    56   ROUSSEL P             BIOCHEM SOC TRANS               12   617 984
+    57   LLOYD C               IN VITRO                        20   416 984
+    58   WINGERT WE            BIOCHEMISTRY                    23   690 984
+    59   VISHWANATH S          INFECT IMMUN                    45   197 984
+    60   SPICER SS             ENVIRON HEALTH PERSPECT         55   193 984
+    61   STELANDER M           EUR J RESPIR DIS                65     5 984
+    62   KALINER M             J ALLERGY CLIN IMMUNOL          73   318 984
+    63   BASBAUM CB            PROC NAT ACAD SCI USA           81  4419 984
+    64   JAHNKE GD             PROC NAT ACAD SCI USA           81   578 984
+    65   VERDUGO P             CIBA FOUND SYMP                109   212 984
+    66   TABAK LA              CARBOHYD RES                   135   117 984
+    67   BHASKAR KR            EXP LUNG RES                     9   289 985
+    68   MIKKELSEN A           INT J BIOMEDICAL COMPUT         17   215 985
+    69   RAM BP                CRC CRIT REV BIOCHEM            17   257 985
+    70   CARLSTEDT I           ESSAYS BIOCHEM                  20    40 985
+    71   CHACE KV              BIOCHEMISTRY                    24  7334 985
+    72   MIKKELSEN A           BIOPOLYMERS                     24  1683 985
+    73   REDDY MS              J DENT RES                      64    33 985
+    74   CHENG PW              BIOCHEM J                      227   405 985
+    75   KOHLER D              ATEMWEGS LUNGENKRANKH           12   358 986
+    76   ROOMANS GM            J SUBMICROSC CYTOL              18   613 986
+    77   MILLS AN              BR J EXP PATHOL                 67   821 986
+    78   KOHLER D              EUR J RESPIR DIS                69   319 986
+    79   KALINER M             AM REV RESPIR DIS              134   612 986
+    80   LEIGH MW              AM REV RESPIR DIS              134   784 986
+    81   CHENG PW              CARBOHYD RES                   149   253 986
+    82   LHERMITTE M           LUNG                           164   217 986
+    83   BASBAUM CB            ARCH BIOCHEM BIOPHYS           249   363 986
+    84   MAWHINNEY TP          J CHROMATOGR                   351    91 986
+    85   MAWHINNEY TP          J BIOL CHEM                    262  2994 987

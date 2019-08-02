@@ -1,0 +1,37 @@
+PN 77084
+RN 00665 
+AN 78004791
+AU Burdick-A-B.
+TI Frequency of the gene for cystic fibrosis with a view of replacement
+   and recognition effects and reproduction by homozygotes.
+SO Hum-Hered. 1977. 27(5). P 366-71.
+MJ CYSTIC-FIBROSIS: fg.  GENE-FREQUENCY.
+MN FEMALE.  HOMOZYGOTE.  HUMAN.  MALE.  MUTATION.  REPRODUCTION.
+AB The apparent frequency of the recessive autosomal allele for cystic
+   fibrosis (cf) is too high to be satisfactorily explained by mutation
+   equilibrium. However, higher reproductive fitness by heterozygotes
+   (expressed by t greater than 0) or higher gametic viability of the cf
+   allele (expressed by a greater than 0.5) can provide reasonable
+   explanations of the present frequency. Furthermore, birth replacement
+   in families with CF children (RPE) can account for the estimated
+   historical values of t. Today, however, t is probably at or
+   approaching zero as a result of discontinuation of RPE. In the future
+   we can look for an imperceptibly slow decrease in the incidence of
+   CF. Reproduction by CF females will not cause an increase in
+   incidence; it will only slightly slow the rate of decrease.
+RF 001   HALDANE JBS           PROC CAMB PHIL SOC              23   838 927
+   002   WARWICK WJ            J CHRON DIS                     28   609 975
+   003   GRAND RJ              JAMA                           195   993 966
+   004   LI CC                 FIRST COURSE IN POPULATION GE            976
+   005   KNUDSON AG JR         AM J HUM GENET                  19   388 967
+   006   WRIGHT SW             AM J HUM GENET                  20   157 968
+   007   CONNEALLY PM          TEX REP BIOL MED                31   639 973
+   008   GLASS B               AM J HUM GENET                   2   269 950
+   009   RECORD RG             BR J PREV SOC MED               29   267 975
+   010   LARSEN JW             OBSTET GYNECOL                  39   880 972
+   011   LUNDGREN DW           CLIN CHIM ACTA                  62   357 975
+   012   SAMUELS CE            LANCET                           2   607 975
+   013   SHWACHMAN H           LANCET                           2   372 975
+   014   WILSON GB             PEDIATR RES                      9   635 975
+CT   1   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+     2   AFZELIUS BA           AM J HUM GENET                  33   852 981

@@ -1,0 +1,85 @@
+PN 77164
+RN 00745 
+AN 78032149
+AU Pivetta-O-H.  Sordelli-D-O.  Labal-M-L.
+TI Pulmonary clearance of Staphylococcus aureus in mutant mice with
+   some hereditary alterations resembling cystic fibrosis.
+SO Pediatr-Res. 1977 Nov. 11(11). P 1133-6.
+MJ CYSTIC-FIBROSIS: fg.  DISEASE-MODELS-ANIMAL.  LUNG: im.
+   MICE-INBRED-STRAINS: im.  PNEUMONIA-STAPHYLOCOCCAL: im.
+   STAPHYLOCOCCUS-AUREUS: py.
+MN ANIMAL.  CYSTIC-FIBROSIS: im.  HUMAN.  LUNG: mi.  MALE.  MICE.
+   MICE-INBRED-BALB-C.  MICE-INBRED-C57BL.  MICE-INBRED-DBA.  MUTATION.
+   PHAGOCYTOSIS.
+AB Pulmonary clearance for Staphylococcus aureus has been examined in
+   two inbred strains of mice with some hereditary alterations
+   resembling cystic fibrosis (CF).  These mice were mice with abnormal
+   electrolyte metabolism (DBA/@J-cri), mice with spontaneous
+   pneumonitis (C57BL/6J-bg), and mice without any CF-like alterations
+   (BALB/c).  The methods used to produce pulmonary infection were
+   essentially those of Laurenzi and associates adapted as needed for
+   mutant mice.  The animals mentioned above were exposed to a finely
+   divided aerosol suspension of a coagulase-positive strain of S.
+   aureus in phosphate buffer.  Immediately after the exposure, half of
+   the animals were killed, and the remaining half were killed 4 hr
+   later.  In each experimental unit the mice killed immediately after
+   the exposure were as similar as possible to the mice killed 4 hr
+   later with respect to genotype, age, and sex; some were siblings.
+   The uncleared bacteria (UBR) in 4 hr were 0.20 for the mice without
+   any CF-like alterations (BALB/c) and the C57BL/6J-bg, bg/bg
+   genotypes; 0.28 for C57BL/6J-bg, +/? genotypes; 0.50 for the
+   DBA/2J-cri, +/? genotypes; and 0.56 for cri/cri mice.  The number of
+   viable staphylococci found immediately after the aerosol exposure
+   (Co) in the C57BL/6J-bg strain is significantly lower than the Co of
+   the BALB/c (P < 0.05) and DBA/2J-cri strain (P < 0.01).  The latter
+   two did not differ from each other.  There was no sex difference
+   with respect to the UBR and Co data.  The DBA/2J-cri strain of mice,
+   where the cri mutation first appeared, has a decreased capacity for
+   clearance of S. aureus by the lung.  Together with the other CF-like
+   alterations of the cri mutation, namely failure for the reabsorption
+   of Na+ by the parotid duct, high level of Na+ in the fur, and CF
+   abnormal serum factor activity in the serum of the cri/cri mice, we
+   suggest that the cribriform degeneration mouse mutant may provide a
+   potential animal model for studying CF.  The finding of a mouse
+   mutation with electrolyte alterations and CF-like abnormal serum
+   activity, simialr to the activity found in CF children, in an inbred
+   strain of mice with a decreased bacterial clearance by the lungs,
+   makes these mice very useful for CF studies.
+RF 001   ANDERSEN AA           J BACTERIOL                     76   471 958
+   002   BARTLETT MS           BIOMETRICS                       3    39 947
+   003   DI SANTAGNESE PA      GAP CONF REP LUNG ORGAN DEF              972
+   004   DI SANTAGNESE PA      AM J DIS CHILD                  72    17 946
+   005   DIXON WJ              ANN MATH STAT                   21   488 950
+   006   FEIGIN RD             J PEDIATR                       87   677 975
+   007   FINNEY DJ             PROBIT ANALYSIS                          971
+   008   GREEN GM              J EXP MED                      119   167 964
+   009   GREEN GM              J CLIN INVEST                   43   769 964
+   010   GREEN GM              BR J EXP PATHOL                 46   360 965
+   011   GREEN MC              SCIENCE                        176   800 972
+   012   HARROW EM             AM REV RESPIR DIS              112     7 975
+   013   HOFF GE               ACTA PATH MICROBIOL SCAND (B)   83   219 975
+   014   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   015   HUANG NN              J PEDIATR                       59   512 961
+   016   IACOCCA VF            AM J DIS CHILD                 106   315 963
+   017   KAISER D              LIFE SCI                        15   803 974
+   018   KASS EH               BACT REV                        30   488 966
+   019   LANE PW               GENETICS                        72   451 972
+   020   LAURENZI GA           J CLIN INVEST                   43   759 964
+   021   LAURENZI GA           AM REV RESPIR DIS SUPPL 3       93   134 966
+   022   LAWSON D              GAP CONF REP PSEUDOMON IN CF             974
+   023   LURIE MB              AM REV TUBERC                   61   765 950
+   024   MIDDLEBROOK G         PROC SOC EXP BIOL MED           80   105 952
+   025   MYRVIK QN             GAP CONF REP LUNG ORGAN DEF              972
+   027   RUPPERT D             J LAB CLIN MED                  87   544 976
+   028   SHWACHMAN H           HOSP PRACT                       9   143 974
+CT   1   PIVETTA OH            PEDIATR RES                     13  1160 979
+     2   SORDELLI DO           LIFE SCI                        24  2003 979
+     3   SORDELLI DO           MED (BUENOS AIRES)              39   457 979
+     4   DAVIS PB              PEDIATR RES                     14    83 980
+     5   PIVETTA OH            LIFE SCI                        26  1349 980
+     6   REHM SR               J CLIN INVEST                   66   194 980
+     7   PIVETTA OH            LIFE SCI                        28  2207 981
+     8   CERQUETTI MC          IMMUNOL COMMUN                  12   375 983
+     9   NOURI LA              PEDIATR RES                     17   657 983
+    10   CATANZARO OL          LIFE SCI                        32   825 983
+    11   SORDELLI DO           INFECT IMMUN                    39  1275 983

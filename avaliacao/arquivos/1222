@@ -1,0 +1,71 @@
+PN 79242
+RN 01222 
+AN 79223914
+AU Shapiro-B-L.  Feigal-R-J.  Lam-L-F.
+TI Mitrochondrial NADH dehydrogenase in cystic fibrosis.
+SO Proc-Natl-Acad-Sci-USA. 1979 Jun. 76(6). P 2979-83.
+MJ CYSTIC-FIBROSIS: en.  MITOCHONDRIA: en.
+   NADH-NADPH-OXIDOREDUCTASES: me.  SKIN: en.
+MN CELLS-CULTURED.  FIBROBLASTS: en.  HUMAN.
+   HYDROGEN-ION-CONCENTRATION.  KINETICS.  OXYGEN-CONSUMPTION.
+AB We have shown that skin fibroblast from patients with cystic fibrosis
+   (CF) and from carriers for CF [heterozygotes (HZ)] consume more O2
+   than do their controls. When the mitochondrial electron transport
+   inhibitor rotenone was added to the cells, the relative inhibition of
+   O2 consumption was CF greater than HZ greater than controls (P less
+   than 0.005 in both comparisons). Because rotenone specifically
+   inhibits NADH dehydrogenase, [NADH: (acceptor) oxidoreductase, EC
+   1.6.99.3], which is the enzyme of energy-conserving site 1 of the
+   mitochondrial electron transport system, activity and kinetics of
+   this enzyme system were studied in fibroblast homogenates. NADH
+   dehydrogenase activity was equal in cells from the three genotypes.
+   At pH 8.0, affinity of the enzyme for its substrate was CF greater
+   than HZ = controls; at pH 8.6, affinity was CF greater than HZ =
+   controls (P less than 0.005 for the differences). pH optima for the
+   genotypes were without exception 8.6 (CF), 8.3 (HZ), and 8.0
+   (control). HZ and control lines were distinguished unequivocally in a
+   blind test on the basis of differences in pH optima. Purified
+   mitochondrial preparations revealed pH optima identical to those
+   found in whole cell homogenates. These data suggest that the mutant
+   gene responsible for CF is expressed in the complex mitochondrial
+   NADH dehydrogenase system.
+RF 001   NADLER HL             IN: STANBURY JB                     1683 978
+   002   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   003   DI SANTAGNESE PA      N ENGL J MED                   295   534 976
+   004   DI SANTAGNESE PA      N ENGL J MED                   295   597 976
+   005   PALADE GE             SCIENCE                        189   347 975
+   006   SHAPIRO BL            GAP CONF REP TISS CULT APPR              977
+   007   SHAPIRO BL            SCIENCE                        203  1251 979
+   008   SHAPIRO BL            CLIN CHIM ACTA                  82   125 978
+   009   FEIGAL RJ             PEDIATR RES                     13   764 979
+   010   FEIGAL RJ             NATURE                         278   276 979
+   011   MITCHELL P            BIOL REV                        41   445 966
+   012   BYGRAVE FL            BIOL REV                        53    43 978
+   013   FEIGAL RJ             DISSERTATION                             979
+   014   SLATER EC             METHODS ENZYMOL                 10    48 967
+   015   LOWRY OH              J BIOL CHEM                    193   265 951
+   016   KING TE               METHODS ENZYMOL                 10   275 967
+   017   STANBURY JB           METABOLIC BASIS OF INHERITED             978
+   018   SINGER TP             METHODS ENZYMOL                 53   397 978
+   019   HATEFI Y              IN: BOYER PD                    13   175 976
+   020   RAGAN CI              BIOCHIM BIOPHYS ACTA           456   249 976
+   021   HATEFI Y              METHODS ENZYMOL                 53    11 976
+   022   FORSTNER JF           PEDIATR RES                     10   609 976
+   023   CARAFOLI E            ANN NY ACAD SCI                307   269 978
+   024   LEHNINGER AL          ANN NY ACAD SCI                307   160 978
+   025   WALLACH D             EUR J BIOCHEM                   21   433 971
+   026   ARGENT BE             J PHYSIOL (LOND)               230   575 973
+   027   MANGOS JA             IN: ANDREOLI TE                          978
+CT   1   DAVIS PB              PEDIATR RES                     14    83 980
+     2   SEALE TW              ANN CLIN LAB SCI                12   415 982
+     3   SANGUINETTIBRICENO NR CLIN GENET                      22   308 982
+     4   FEIGAL RJ             LIFE SCI                        30    93 982
+     5   SHAPIRO BL            AM J HUM GENET                  34   846 982
+     6   BOYCE JR              INFECT IMMUN                    37   695 982
+     7   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983
+     8   SEYMOUR CA            BIOESSAYS                        1    38 984
+     9   REGELMANN WE          PEDIATR RES                     20   619 986
+    10   STUTTS MJ             PEDIATR RES                     20  1316 986
+    11   KUZEMKO JA            J ROY SOC MED                   79     2 986
+    12   BATTINO M             FEBS LETTERS                   199   155 986
+    13   FEIGAL RJ             ANN NY ACAD SCI                488    82 986

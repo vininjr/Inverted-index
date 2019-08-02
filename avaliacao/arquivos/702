@@ -1,0 +1,58 @@
+PN 77121
+RN 00702 
+AN 78090696
+AU Hunt-L-A.  Summers-D-F.
+TI Glycosylation of VSV glycoprotein is similar in cystic fibrosis,
+   heterozygous carrier, and normal human fibroblasts.
+SO J-Supramol-Struct. 1977. 7(2). P 213-21.
+MJ CYSTIC-FIBROSIS: me.  GLYCOPROTEINS: me.  HEXOSYLTRANSFERASES: me.
+MN CELL-LINE.  FIBROBLASTS: me.  HETEROZYGOTE.  HUMAN.
+   MEMBRANE-PROTEINS: me.  SUPPORT-U-S-GOVT-P-H-S.
+   SUPPORT-U-S-GOVT-NON-P-H-S.  VESICULAR-STOMATITIS-VIRUS: me.
+   VIRAL-PROTEINS: me.
+AB The single envelope glycoprotein of vesicular stomatitis virus was
+   used as a specific probe of glycosyltransferase activities in
+   fibroblasts from two cystic fibrosis patients, an obligate
+   heterozygous carrier and a normal individual. Gel filtration of
+   pronase-digested glycopeptides from both purified virions and
+   infected cell-associated VSV glycoprotein which had been labeled
+   with[3H] glucosamine did not reveal any significant differences in
+   the glycosylation patterns between the different cell cultures. All 4
+   cell lines were apparently able to synthesize the mannose- and
+   glucosamine- containing core structure and branch chains terminating
+   in sialic acid which are characteristic of asparagine-linked
+   carbohydrate side chains in cellular glycoproteins. Analysis of
+   tryptic glycopeptides by anion-exchange chromotography indicated that
+   the same 2 major sites on the virus polypeptide were recognized and
+   glycosylated in all 4 VSV-infected cell cultures. These studies
+   suggest that the basic biochemical defect(s) in cystic fibrosis is
+   not an absence or deficiency in enzymes responsible for the
+   biosynthesis of complex carbohydrate side chains.
+RF 001   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   002   WOOD RE               AM REV RESPIR DIS              113   833 976
+   003   LOUISOT P             CLIN CHIM ACTA                  48   373 973
+   004   SINGER L              CLIN BIOCHEM                     7   146 974
+   005   BUTTERWORTH J         CLIN CHIM ACTA                  56   159 974
+   006   HOWATSON AF           VIROLOGY                        16   466 962
+   007   ZEE YC                J GEN VIROL                      7    95 970
+   008   WAGNER RR             J VIROL                         10  1228 972
+   009   KLENK HD              J VIROL                          7   416 971
+   010   ATKINSON PH           J MOL BIOL                     102   613 976
+   011   HUNT LA               J VIROL                         20   637 976
+   012   HUNT LA               J VIROL                         20   646 976
+   013   ETCHISON JR           VIROLOGY                        60   217 974
+   014   ETCHISON JR           PROC NAT ACAD SCI USA           71  4011 974
+   015   MOYER SA              J VIROL                         18   167 976
+   016   ROBERTSON JR          J VIROL                         19   871 976
+   017   ETCHISON JR           VIROLOGY                        78   375 977
+   018   MUDD JA               VIROLOGY                        42   328 970
+   019   GRUBMAN MJ            J VIROL                         12   265 973
+   020   BONNER WM             EUR J BIOCHEM                   46    83 974
+   021   DRAEMER PM            J CELL PHYSIOL                  69   199 967
+   022   SCHLESINGER S         J VIROL                         17   239 976
+   023   GOTTLIEB C            J BIOL CHEM                    251  7761 976
+   024   SLY WS                PROC NAT ACAD SCI USA           73  2443 976
+CT   1   HUNT LA               PROC NAT ACAD SCI USA           75   754 978
+     2   HUNT LA               J VIROL                         35   362 980
+     3   MARGOLIES R           PEDIATR RES                     16   181 982
+     4   MARGOLIES R           PEDIATR RES                     17   931 983

@@ -1,0 +1,216 @@
+PN 75097
+RN 00263
+AN 75191915
+AU Adinolfi-A.  Adinolfi-M.  Lessof.
+TI Alpha-feto-protein during development and in disease.
+SO J-Med-Genet. 1975 Jun. 12(2). P 138-51.
+MJ ALPHA-FETOPROTEINS.  FETAL-PROTEINS.
+MN ALPHA-FETOPROTEINS: an, me, ph.  AMNIOTIC-FLUID: an.
+   ANENCEPHALY: me.  ANIMAL.  ANTIGEN-ANTIBODY-REACTIONS.
+   CONCANAVALIN-A: pd.  CYSTIC-FIBROSIS: me.  DOWNS-SYNDROME: me.
+   FEMALE.  GASTROINTESTINAL-NEOPLASMS: me.  GESTATIONAL-AGE.
+   HEPATITIS: me.  HEPATOMA: me.  HUMAN.  IMMUNOLOGIC-TECHNICS.
+   INFANT-NEWBORN.  LIVER: cy.  METABOLISM-INBORN-ERRORS: me.   
+   NEOPLASM-METASTASIS.  NEOPLASMS-EXPERIMENTAL: me.  PREGNANCY.
+   SPINA-BIFIDA: me.  TERATOMA: me.
+AB An alpha-feto-protein (AFP) is present in many mammals, in birds, and
+   in sharks during development. The AFP present in different species
+   have similar physicochemical properties and often have common
+   antigenic determinants. Their study, both in health and disease, has
+   provided a useful model for the understanding of other phase-specific
+   antigens and the activation of the genes which control their
+   synthesis. In the human fetus, the level of AFP falls with increasing
+   maturity. The more sensitive methods of detection have disclosed that
+   this fetal protein persists in trace amounts throughout life and its
+   level increases in maternal blood during pregnancy. The principal
+   sites of synthesis are the fetal liver and in some mammals, the yolk
+   sac splanchnopleur. In humans as well as in mice and cows, it is
+   notable that the synthesis of AFP is increased in liver cancer cells
+   and that high levels of this protein are present in serum. Elevated
+   values of AFP have also been detected in human subjects with
+   undifferentiated tumours of the testis and ovary. A fall to normal
+   levels has been noted in cases of complete remission after surgery
+   and a return to high levels in patients who develop metastases. In
+   some patients with hepatitis a temporary rise in the level of AFP has
+   also been observed. In recent years, the detection of high levels of
+   AFP in amniotic fluid has proved to be of great value for the
+   prenatal diagnosis of neural-tube defects. Abnormal levels have also
+   been found in the amniotic fluid or in maternal serum in cases of
+   spontaneous abortion. Such measurements are now being assessed as a
+   method of monitoring abnormal pregnancy.
+RF 001   ABELEV GI             PROG EXP TUMOR RES               7   104 965
+   002   ABELEV GI             CANCER RES                      28  1344 968
+   003   ABELEV GI             ADV CANCER RES                  14   295 971
+   004   ABELEV GI             NEOPLASMA                       20   563 973
+   005   ABELEV GI             INT J CANCER                     2   551 967
+   006   ABELEV GI             IN: MASSEYEFF R                      141 974
+   007   ABELEV GI             TRANSPLANTATION                  1   174 963
+   008   ADAMSON RH            IN: ANDERSON NG                  2   331 972
+   009   ADINOLFI A            RICERCA                          1   316 971
+   010   ADINOLFI A            BIOCHIM BIOPHYS ACTA           251   197 971
+   011   ADINOLFI M            IN: BENSON PF                        224 971
+   013   ADINOLFI M            DEVELOP MED CHILD NEUROL         9   609 967
+   014   ADINOLFI M            ATTI ASSOC GENETICA ITALIANA    12   133 967
+   015   ADINOLFI M            PROC INT SYMP IMMUN REPRO 2ND        558 973
+   016   AKEYAMA T             N ENGL J MED                   287   989 972
+   017   ALEXANDER P           NATURE                         235   137 972
+   018   ALLAN LD              LANCET                           2   522 973
+   019   ALPERT E              LANCET                           1   626 974
+   020   ALPERT E              ANN NY ACAD SCI                209   387 973
+   021   ALPERT E              GASTROENTEROLOGY                61   137 971
+   022   ALPERT E              N ENGL J MED                   278   984 968
+   023   ALPERT E              LANCET                           2   465 970
+   024   ALPERT ME             CLIN RES                        17   461 969
+   025   ALPERT ME             AM J MED                        46   794 969
+   026   ANDERSON NG           IN: ANDERSON NG                  1     7 971
+   027   ANDERSON NG           IN: ANDERSON NG                  2   361 972
+   028   ANDREOLI M            J CLIN INVEST                   41  1070 962
+   029   ANDRIEU J             PRESSE MED                      79  1595 971
+   030   ANSSEL C              IN: MASSEYEFF R                       17 974
+   031   BAGSHAWE A            LANCET                           2   268 970
+   032   BAKIROV RD            BULL EXP BIOL MED               65    45 968
+   033   BALLAS M              AM J CLIN PATHOL                57   511 972
+   034   BELANGER L            PATHOL BIOL (PARIS)             21   457 973
+   035   BELANGER L            PATHOL BIOL (PARIS)             21   449 973
+   036   BELANGER L            IN: MASSEYEFF R                          974
+   037   BELANGER L            CLIN CHIM ACTA                  48    15 973
+   038   BERGSTRAND CG         SCAND J CLIN LAB INVEST          8   174 956
+   039   BERGSTRAND CG         SCAND J CLIN LAB INVEST          9   277 957
+   040   BERGSTRAND CG         ACTA PAEDIATR SCAND             61   128 972
+   041   BERNADES P            PRESSE MED                      79  1585 971
+   042   BODMAN J              CLIN CHIM ACTA                   4   103 959
+   043   BOURREILLE J          PRESSE MED                      78  1277 970
+   044   BRANCH WR             INT J CANCER                    10   451 972
+   045   BRANCH WR             Z ZELLFORSCH                   135   501 972
+   046   BROCK DJH             LANCET                           2   923 973
+   047   BROCK DJH             LANCET                           2  1252 972
+   048   BROCK DJH             LANCET                           1   569 974
+   049   BROCK DJH             LANCET                           2   197 972
+   050   BUFFE D               GANN MOGR CANCER RES            14   117 973
+   051   BUFFE D               BIOMEDICINE                     19   172 973
+   052   BURTIN P              BULL SOC CHIM BIOL              49  1389 967
+   053   CHANDRA RK            ARCH DIS CHILD                  48   157 973
+   054   CHANDRA RK            BR MED J                         1   714 975
+   055   ECONOMOPOULOS P       LANCET                           1  1337 970
+   056   ENDO Y                KANZO                           10   143 969
+   057   ENGELHARDT NV         INT J CANCER                     7   198 971
+   058   ENGELHARDT NV         BULL EXP BIOL MED               65    62 969
+   059   FLORIN-CHRISTENSEN A  CLIN EXP IMMUNOL                16   599 974
+   060   FOLI AK               LANCET                           2  1267 969
+   061   FOY H                 LANCET                           2   663 970
+   062   FOY H                 LANCET                           1   411 970
+   063   FOY H                 NATURE                         225   952 970
+   064   FOY H                 LANCET                           1  1336 970
+   065   VAN FURTH R           NATURE                         222  1296 969
+   066   GALDO A               ARCH FR PEDIATR                 16   954 959
+   067   GAROFF L              J OBSTET GYNAECOL BR COMMONW    80   695 973
+   068   GEFFROY Y             SEM HOP PARIS                   47  1281 971
+   069   GEFFROY Y             PRESSE MED                      78  1107 970
+   070   GITLIN D              IN: MASSEYEFF R                       55 974
+   071   GITLIN D              J CLIN INVEST                   45  1826 966
+   072   GITLIN D              J CLIN INVEST                   46  1010 967
+   073   GITLIN D              COMPAR BIOCHEM BIOL             21   327 967
+   074   GITLIN D              BIOCHIM BIOPHYS ACTA           147   334 967
+   075   GITLIN D              NATURE                         228   995 970
+   076   GITLIN D              CANCER RES                      32   979 972
+   077   GOUSSEV AI            INT J CANCER                     7   207 970
+   078   HALBRECHT I           NATURE                         178   794 956
+   079   HARRIS R              LANCET                           1   429 974
+   080   HIRAI H               GANN MOGR CANCER RES            14    19 973
+   081   HIRSZFELD L           Z IMMUNITATS EXP THER           75   209 932
+   082   HULL EW               J NATL CANCER INST              42  1035 969
+   083   HULL EW               LANCET                           1   779 970
+   084   HULL EW               CLIN RES                        17   403 969
+   085   HULL EW               IN: ANDERSON NG                  2   317 972
+   086   HYVARINEN M           J PEDIATR                       82   430 973
+   087   KARLSSON BW           ACTA PAEDIATR SCAND             61   133 972
+   088   KARVOUNTZIS GG        ANN INTERN MED                  80   156 974
+   089   KEKOMAKI M            INT J CANCER                     8   250 971
+   090   KITHIER K             IN: ANDERSON NG                  2   351 972
+   091   KITHIER K             NATURE                         212   414 966
+   092   KITHIER K             BIOCHIM BIOPHYS ACTA           160   135 968
+   093   KOHN J                J CLIN PATHOL                   23   733 970
+   094   KRESNO SB             LANCET                           1  1178 970
+   095   KRESNO SB             PROTIDES BIOL FLUIDS            18   243 971
+   096   KROES R               CANCER RES                      32  1526 972
+   097   LARDINOIS R           CLIN CHIM ACTA                  37    81 972
+   098   LAURELL CB            ANAL BIOCHEM                    15    45 966
+   099   LIN TY                SCAND J GASTROENTEROL SUPPL      6   223 970
+   100   MARKLEIN G            Z KINDERHEILK                  113   327 972
+   101   MARX JL               SCIENCE                        183  1279 974
+   102   MASOPUST J            INT J CANCER                     3   364 968
+   103   MASOPUST J            ANN PAEDIATR                   204   138 965
+   104   MASOPUST J            PROTIDES BIOL FLUIDS            18   239 971
+   105   MASOPUST J            PROTIDES BIOL FLUIDS            18    37 971
+   106   MASOPUST J            PROTIDES BIOL FLUIDS            18    63 971
+   107   MASSEYEFF R           PATHOL BIOL (PARIS)             20   703 972
+   108   MASSEYEFF R           RICERCA                          3    27 973
+   109   MASSEYEFF R           IN: MASSEYEFF R                      313 974
+   110   MASSEYEFF R           BULL SOC MED AFRIQUE NOIRE      13   537 968
+   111   MAWAS C               LANCET                           1  1292 970
+   112   MAWAS C               REV EUR ETUD CLIN BIOL          16   430 971
+   113   MAWAS C               INT J CANCER                     4    76 969
+   114   MURALT G DE           HELV PAEDIATR ACTA              16   517 961
+   115   MURGITA RA            J EXP MED                      141   269 975
+   116   MURGITA RA            J EXP MED                      141   440 975
+   117   NECHAUD B DE          INT J CANCER                     8    71 971
+   118   NECHAUD B DE          INT J CANCER                    11   104 973
+   119   NECHAUD B DE          PRESSE MED                      77  1945 969
+   120   NEVIN NC              LANCET                           1  1383 973
+   121   NISHI S               CANCER RES                      30  2507 970
+   122   NISHI S               PROTIDES BIOL FLUIDS            18    43 971
+   123   NISHI S               GANN MOGR CANCER RES            14    79 973
+   124   NISHI S               J IMMUNOL                      109   957 972
+   125   NORGAARD-PEDERSEN B   CLIN CHIM ACTA                  48   345 973
+   126   OCONOR GT             CANCER                          25  1091 970
+   127   OKON E                BR J CANCER                     27   362 973
+   128   OLOVNIKOV AM          BULL EXP BIOL MED               68   102 969
+   129   PEDERSEN K            NATURE                         154   575 944
+   130   PEROVA SD             BULL EKSPRE BIOL MEDIT          71    45 971
+   131   PORTUGAL ML           INT J CANCER                     6   383 970
+   132   PREHN RT              IN: TRENTIN JJ                       105 967
+   133   PREHN RT              IN: MIHICH E                         265 967
+   134   PURVES LR             CANCER                          25  1261 970
+   135   PURVES LR             S AFR MED J                     44   590 970
+   136   PURVES LR             LANCET                           1  1007 973
+   137   PURVES LR             CANCER                          31   578 973
+   138   PURVES LR             S AFR MED J                     42  1138 968
+   139   ROBERTS JAF           INTRO MEDICAL GENETICS                   970
+   140   RUOSLAHTI E           INT J CANCER                     7   218 971
+   141   RUOSLAHTI E           IN: ANDERSON NG                  2   345 972
+   143   SELLER MJ             LANCET                           2    73 973
+   144   SELLER MJ             LANCET                           1   428 974
+   145   SEPPALA M             INT J FERTIL                    18   206 973
+   146   SEPPALA M             OBSTET GYNECOL                  42   613 973
+   148   SEPPALA M             AM J OBSTET GYNECOL            112   208 972
+   149   SEPPALA M             J PERINATAL MED                  1   104 973
+   150   SEPPALA M             AM J OBSTET GYNECOL            115    48 973
+   151   SEPPALA M             ANN MED EXP BIOL FENNIAE        45    16 967
+   152   SIMONS MJ             LANCET                           1  1234 974
+   153   SMITH CJ              BIOCHIM BIOPHYS ACTA           317   231 973
+   154   SMITH JB              INT J CANCER                     8   421 971
+   155   SWARTZ SK             IN: MASSEYEFF R                       97 974
+   156   TATARINOV YS          VOPR MED KHIM                   10    90 964
+   157   TATARINOV YS          VOPR MED KHIM                   10   584 964
+   158   URIEL J               NATURE NEW BIOL                244   190 973
+   159   URIEL J               BIOCHEM BIOPHYS RES COMMUN      46  1175 972
+   160   URIEL J               C R ACAD SCI (D)(PARIS)        265    75 967
+   161   URIEL J               PRESSE MED                      76  1415 968
+   162   WALD NJ               BR MED J                         1   651 975
+   163   WALD NJ               LANCET                           1   765 974
+   164   WALDMANN TA           LANCET                           2  1112 972
+   165   WARD AM               LANCET                           2   345 974
+   166   WARNOCK ML            CLIN CHIM ACTA                  24     5 969
+   167   WATABE H              CANCER RES                      31  1192 971
+   168   ZELTZER PM            LANCET                           1   373 974
+   169   ZIMMERMAN EF          BIOCHEM J                      134   807 973
+   170   ZIZKOVSKY V           IN: MASSEYEFF R                      125 974
+CT   1   SELL S                J NATL CANCER INST              60    19 978
+     2   CZOKALO M             EXP PATHOL (JENA)               17   176 979
+     3   SCHLAGER SI           J NATL CANCER INST              70   753 983
+     4   ROSENTHAL SR          BULL INSTITUT PASTEUR           81    55 983
+     5   SELL S                DEVELOP BRAIN RES               22    49 985
+     6   FUHRMANN W            HUM GENET                       69    47 985
+     7   BARFORD DA            AM J OBSTET GYNECOL            151  1038 985
+     8   WONG LT               J CHROMATOGR                   341   452 985
+     9   STAPLES J             LANCET                           2  1277 986

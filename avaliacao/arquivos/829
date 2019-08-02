@@ -1,0 +1,42 @@
+PN 78048
+RN 00829 
+AN 79082306
+AU Banschbach-M-W.  Karam-A-G.  Love-P-K.  Hilman-B-C.
+TI Cystic fibrosis serum promotes [45Ca] uptake by normal human
+   leukocytes.
+SO Biochem-Biophys-Res-Commun. 1978 Oct 30. 84(4). P 922-7.
+MJ CALCIUM: bl.  CYSTIC-FIBROSIS: pp.  LEUKOCYTES: me.
+MN BIOLOGICAL-TRANSPORT-ACTIVE.  HUMAN.
+AB A two-fold increase in [45Ca] labeling was observed when normal
+   human leukocytes were incubated in the presence of serum obtained
+   from patients with cystic fibrosis.  The degree of [45Ca] labeling
+   of leukocytes isolated from patients with cystic fibrosis was also
+   significantly greater than that observed for leukocytes that had
+   been isolated from normal individuals.
+RF 001   BOGART BI             PEDIATR RES                     11   131 977
+   002   BOGART BI             PEDIATR RES                     12    15 978
+   003   OCHSMAN JL            GAP CONF REP CALC ION CELL SE            976
+   004   DAVIS PB              PEDIATR RES                     12   703 978
+   005   RASMUSSEN H           ADV CYCLIC NUCLEO RES            5   375 975
+   006   ANDERSON LE           ANAL BIOCHEM                    51   173 973
+   007   SCHREURS VVAM         BIOCHIM BIOPHYS ACTA           419   320 976
+   008   CHANGUS JE            ARCH PATHOL LAB MED            100     7 976
+   009   SHAPIRO BL            CLIN CHIM ACTA                  82   125 978
+   010   WILKOWSKE CJ          MAYO CLIN PROC                  52   616 977
+   011   NEU HC                BULL NY ACAD MED                54   141 978
+   012   MAREN TH              ANNU REV PHARMACOL TOXICOL      16   309 976
+   013   WILSON GB             NATURE                         266   463 977
+CT   1   BOGART BI             BIOCHEM BIOPHYS RES COMMUN      88  1398 979
+     2   DAVIS PB              IRCS MED SCI BIOCHEM             8   413 980
+     3   DAVIS PB              PEDIATR RES                     14    83 980
+     4   DAVIS PB              J LAB CLIN MED                  96    75 980
+     5   BOGART BI             PEDIATR RES                     16   223 982
+     6   FEIGAL RJ             LIFE SCI                        30    93 982
+     7   SHAPIRO BL            SCIENCE                        216   417 982
+     8   KATZ S                CELL CALC                        5   421 984
+     9   BOUCHER RC            PEDIATR RES                     18  1336 984
+    10   VONRUECKER AA         PEDIATR RES                     18   594 984
+    11   HART DA               IRCS MED SCI BIOCHEM            14   213 986
+    12   KEMP T                PEDIATR RES                     20   520 986
+    13   FEIGAL RJ             ANN NY ACAD SCI                488    82 986
+    14   ZAKRZEWSKI JT         BR J CLIN PHARMACOL             23    19 987

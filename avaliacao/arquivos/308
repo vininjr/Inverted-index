@@ -1,0 +1,35 @@
+PN 75142
+RN 00308
+AN 76052133
+AU Hodes-M-E.  Thomas-J.  Morgan-S.  Merritt-A-D.
+TI Do brine shrimp diagnose cystic fibrosis?.
+SO Pediatr-Res. 1975 Nov. 9(11). P 812-6.
+MJ CYSTIC-FIBROSIS: di.  SHRIMP.
+MN ANIMAL.  BIOLOGICAL-ASSAY: mt.  CYSTIC-FIBROSIS: fg, bl.  GENOTYPE.
+   HUMAN.  OXYGEN-CONSUMPTION.  SALIVA.  SHRIMP: me.
+   SODIUM-CHLORIDE:  pd.
+AB The nauplii of the brine shrimp Artemia salina are dependent upon the
+   function of their salt gland to maintain osmotic pressure within
+   narrow limits. A number of drugs interfere with this function and are
+   lethal to the nauplii. Saliva and serum from normal persons, patients
+   with cystic fibrosis, and obligate heterozygotes were tested for
+   lethal effect against brine shrimp nauplii. At salt concentrations
+   between 100 mM and 2.5 no difference was found among the phenotypes.
+   At lower concentrations a difference was noted occasionally between
+   some normal subjects and some individuals carrying one or two genes
+   for cystic fibrosis. Data from an independent series of experiments
+   indicate that the naupliar deaths result from distorted ratios of
+   Na+/K+ and not from a specific gene product. No difference was noted
+   in the O2 uptake of nauplii treated with saliva or serum obtained
+   from normal subjects, patients with cystic fibrosis, or obligate
+   heterozygotes.
+RF 001   BARGMAN GJ            PEDIATR RES                      8   464 974
+   002   CONNEALLY PM          TEX REP BIOL MED                31   639 973
+   003   CONTE FP              J COMP PHYSIOL                  80   239 972
+   005   EWING RD              J COMP PHYSIOL                  80   247 972
+   006   HODES ME              PEDIATR RES                      8   212 974
+   007   HOOTMAN SR            J COMP PHYSIOL                  79    97 972
+   008   LOBECK CC             IN: STANBURY JB                     1605 972
+   009   MANGOS JA             PEDIATR RES                      1   436 967
+   010   SHWACHMAN H           HOSP PRACT                       9   143 974
+CT   1   JAKEL HP              BIOL ZENTRALBL                  98    55 979

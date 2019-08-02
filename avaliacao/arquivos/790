@@ -1,0 +1,82 @@
+PN 78009
+RN 00790 
+AN 79038683
+AU Schiotz-P-O.  Nielsen-H.  Hoiby-N.  Glikmann-G.  Svehag-S-E.
+TI Immune complexes in the sputum of patients with cystic fibrosis
+   suffering from chronic Pseudomonas aeruginosa lung infection.
+SO Acta-Pathol-Microbiol-Scand [C]. 1978 Feb. 86(1). P 37-40.
+MJ ANTIGEN-ANTIBODY-COMPLEX.  CYSTIC-FIBROSIS: co.  PNEUMONIA: co.
+   PSEUDOMONAS-INFECTIONS: co.  SPUTUM: im.
+MN ADOLESCENCE.  ADULT.  CHILD.  CHRONIC-DISEASE.
+   COMPLEMENT-FIXATION-TESTS.  CYSTIC-FIBROSIS: im.  FEMALE.  HUMAN.
+   IGG.  IMMUNOELECTROPHORESIS-TWO-DIMENSIONAL.  MALE.  PNEUMONIA: im.
+   PSEUDOMONAS-INFECTIONS: im.  RHEUMATOID-FACTOR.
+AB 12 cystic fibrosis (CF) patients chronically infected with mucoid P.
+   aeruginosa and presenting multiple precipitins in serum against this
+   bacterium and 12 patients without P. aeruginosa infection were
+   examined for occurrence of soluble immune complexes in their sputum
+   sol phase by a complement consumption assay and a solid phase
+   rheumatoid factor binding assay. The correlation between the results
+   obtained in the two assays was significant (r = 0.625, p less than
+   0.01). The patients chronically infected with P. aeruginosa showed a
+   significantly (p less than 0.01) higher frequency of immune complex
+   activity in their sputum sol phase, as compared to the patients
+   without P. aeruginosa lung infection. These findings point to the
+   possibility that chronic lung infection with mucoid P. aeruginosa in
+   CF may be an immune complex disease.
+RF 001   BROGAN TD             THORAX                          30    72 975
+   002   COCHRANE CG           IN: ZWEIFACH BW                  3    85 974
+   003   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA            962
+   004   GALLIN JI             IN: KIRKPATRICK CH                   161 976
+   005   GIBSON LE             PEDIATRICS                      23   545 959
+   007   HIRSCHHORN R          IN: ZWEIFACH BW                  1   259 974
+   008   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973
+   009   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   010   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   011   HOIBY N               ACTA PAEDIATR SCAND             63   843 974
+   012   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   433 975
+   013   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   83   459 975
+   014   HOIBY N               SCAND J RESPIR DIS              56    38 975
+   015   HOIBY N               SCAND J RESPIR DIS              58    65 977
+   016   LEBER PD              IN: ZWEIFACH BW                  3   401 974
+   017   NIELSEN H             ACTA PATH MICROBIOL SCAND (C)   84   261 976
+   018   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   83   469 975
+   019   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   85    57 977
+   020   STALENHEIM G          IMMUNOCHEMISTRY                 10   501 973
+   021   THORELL JI            BIOCHIM BIOPHYS ACTA           251   363 971
+   022   THUESEN-PEDERSEN J    DAN MED BULL                    21    12 974
+   023   TURK JL               BOLL IST SIEROTER MILAN SUPPL   53   208 974
+CT   1   SCHIOTZ PO            MONOGR PAEDIATR                 10   131 979
+     2   STRAUSS RG            HELV PAEDIATR ACTA              34   429 979
+     3   HOIBY N               ACTA PAEDIATR SCAND             68   495 979
+     4   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   87   229 979
+     5   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   87     1 979
+     6   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (B)   87   345 979
+     7   BERDISCHEWSKY M       PEDIATR RES                     14   830 980
+     8   HODSON ME             THORAX                          35   801 980
+     9   SKOV PS               ALLERGY                         35    23 980
+    10   MATTHEWS WJ           N ENGL J MED                   302   245 980
+    11   SORENSEN RU           PEDIATR RES                     15    14 981
+    12   CHURCH JA             CHEST                           80   405 981
+    13   MOSS RB               J PEDIATR                       99   215 981
+    14   DANIELE RP            AM REV RESPIR DIS              124   738 981
+    15   PERMIN H              ALLERGY                         37    93 982
+    16   MOSS RB               CLIN EXP IMMUNOL                47   301 982
+    17   PITCHERWILMOTT RW     ARCH DIS CHILD                  57   577 982
+    18   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982
+    19   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    63 982
+    20   ANON                  LANCET                           2   257 983
+    21   SCHILLER NL           PEDIATR RES                     17   747 983
+    22   DORING G              INFECT IMMUN                    42   197 983
+    23   SCHIOTZ PO            ACTA PAEDIATR SCAND             72   283 983
+    24   SPEERT DP             PEDIATR RES                     18   431 984
+    25   DORING G              ACTA PATH MICROB IMMU SCA (C)   92   307 984
+    26   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985
+    27   MISCHLER EH           SEM RESPIR MED                   6   271 985
+    28   GOTZ M                MONATSSCHR KINDERHEILKD        133   718 985
+    29   WOODS DE              J INFECT DIS                   151   581 985
+    30   KHARAZMI A            EUR J CLIN INVEST               16   143 986
+    31   HOIBY N               ANNU REV MICROBIOL              40    29 986
+    32   PIEDRA P              J PEDIATR                      108   817 986
+    33   MOSS RB               AM REV RESPIR DIS              133   648 986
+    34   DASGUPTA MK           J CLIN IMMUNOL                   7    51 987

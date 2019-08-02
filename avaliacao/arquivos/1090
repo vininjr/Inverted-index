@@ -1,0 +1,88 @@
+PN 79110
+RN 01090 
+AN 80161290
+AU Thomassen-M-J.  Demko-C-A.  Boxerbaum-B.  Stern-R-C.  Kuchenbrod-P-J.
+TI Multiple of isolates of Pseudomonas aeruginosa with differing
+   antimicrobial susceptibility patterns from patients with cystic
+   fibrosis.
+SO J-Infect-Dis. 1979 Dec. 140(6). P 873-80.
+MJ CYSTIC-FIBROSIS: dt.  PSEUDOMONAS-AERUGINOSA: ip.
+MN ADOLESCENCE.  ADULT.  CARBENICILLIN: tu.  CHILD.  CHILD-PRESCHOOL.
+   GENTAMICINS: tu.  HUMAN.  INFANT.  KANAMYCIN: tu.
+   MICROBIAL-SENSITIVITY-TESTS.  TETRACYCLINE: tu.  TICARCILLIN: tu.
+   TIME-FACTORS.  TOBRAMYCIN: tu.  SUPPORT-U-S-GOVT-P-H-S.
+AB Clinical isolates of Pseudomonas aeruginosa from patients with cystic
+   fibrosis were studied in an effort to determine the unique
+   characteristics of the infecting strains and to elucidate the pattern
+   of colonization. Of 413 patients studied, 81% were chronically
+   infected with P. aeruginosa. Patients from whom P. aeruginosa was
+   never or only occasionally isolated were in better clinical condition
+   than the chronically infected patients. Isolates were classified into
+   six morphologic varieties: classic, rough, mucoid, gelatinous, dwarf,
+   and enterobacter. Most patients had two or more of these varieties.
+   Such multiple varieties from the same individual were of the same
+   serotype but often differed in antibiotic susceptibility as
+   determined by both the disk and the minimal inhibitory concentration
+   methods. These differences were apparent when mucoid strains were
+   compared with nonmucoid strains and when nonmucoid strains were
+   compared with one another. Studies of antibiotic susceptibility
+   should be performed on each morphologically different type of P.
+   aeruginosa obtained from patients with cystic fibrosis.
+RF 001   DOERSHUK CF           IN: GREEN M                          707 968
+   002   DOGGETT RG            APPL MICROBIOL                  18   936 969
+   003   MARTIN DR             J MED MICROBIOL                  6   111 973
+   004   ZIERDT CH             J BACTERIOL                     87  1003 964
+   005   GOVAN JRW             J MED MICROBIOL                  8   513 975
+   006   DIAZ F                J INFECT DIS                   121   269 970
+   007   WILLIAMS RJ           J MED MICROBIOL                  6   409 973
+   008   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   83   553 975
+   009   DOERSHUK CF           PEDIATRICS                      36   675 965
+   010   SHWACHMAN H           PEDIATRICS                      36   689 965
+   011   WAHBA AH              J GEN MICROBIOL                 38   329 965
+   012   BAUER AW              AM J CLIN PATHOL                45   493 966
+   013   BAILEY WR             DIAGNOSTIC MICROBIOLOGY              313 974
+   014   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     1 977
+   015   REYNOLDS HY           ANN INTERN MED                  82   819 975
+   016   GOVAN JRW             J ANTIMICROB CHEMOTHER           4   233 978
+   017   ZIERDT CH             J CLIN MICROBIOL                 1   521 975
+CT   1   DEMKO CA              CURRENT MICROBIOL                4    69 980
+     2   JANDA JM              J CLIN MICROBIOL                12   626 980
+     3   IRVIN RT              ANTIMICROB AGENTS CHEMOTHER     19  1056 981
+     4   BLACKWOOD LL          INFECT IMMUN                    32   443 981
+     5   THOMASSEN MJ          INFECT IMMUN                    33   512 981
+     6   PENNINGTON JE         J CLIN INVEST                   68  1140 981
+     7   MARKS MI              J PEDIATR                       98   173 981
+     8   MACONE AB             N ENGL J MED                   304  1445 981
+     9   JANDA JM              J CLIN MICROBIOL                15   178 982
+    10   SHEEHAN DJ            J CLIN MICROBIOL                15   926 982
+    11   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982
+    12   OHMAN DE              INFECT IMMUN                    37   662 982
+    13   THOMASSEN MJ          INFECT IMMUN                    38   802 982
+    14   WINNIE GB             INFECT IMMUN                    38  1088 982
+    15   SPEERT DP             J PEDIATR                      101   227 982
+    16   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    17   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982
+    18   COSTERTON JW          REV INFECT DIS                   5  S867 983
+    19   GOVAN JRW             REV INFECT DIS                   5  S874 983
+    20   BOROWSKI RS           CURRENT MICROBIOL                9    25 983
+    21   NINANE G              INFECTION                       11  S 16 983
+    22   JAGGER KN             J CLIN MICROBIOL                17    55 983
+    23   BASSETTI  D           CURR THER RES CLIN EXP          33   874 983
+    24   JOHNSON SR            OBSTET GYNECOL                  61  S  2 983
+    25   FLOURNOY DJ           METH FIND EXP CLIN PHARMACOL     6   487 984
+    26   CHAN R                J CLIN MICROBIOL                19     8 984
+    27   MCNEILL WF            AM J CLIN PATHOL                81   742 984
+    28   THOMASSEN MJ          J PEDIATR                      104   352 984
+    29   GOLD R                PEDIATR INFECT DIS               4   172 985
+    30   KOMIYAMA K            ORAL SURG                       59   590 985
+    31   THOMASSEN MJ          AM REV RESPIR DIS              131   791 985
+    32   PACIFICO L            J INFECT DIS                   152   852 985
+    33   MCCARTHY VP           PEDIATR INFECT DIS               5   256 986
+    34   GILLJAM H             THORAX                          41   641 986
+    35   PITT TL               J ROY SOC MED                   79    13 986
+    36   LEVY J                J PEDIATR                      108   841 986
+    37   REED MD               PEDIATR PULMONOL                 3   101 987
+    38   DUNNE WM              DIAGN MICROBIOL INFECT DIS       6   165 987
+    39   SPEERT DP             J HOSP INFECT                    9    11 987
+    40   KOMIYAMA K            CAN J MICROBIOL                 33   221 987
+    41   OGLE JW               J INFECT DIS                   155   119 987

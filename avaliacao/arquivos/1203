@@ -1,0 +1,89 @@
+PN 79223
+RN 01203 
+AN 80055675
+AU Thomassen-M-J.  Boxerbaum-B.  Demko-C-A.  Kuchenbrod-P-J.
+   Dearborn-D-G.  Wood-R-E.
+TI Inhibitory effect of cystic fibrosis serum on pseudomonas
+   phagocytosis by rabbit and human alveolar macrophages.
+SO Pediatr-Res. 1979 Sep. 13(9). P 1085-8.
+MJ CYSTIC-FIBROSIS: bl.  MACROPHAGES: ph.  PHAGOCYTOSIS.
+   PSEUDOMONAS-AERUGINOSA: cy.
+MN ADOLESCENCE.  ADULT.  AGGLUTINATION.  ANIMAL.
+   ANTIBODIES-BACTERIAL: an.  CHILD.  CHILD-PRESCHOOL.  HUMAN.  INFANT.
+   LUNG: cy, mi.  RABBITS.  SUPPORT-U-S-GOVT-P-H-S.
+AB This report presents experimental observations indicating the
+   presence of an inhibitory activity in cystic fibrosis (CF) serum
+   which impairs phagocytosis of Pseudomonas aeruginosa by rabbit as
+   well as human alveolar macrophages. Of the 49 patient serum samples
+   studied, 40 consistently showed greater than or equal to 60%
+   inhibition, 3 showed no inhibition and 6 were in the range of 20-60%
+   inhibition of Pseudomonas phagocytosis. In parallel studies, the
+   phagocytosis of S. aureus and S. marcescens was found not to be
+   inhibited by CF serum. Mixing of CF serum with normal serum could not
+   overcome the inhibitory effect, indicating the presence of an
+   inhibitory factor rather than the lack of a necessary component. The
+   inhibitory activity is not lost upon exposure of serum to glass, upon
+   freezing the serum once, or upon heating at 56 degrees C for 30
+   minutes.
+RF 001   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971
+   002   BOXERBAUM B           AM REV RESPIR DIS              108   777 973
+   003   BRAIN JD              J APPL PHYSIOL                  34    75 973
+   004   DI SANTAGNESE PA      N ENGL J MED                   295   534 976
+   005   DI SANTAGNESE PA      N ENGL J MED                   295   597 976
+   006   DOERSHUK CF           IN: GREEN M                          707 968
+   007   DOERSHUK CF           PEDIATRICS                      36   675 965
+   008   GREEN GM              J EXP MED                      119   167 964
+   009   HENNEY CS             SCIENCE                        169   696 970
+   010   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     1 977
+   011   KOSKI IR              IN: BLOOM BR                             976
+   012   MAY JR                ARCH DIS CHILD                  47   908 972
+   013   MYRVIK QN             J IMMUNOL                       86   128 961
+   014   NETER E               J INFECT DIS SUPPL             130   132 974
+   015   REYNOLDS HY           J CLIN INVEST                   59   165 977
+   016   REYNOLDS HY           J CLIN INVEST                   56   376 975
+   017   SHWACHMAN H           PEDIATRICS                      36   689 965
+   018   SORENSEN RU           INFECT IMMUN                    18   735 977
+   019   SORENSEN RU           J PEDIATR                       93   201 978
+   020   WALDMAN RH            J EXP MED                      134   482 971
+CT   1   DEMKO CA              CURRENT MICROBIOL                4    69 980
+     2   CASSINO RJJ           PEDIATR RES                     14  1212 980
+     3   SEALE TW              PEDIATR RES                     14  1398 980
+     4   THOMASSEN MJ          PEDIATR RES                     14   715 980
+     5   FICK RB               J IMMUNOL METH                  38   103 980
+     6   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981
+     7   FICK RB               CLIN CHEST MED                   2    91 981
+     8   SORENSEN RU           PEDIATR RES                     15    14 981
+     9   THOMASSEN MJ          INFECT IMMUN                    33   512 981
+    10   FICK RB               J CLIN INVEST                   68   899 981
+    11   LEWISTON NJ           CHEST                           80   389 981
+    12   MARKS MI              J PEDIATR                       98   173 981
+    13   MOSS RB               J PEDIATR                       99   215 981
+    14   KONSTAN MW            AM REV RESPIR DIS              123   120 981
+    15   SORENSEN RU           AM REV RESPIR DIS              123    37 981
+    16   VANGEFFEL R           ANN IMMUNOL (PARIS)           D133   293 982
+    17   SORDELLI DO           CLIN IMMUNOL IMMUNOPATHOL       22   153 982
+    18   WOODS DE              INFECT IMMUN                    36  1223 982
+    19   HOOKE AM              INFECT IMMUN                    38   136 982
+    20   THOMASSEN MJ          INFECT IMMUN                    38   802 982
+    21   WINNIE GB             INFECT IMMUN                    38  1088 982
+    22   HARPER TB             AM REV RESPIR DIS              126   540 982
+    23   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    24   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982
+    25   WINNIE GB             CURRENT MICROBIOL                9    63 983
+    26   GOLD R                J ANTIMICROB CHEMOTHER          12   331 983
+    27   SCHILLER NL           PEDIATR RES                     17   747 983
+    28   FICK RB               BULL EUR PHYSIOPATH RESP        19   151 983
+    29   THOMASSEN MJ          J LEUKOCYTE BIOL                35   345 984
+    30   THOMASSEN MJ          INFECT IMMUN                    45   741 984
+    31   PIER GB               J INFECT DIS                   150   223 984
+    32   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985
+    33   SHRYOCK TR            CURRENT MICROBIOL               12    91 985
+    34   KLEIN TW              MICROBIOL IMMUNOL               29   671 985
+    35   REYNOLDS HY           DISEASE A MONTH                 31     1 985
+    36   SHERMAN JM            J PEDIATR                      106   126 985
+    37   PIER GB               J INFECT DIS                   151   575 985
+    38   MOSS RB               MONOGR ALLERGY                  19   202 986
+    39   MOSS RB               PEDIATR RES                     20   453 986
+    40   SHRYOCK TR            J CLIN MICROBIOL                23   513 986
+    41   FICK RB               AM REV RESPIR DIS              133   418 986
+    42   SHRYOCK TR            CURRENT MICROBIOL               14   251 987

@@ -1,0 +1,103 @@
+PN 74123
+RN 00122 
+AN 74102576
+AU Conover-J-H.  Conod-E-J.  Hirschhorn-K.
+TI Studies on ciliary dyskinesia factor in cystic fibrosis.  IV.  Its
+   possible identification as anaphylatoxin (C3a)-IgG complex.
+SO Life-Sci. 1974 Jan 16. 14(2). P 253-66.
+MJ COMPLEMENT.  CYSTIC-FIBROSIS: me.  IGG: me.
+MN AMINOCAPROIC-ACIDS.  ANIMAL.  BIOLOGICAL-ASSAY.
+   BLOOD-COAGULATION-FACTORS.  CARBOXYPEPTIDASES.  CELL-LINE.
+   DIPEPTIDES.  FIBROBLASTS: me.  HUMAN.  ISOFLUROPHATE.
+   LYMPHOCYTES:  me.  MACROMOLECULAR-SYSTEMS.  OLIGOPEPTIDES.
+   PANCREAS: en.  PROTEIN-BINDING.  RABBITS: im.  SKIN: me.  SWINE.
+   TRACHEA.  TRYPSIN.
+AB Presumptive evidence indicates that the substance responsible for
+   the pathophysiologic conditions of cystic fibrosis (CF) is a
+   complement component, C3a, also known as anaphylatoxin.  The known
+   biochemical and physiological properties of C3a, together with the
+   behavior of this purified substance when associated with IgG in our
+   tracheal bioassay, compare favorably with those of molecular species
+   which  we have separated from sera and cell cultures of CF
+   homozygotes and heterozygotes.  Sera from normal healthy subjects,
+   previously inactive by bioassay for ciliary dyskinesia factor (CDF),
+   were converted to a CDF positive state by incubation with
+   epsilon-amino-caproic-acid (EACA).  EACA is a known inhibitor of the
+   carboxypeptidase-B-like anaphylatoxin inactivator, and is the method
+   of choice for accumulating anaphylatoxins in normal blood.
+   Incubation of EACA-treated normal sera and two fresh CDF-positive CF
+   sera with carboxypeptidase-B produced reversion in all instances to
+   a CDF negative, normal state.  It is proposed that anaphylatoxin
+   inactivator, a carboxypeptidase-B-like enzyme, is defective or
+   deficientin cystic fibrosis and that this deficiency is the primary
+   gene defect.
+RF 002   CONOVER JH            CLIN RES                        21   531 973
+   003   SPOCK A               PEDIATR RES                      1   173 967
+   004   CONOVER JH            PEDIATR RES                      7   220 973
+   005   CONOVER JH            CF CLUB ABST                    14    22 973
+   006   CONOVER JH            PEDIATR RES                      7   224 973
+   008   MCCOMBS ML            CLIN GENET                       1   171 970
+   009   CONOVER JH            LANCET                           1  1194 973
+   011   MULLER-EBERHARD HJ    HARVEY LECTURES                 66    75 971
+   012   BOKISCH VA            J CLIN INVEST                   49  2427 970
+   013   BOKISCH VA            EXP MED                        129  1109 969
+   014   STECHER V             J IMMUNOL                       99   660 967
+   015   VALLOTA EH            J EXP MED                      137  1109 973
+   017   GOLDSTEIN IM          PROC AMER SOC CLIN INV          65   34A 973
+   018   COCHRANE CG           J EXP MED                      127   371 968
+   019   WARTON KL             BR MED J                         3   570 971
+   020   GOEBELL H             GUT                             13   477 972
+   021   LANDING BH            ARCH PATHOL                     88   569 969
+   022   MEYRICK B             THORAX                          24   729 969
+   023   DI SANTAGNESE PA      PEDIATRICS                      12   549 953
+   024   WARD PA               J IMMUNOL                      110  1003 973
+CT   1   BERATIS NG            PEDIATR RES                      8   687 974
+     2   WILSON GB             LIFE SCI                        15   551 974
+     3   CONOVER JH            LANCET                           1    47 975
+     4   CONOD EJ              PEDIATR RES                      9   724 975
+     5   RAO GJS               PEDIATR RES                      9   739 975
+     6   WILSON GB             PEDIATR RES                      9   635 975
+     7   ALTLAND K             HUM GENET                       28   207 975
+     8   LIEBERMANN J          AM REV RESPIR DIS              111   100 975
+     9   FORSTNER G            CAN MED ASSOC J                113   550 975
+    10   LESEC G               NOUV PRESSE MED                  5  2470 976
+    11   WILSON GB             PEDIATR RES                     10    87 976
+    12   WEEKE B               DAN MED BULL                    23   155 976
+    13   HOLZHAUER RJ          AM J HUM GENET                  28   602 976
+    14   LEDERBERG S           AM J HUM GENET                  28   597 976
+    15   CONOVER JH            TEX REP BIOL MED                34    45 976
+    16   DANES BS              TEX REP BIOL MED                34   135 976
+    17   HARPER BL             TEX REP BIOL MED                34    73 976
+    18   WILSON GB             TEX REP BIOL MED                34    51 976
+    19   CZEGLEDYNAGY E        LAB INVEST                      35   588 976
+    20   CORBIN NC             ANAL BIOCHEM                    73    41 976
+    21   ANON                  J PEDIATR                       88   711 976
+    22   WOOD RE               AM REV RESPIR DIS              113   833 976
+    23   DISANTAGNESE PA       N ENGL J MED                   295   597 976
+    24   CALLAHAN JW           PEDIATR RES                     11  1166 977
+    25   CONOD EJ              PEDIATR RES                     11    45 977
+    26   WILSON GB             PEDIATR RES                     11   317 977
+    27   WILSON GB             PEDIATR RES                     11   143 977
+    28   SPITZER RE            PEDIATR CLIN NORTH AM           24   341 977
+    29   BAKER AP              AM REV RESPIR DIS              115   811 977
+    30   WILSON GB             NATURE                         266   463 977
+    31   ANON                  LANCET                           2  1032 978
+    32   MARCHI AG             HELV PAEDIATR ACTA              33   517 978
+    33   WILSON GB             J LAB CLIN MED                  92   463 978
+    34   GOTZ M                EUR J PEDIATR                  127   133 978
+    35   NEZELOF C             PEDIATRICS                      63   361 979
+    36   BUTTERWORTH J         CLIN CHIM ACTA                  97    39 979
+    37   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+    38   BURDON MG             CLIN GENET                      17   249 980
+    39   HODSON ME             THORAX                          35   801 980
+    40   BOWMAN BH             FED PROC                        39  3195 980
+    41   WILSON GB             J CLIN INVEST                   66  1010 980
+    42   PLUMMER TH            ANAL BIOCHEM                   108   348 980
+    43   MOSS RB               AM REV RESPIR DIS              121    23 980
+    44   SANDERSON MJ          PEDIATR RES                     15   219 981
+    45   DANDONA P             THORAX                          36    60 981
+    46   SCHWEISFURTH H        DTSCH MED WSCHR                109   166 984
+    47   SCHWEISFURTH H        DTSCH MED WSCHR                109  1254 984
+    48   BUYS CHCM             CLIN CHIM ACTA                 136   229 984
+    49   SCHWEISFURTH H        CLIN BIOCHEM                    18   242 985
+    50   SCHWEISFURTH H        CLIN BIOCHEM                    20    43 987

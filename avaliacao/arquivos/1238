@@ -1,0 +1,39 @@
+PN 79258
+RN 01238 
+AN 80237415
+AU Lieberman-J.  Costea-N-V.  Jakulis-V-J.  Kaneshiro-W.
+TI Detection of a lectin in the blood of cystic fibrosis homozygotes
+   and heterozygotes.
+SO Trans-Assoc-Am-Physicians. 1979. 92. P 121-9.
+MJ CYSTIC-FIBROSIS: bl.  LECTINS: an.
+MN ANIMAL.  CYSTIC-FIBROSIS: fg.  DEXTRANS: pd.  DOGS.  GUINEA-PIGS.
+   HAMSTERS.  HEMAGGLUTINATION-INHIBITION-TESTS: mt.
+   HEMAGGLUTINATION-TESTS: mt.  HEMAGGLUTINATION: de.  HETEROZYGOTE.
+   HOMOZYGOTE.  HUMAN.  IGM: im.  LYMPHOCYTES: de, en.  MICE.  PEDIGREE.
+   PHYTOHEMAGGLUTININS: pd.  RABBITS.  RATS.
+   SUPPORT-U-S-GOVT-NON-P-H-S.  SUPPORT-U-S-GOVT-P-H-S.
+EX We theorize that cystic fibrosis may be a disease in which a plasma
+   factor with lectin-like activity stimulates mucus secretion, causes
+   precipitation of mucus glycoproteins, and incidentally affects
+   lymphocytes in culture.  To confirm our theory, we planned to search
+   for additional lectin-like activities in CF serum.  Our experiments
+   suggest that the lectin-like substance in CF blood requires IgM for
+   its red-blood-cell-agglutination activity.  Thus, no difference in
+   agglutination titer is observed between CF homozygotes and
+   heterozygotes, because IgM is the limiting factor, and IgM
+   concentrations do not differ appreciably in such subjects.  We
+   suspect that CF homozygotes have a larger pool of free lectin in
+   their blood than do heterozygotes, so that quantitation of this free
+   lectin pool may distinguish between the two phenotypes.  Excess free
+   lectin may account for the signs and symptoms of CF, whereas lesser
+   amounts may theoretically be advantageous to the heterozygote.
+RF 001   MARCHI AG             HELV PAEDIATR ACTA              28   427 973
+   002   LIEBERMAN J           AM REV RESPIR DIS              116  1047 977
+   003$  LIEBERMAN J           CHEST                          75S  220S 979
+   004   FREED DLJ             LANCET                           1   585 978
+   005   SHARON N              SCIENCE                        177   949 972
+   006   BROOKS DE             IN: MOHN JF                           27 977
+CT   1   LIEBERMAN J           J LAB CLIN MED                  97   646 981
+     2   SEALE TW              ANN CLIN LAB SCI                12   415 982
+     3   LIEBERMAN J           AM J MED                        77   678 984
+     4   QURESHI AR            J PEDIATR                      106   913 985

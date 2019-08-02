@@ -1,0 +1,106 @@
+PN 74023
+RN 00023 
+AN 75010757
+AU Boat-T-F.  Kleinerman-J-I.  Carlson-D-M.  Maloney-W-H.  Matthews-L-W.
+TI Human respiratory tract secretions.  1. Mucous glycoproteins
+   secreted by cultured nasal polyp epithelium from subjects with
+   allergic rhinitis and with cystic fibrosis.
+SO Am-Rev-Respir-Dis. 1974 Oct. 110(4). P 428-41.
+MJ CYSTIC-FIBROSIS: me.  GLYCOPROTEINS: se.  HAY-FEVER: me.
+   MUCOPROTEINS: se.  NASAL-POLYPS: me.
+MN ADULT.  AMINO-ACIDS: an.  AUTORADIOGRAPHY.  CHILD.
+   CHROMATOGRAPHY-DEAE-CELLULOSE.  EPITHELIUM: se.  CHROMATOGRAPHY-GEL.
+   GLYCOPROTEINS: ip, an.  HUMAN.  MOLECULAR-WEIGHT.
+   MUCOPROTEINS: ip, an.  SULFUR-RADIOISOTOPES.  TISSUE-CULTURE.  TRITIUM.
+AB Ciliated nasal polyp epithelium from patients with allergic rhinitis
+   and patients with cystic fibrosis was maintained in organ culture
+   for 168 hours.  Explanted epithelium retained its morphologic
+   characteristics and incorporated 35SO4 and 3H into blood group
+   specific glycoproteins that were secreted into the medium throughout
+   the culture period.  Labeled mucous glycoprotein was solubilized by
+   reduction and alkylation, then purified by gel filtration
+   chromatography.  Purified glycoprotein was further separated on
+   diethylaminoethyl (DEAE) cellulose columns into 3 blood group active
+   fractions.  These fractions had similar amino acid compositions but
+   differed in N-acetyl neuraminic acid and fucose content and in
+   relative incorporation of 35SO4 and 3H-glucosamine.  Blood group
+   glycoproteins from polyp epithelium of patients with allergic
+   rhinitis and cystic fibrosis were indistinguishable in many
+   respects.  However, the 35SO4 per 3H ratio of all 3 glycoprotein
+   fractions from patients with cystic fibrosis exceeded that of the
+   corresponding fractions from secretions of patients with allergic
+   rhinitis.
+RF 001   GREEN GM              AM REV RESPIR DIS              102   691 970
+   002   PROCTOR DF            IN: FENN WO                      1   309 964
+   003   REMINGTON JS          J CLIN INVEST                   43  1613 964
+   004   ROSEN RD              J IMMUNOL                       97   369 966
+   005   ROSEN RD              J CLIN INVEST                   45   768 966
+   006   LORIN MI              J LAB CLIN MED                  80   275 972
+   007   SCHULTZE HE           MOLECULAR BIOL OF HUMAN PROTE    1       966
+   008   BOAT TF               PEDIATR RES                      7   607 973
+   009   HUDSON BG             J BIOL CHEM                    247  4229 972
+   010   LEV R                 J HISTOCHEM CYTOCHEM            12   309 964
+   011   JOFTES DL             J NUCL MED                       4   143 963
+   012   LOWRY OH              J BIOL CHEM                    193   265 951
+   013   OSSERMAN EF           J EXP MED                      124   921 966
+   014   WARREN L              J BIOL CHEM                    234  1971 959
+   015   DISCHE Z              ANAL BIOCHEM                    21   119 967
+   016   KABAT EA              EXPERIMENTAL IMMUNOCHEMISTRY             961
+   017$  COTLOVE E             J LAB CLIN MED                  50   358 950
+   018   ANTONOPOULOS CA       ACTA CHEM SCAND                 16  1521 962
+   019   CLAMP JR              METHODS BIOCHEM ANAL            19   229 971
+   020   RULON JT              ARCH OTOLARYNGOL                78   192 963
+   021   JONES R               HISTOCHEM J                      5    19 973
+   022   ELLIS DB              BIOCHEM J                      136   837 973
+   023   HAVEZ R               IN: PEETERS H                   16   343 968
+   024   GOTTSCHALK A          IN: GOTTSCHALK A                     826 972
+   025   HILDING AC            ANN OTOL RHINOL LARYNGOL        82    75 973
+   026   SPIRO RG              N ENGL J MED                   281   991 969
+   027   SLOMIANY BL           J BIOL CHEM                    247  5062 972
+   028   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   029   REID L                IN: PORTER R                    32    45 968
+   030   LEV R                 AM J PATHOL                     46    23 965
+CT   1   BOWMAN BH             LIFE SCI                        19  1289 976
+     2   ANON                  J PEDIATR                       88   711 976
+     3   CHANGUS JE            ARCH PATHOL LAB MED            100     7 976
+     4   WOOD RE               AM REV RESPIR DIS              113   833 976
+     5   BOAT TF               ARCH BIOCHEM BIOPHYS           177    95 976
+     6   SANTAGNESE PAD        N ENGL J MED                   295   481 976
+     7   KHAN MA               BIOCHIM BIOPHYS ACTA           444   369 976
+     8   BOAT TF               PEDIATR RES                     11   977 977
+     9   NEUTRA MR             LAB INVEST                      36   535 977
+    10   FORSTNER JF           ANAL BIOCHEM                    83   657 977
+    11   PROCTOR DF            AM REV RESPIR DIS              115    97 977
+    12   ALHADEFF JA           CLIN GENET                      14   189 978
+    13   FORSTNER JF           DIGESTION                       17   234 978
+    14   CLAMP JR              BR MED BULL                     34    25 978
+    15   BOAT TF               ACS SYMPOSIUM SERIES          1978   108 978
+    16   MAWHINNEY TP          PEDIATR RES                     13   760 979
+    17   PEARSON RD            PEDIATR RES                     13   834 979
+    18   SCANLIN TF            CLIN CHEST MED                   1   424 980
+    19   DAVIS PB              PEDIATR RES                     14    83 980
+    20   SMALL P               ANN ALLERGY                     46   317 981
+    21   ESTEP JA              J APPL PHYSIOL                  50   383 981
+    22   KONSTAN MW            AM REV RESPIR DIS              123   120 981
+    23   SHERMAN JM            AM REV RESPIR DIS              124   476 981
+    24   KLAASSEN ABM          ANAT ANZ                       149    51 981
+    25   MORIARTY CM           J MED                           13   257 982
+    26   MARIN MG              J APPL PHYSIOL                  52   198 982
+    27   ETCHISON JR           CHEST                           81  S 31 982
+    28   APPLEGARTH DA         MED HYPOTHESES                  11   277 983
+    29   FRATES RC             PEDIATR RES                     17    30 983
+    30   DAVIS PB              J CHRON DIS                     36   269 983
+    31   KUIJPERS W            ACTA OTOLARYNGOL STOCKH         95   676 983
+    32   CHACE KV              CLIN CHIM ACTA                 132   143 983
+    33   KATZ S                CELL CALC                        5   421 984
+    34   SHELHAMER JH          EXP LUNG RES                     7   149 984
+    35   MULLER RM             EXP MOL PATH                    40   391 984
+    36   ALBAZZAZ FJ           RESPIRATION                     46    88 984
+    37   SPICER SS             ENVIRON HEALTH PERSPECT         55   193 984
+    38   BASBAUM CB            CIBA FOUND SYMP                109     4 984
+    39   BOAT TF               CIBA FOUND SYMP                109    72 984
+    40   GUEANT JL             CLIN CHIM ACTA                 143   217 984
+    41   PERINI JM             BULL EUR PHYSIOPATH RESP        21   569 985
+    42   VANSCOTT MR           EXP LUNG RES                    11    75 986
+    43   DAVID TJ              J ROY SOC MED                   79    23 986
+    44   ROOMANS GM            SCANN ELECTRON MICROSC        1986   165 986

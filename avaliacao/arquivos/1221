@@ -1,0 +1,109 @@
+PN 79241
+RN 01221 
+AN 79180081
+AU Martodam-R-R.  Baugh-R-J.  Twumasi-D-Y.  Liener-I-E.
+TI A rapid procedure for the large scale purification of elastase and
+   cathepsin G from human sputum.
+SO Prep-Biochem. 1979. 9(1). P 15-31.
+MJ CATHEPSINS: ip.  CYSTIC-FIBROSIS: en.  PANCREATOPEPTIDASE: ip.
+   SPUTUM: en.
+MN AMINO-ACID-SEQUENCE.  BINDING-SITES.  CHROMATOGRAPHY-AFFINITY: mt.
+   CHROMATOGRAPHY-GEL: mt.  DEOXYRIBONUCLEASES.  ELECTROPHORESIS-DISC.
+   HUMAN.  LEUKOCYTES: en.  SUPPURATION.  SUPPORT-U-S-GOVT-P-H-S.
+AB A procedure is described which permits the rapid isolation of large
+   amounts of elastase and cathepsin G from purulent sputum. This
+   procedure involves: (1) digestion of sputum with DNase, (2)
+   extraction of the insoluble residue that remains with 1 M NaCl, pH 8,
+   (3) affinity chromatography on Sepharose-bound Trasylol, and (4)
+   separation of the two enzymes by chromatogrphy on CM-Sephadex.
+   Starting with 500 g of sputum it was possible to isolate 175 mg of
+   each of these two enzymes within 7 to 10 days. Active site titration
+   indicated both enzymes to be at least 97% pure. Disc gel
+   electrophoresis in the presence and absence of SDS and amino acid
+   sequence of the N-terminal region support the conclusion that the
+   elastase and cathepsin G isolated from sputum are identical to the
+   same enzymes isolated directly from the leukocytes of human blood.
+RF 001   JANOFF A              AM J PATHOL                     68   579 972
+   002   LAZARUS GS            AM J PATHOL                     68   565 972
+   003   STARKEY PM            IN: BARRETT AJ                        57 977
+   004   TWUMASI DY            J BIOL CHEM                    252  1917 977
+   005   BAUGH RJ              BIOCHEMISTRY                    15   836 976
+   006   BIETH J               BIOCHEM MED                     11   350 974
+   007   VISSER L              BIOCHIM BIOPHYS ACTA           268   257 972
+   008   POWERS JC             BIOCHEM BIOPHYS RES COMMUN      67   639 975
+   010   CHASE T JR            BIOCHEM BIOPHYS RES COMMUN      29   508 967
+   011   BREWER JM             J CHEM EDUC                     46    41 969
+   012   WEBER K               J BIOL CHEM                    244  4406 969
+   013   ANON                  BECKMAN INSTRUCTION MANUAL               974
+   014   SMITHIES O            BIOCHEMISTRY                    10  4912 971
+   015$  WARBURG O             BIOCHEM Z                      310   384 942
+   016   JANOFF A              LAB INVEST                      29   458 973
+   017   SCHMIDT W             PHYSIOL CHEM                   355  1077 974
+   018   OHLSSON K             EUR J BIOCHEM                   42   519 974
+   019   TAYLOR JC             ARCH BIOCHEM BIOPHYS           169    91 975
+   020   DRUZE D               BIOCHIM BIOPHYS ACTA           438   505 976
+   021   FEINSTEIN G           BIOCHIM BIOPHYS ACTA           403   477 975
+   022   RINDLER-LUDWIG R      BIOCHIM BIOPHYS ACTA           379   606 975
+   023   STARKEY PM            BIOCHEM J                      155   255 976
+   024   STARKEY PM            BIOCHEM J                      155   265 976
+   025   STARKEY PM            BIOCHEM J                      155   273 976
+CT   1   SENIOR RM             J CLIN INVEST                   66   859 980
+     2   MCDONALD JA           J BIOL CHEM                    255  8848 980
+     3   BOUDIER C             ARCH BIOCHEM BIOPHYS           210   790 981
+     4   BOUDIER C             J BIOL CHEM                    256   256 981
+     5   MARTODAM RR           BIOCHIM BIOPHYS ACTA           667   328 981
+     6   BAICI A               SCAND J IMMUNOL                 16   487 982
+     7   BAICI A               MOL IMMUNOL                     19   719 982
+     8   BOUDIER C             BIOCHEM MED                     28    41 982
+     9   CAMPBELL EJ           J CLIN INVEST                   70   845 982
+    10   CAMPBELL EJ           PROC NAT ACAD SCI USA           79  6941 982
+    11   LAINE A               BIOCHEM BIOPHYS RES COMMUN     105   186 982
+    12   LAINE A               BIOCHEM BIOPHYS RES COMMUN     107   337 982
+    13   BROWER MS             J BIOL CHEM                    257  9849 982
+    14   VISCARELLO BR         PREPAR BIOCHEM                  13    57 983
+    15   STERRENBERG L         THROMB RES                      31   719 983
+    16   ANDREWS JL            CHEMBIOL INTERACT               47   157 983
+    17   STONE PJ              CHEST                           83  S 65 983
+    18   CAMPBELL EJ           J LAB CLIN MED                 101   527 983
+    19   CAMPBELL EJ           AM REV RESPIR DIS              127   631 983
+    20   MCGOWAN SE            AM REV RESPIR DIS              128   688 983
+    21   STONE PJ              ANN NY ACAD SCI                421   398 983
+    22   SNIDER GL             AM REV RESPIR DIS              129   155 984
+    23   MCGOWAN SE            AM REV RESPIR DIS              130   734 984
+    24   SENIOR RM             J IMMUNOL                      132  2547 984
+    25   BOUDIER C             ADV EXP MED BIOL               167   313 984
+    26   MIKUNITAKAGAKI Y      J BIOL CHEM                    259  6739 984
+    27   BREUER R              EXP LUNG RES                     9   167 985
+    28   LENTINI A             BIOCHEM INT                     10   221 985
+    29   STERRENBERG L         HAEMOSTASIS                     15   126 985
+    30   STEIN RL              ANNU REP MED CHEM               20   237 985
+    31   BINDER R              RESPIRATION                     47   267 985
+    32   JACQUOT J             INFECT IMMUN                    47   555 985
+    33   DORING G              INFECT IMMUN                    49   557 985
+    34   BREUER R              J LAB CLIN MED                 105   635 985
+    35   LAURENT P             BIOCHEM BIOPHYS RES COMMUN     126   275 985
+    36   BRUCE MC              AM REV RESPIR DIS              132   529 985
+    37   LUCEY EC              AM REV RESPIR DIS              132   362 985
+    38   SNIDER GL             AM REV RESPIR DIS              132  1155 985
+    39   TOURNIER JM           AM REV RESPIR DIS              132   524 985
+    40   SMITH CE              BIOCHEM J                      225   463 985
+    41   BALDUYCK M            BIOL CHEM HOPPE SEYLER         366     9 985
+    42   BALDUYCK M            BIOL CHEM HOPPE SEYLER         366     9 985
+    43   VERCAIGNEMARKO D      BIOL CHEM HOPPE SEYLER         366   655 985
+    44   DORING G              CLIN EXP IMMUNOL                64   597 986
+    45   WELGUS HG             J CLIN INVEST                   77  1675 986
+    46   NILES RM              J LAB CLIN MED                 108   489 986
+    47   GOLDSTEIN W           AM REV RESPIR DIS              134    49 986
+    48   LUCEY EC              AM REV RESPIR DIS              134   471 986
+    49   HECK LW               ANAL BIOCHEM                   158   217 986
+    50   SKINNER M             PROC SOC EXP BIOL MED          181   211 986
+    51   BRUCH M               BIOCHEM J                      238   269 986
+    52   BERMAN G              J BIOL CHEM                    261  4095 986
+    53   JOHNSON DA            J BIOL CHEM                    261  4748 986
+    54   LAURENT P             BIOCHEM PHARMACOL               36   765 987
+    55   PETERSON MW           J APPL PHYSIOL                  62  1521 987
+    56   BROWER MS             BLOOD                           69   813 987
+    57   MORRISON HM           CLIN SCI                        72   151 987
+    58   BOUDIER C             ARCH BIOCHEM BIOPHYS           253   439 987
+    59   SMITH CE              ARCH BIOCHEM BIOPHYS           253   146 987
+    60   SELLOUM L             BIOL CHEM HOPPE SEYLER         368    47 987

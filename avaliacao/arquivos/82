@@ -1,0 +1,52 @@
+PN 74083
+RN 00082 
+AN 75026589
+AU Pennington-J-E.
+TI Preliminary investigations of Pseudomonas aeruginosa vaccine in
+   patients with leukemia and cystic fibrosis.
+SO J-Infect-Dis. 1974 Nov. 130 Suppl(0). P S159-62.
+MJ BACTERIAL-VACCINES: tu.  CYSTIC-FIBROSIS: co.  LEUKEMIA: co.
+   PSEUDOMONAS-INFECTIONS: pc.
+MN ACETAMINOPHEN: tu, ad.  ADMINISTRATION-ORAL.  ADULT.
+   ANTIBODIES-BACTERIAL: an.  CHILD.  CLINICAL-TRIALS.
+   COMPARATIVE-STUDY.  DRUG-COMBINATIONS.  DRUG-THERAPY-COMBINATION.
+   HUMAN.  IMMUNIZATION: ae.  LEUKOCYTE-COUNT.  METHYLPREDNISOLONE: tu.
+   PSEUDOMONAS-AERUGINOSA: im.  RESPIRATORY-FUNCTION-TESTS.
+   RESPIRATORY-SYSTEM: mi.
+AB A heptavalent lipopolysaccharide vaccine against Pseudomonas has
+   been developed.  Clinical trials revealed a decreased incidence of
+   sepsis and mortality due to Pseudomonas in vaccinated patients with
+   burns.  If vaccinated, certain groups of immunosuppressed patients
+   with cancer may also have a decreased incidence of death associated
+   with Pseudomonas.  Trials of parenteral vaccination in patients with
+   cystic fibrosis show little benefit.  Adverse reactions to this
+   vaccine are frequent and often limit the dose given.
+RF 001   MARKLEY K             ANN SURG                       145   175 957
+   002   RABIN ER              N ENGL J MED                   265  1225 961
+   003   DI SANTAGNESE PA      N ENGL J MED                   277  1399 967
+   004   ROSE HD               AM REV RESPIR DIS              107   416 973
+   005   TILLOTSON JR          ANN INTERN MED                  68   295 968
+   006   LEVINE AS             SEMIN HEMATOL                    9   141 972
+   007   SCHIMPFF SC           ANN INTERN MED                  77   707 972
+   008   PENNINGTON JE         AM J MED                        55   155 973
+   009   REYES MP              MEDICINE (BALTIMORE)            52   173 973
+   010   YOUNG LS              J INFECT DIS                   126   257 972
+   011   HANESSIAN S           NATURE NEW BIOL                229   209 971
+   012   FISHER MW             J BACTERIOL                     98   835 969
+   013   ALEXANDER JW          J TRAUMA                        10   565 970
+   014   YOUNG LS              ANN INTERN MED                  79   518 973
+   015   HAGHBIN M             CANCER                          32   761 973
+   016   SANTOS GW             FED PROC                        26   907 967
+   017   BJORNSON AB           INFECT IMMUN                     2   453 970
+   018   YOUNG LS              INFECT IMMUN                     2   495 970
+CT   1   ABE C                 JAP J EXP MED                   45   355 975
+     2   ABE C                 JAP J EXP MED                   45   355 975
+     3   POSTEL J              SURG GYNECOL OBSTET            141   683 975
+     4   PETERSON PK           J LAB CLIN MED                  92   883 978
+     5   KREPLER P             WIEN KLIN WOCHENSCHR            91   707 979
+     6   CRYZ SJ               INFECT IMMUN                    39  1072 983
+     7   PIER GB               INFECT IMMUN                    45   309 984
+     8   KHARITONOVA AM        ZH MIKROBIO EPIDEMIO IMMUNOBI         14 986
+     9   MATTHEWS RC           J CLIN PATHOL                   39  1306 986
+    10   MACINTYRE S           INFECT IMMUN                    51   675 986
+    11   DUNN DL               AM J SURG                      153   409 987

@@ -1,0 +1,44 @@
+PN 79163
+RN 01143 
+AN 79220419
+AU Sordelli-D-O.  Cassino-R-J.  Pivetta-O-H.
+TI Animal model for cystic fibrosis: pulmonary clearance of
+   Staphylococcus aureus in mice treated with reserpine.
+SO Life-Sci. 1979 May 21. 24(21). P 2003-10.
+MJ CYSTIC-FIBROSIS: pp.  LUNG: mi.  RESERPINE: pd.
+   STAPHYLOCOCCUS-AUREUS.
+MN ANIMAL.  DISEASE-MODELS-ANIMAL.  FEMALE.  LUNG: de.  MALE.  MICE.
+   MICE-INBRED-BALB-C.
+AB Since it has been demonstrated that chronic administration of
+   reserpine to rats produces CF-like alterations, we have studied the
+   lung resistance to bacterial infections in animals treated with
+   reserpine.  Mice of the BALB/c inbred strain were injected
+   subcutaneously with different doses of reserpine for 7 days; after,
+   they were submitted to an infective aerosol containing
+   Staphylococcus aureus in a nebulization chamber.  With each pair of
+   exposed animals, an individual value of the uncleared bacteria ratio
+   (UBR) at 4 hours was obtained.  Reserpinized animals showed a
+   significant increase in UBR values when compared to control mice (p
+   < 0.05 and p < 0.01 depending on the doses), suggesting an
+   impairment of the lung antibacterial defenses.  Although
+   pharmacological doses of reserpine produce catecholamine depletion,
+   we can not conclude that this action upon the nervous system is the
+   only cause of the CF-like response we detected.  In conclusion, the
+   observed UBR decrease lends support to the concept of a reserpine-
+   induced CF animal model.
+RF 001   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   002   WOOD RE               AM REV RESPIR DIS              113   833 976
+   003   OPPENHEIMER EH        COMPAR PATHOL BULL             111     3 971
+   004   MARTINEZ JR           PEDIATR RES                      9   463 975
+   005   PIVETTA OH            PEDIATR RES                     11  1133 977
+   006   THOMPSON FE           PEDIATR RES                     10   632 976
+   007   SNEDECOR GW           STATISTICAL METHODS                      967
+   008   FINNEY DJ             PROBIT ANALYSIS                          971
+   009   TAYLOR PW JR          J PHARMACOL EXP THER           156   483 967
+   010   GREEN GM              J CLIN INVEST                   43   769 964
+   011   LEE JA                FED PROC                        35   262 976
+   012   STITZEL RE            PHARMACOL REV                   28   179 977
+   013   MARTINEZ JR           PROC WORKSHOP ON MODEL SYS CF            978
+   014   MENOM AL              J PHARM PHARMACOL               28   827 976
+   015   GREEN GM              BR J EXP PATHOL                 46   360 965
+CT   1   HAZLETT D             PEDIATR RES                     20  1236 986

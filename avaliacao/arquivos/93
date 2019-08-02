@@ -1,0 +1,65 @@
+PN 74094
+RN 00093 
+AN 74255096
+AU Alderson-P-O.  Secker-Walker-R-H.  Stominger-D-B.  Markham-J.
+   Hill-R-L.
+TI Pulmonary deposition of aerosols in children with cystic fibrosis.
+SO J-Pediatr. 1974 Apr. 84(4). P 479-84.
+MJ AEROSOLS.  CYSTIC-FIBROSIS: dt.  LUNG-DISEASES: dt.
+   RESPIRATORY-THERAPY.
+MN INFANT.  CHILD-PRESCHOOL.  CHILD.  ADOLESCENCE.  HUMAN.  MALE.
+   FEMALE.  AEROSOLS: ad.  ULTRASONICS.  INDIUM.  TECHNETIUM.
+   RADIOISOTOPE-DILUTION-TECHNIC.  SCINTILLATION-COUNTING.
+   RADIONUCLIDE-IMAGING.  COMPUTERS.  XENON.  RADIOISOTOPES.
+   RESPIRATION.  AGE-FACTORS.  BODY-WEIGHT.
+AB The efficiency of delivery of an aerosol to 22 children with cystic
+   fibrosis, aged 8 months to 17 years, was investigated with the use
+   a standard ultrasonic nebulizer.  The study was designed to simulate
+   clinical conditions as closely as possible.  Retention of the
+   aerosol was monitored with a scintillation camera interfaced to a
+   small digital computer.  The children also had ventilation studies
+   with xenon-133, which allowed comparison of the distribution of
+   aerosol with regional ventilation.  The aerosol was visualized
+   within the lungs of all 22 patients.  Between 0.8 and 6.5 per cent
+   of the initial activity was deposited in the lungs, representing an
+   average of 0.27 ml. per therapy session or 0.0131 ml. per kilogram
+   of body weight.  There was a positive correlation (r = 0.89; p <
+   0.01) between increasing age and greater pulmonary deposition of the
+   aerosol.  There was decreased aerosol entry to regions which were
+   poorly ventilated.  The efficiency of aerosol deposition is variable
+   in children with cystic fibrosis, depending primarily on the age of
+   the patient, whereas its distribution within their lungs is related
+   to regional variations in the severity of the pulmonary disease.
+RF 001   MEARNS MB             ARCH DIS CHILD                  45   605 970
+   002   BAU SK                PEDIATRICS                      48   605 971
+   003   WOLFSDORF J           PEDIATRICS                      43   799 969
+   004   COOK DJ               J NUCL MED                      12   765 971
+   005   SECKER-WALKER RH      J NUCL MED                      14   725 973
+   006   MERCER TT             ANN ALLERGY                     26    18 968
+   007   TAUSSIG LM            J PEDIATR                       82   380 973
+   008   STUART BO             ARCH INTERN MED                121    60 973
+   009   SANCHIS J             N ENGL J MED                   288   651 973
+   010   TAPLIN GV             IN: GILSON AJ                        296 970
+   011   LOURENCO RV           AM REV RESPIR DIS              106   857 972
+   012   LIFSCHITZ MI          AM REV RESPIR DIS              102   456 970
+CT   1   JEHANNE M             SEM HOP PARIS                   50   595 974
+     2   TAUSSIG LM            J PEDIATR                       84   619 974
+     3   CANDUSSIO GD          MINERVA PEDIATR                 27  1975 975
+     4   WOOD RE               AM REV RESPIR DIS              113   833 976
+     5   PROCTOR DF            AM REV RESPIR DIS              115   315 977
+     6   RICHARDSON PS         PHARMACOL THER (B)               3   441 978
+     7   LANDAU LI             AUST PAEDIATR J                 14   139 978
+     8   WOOD DO               AUST PAEDIATR J                 14   150 978
+     9   BUREAU MA             PEDIATRICS                      61   842 978
+    10   CHIPPS BE             CHEST                           73   519 978
+    11   PAPANICOLAOU N        SEM NUCL MED                    10   259 980
+    12   WELLER PH             THORAX                          35    42 980
+    13   SWIFT DL              AM REV RESPIR DIS              122    71 980
+    14   WANNER A              AM REV RESPIR DIS              122    79 980
+    15   ZACH M                MONATSSCHR KINDERHEILKD        130   688 982
+    16   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982
+    17   MAXWELL D             J ANTIMICROB CHEMOTHER          11   203 983
+    18   OBRODOVICH HM         J PEDIATR                      105   377 984
+    19   ALDERSON PO           RADIOLOGY                      153   515 984
+    20   MISCHLER EH           SEM RESPIR MED                   6   271 985
+    21   MACLUSKY I            J PEDIATR                      108   861 986

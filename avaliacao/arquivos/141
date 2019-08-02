@@ -1,0 +1,89 @@
+PN 74142
+RN 00141 
+AN 74251247
+AU Rao-G-J.  Nadler-H-L.
+TI Arginine esterase in cystic fibrosis of the pancreas.
+SO Pediatr-Res. 1974 Jun. 8(6). P 684-6.
+MJ ESTERASES: bl.  CYSTIC-FIBROSIS: en.
+MN HUMAN.  ARGININE.  CYSTIC-FIBROSIS: bl, fg.
+   CHROMATOGRAPHY-DEAE-CELLULOSE.  CHROMATOGRAPHY-ION-EXCHANGE.
+   ELECTROPHORESIS-POLYACRYLAMIDE-GEL.  TRYPSIN-INHIBITORS: pd.
+   HYDROGEN-ION-CONCENTRATION.  BLOOD.
+AB Arginine esterase activity in chloroform-ellagic acid-treated plasma
+   from 11 patients with cystic fibrosis(CF) and 12 age-matched control
+   subjects has been resolved into its component fractions by ion
+   exchange chromatography on DEAE-Sephadex and electrofocusing on
+   polyacrylamide gels.  The activity can be resolved into two
+   fractions by chromatography, one of which is inhibited by soybean
+   trypsin inhibitor (STI) and the other of which is not inhibited by
+   STI.  In plasma of CF patients, the fraction of activity inhibited
+   by STI is reduced to approximately 30% of the corresponding fraction
+   in control plasma.  In contrast, the fraction of activity resistant
+   to inhibition by STI did not show any significant quantitative
+   differences between control and CF plasma samples.  Analysis of
+   plasma samples by electrofocusing on 5% polyacrylamide gels in the
+   range of pH 5.0-8.0 and subsequent staining for arginine esterase
+   activity showed qualitative differences between control and CF
+   plasma samples.  Six activity bands could be detected in control
+   samples, whereas five bands were detected in CF samples.  Eight
+   samples had one type of band missing, two had another type of band
+   missing, and one had yet another type of band missing.  All of these
+   bands were restricted to a narrow pH zone in the center of the gel.
+   These data are consistent with and extend our earlier reports of
+   differences in arginine esterase activity between plasma samples of
+   CF patients and control subjects.  The demonstration of the absence
+   of a single band of arginine esterase activity is consistent with
+   the absence of a specific arginine esterase isoenzyme in patients
+   with CF.  The deficiency of arginine esterase in patients with
+   cystic fibrosis may account for the presence of "factors" in saliva,
+   plasma, and fibroblasts of these patients and consequently for the
+   clinical manifestations of the disease.
+RF 001   BOWMAN BH             SCIENCE                        167   871 970
+   002   COLMAN RW             J CLIN INVEST                   48    23 969
+   003   CONOVER JH            LANCET                           1  1122 973
+   004   DANES BS              J EXP MED                      129   775 969
+   005   CAUDILL M             LANCET                           2   307 973
+   006   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   007   DOGGETT RG            NATURE NEW BIOL                243   251 973
+   008   FUJIMOTO Y            J BIOCHEM (TOKYO)               71   751 972
+   009   HAGLUND H             METHODS BIOCHEM ANAL            19     1 971
+   011   MANGOS JA             PEDIATR RES                      2   378 968
+   012   RAO GJS               J PEDIATR                       80   573 972
+   013   RAO GJS               SCIENCE                        177   610 972
+   014   SPOCK A               PEDIATR RES                      1   173 967
+CT   1   RAO GJS               PEDIATR RES                      9   739 975
+     2   ALTLAND K             HUM GENET                       28   207 975
+     3   ALHADEFF JA           CLIN GENET                      10    63 976
+     4   SHAPIRA E             PEDIATR RES                     10   812 976
+     5   WILSON GB             PEDIATR RES                     10    87 976
+     6   LEDERBERG S           AM J HUM GENET                  28   597 976
+     7   SHAPIRA E             BIOCHEM BIOPHYS RES COMMUN      71   864 976
+     8   ANON                  J PEDIATR                       88   711 976
+     9   CHANGUS JE            ARCH PATHOL LAB MED            100     7 976
+    10   WOOD RE               AM REV RESPIR DIS              113   833 976
+    11   DISANTAGNESE PA       N ENGL J MED                   295   534 976
+    12   CALLAHAN JW           PEDIATR RES                     11  1166 977
+    13   RAO GJS               PEDIATR RES                     11   981 977
+    14   COLMAN RW             THROMB HAEMOST                  38   751 977
+    15   CHAN KYH              CLIN CHIM ACTA                  74    71 977
+    16   GOLDSMITH GH          J LAB CLIN MED                  89   131 977
+    17   DANN LG               LANCET                           2   405 978
+    18   PLATT MW              PEDIATR RES                     12   874 978
+    19   RAO GJS               ENZYME                          23   314 978
+    20   ROMEO G               NATURE                         274   909 978
+    21   RAO GJS               BIOCHIM BIOPHYS ACTA           541   435 978
+    22   ROMEO G               PEDIATR RES                     13  1030 979
+    23   WALSHPLATT M          ENZYME                          24   224 979
+    24   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+    25   WALSH MMJ             PEDIATR RES                     14   353 980
+    26   NADLER HL             PEDIATRICS                      66   690 980
+    27   DUFFY MJ              CLIN CHIM ACTA                 103   233 980
+    28   WALSH MMJ             AM J OBSTET GYNECOL            137   978 980
+    29   MARTINEZ JR           PEDIATR RES                     15  1439 981
+    30   DANDONA P             THORAX                          36    60 981
+    31   SEALE TW              ANN CLIN LAB SCI                12   415 982
+    32   SCHWARTZ M            CLIN CHIM ACTA                 124   213 982
+    33   GREEN JR              EUR J PEDIATR                  139    35 982
+    34   BROCK DJH             PRENAT DIAGN                     3     1 983
+    35   BRANCHINI BR          PEDIATR RES                     17   850 983
+    36   HEELEY AF             CLIN CHEM                       29  2011 983

@@ -1,0 +1,82 @@
+PN 75081
+RN 00247
+AN 76043991
+AU Berry-H-K.
+TI Screening for genetic disorders.
+SO Fed-Proc. 1975 Nov. 34(12). P 2134-9. (REVIEW).
+MJ MASS-SCREENING.  METABOLISM-INBORN-ERRORS: di.
+MN LIPOIDOSIS: di.  AMINO-ACID-METABOLISM-INBORN-ERRORS: di.
+   BIOLOGICAL-ASSAY.  CHILD.  CHROMATOGRAPHY-THIN-LAYER.
+   CYSTIC-FIBROSIS: di.  DIAGNOSIS-LABORATORY.  GALACTOSEMIA: di.
+   HUMAN.  HYPOTHYROIDISM: di.  INFANT.  INFANT-NEWBORN.  JEWS.
+   MAPLE-SYRUP-URINE-DISEASE: di.  METABOLISM-INBORN-ERRORS: fg, me.
+   MUSCULAR-DYSTROPHY: di.  REVIEW.  SUPPORT-U-S-GOVT-P-H-S.
+   SUPPORT-U-S-GOVT-NON-P-H-S.
+EX The past 50 years in developed countries have seen a steady decline
+   in infant mortality from diseases associated with infections and
+   malnutrition.  During the period the contribution from genetic
+   diseases and congenital malformations has risen significantly.
+   Genetically oriented screening programs have a high potential to
+   contribute to the overall improvement of health in both developed
+   and underdeveloped countries.  In this review only procedures for
+   screening for hereditary biochemical disorders will be considered.
+   Criteria for selection of genetic traits to be screened, the schedule
+   for screening, specimens for screening, the screening of newborn
+   infants, the testing of older infants, the testing of high-risk
+   infants and children, the screening of families with genetic
+   diseases, and screening for carriers in selected populations are
+   discussed.
+RF 001   ALLAN JD              AM J DIS CHILD                 126    22 973
+   002   AMBROSE JA            CLIN CHEM                       15    15 969
+   003   AMBROSE JA            APPLIC BASIC PRIN FLUOROMETRY            972
+   004   BERRY HK              CLIN CHEM                        5   603 959
+   006   BERRY HK              AM J DIS CHILD                 129   165 975
+   007   BERRY HK              CLIN CHEM                       14  1033 968
+   008   BEUTLER E             J LAB CLIN MED                  68   137 966
+   009   BREMER HJ             MONATSSCHR KINDERHEILKD        117    32 969
+   010   CHILDS B              IN: SUTTON HE                          3 972
+   011   DUSSAULT JH           UNION MED CAN                  102  2062 973
+   012   MITTMAN C             ISR J MED SCI                    9  1311 973
+   013   ANON                  GENETIC SCREENING PROG PRIN A            975
+   014   GHADIMI H             IN: NYHAN WL                         265 975
+   015   GREEN MN              PEDIATRICS                      41   989 968
+   016   GUTHRIE R             PEDIATRICS                      32   338 963
+   017   GUTHRIE R             BIRTH DEF ORIG ART SER           4    92 968
+   018   HILL JB               CLIN CHEM                       11   451 965
+   019   IRELAND JT            ANN CLIN BIOCHEM                 9   129 972
+   020   JELLUM E              CLIN CHEM                       18   800 972
+   021   LABERGE C             AM J HUM GENET                  21    36 969
+   022   LEVY HL               N ENGL J MED                   288  1299 973
+   023   LEVY HL               PEDIATRICS                      49   825 972
+   024   LEVY HL               N ENGL J MED                   291  1214 974
+   025   LIGHT IJ              AM J DIS CHILD                 112   229 966
+   026   LIGHT IJ              AM J DIS CHILD                 125   243 973
+   027   LOWDEN JA             CLIN CHEM                       19  1345 973
+   028   MCKUSICK VA           IN: CARSON NAJ                       179 971
+   029   MENKES JH             PEDIATRICS                      49   218 972
+   030   MILUNSKY A            PRENATAL DIAGNOSIS OF HEREDIT            973
+   031   MOTULSKY AG           SCIENCE                        185   653 974
+   032   NITOWSKY HM           AM J MENT DEFIC                 77   538 973
+   033   PARTINGTON MW         BIOL NEONATE                    18   121 971
+   034   PASIEKA AE            CLIN BIOCHEM                     2    41 968
+   035   POPKIN JS             LANCET                           1   721 974
+   036   PROSSER R             ARCH DIS CHILD                  49   597 974
+   037   OBRIEN JS             N ENGL J MED                   283    15 970
+   038   RAINE DN              LANCET                           2   996 974
+   039   SCHMIDT L             IN: NYHAN WL                         675 975
+   040   SCRIVER CR            PEDIATRICS                      54   616 974
+   041   SCRIVER CR            CLIN BIOCHEM                     6   142 973
+   042   SCRIVER CR            AMINO ACID METABOL DISORDERS             973
+   043   SCRIVER CR            CAN MED ASSOC J                108  1111 973
+   044   SHIH VE               LAB TECH FOR DETECTION HEREDI            973
+   045   STEPHAN U             PEDIATRICS                      55    35 975
+   046   THALHAMMER O          ACTA UNIV CAROL MED MONOGR      56    79 973
+   047   THOMAS GH             PEDIATR CLIN NORTH AM           20   105 973
+   048   TOCCI PM              IN: NYHAN WL                         461 967
+   049   ANON                  WHAT ARE FACTS GENET DISEASE           9 975
+   050   WILLIAMS KM           AUST J BIOL SCI                 26   831 973
+   051   ZELLWEGER H           PEDIATRICS                      55    30 975
+CT   1   MEE JML               BIOMED MASS SPECTROMET           4   178 977
+     2   NARAYANAN KR          ARCH TOXICOL                    38    61 977
+     3   PONGOR S              ACTA BIOCHIM BIOPHYS            13   117 978
+     4   MACHILL G             BIOL ZENTRALBL                 100   449 981

@@ -1,0 +1,40 @@
+PN 79096
+RN 01076 
+AN 80070842
+AU Tucker-R-D.  Hudrlik-T-R.  Gibbs-G-E.  Christensen-M-B.
+TI The effect of serum from patients with pancreatic disease on the
+   short circuit current of rat jejunum.
+SO IEEE-Trans-Biomed-Eng. 1979 Nov. 26(11). P 607-13.
+MJ BIOLOGICAL-ASSAY: mt.  JEJUNUM: ph.  PANCREATIC-DISEASES: bl.
+MN ANIMAL.  BIOLOGICAL-ASSAY: is.  CYSTIC-FIBROSIS: bl.
+   DIABETES-MELLITUS: bl.  ELECTRIC-CONDUCTIVITY.  HUMAN.
+   MEMBRANE-POTENTIALS.  PANCREATITIS: bl.  RATS.
+AB The short circuit current rat jejunum bioassay, first employed in an
+   attempt to discern the cystic fibrosis (CF) serum "factor," was
+   evaluated using sera from patients with pancreatic disease.  The
+   data suggest other pancreatic diseases, specifically genetic
+   diabetes and alcoholic pancreatitis, also present with a serum
+   "factor" (or "factors") which reduce the short circuit current of
+   rat jejunum, an effect very similar to that of the CF serum
+   "factor."  A large number of sera from presumed normal subjects also
+   exhibited a significant reduction in short circuit current; these
+   (false positives) represent a yet to be defined mechanism, however,
+   they do decrease the likelihood that the observed effect is merely
+   due to pancreatic destruction.  Detailed procedure and equipment
+   specifications for the bioassay system are included.
+RF 001   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   002   WOOD RE               AM REV RESPIR DIS              113   833 976
+   003   KOPEL FB              GASTROENTEROLOGY                62   483 972
+   004   CRAIG JM              AM J DIS CHILD                  93   357 957
+   005   DI SANTAGNESE PA      PEDIATRICS                      18   387 956
+   006   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   007   SPOCK A               PEDIATR RES                      1   173 967
+   008   BOWMAN BH             SCIENCE                        164   325 969
+   009   BESLEY GTN            J MED GENET                      6   278 969
+   010   CHERRY JD             J PEDIATR                       79   937 971
+   011   POSSELT HG            Z KINDERHEILK                  110    93 971
+   012   ARAKI H               PEDIATR RES                      9   932 975
+   013   ARAKI H               PROC INT CF CONG 7TH                  28 976
+   014   GILMORE JP            PROC SOC EXP BIOL MED          157    70 978
+   016   CONOVER JH            LANCET                           1  1194 973
+CT   1   TUCKER RD             COMPUT BIOL MED                 11   153 981

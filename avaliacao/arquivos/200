@@ -1,0 +1,182 @@
+PN 75034
+RN 00200
+AN 75181973
+TI Pseudomonas aeruginosa infections: persisting problems and current
+   research to find new therapies.
+SO Ann-Intern-Med. 1975 Jun. 82(6). P 819-31.
+MJ PSEUDOMONAS-AERUGINOSA.  PSEUDOMONAS-INFECTIONS: th.
+MN ADULT.  AGRANULOCYTOSIS: co, th.  ANIMAL.  ANTIBIOTICS.
+   ANTIBODIES-BACTERIAL: bi.  BLOOD-TRANSFUSION.  BONE-MARROW: de.
+   CHILD.  CYSTIC-FIBROSIS: co.  DOGS.  GRANULOCYTES.  HUMAN.
+   IMMUNOSUPPRESSIVE-AGENTS: ae.  IN-VITRO.  LEUKEMIA: co.
+   LYMPHOMA: co.  PSEUDOMONAS-AERUGINOSA: ip.
+   PSEUDOMONAS-INFECTIONS: mi, im.  IMMUNOTHERAPY.  BONE-MARROW: cy.
+AB Despite the availability of specific antibiotics, Pseudomonas
+   aeruginosa bacteria still cause troublesome infections in patients
+   with a variety of illnesses: extensive thermal injury, leukopenia
+   from antineoplastic chemotherapy and other forms of immunosuppressive
+   treatment, chronic pulmonary disease such as cystic fibrosis, or
+   intravenous narcotic use. The use of antibiotics has improved the
+   prognosis of pseudomonas infections considerably. However, patients
+   with marginal or defective host immunity may need more extensive
+   therapy to master the infection. By evaluating additional modalities
+   of treatment such as granulocyte replacement, improved usage of
+   antibiotics, and active (prophylaxis) or passive antibody
+   administration, the optimal combination may be found.
+RF 001   LEVINE AS             SEMIN HEMATOL                   11   141 974
+   002   LEVINE AS             SEMIN HEMATOL                    9   141 972
+   003   BODEY GP              ANN INTERN MED                  64   328 966
+   004   LEVINE AS             N ENGL J MED                   288   477 973
+   005   BODEY GP              EUR J CANCER                     9   435 973
+   006   SCHIMPFF SC           EUR J CANCER                     9   445 973
+   007   ANDRIOLE VT           J INFECT DIS                   129   124 974
+   008   PENNINGTON JE         J INFECT DIS SUPPL             130   159 974
+   010   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   011   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971
+   012   BOXERBAUM B           AM REV RESPIR DIS              108   777 973
+   013   DOGGETT RG            APPL MICROBIOL                  18   936 969
+   014$  SHIONOYA H            JAPAN J EXP MED                 37   359 972
+   015   NITO T                TROP MED                        14     1 972
+   016   PAVLATOU M            ANN INST PASTEUR PARIS         102   300 962
+   017   FISHER MW             J BACTERIOL                     98   835 969
+   018   HOMMA JY              JAPAN J EXP MED                 41    89 971
+   019   HOMMA JY              JAPAN J EXP MED                 42   171 972
+   020   ZIERDT CH             J BACTERIOL                     87  1003 964
+   021   SONNENSCHEIN C        ZENTRALBL BAKTERIOL            104   365 927
+   022   SCHIMPFF SW           N ENGL J MED                   284  1061 971
+   023   TATTERSALL MHN        LANCET                           1   162 972
+   024   STRUMIA MH            AM J MED SCI                   187   527 934
+   025   BOGGS DR              N ENGL J MED                   290  1055 974
+   026   GRAW RG JR            TRANSFUSION                     11    94 971
+   027   GRAW RG JR            N ENGL J MED                   287   367 972
+   028   MCCREDIE KB           TRANSPLANT PROC                  5   128 973
+   029   BENBUNAN M            NOUV REV FR HEMATOL             13   469 973
+   030   DALE DC               J CLIN INVEST                   54   664 974
+   031   BUCKNER DR            BLOOD                           31   653 968
+   032   HERZIG GP             BLOOD                           39   554 972
+   033   TILLOTSON JR          ANN INTERN MED                  68   295 968
+   034   PENNINGTON JE         AM J MED                        55   155 973
+   035   HANESSIAN S           NATURE NEW BIOL                229   209 971
+   036   YOUNG LS              J INFECT DIS                   126   257 972
+   037   ALEXANDER JW          J TRAUMA                        10   565 970
+   038   YOUNG LS              ANN INTERN MED                  79   518 973
+   039   HAGHBIN M             CANCER                          32   761 973
+   040   BJORNSON AB           INFECT IMMUN                     2   453 970
+   041   YOUNG LS              INFECT IMMUN                     2   495 970
+   042   ALEXANDER JW          ARCH SURG                      102    31 971
+   043   JONES CE              J SURG RES                      14    87 973
+   044   GREEN GM              AM REV RESPIR DIS              102   691 970
+   045   REYNOLDS HY           J IMMUNOL                      111   358 973
+   046   REYNOLDS HY           J LAB CLIN MED                  84   559 974
+   047   REYNOLDS HY           J IMMUNOL                      111   358 973
+   048   REYNOLDS HY           J CLIN INVEST                   53  1351 974
+   049   HAND WL               J CLIN INVEST                   53   354 974
+   050   REYNOLDS HY           CLIN RES                        22   427 974
+   051   GOLDE DW              N ENGL J MED                   290   875 974
+   052   COHN EJ               J AM CHEM SOC                   72   465 950
+   053   BUCKLEY RH            AM J DIS CHILD                 124   376 972
+CT   1   NEU HC                CLIN HAEMATOL                    5   449 976
+     2   DALE DC               BLOOD                           47   869 976
+     3   PAREDES L$            REV MED CHIL                   104   615 976
+     4   PAREDESP L$           REV MED CHIL                   104   538 976
+     5   WOOD RE               AM REV RESPIR DIS              113   833 976
+     6   REYNOLDS HY           JAMA                           236  2190 976
+     7   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     8   SENSAKOVIC JW         INFECT IMMUN                    18   304 977
+     9   LAVERDIERE M          CURR THER RES CLIN EXP          21   464 977
+    10   HARANAKA K            JAP J EXP MED                   47    35 977
+    11   KAZMIEROWSKI JA       J INFECT DIS                   135   438 977
+    12   BALTCH AL             AM J MED SCI                   274   119 977
+    13   KROPINSKI AMB         ANTIMICROB AGENTS CHEMOTHER     13   494 978
+    14   MARKOWITZ SM          INFECT IMMUN                    22   530 978
+    15   LIM DT                ANN ALLERGY                     41    30 978
+    16   PENNINGTON JE         J INFECT DIS                   137   764 978
+    17   KULCZYCKI LL          JAMA                           240    30 978
+    18   VANFURTH R            NETH J MED                      22   123 979
+    19   DIMITRACOPOULOS G     INFECT IMMUN                    23    87 979
+    20   PENNINGTON JE         INFECT IMMUN                    25  1029 979
+    21   HOLLOWAY BW           MICROBIOL REV                   43    73 979
+    22   LOENINGBAUCKE VA      J PEDIATR                       95   630 979
+    23   SOTER NA              J PEDIATR                       95   197 979
+    24   PENNINGTON JE         J INFECT DIS                   139   396 979
+    25   PENNINGTON JE         J INFECT DIS                   140   881 979
+    26   PENNINGTON JE         J INFECT DIS                   140    73 979
+    27   THOMASSEN MJ          J INFECT DIS                   140   873 979
+    28   MCCARTHY MM           CLIN PEDIATR                    19   746 980
+    29   KAMIMURA T            INFECT IMMUN                    29    13 980
+    30   FICK RB               J IMMUNOL METH                  38   103 980
+    31   RAMSEY PG             MEDICINE                        59   206 980
+    32   SIEBERT WT            SOUTH MED J                     73    75 980
+    33   CRYZ SJ               PROC NAT ACAD SCI USA           77  7199 980
+    34   RAINES JM             LARYNGOSCOPE                    90   369 980
+    35   PENNINGTON JE         J INFECT DIS                   142   191 980
+    36   ROSENSTEIN BJ         JOHNS HOPKINS MED J            147   188 980
+    37   FICK RB               CLIN CHEST MED                   2    91 981
+    38   CARLONE S             MICROBIOLOGICA                   4   215 981
+    39   LANDAU Z              SCAND J INFECT DIS              13   227 981
+    40   BLACKWOOD LL          INFECT IMMUN                    32   443 981
+    41   CRYZ SJ               INFECT IMMUN                    32   759 981
+    42   KOEPP LH              INFECT IMMUN                    33   788 981
+    43   LONG GG               AM J VET RES                    42  2129 981
+    44   MASHIMO K             JAP J EXP MED                   51   271 981
+    45   PENNINGTON JE         J CLIN INVEST                   68  1140 981
+    46   MOSS RB               J PEDIATR                       99   215 981
+    47   MACONE AB             N ENGL J MED                   304  1445 981
+    48   FROLAND SS            SCAND J INFECT DIS            1981    72 981
+    49   MOROZ AF              ZH MIKROBIO EPIDEMIO IMMUNOBI 1981     6 981
+    50   JANDA JM              MICROB ECOL                      8   335 982
+    51   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982
+    52   DAVIDSON S            ISR J MED SCI                   18   859 982
+    53   PENNINGTON JE         ANTIMICROB AGENTS CHEMOTHER     22   406 982
+    54   SATO K                ANTIMICROB AGENTS CHEMOTHER     22   548 982
+    55   OTANI T               MICROBIOL IMMUNOL               26    67 982
+    56   OHMAN DE              INFECT IMMUN                    37   662 982
+    57   WEINER RN             EXP MOL PATH                    37   249 982
+    58   PIER GB               J CLIN INVEST                   69   303 982
+    59   LAMBRIS J             J INFECT DIS                   145    78 982
+    60   LONG GG               J AM VET MED ASSOC             181  1343 982
+    61   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    62   CRYZ SJ               REV INFECT DIS                   5  S992 983
+    63   PATT LM               INT J TISS REACT EXP CLIN ASP    5   135 983
+    64   PENNINGTON JE         REV INFECT DIS                   5  S852 983
+    65   NEU HC                J ANTIMICROB CHEMOTHER          11     1 983
+    66   HOOGKAMPKORSTANJE JAA J ANTIMICROB CHEMOTHER          12   175 983
+    67   FICK RB               BULL EUR PHYSIOPATH RESP        19   151 983
+    68   URBACH J              ISR J MED SCI                   19   992 983
+    69   MARESZBABCZYSZYN J    ARCH IMMUNOL THER EXP           31   199 983
+    70   BLACKWOOD LL          INFECT IMMUN                    39   198 983
+    71   MARKHAM RB            INFECT IMMUN                    41   232 983
+    72   LAL S                 J GEN MICROBIOL                129    93 983
+    73   PIER GB               J INFECT DIS                   148   206 983
+    74   CONKLIN JJ            SURG GYNECOL OBSTET            156   809 983
+    75   ROSE HD               JAMA                           250  2027 983
+    76   MACKOWIAK PA          REV INFECT DIS                   6   649 984
+    77   PENNINGTON JE         REV INFECT DIS                   6  S657 984
+    78   KEREN G               J INFECT                         9    22 984
+    79   SPEERT DP             PEDIATR RES                     18   431 984
+    80   SCHIFF JB             ANTIMICROB AGENTS CHEMOTHER     25    49 984
+    81   SCHIFF JB             ANTIMICROB AGENTS CHEMOTHER     26     1 984
+    82   OTANI T               MICROBIOL IMMUNOL               28  1077 984
+    83   CRYZ SJ               INFECT IMMUN                    43   795 984
+    84   SPEERT DP             INFECT IMMUN                    43  1006 984
+    85   PIER GB               J IMMUNOL                      133   734 984
+    86   RUSNAK MG             J INFECT DIS                   149   980 984
+    87   ELNIMA EI             ZENTRALBL BAKT MIKROB HYG (A)  258   120 984
+    88   CRYZ SJ               EUR J CLIN MICROBIOL             4   153 985
+    89   LIEBERMAN MM          SURV SYNTH PATHOL RES            4   312 985
+    90   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985
+    91   MARTY N               MED MALAD INFECT                15   604 985
+    92   SUTTORP N             MED WELT                        36  1238 985
+    93   KOMIYAMA K            ORAL SURG                       59   590 985
+    94   SUTTORP N             J CELL PHYSIOL                 123    64 985
+    95   SAMYKINA TD           ZH MIKROBIO EPIDEMIO IMMUNOBI         21 986
+    96   PENNINGTON JE         REV INFECT DIS                   8  S426 986
+    97   KRIEG DP              J CLIN MICROBIOL                24   986 986
+    98   SALERNO RA            MED (BUENOS AIRES)              46   377 986
+    99   SEEGER W              INFECT IMMUN                    52   846 986
+   100   PENNINGTON JE         INFECT IMMUN                    54   239 986
+   101   PIER GB               J CLIN INVEST                   77   491 986
+   102   FICK RB               AM REV RESPIR DIS              133   418 986
+   103   SPEERT DP             J HOSP INFECT                    9    11 987
+   104   KHARAZMI A            TRANS R SOC TROP MED HYG        81    49 987
+   105   PENNINGTON JE         J INFECT DIS                   155   973 987

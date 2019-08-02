@@ -1,0 +1,267 @@
+PN 75091
+RN 00257
+AN 75170286
+AU Lazarides-E.
+TI Tropomyosin antibody: the specific localization of tropomyosin in
+   nonmuscle cells.
+SO J-Cell-Biol. 1975 Jun. 65(3). P 549-61.
+MJ FIBROBLASTS: ul.  TROPOMYOSIN: ip.
+MN ACTINS: im, ip.  ANTIBODY-FORMATION.  ANTIBODY-SPECIFICITY.
+   CELL-LINE.  CHICKENS: im.  CHROMATOGRAPHY-DEAE-CELLULOSE.
+   CYSTIC-FIBROSIS.  ELECTROPHORESIS-POLYACRYLAMIDE-GEL.
+   FLUORESCENT-ANTIBODY-TECHNIC.  HUMAN.  MICE-INBRED-STRAINS: em.
+   MICROSCOPY-FLUORESCENCE.  PERIODICITY.  RABBITS: im.  SKIN.
+   TROPOMYOSIN: im.  SUPPORT-U-S-GOVT-P-H-S.  MICE.
+AB An antibody against purified chicken skeletal muscle tropomyosin is
+   used in indirect immunofluorescence to visualize the localization of
+   tropomyosin in a variety of nonmuscle cells. The antibody produces a
+   fluorescent pattern which is very similar to that obtained with an
+   actin-specific antibody. This pattern is composed of fluorescent
+   fibers which are shown to be coincident with the fibers seen with
+   phase-contrast optics. High resolution epifluorescent microscopy
+   reveals that fibers stained with the actin antibody show a continuous
+   fluorescence, while fibers reacted with the tropomyosin antibody show
+   a periodic fluorescence. Measurements indicate that the lengths of
+   the fluorescent segments are variable with an average of 1.2 mum
+   while the spacing between segments is approximately 0.4 mum.
+RF 001   ALLERA A              CYTOBIOLOGIE                     6   261 972
+   002   ANDERSEN CW           J VIROL                         12   241 973
+   003   BEHNKE O              J ULTRASTRUCT RES               37   351 971
+   004   BUCKLEY IK            PROTOPLASMA                     64   349 967
+   005   COHEN I               J MOL BIOL                      68   383 972
+   006   CUMMINS P             BIOCHEM J                      133   765 973
+   007   CUMMINS P             BIOCHEM J                      141    43 974
+   008   EBASHI S              PROG BIOPHYS MOL BIOL           18   123 968
+   009   ENDO M                J BIOCHEM (TOKYO)               60   605 966
+   010   FINE RE               NATURE NEW BIOL                245   182 973
+   011   GOLDMAN RD            J CELL BIOL                     52   246 972
+   012   GOLDMAN RD            COLD SPRING HARBOR SYMP QUANT   37   523 972
+   013   GOLDMAN RD            EXP CELL RES                    90   333 975
+   014   HUXLEY HE             J MOL BIOL                       7   281 963
+   015   HUXLEY HE             HARVEY LECTURES                 60    85 966
+   016   ISHIKAWA H            J CELL BIOL                     43   312 969
+   017   LAEMMLI UK            NATURE                         227   680 970
+   018   LAZARIDES E           PROC NAT ACAD SCI USA           71  4742 974
+   019   LAZARIDES E           PROC NAT ACAD SCI USA           71  2268 974
+   020   OHTSUKI I             J BIOCHEM (TOKYO)               61   817 967
+   021   ORR TS                NATURE                         236   350 972
+   022   PAGE SG               J CELL BIOL                     19   369 963
+   023   PEPE FA               J CELL BIOL                     28   505 966
+   024   POLLARD TD            IN: FASMAN GD                    2     1 974
+   025   RASH JE               NATURE NEW BIOL                237   160 972
+   026   SCHROEDER TE          Z ZELLFORSCH MIKROSK ANAT      109   431 970
+   027   SPOONER BS            J CELL BIOL                     49   595 971
+   028   SPUDICH JA            J BIOL CHEM                    246  4866 971
+   029   SPUDICH JA            COLD SPRING HARBOR SYMP QUANT   37   585 972
+   030   SPUDICH JA            J MOL BIOL                      72   619 972
+   031   WEBER K               PROC NAT ACAD SCI USA           71  4561 974
+   032   WESSELLS NK           SCIENCE                        171   135 971
+   033   WOOLEY DE             ARCH BIOCHEM BIOPHYS           150   519 972
+   034   YANG Y                J BIOL CHEM                    247  4503 972
+CT   1   LAZARIDES E           CELL                             6   289 975
+     2   HOLTZER H             Q REV BIOPHYS                    8   523 975
+     3   AGOSTINI B            Z NATURFORSCH (C)               30   793 975
+     4   WEBER K               EXP CELL RES                    95   111 975
+     5   GROSCHELSTEWART U     CELL TISSUE RES                165    13 975
+     6   BRETSCHER MS          NATURE                         258    43 975
+     7   KORN ED               TRENDS BIOCHEM SCI               1    55 976
+     8   GOLDMAN RD            J SUPRAMOL STRUCT                5   155 976
+     9   LAZARIDES E           J SUPRAMOL STRUCT                5   531 976
+    10   MILLER F              CLIN IMMUNOL IMMUNOPATHOL        5   416 976
+    11   POLLARD TD            J SUPRAMOL STRUCT                5   317 976
+    12   GASSNER G             DIFFERENTIATION                  7    39 976
+    13   BOOTH AG              J CELL SCI                      21   449 976
+    14   IZZARD CS             J CELL SCI                      21   129 976
+    15   SCHEINMAN JI          LAB INVEST                      34   150 976
+    16   GARANT PR             J PERIODONTOL                   47   380 976
+    17   LAZARIDES E           J CELL BIOL                     68   202 976
+    18   FUJIWARA K            J CELL BIOL                     71   848 976
+    19   WEBER K               EXP CELL RES                   102   285 976
+    20   BUCKLEY IK            J MICROSC                      107   129 976
+    21   LAGENAUR C            J BACTERIOL                    128   435 976
+    22   WOHLFARTHBOTTERMANN K CELL TISSUE RES                165   327 976
+    23   ISENBERG G            CELL TISSUE RES                166   427 976
+    24   EATON BL              SCIENCE                        192  1337 976
+    25   NICOLSON GL           N ENGL J MED                   295   197 976
+    26   HYNES RO              BIOCHIM BIOPHYS ACTA           458    73 976
+    27   WILLINGHAM MC         CELL                            10   375 977
+    28   STRAULI P             EUR J CANCER                    13     1 977
+    29   KEENAN TW             CYTOBIOLOGIE                    14   259 977
+    30   LOOR F                PROG ALLERGY                    23     1 977
+    31   MUSSINI JM            PATHOL BIOL (PARIS)             25   477 977
+    32   RUTTER G              J GEN VIROL                     37   233 977
+    33   SILVERSTEIN SC        ANNU REV BIOCHEM                46   669 977
+    34   VASILIEV JM           INT REV CYTOL                   50   159 977
+    35   BRAY D                BIOCHIMIE                       59     1 977
+    36   RUBENSTEIN PA         PROC NAT ACAD SCI USA           74   120 977
+    37   ISHIURA M             J BIOCHEM                       82   105 977
+    38   CHAMLEY JH            CELL TISSUE RES                177   445 977
+    39   CHAMLEYCAMPBELL J     CELL TISSUE RES                183   153 977
+    40   YANG YZ               J BIOL CHEM                    252  3374 977
+    41   SANCHEZ G             MORFOL NORMAL PATOL (A)          2   119 978
+    42   VARELA H              MORFOL NORMAL PATOL (A)          2   215 978
+    43   TRIFARO JM            NEUROSCIENCE                     3     1 978
+    44   GORDON WE             CELL                            13   249 978
+    45   CARMON Y              CELL                            14   393 978
+    46   OSBORN M              CELL                            14   477 978
+    47   GRANGER BL            CELL                            15  1253 978
+    48   WANG E                J HISTOCHEM CYTOCHEM            26   745 978
+    49   HEATH JP              J CELL SCI                      29   197 978
+    50   STOSSEL TP            ANNU REV MED                    29   427 978
+    51   JOCKUSCH BM           HISTOCHEMISTRY                  55   177 978
+    52   BAGBY RM              HISTOCHEMISTRY                  58   219 978
+    53   LLEWELLYNSMITH IJ     DEVELOP BIOL                    67    40 978
+    54   FUJIWARA K            J CELL BIOL                     77   182 978
+    55   KREIBICH G            J CELL BIOL                     77   464 978
+    56   BRETSCHER A           J CELL BIOL                     79   839 978
+    57   GERACE L              J CELL BIOL                     79   546 978
+    58   WANG E                J CELL BIOL                     79   708 978
+    59   CORCES VG             EUR J BIOCHEM                   83   529 978
+    60   ISHIMODATAKAGI T      J BIOCHEM                       83  1757 978
+    61   BRETSCHER A           EXP CELL RES                   116   397 978
+    62   GORDON WE             EXP CELL RES                   117   253 978
+    63   WEBSTER RE            EXP CELL RES                   117    47 978
+    64   WILLIAMSON DL         CURRENT MICROBIOL                2   143 979
+    65   DIAZFLORES L          MORFOL NORMAL PATOL (A)          3    63 979
+    66   AUNIS D               NEUROSCI LETT                   13    35 979
+    67   MCMILLAN SA           CLIN IMMUNOL IMMUNOPATHOL       14   256 979
+    68   OTTO JJ               CELL                            17   285 979
+    69   DRIESSCHE TV          ANNEE BIOL                      18   417 979
+    70   RATHKE PC             EUR J CELL BIOL                 19    40 979
+    71   OSBORN M              EUR J CELL BIOL                 20    28 979
+    72   ELFVIN MJ             J HISTOCHEM CYTOCHEM            27  1478 979
+    73   CAMPBELL GR           J CELL SCI                      37   303 979
+    74   WEHLAND J             J CELL SCI                      37   257 979
+    75   YOUNG RB              J ANIMAL SCI                    48   837 979
+    76   CHAMLEYCAMPBELL J     PHYSIOL REV                     59     1 979
+    77   GARRELS JI            DEVELOP BIOL                    73   134 979
+    78   FERAMISCO JR          PROC NAT ACAD SCI USA           76  3967 979
+    79   GOLDMAN RD            J CELL BIOL                     80   759 979
+    80   WILLARD M             J CELL BIOL                     81   581 979
+    81   YOUNG RB              J CELL BIOL                     81   115 979
+    82   LESSARD JL            ANAL BIOCHEM                    94   140 979
+    83   HILLER G              VIROLOGY                        98   142 979
+    84   ISHIMODATAKAGI T      EXP CELL RES                   119   423 979
+    85   ZIGMOND SH            EXP CELL RES                   119   205 979
+    86   GORDON WE             EXP CELL RES                   120   335 979
+    87   WYLIE CC              EXP CELL RES                   121   315 979
+    88   KLEVE MG              J EXP ZOOL                     209    21 979
+    89   YAMAUCHI T            J BIOL CHEM                    254  6408 979
+    90   FEUCHTER FA           UROL RES                         8   139 980
+    91   KELLEY RO             MECH AGEING DEV                 13   127 980
+    92   GROSCHELSTEWART U     EUR J CANCER                    16     2 980
+    93   UMEDA PK              BIOCHEMISTRY                    19  1955 980
+    94   ALLEN RE              EUR J CELL BIOL                 21   247 980
+    95   WEHLAND J             EUR J CELL BIOL                 21   188 980
+    96   GODMAN G              EUR J CELL BIOL                 22   745 980
+    97   GODMAN G              EUR J CELL BIOL                 22   733 980
+    98   KREIS TE              CELL                            22   555 980
+    99   WYLIE CC              BIOSCIENCE                      30    27 980
+   100   LUTZ H                CANCER RES                      40  3642 980
+   101   LEMANSKI LF           J EMBRYOL EXP MORPHOL           55     1 980
+   102   SMALL JV              INT REV CYTOL                   64   241 980
+   103   BAGBY RM              HISTOCHEMISTRY                  69   113 980
+   104   HODGE AJ              J ULTRASTRUCT RES               70   220 980
+   105   BYERS HR              PROC NAT ACAD SCI USA           77  6657 980
+   106   RACHUBINSKI RA        J CELL BIOL                     84   705 980
+   107   BRETSCHER A           J CELL BIOL                     86   335 980
+   108   SANGER JM             J CELL BIOL                     86   568 980
+   109   SCHLOSS JA            J CELL BIOL                     87   633 980
+   110   BRITCH M              EXP CELL RES                   125   221 980
+   111   RAMAEKERS FCS         EXP CELL RES                   127   309 980
+   112   WEHLAND J             EXP CELL RES                   127   397 980
+   113   OSBORN M              EXP CELL RES                   129   103 980
+   114   PAULIN D              J MOL BIOL                     144    95 980
+   115   MANJULA BN            J EXP MED                      151   695 980
+   116   ABERCROMBIE M         PROC R SOC LOND (B)            207   129 980
+   117   FRANKO MC             J NEUROIMMUNOL                   1   391 981
+   118   MOSS M                MOL CELL BIOL                    1   289 981
+   119   GOMER RH              CELL                            23   524 981
+   120   DEBUS E               EUR J CELL BIOL                 24    45 981
+   121   KALNINS VI            EUR J CELL BIOL                 24    36 981
+   122   WEHLAND J             EUR J CELL BIOL                 24   176 981
+   123   BIRCHMEIER W          COLD SPRING HARBOR SYMP Q BIO   46   755 981
+   124   BLOSE SH              COLD SPRING HARBOR SYMP Q BIO   46   455 981
+   125   FRANK ED              PROC NAT ACAD SCI USA           78  3020 981
+   126   HENDRICKS M           PROC NAT ACAD SCI USA           78  5633 981
+   127   DHANARAJAN ZC         DEVELOP BIOL                    82   317 981
+   128   PENG HB               DEVELOP BIOL                    88   121 981
+   129   ALLEN RD              J CELL BIOL                     91  S148 981
+   130   MELYGOUBERT B         J IMMUNOL                      127   399 981
+   131   BRITCH M              EXP CELL RES                   131   161 981
+   132   KOENIG CS             EXP CELL RES                   131   319 981
+   133   NELSON GA             EXP CELL RES                   131   149 981
+   134   HILLER G              EXP CELL RES                   132    81 981
+   135   BRETSCHER A           EXP CELL RES                   135   213 981
+   136   COTE GP               J BIOL CHEM                    256  7257 981
+   137   GIOMETTI CS           J BIOL CHEM                    256  1840 981
+   138   KEEN JH               J BIOL CHEM                    256  2538 981
+   139   LETOURNEAU PC         J NEUROSCI                       2   806 982
+   140   DOMINGUEZ C           MORFOL NORMAL PATOL (B)          6   157 982
+   141   LAZARIDES E           METH CELL BIOL                  24   313 982
+   142   OSBORN M              METH CELL BIOL                  24    97 982
+   143   HILLER G              J VIROL                         44   647 982
+   144   ALLORE RJ             CAN J BIOCHEM                   60    57 982
+   145   YAHARA I              J CELL BIOL                     92    69 982
+   146   BYERS HR              J CELL BIOL                     93   804 982
+   147   OHASHI K              J CELL BIOL                     95    85 982
+   148   WEBER K               PATHOL RES PRACT               175   128 982
+   149   RABINOWITZ SS         J BIOL CHEM                    257  3291 982
+   150   GENY B                BIOCHIM BIOPHYS ACTA           692   345 982
+   151   LEVINE AM             CLIN ORTHOP                   1982   240 982
+   152   DABROWSKA R           J MUSCLE RES CELL MOTIL          4    83 983
+   153   FATTOUM A             BIOCHEMISTRY                    22  1187 983
+   154   OSBORN M              EUR J CELL BIOL                 29   179 983
+   155   SANGER JW             EUR J CELL BIOL                 31   197 983
+   156   ITO Y                 J VIROL                         48   709 983
+   157   COTE GP               MOL CELL BIOCHEM                57   127 983
+   158   GABBIANI G            PROC NAT ACAD SCI USA           80  2361 983
+   159   KOBAYASHI R           J BIOCHEM                       94   171 983
+   160   SANGER JW             J CELL BIOL                     96   961 983
+   161   LEMANSKI LF           DEVELOP BIOL                    97   338 983
+   162   NAGELE RG             EXP CELL RES                   143   153 983
+   163   TALBOT K              J MOL BIOL                     164   159 983
+   164   MACLEOD AR            J MOL BIOL                     167   523 983
+   165   MATSUMURA F           J BIOL CHEM                    258  6636 983
+   166   LAZARIDES E           CURR CONTENTS LIFE SCIENCES   1983    19 983
+   167   HENDRICKS M           MOL CELL BIOL                    4  1823 984
+   168   MASUDA H              CELL MOTIL                       4   315 984
+   169   KNOX P                MOL ASP MED                      7   177 984
+   170   PAYNE MR              TRENDS BIOCHEM SCI               9   361 984
+   171   LANGANGER G           J SUBMICROSC CYTOL              16    43 984
+   172   SHARPE AH             COMPR VIROL                     19   431 984
+   173   SCEBAT L              ATHEROSCLEROSIS                 51   269 984
+   174   OWADA MK              PROC NAT ACAD SCI USA           81  3133 984
+   175   LIN JJC               J CELL BIOL                     98   116 984
+   176   LANGANGER G           J CELL BIOL                     99  1324 984
+   177   SANGER JW             J CELL BIOL                     99   918 984
+   178   GOLDMAN JE            BRAIN RES                      106    85 984
+   179   FOWLER VM             J BIOL CHEM                    259  5978 984
+   180   BENZEEV A             BIOCHIM BIOPHYS ACTA           780   197 984
+   181   WAHRMAN MZ            TUMOUR BIOL                      6    41 985
+   182   WARREN RH             EUR J CELL BIOL                 38   245 985
+   183   LIM SS                CAN J BIOCHEM CELL BIOL         63   470 985
+   184   BRETSCHER A           J CELL BIOL                    100  1656 985
+   185   MURAMATSU H           DEVELOP BIOL                   110   284 985
+   186   BURGOYNE RD           FEBS LETTERS                   179    25 985
+   187   KREISBERG JI          AM J PHYSIOL                   249  F227 985
+   188   YAMASHIROMATSUMURA S  J BIOL CHEM                    260  5087 985
+   189   BURGOYNE RD           BRAIN RES                      361   178 985
+   190   CANDE WZ              CELL MOTIL CYTOSKELETON          6   640 986
+   191   KARLIK CC             MOL CELL BIOL                    6  1965 986
+   192   GUEST JF              ELECTROPHORESIS                  7   512 986
+   193   BRETT JG              TISSUE CELL                     18   175 986
+   194   DOBROWOLSKI Z         EUR J CELL BIOL                 41    65 986
+   195   JOST E                BIOL CELL                       57   111 986
+   196   SHIRAKATA M           COMP BIOCHEM PHYSIOL (B)        85    71 986
+   197   AMATO PA              J CELL BIOL                    102  1074 986
+   198   ANTIN PB              J CELL BIOL                    102  1464 986
+   199   LANGANGER G           J CELL BIOL                    102   200 986
+   200   GRAIN J               INT REV CYTOL                  104   153 986
+   201   IIDA K                EXP CELL RES                   164   492 986
+   202   BROSCHAT KO           J BIOL CHEM                    261  3350 986
+   203   TAMM SL               CELL MOTIL CYTOSKELETON          7   116 987
+   204   MIZUSHIMA Y           BIOMED RES                       8    73 987
+   205   GALLOWAY PG           J NEUROPATHOL EXP NEUROL        46   185 987
+   206   MACLEOD AR            J MOL BIOL                     194     1 987
+   207   HALLAUER PL           J BIOL CHEM                    262  3590 987

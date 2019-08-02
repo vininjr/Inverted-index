@@ -1,0 +1,90 @@
+PN 76060
+RN 00415 
+AN 76234881
+AU Weeke-B.  Flensborg-E-W.  Jacobsen-L.  Jorgensen-B-A.  Lykkegaard-E.
+   Hoiby-N.
+TI Immunochemical quantitation of 18 proteins in sera from patients
+   with cystic fibrosis: concentrations correlated to class of
+   fibroblast metachromasia, clinical and radiological lung symptoms.
+SO Dan-Med-Bull. 1976 Jun. 23(3). P 155-60.
+MJ BLOOD-PROTEINS: an.  CYSTIC-FIBROSIS: bl.  FIBROBLASTS: me.
+MN ADOLESCENCE.  ADULT.  CHILD.  CHILD-PRESCHOOL.  ENGLISH-ABSTRACT.
+   FEMALE.  FLUORESCENT-ANTIBODY-TECHNIC.  HUMAN.
+   IMMUNOELECTROPHORESIS.  LUNG-DISEASES: bl.  MALE.
+EX Sera from 32 patients with cystic fibrosis classified according to
+   fibroblast metachromasia into three classes have been analysed
+   immunochemically for the concentrations of 18 serum proteins.  In
+   addition, the clinical and radiological status of the lungs were
+   evaluated, using two scoring systems.  Eleven of 16 serum proteins
+   differed from the values of a thousand-donor serum pool.  The most
+   pronounced differences from the control sera were elevated
+   acute-phase proteins, notably haptoglobin, alpha1-antichymotrypsin,
+   IgG, and IgA, and low serum albumin and alpha2-HS-glycoprotein.
+   Patients from metachromatic class III presented the most pronounced
+   rise in acute-phase proteins and, furthermore, significantly
+   decreased complement C3 and IgM, IgG and IgA were normal in class III
+   patients.  These differences from the control sera possibly reflect
+   inflammatory tissue damage involving immune reactions.  The clinical
+   score was positively correlated to the radiologic score, and both
+   these scores were positively correlated to the concentrations of
+   eight and seven, respectively, of the serum proteins, and negatively
+   correlated to three of the serum proteins.  Based upon the
+   correlations between the scores and the concentrations of some of the
+   serum proteins, it is recommended that longitudinal prospective
+   studies follow individual patients for the concentrations in serum of
+   haptoglobin, albumin, IgA, IgG, C3, and, eventually, IgM and
+   alpha1-antichymotrypsin.  The present results suggest that these
+   serum proteins will yield valuable information as regards prognosis
+   and therapy of the lung disease in CF.
+RF 001   BELFRAGE S            ACTA MED SCAND SUPPL           173     5 963
+   002   BERG T                ACTA PAEDIATR SCAND             58   513 969
+   003   BROGAN TD             THORAX                          30    72 975
+   004   BUCKLEY RH            J CLIN INVEST                   55   157 975
+   005   CONOVER JH            LIFE SCI                        14   253 974
+   006   CONOVER JH            LANCET                           2  1501 973
+   007   CONOVER JH            LANCET                           1    47 975
+   008   DANES BS              J EXP MED                      129   775 969
+   009   DANES BS              AM J HUM GENET                  23   297 971
+   010   DANES BS              J EXP MED                      137  1538 973
+   011   HANN S                LANCET                           2   520 974
+   012   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973
+   013   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   014   HOIBY N               ACTA PAEDIATR SCAND             63   843 974
+   015   HOIBY N               SCAND J RESPIR DIS              56    38 975
+   016   LANGGARD H            ACTA PAEDIATR SCAND             57   255 968
+   017   LIEBERMAN J           LANCET                           1  1230 974
+   018   LUNDH B               ACTA UNIV LUND II               24     1 965
+   019   LYKKEGAARD E          DAN MED BULL                    21   232 974
+   020   LYKKEGAARD E          DAN MED BULL                    21   241 974
+   021   LYKKEGAARD E          DAN MED BULL                    22   169 975
+   022   LYKKEGAARD E          DAN MED BULL                    22   175 975
+   023   LYKKEGAARD E          DAN MED BULL                    22   177 975
+   024   MCFARLANE H           BR MED J                         1   423 975
+   025   MULLER HE             DTSCH MED WSCHR                 93   120 968
+   026   MINCHIN-CLARKE HG     THORAX                          25   423 970
+   027   NIELSEN HG            CLIN CHIM ACTA                  36   133 972
+   028   NORMAN AP             PROC EWGCF 2ND ANNU MTG                  971
+   029   NYMAN M               SCAND J CLIN LAB INVEST SUPPL   39     5 959
+   030   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   83   469 975
+   031   SCHWARTZ RH           AM J DIS CHILD                 111   408 966
+   032   STROBER W             PEDIATRICS                      43   416 969
+   033   TANNER JM             ARCH DIS CHILD                  41   613 966
+   034   WALLWORK JC           CLIN EXP IMMUNOL                18   303 974
+   035   WEEKE B               ACTA MED SCAND                 192   149 972
+   036   WEEKE B               THESIS                                 1 973
+   037   WEEKE B               SCAND J IMMUNOL SUPPL 1          2    37 973
+   038   WEEKE B               SCAND J IMMUNOL SUPPL 2          1    48 973
+CT   1   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     2   TURNER MW             ARCH DIS CHILD                  53   631 978
+     3   GOTZ M                EUR J PEDIATR                  127   133 978
+     4   SCHIOTZ PO            MONOGR PAEDIATR                 10   131 979
+     5   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+     6   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981
+     7   FICK RB               CLIN CHEST MED                   2    91 981
+     8   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   89   185 981
+     9   MARGOLIES R           PEDIATR RES                     16   181 982
+    10   BERNINGER RW          METABOLISM                      31   299 982
+    11   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982
+    12   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    63 982
+    13   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982
+    14   EMMETT M              PROC SOC EXP BIOL MED          184    74 987

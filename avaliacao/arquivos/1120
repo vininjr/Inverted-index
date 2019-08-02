@@ -1,0 +1,55 @@
+PN 79140
+RN 01120 
+AN 80008799
+AU Morrissey-S-M.  Tymvios-M-C.
+TI The effect of histamine, metiamide and cystic fibrosis factor on the
+   electrophysiological properties of the frog's gastric mucosa
+   [proceedings].
+SO J-Physiol (Lond). 1979 Jun. 291. P 25P-26P.
+MJ CYSTIC-FIBROSIS: bl.  GASTRIC-MUCOSA: de.  HISTAMINE: pd.
+   METIAMIDE: pd.  THIOUREA: aa.
+MN ANIMAL.  BIOLOGICAL-TRANSPORT-ACTIVE: de.  CHLORIDES: me.  ANURA.
+   GASTRIC-MUCOSA: ph.  HUMAN.  HYDROGEN-ION-CONCENTRATION.  IN-VITRO.
+   MEMBRANE-POTENTIALS: de.
+AB The total active transport of Cl ions across the frog's gastric
+   mucosa can be considered as: net Cl- flux (serosa to mucosa) = H+ +
+   SSC (short-circuit current), all terms expressed as micromole cm-2
+   hr-1.  The net chloride flux (Hogben, 1955; Durbin & Heinz, 1958)
+   may be divided into two fractions: an acidic one which is equivalent
+   to the acid secreted and an electromotive one which accounts for the
+   gastric electromotive force.  The changes in SCC can accordingly be
+   used as a partial index to the activity of the chloride pump.
+   Experiments were designed to investigate the effects of histamine,
+   metiamide (H2 receptor antagonist), cystic fibrosis (CF) and non-CF
+   plasma on the above parameters using the frog's isolated gastric
+   mucosa.  The SCC and the resistance of the mucosal preparation is
+   measured by means of an automatic SCC apparatus (de Jesus, 1977).
+   The H ion secretion is measured by pH meter.  Results obtained
+   (expressed as mean change (delta) plus or minus S.E. of mean) for
+   histamine (10-4 M) (n = 10) show an initial increase of the SCC by
+   36.94 plus or minus 2.95 microA cm-2 and a parallel small increase
+   in H+ output by 0.045 plus or minus 0.003 micromole cm-2 hr-1.  This
+   initial increase in SCC is followed by a drop to a steady-state
+   level of 23.62 plus or minus 2.23 microA cm-2 and also by a large
+   increase in H+ secretion 2.26 plus or minus 0.22 micromole cm-2
+   hr-1.  These results support the work of Rehm (1961) in that
+   histamine has an effect first on the Cl- pump and then on the H+
+   secretion.  Metiamide (10-4 M) (n = 12) caused a drop in the SCC by
+   20.16 plus or minus 2.32 microA cm-2 and also reduced the acid
+   secretion by 2.21 plus or minus 0.14 micromole cm-2 hr-1, thus
+   suggesting an effect on the Cl- pump as well as on the H+ secretion.
+   Significant differences are shown (P < 0.001) between CF and non-CF
+   plasma results.  The CF plasma (n = 8) increased the SCC by 17.25
+   plus or minus 2.94 microA cm-2 and H+ secretion by 2.38 plus or
+   minus 0.43 micromole cm-2 hr-1.  Non-CF plasma caused a slight
+   increase in SCC by 5.17 plus or minus 1.1 microA cm-2 and had little
+   effect on the H+ secretion, 0.34 plus or minus 0.01 micromole cm-2
+   hr-1 (n = 8).  The effect of the CF plasma on the Cl- and H+
+   mechanism is of interest since in cystic fibrosis there is an
+   abnormal increase of Cl- and Na+ in the sweat of patients (di Sant
+   Agnese, Darling, Perera & She, 1953).
+RF 001   DURBIN RP             J GEN PHYSIOL                   41  1035 958
+   002   HOGBEN CAM            AM J PHYSIOL                   180   641 955
+   003   DE JESUS HC           J PHYSIOL (LOND)               268   353 977
+   004   REHM WS               AM J PHYSIOL                   203    63 961
+   005   DI SANTAGNESE PA      AM J DIS CHILD                  86   618 953

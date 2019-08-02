@@ -1,0 +1,82 @@
+PN 78104
+RN 00885 
+AN 78129864
+AU Lewis-S-M.  Evans-J-W.  Jalowayski-A-A.
+TI Continuous distributions of specific ventilation recovered from
+   inert gas washout.
+SO J-Appl-Physiol. 1978 Mar. 44(3). P 416-23.
+MJ NITROGEN.  RESPIRATION.
+MN ADULT.  AGING.  CHILD.  CYSTIC-FIBROSIS: pp.  HUMAN.
+   LUNG-DISEASES-OBSTRUCTIVE: pp.  LUNG: ph.  MATHEMATICS.
+   RESPIRATORY-DEAD-SPACE.  TIDAL-VOLUME.  SUPPORT-U-S-GOVT-P-H-S.
+   SUPPORT-U-S-GOVT-NON-P-H-S.
+AB We describe a new technique for recovering continuous distributions
+   of ventilation (V) as a function of tidal ventilation/volume ratio
+   (V/V0) from the nitrogen washout. The analysis yields a continuous
+   distribution of V as a function of V/V0 represented as fractional
+   ventilations of 50 compartments plus dead space. The procedure was
+   verified by recovering known distributions from data to which noise
+   had been added. Using an apparatus to control the subject's tidal
+   volume and FRC, mixed expired N2 data gave the following results: a)
+   the distributions of young, normal subjects were narrow and unimodal
+   with a mean ln standard deviation of 0.56 plus or minus 0.13; b)
+   those of subjects over age 40 were broader (ln SD 0.86 plus or minus
+   0.19) with more poorly ventilated units; c) patients with pulmonary
+   disease of all descriptions showed enlarged dead space; d) patients
+   with cystic fibrosis showed multimodal distributions with the bulk of
+   the ventilation going to overventilated units; and e) patients with
+   obstructive lung diseases fell into several classes, three of which
+   are illustrated. These results suggest that our approach is well
+   suited for clinical investigation.
+RF 001   BECKLAKE MR           THORAX                           7   111 952
+   002   BOUHUYS A             PHYSIOL REV                     39   731 959
+   003   EVANS JW              BULL MATH BIOPHYS               32    59 970
+   004   EVANS JW              BULL MATH BIOPHYS               29   711 967
+   005   EVANS JW              J APPL PHYSIOL                  42   889 977
+   006   FOWLER WS             J APPL PHYSIOL                   2   283 949
+   007   GOMEZ DM              PROC NAT ACAD SCI USA           49   312 963
+   008   GOMEZ DM              J APPL PHYSIOL                  19   683 964
+   009$  GOMEZ DM              J EXP MED                      193   514 965
+   010   GOMEZ DM              AM REV RESPIR DIS               93     1 966
+   011   HASHIMOTO T           J APPL PHYSIOL                  23   203 967
+   012   HEISE M               RESPIRATION                     31   310 974
+   013$  JALAWALA SA           J CLIN INVEST                   53   188 975
+   014   LAWSON CL             SOLVING LEAST SQUARES PROBLEM            974
+   015   MARTIN CJ             RESPIR PHYSIOL                  21   157 974
+   016   NAKAMURA T            J APPL PHYSIOL                  21   227 966
+   017   NYE RE                J APPL PHYSIOL                  16   115 961
+   018   OKUBO T               J APPL PHYSIOL                  24   658 968
+   019   OLSZOWKA AJ           RESPIR PHYSIOL                  25   191 975
+   020   PESLIN R              J APPL PHYSIOL                  30   462 971
+   021   ROSSING RG            J APPL PHYSIOL                  21  1907 966
+   022   SCHWARZL F            PHYSICA                         18   791 952
+   023   TSUNODA S             J APPL PHYSIOL                  32   644 972
+   024   WAGNER PD             J APPL PHYSIOL                  36   588 974
+   025   YOUNG AC              J CLIN INVEST                   53  1178 974
+CT   1   LEWIS SM              J APPL PHYSIOL                  44   424 978
+     2   BUTLER JP             J APPL PHYSIOL                  46    47 979
+     3   EVANS JW              MATH BIOSCI                     46   233 979
+     4   WAGNER PD             J APPL PHYSIOL                  46   579 979
+     5   MARTIN CJ             J APPL PHYSIOL                  47   319 979
+     6   LAMEDICA G            RESPIRATION                     39   333 980
+     7   WAGNER PD             ANNU REV PHYSIOL                42   235 980
+     8   AZZARO SH             IEEE TRANS BIOMED ENG           28   755 981
+     9   DEVRIES WR            J APPL PHYSIOL                  51  1122 981
+    10   LEWIS SM              J APPL PHYSIOL                  51  1463 981
+    11   PIMMEL RL             J APPL PHYSIOL                  51  1581 981
+    12   OZANNE GM             ANESTHESIOLOGY                  54   413 981
+    13   WAGNER PD             BULL EUR PHYSIOPATH RESP        18   361 982
+    14   JALOWAYSKI AA         RESPIRATION                     43   249 982
+    15   LEWIS SM              RESPIR PHYSIOL                  50   111 982
+    16   HUTCHISON AA          AM REV RESPIR DIS              125    28 982
+    17   BRONIKOWSKI TA        INT J BIOMEDICAL COMPUT         14   411 983
+    18   MULLER E              BULL EUR PHYSIOPATH RESP        19  P100 983
+    19   RUBIN DZ              J APPL PHYSIOL                  56   708 984
+    20   BATES JHT             IEEE TRANS BIOMED ENG           32   478 985
+    21   BRUNNER JX            J APPL PHYSIOL                  59  1008 985
+    22   HARF A                AM REV RESPIR DIS              132   350 985
+    23   BUCHANAN PR           CLIN PHYS PHYSIOL MEASURE        7   237 986
+    24   CRAWFORD ABH          J APPL PHYSIOL                  61  2108 986
+    25   BATES JHT             RADIAT RES                     107   307 986
+    26   BUCHANAN PR           AM REV RESPIR DIS              133  A384 986
+    27   BATES JHT             MED BIOL ENG COMPUT             25   131 987

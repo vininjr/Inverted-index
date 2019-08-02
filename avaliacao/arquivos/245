@@ -1,0 +1,58 @@
+PN 75079
+RN 00245
+AN 75131670
+AU Sorenson-R-L.  Shank-R-D.  Elde-R-P.
+TI Immunoperoxidase demonstration of human serum globulin binding to
+   islet tissue.
+SO Diabetes. 1975 Feb. 24(2). P 230-7.
+MJ DIABETES-MELLITUS-INSULIN-DEPENDENT: me.  IMMUNOGLOBULINS: me.
+   ISLANDS-OF-LANGERHANS: me.  PEROXIDASES.
+MN ADOLESCENCE.  ADULT.  ANIMAL.  CHILD.  CHILD-PRESCHOOL.
+   CYSTIC-FIBROSIS: me.  DIABETES-MELLITUS: ci.  GOATS: im.  HUMAN.
+   IGG.  INFANT.  ISLANDS-OF-LANGERHANS: pa.  PROTEIN-BINDING.  RATS.
+   STREPTOZOTOCIN.
+AB Sera from juvenile diabetic and nondiabetic controls were tested,
+   using the immunoperoxidase method, for the presence of islet-binding
+   immunoglobulins. All diabetic sera tested contained an islet-binding
+   protein and on the average the sera were more positive than age-
+   matched controls. Normal adult sera are undifferentiated from
+   juvenile diabetic sera. Most sera from children less than two years
+   of age did not bind to islet tissue and sera from cystic fibrosis
+   patients had a markedly diminished ability to bind to islet tissue.
+   The binding protein appears to be an immunoglobulin which selectively
+   reacts with elements of the islet beta cell.
+RF 001   GEPTS W               DIABETES                        14   519 965
+   002   LECOMPTE PM           ARCH PATHOL                     66   450 958
+   003   MEYENBURG HV          SCHWEIZ MED WOCHENSCHR          21   554 940
+   004   RENOLD AE             CIBA FOUND COLLOQUIA ENDOCRIN   15   122 964
+   005   LECOMPTE PM           DIABETES                        15   586 966
+   006   GRODSKY GM            DIABETES                        14   396 965
+   007   KOREAKOVA L           Z MIKROSK ANAT FORSCH           85    85 972
+   008   NERUP J               DIABETES                        20   424 971
+   009   UNGAR B               LANCET                           2   415 968
+   010   IRVINE WJ             LANCET                           2   163 970
+   011   PETTIT MD             J CLIN ENDOCRINOL METAB         21   209 960
+   012   BLIZZARD RM           CLIN EXP IMMUNOL                 2    19 967
+   013   ANON                  LANCET                           2   193 970
+   014   HUNG W                MED ANN DC                      39   487 970
+   015   KOGUT MD              J PEDIATR                       81   307 972
+   016   LANDING BH            J CLIN ENDOCRINOL METAB         23   119 962
+   017$  DECKERT T             ACTA MED SCAND                 474    30 967
+   018   NERUP J               ACTA ENDOCRINOL                 72   279 973
+   019   PAV J                 LANCET                           2   221 963
+   020   MANCINI AM            LANCET                           1  1189 965
+   021   CHETTY MP             LANCET                           1    67 965
+   022   NAKANE PK             J HISTOCHEM CYTOCHEM            14   929 966
+   023   ELDE RP               THESIS                                   974
+   024   SNEDECOR GW           STATISTICAL METHODS                      967
+   025   KABAT EA              EXPERIMENTAL IMMUNOCHEMISTRY             961
+   026   DESBUQUOIS B          J CLIN ENDOCRINOL METAB         33   732 971
+   028   GOMORI G              AM J CLIN PATHOL                20   665 950
+   029   GRIMELIUS L           IN: BROLIN SE                            964
+   030   HELLERSTROM C         IN: BROLIN SE                            964
+CT   1   CHRISTY M             CLIN ENDOCRINOL METAB            6   305 977
+     2   MONIER JC             LYON MED                       237    11 977
+     3   APPEL MC              DIABETOLOGIA                    15   327 978
+     4   LERNMARK A            N ENGL J MED                   299   375 978
+     5   KALDANY A             DIABETES                        28   102 979
+     6   BUSCHARD K            DAN MED BULL                    32   139 985

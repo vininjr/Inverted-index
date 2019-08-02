@@ -1,0 +1,77 @@
+PN 74024
+RN 00024 
+AN 74091941
+AU Mansell-A.  Dubrawsky-C.  Levison-H.  Bryan-A-C.  Crozier-D-N.
+TI Lung elastic recoil in cystic fibrosis.
+SO Am-Rev-Respir-Dis. 1974 Feb. 109(2). P 190-7.
+MJ CYSTIC-FIBROSIS: pp.  LUNG-COMPLIANCE.
+MN ADOLESCENCE.  ADULT.  AIRWAY-OBSTRUCTION: et, pp.  CHILD.
+   CYSTIC-FIBROSIS: co.  FEMALE.  HUMAN.  MALE.  NITROGEN.  OXYGEN: bl.
+   RADIOISOTOPES.  RESPIRATORY-FUNCTION-TESTS.  SPIROMETRY.
+   VITAL-CAPACITY.  XENON.
+AB The pressure-volume behavior of the lung was studied in 24 patients
+   with cystic fibrosis.  Isovolume flow-pressure relationships were
+   measured in 7 of these patients, and a modification of the
+   flow-volume test was evaluated for detection of flow reduction in a
+   separate group of 63 patients.  Relative to results in a control
+   group of 31 normal subjects, 13 of the 24 patients had grossly
+   abnormal pressure-volume curves with excessive stiffness of the lung
+   near maximum volume and loss of recoil at lower volume.  Closing
+   volumes in these patients were often high enough to cause
+   significant disturbances in gas exchange and the elevated closing
+   volumes were quantitatively explained by the low values for elastic
+   recoil.  The modified flow-volume test detected mild flow reduction
+   in many patients who otherwise had normal pulmonary function tests.
+   Loss of recoil per se did not account for the low maximum expiratory
+   flows, since "upstream" resistances were high.  However,
+   pressure-flow curves were effort-dependent at high lung volumes even
+   in patients with severe airway obstruction, showing that time
+   constants of emptying varied widely in these patients.  It was
+   concluded that deterioration of lung function in cystic fibrosis
+   involves more than airway obstruction and that the worsening gas
+   trapping is explained by a progressive loss of lung elastic recoil.
+RF 001   COOK CD               PEDIATRICS                      24   181 959
+   002   FEATHERBY EA          AM REV RESPIR DIS              102   737 970
+   003   HOGG JC               N ENGL J MED                   278  1355 968
+   004   ESTERLY JR            THORAX                          23   670 968
+   005   ZUELZER WW            PEDIATRICS                       4    53 949
+   006   TURNER JM             J APPL PHYSIOL                  25   664 968
+   007   HOLLAND J             J CLIN INVEST                   47    81 968
+   008   MEAD J                J APPL PHYSIOL                  22    95 967
+   009   COLEBATCH HJH         J APPL PHYSIOL                  34   143 973
+   010   SHWACHMAN H           AM J DIS CHILD                  96     6 958
+   011   DUBOIS AB             J CLIN INVEST                   35   322 956
+   012   MANSELL A             J APPL PHYSIOL                  33   711 972
+   013   DOLLFUSS RE           RESPIR PHYSIOL                   2   234 967
+   014   MILIC-EMILI J         J APPL PHYSIOL                  19   207 964
+   015   LEVISON H             ACTA PAEDIATR SCAND             59   648 970
+   016   HYATT RE              J APPL PHYSIOL                  13   331 958
+   017   HYATT RE              J APPL PHYSIOL                  35   411 973
+   018   CRAIG DB              J APPL PHYSIOL                  31   717 971
+   019   LEBLANC P             J APPL PHYSIOL                  28   448 970
+   020   SALAZAR E             J APPL PHYSIOL                  19    97 964
+   021   MACKLEM PT            AM REV RESPIR DIS               87    47 963
+   022   REID L                IN: HUBBARD D                         21 958
+   023   ZAPLETAL A            PEDIATRICS                      48    64 971
+   024   PRIDE NB              J APPL PHYSIOL                  23   646 967
+   025   MCFADDEN ER JR        J APPL PHYSIOL                  27   452 969
+   026   MELLINS RB            PEDIATRICS                      41   560 968
+   027   TAKISHIMA TG          SCAND J RESPIR DIS              48   384 967
+   028   ESTERLY JR            JOHNS HOPKINS MED J            122    94 968
+CT   1   LANDAU LI             AM REV RESPIR DIS              111   725 975
+     2   ZAPLETAL A            J APPL PHYSIOL                  40   953 976
+     3   LAPP NL               AM REV RESPIR DIS              113   155 976
+     4   WOOD RE               AM REV RESPIR DIS              113   833 976
+     5   ZAPLETAL A            BULL EUR PHYSIOPATH RESP        14   265 978
+     6   WONNE R               MONATSSCHR KINDERHEILKD        126   165 978
+     7   ZAPLETAL A            BULL EUR PHYSIOPATH RESP        15   575 979
+     8   GURWITZ D             PEDIATR CLIN NORTH AM           26   603 979
+     9   KRAEMER R             SCHWEIZ MED WOCHENSCHR         109    39 979
+    10   LARSEN GL             AM REV RESPIR DIS              119   399 979
+    11   COOPER DM             AM REV RESPIR DIS              121   639 980
+    12   REDDING GJ            AM REV RESPIR DIS              126    31 982
+    13   COTTON DJ             CHEST                           87   217 985
+    14   STOKES DC             CHEST                           87   785 985
+    15   DESMOND KJ            PEDIATR PULMONOL                 2   128 986
+    16   KRUHLAK RT            WEST J MED                     145   196 986
+    17   TEPPER RS             AM REV RESPIR DIS              135  1075 987

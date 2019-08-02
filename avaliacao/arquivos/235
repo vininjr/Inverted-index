@@ -1,0 +1,62 @@
+PN 75069
+RN 00235
+AN 75167100
+AU Danes-B-S.
+TI Cystic fibrosis heterozygote detection: a study on a normal
+   population.
+SO Clin-Genet. 1975 Feb. 7(2). P 128-33.
+MJ CYSTIC-FIBROSIS: fg.  HETEROZYGOTE.
+MN ADOLESCENCE.  ADULT.  BIOLOGICAL-ASSAY.  CELLS-CULTURED.  CILIA: me.
+   CULTURE-MEDIA.  CYSTIC-FIBROSIS: me.  FEMALE.  FIBROBLASTS.
+   GENETICS-POPULATION.  HUMAN.  LEUKOCYTES.  MALE.  MIDDLE-AGE.
+   OYSTERS.  SKIN.
+AB Detection of the cystic fibrosis (CF) heterozygote by testing for
+   cystic fibrosis factor activity (CFFA) in serum samples using
+   bioassays had been reported to give unreliable results. The present
+   study was undertaken to find whether the use of medium from short
+   term white blood cell or skin fibroblast cultures, rather than serum,
+   as the test sample would eliminate such inconsistencies. Short term
+   white blood cell cultures were established from 107 normal, healthy
+   individuals. Cultures from 97 had no CFFA, six (No. 1-6) showed
+   variable results and four (No. 7-10) had activity in all four tests
+   done on a single sample. When the assays were repeated 3 months later
+   on new cultures from these four positive CFFA individuals, two showed
+   activity (Nos. 7 & 9) and two did not (Nos. 8 & 10). All 10
+   individuals whose cultures showed CFFA has histories of allergies.
+   The association of CFFA in the culture medium derived from
+   individuals having allergies with the intermittent presence of this
+   activity suggested that environmental factors induced a CFF-like
+   activity in such white blood cell cultures. The oyster ciliary assay,
+   using medium from white blood cell cultures, cannot be used for
+   screening for the CF heterozygote since the substitution of culture
+   medium for serum did not eliminate inconsistent results and CFFA was
+   not specific by this assay for the CF gene. Of the fibroblast lines
+   established from the four persons whose initial white blood cell
+   cultures consistently showed CFFA, only one (No. 7) showed the CF
+   culture phenotype (CFFA positive and metachromasia).
+RF 001   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973
+   002   BOWMAN BH             CLIN GENET                       4   461 973
+   003   BOWMAN BH             SCIENCE                        164   325 969
+   004   BOWMAN BH             SCIENCE                        167   871 970
+   005   CONOVER JH            PEDIATR RES                      7   220 973
+   006   CONOVER JH            PEDIATR RES                      7   224 973
+   007   CONOVER JH            LANCET                           1  1194 973
+   008   CONOVER JH            LANCET                           2  1501 973
+   009$  DANES BS              BIRTH DEF ORIG ART SER           7   141 971
+   010   DANES BS              BIRTH DEF ORIG ART SER           8   114 972
+   011   DANES BS              LANCET                           2   765 973
+   013   DANES BS              J EXP MED                      123     1 966
+   014   DANES BS              J EXP MED                      129   775 969
+   016   DANES BS              J EXP MED                      137  1538 973
+   017   DANES BS              J EXP MED                      132   765 970
+   018   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   019   HIRSCHHORN K          IN: MANGOS JA                         11 973
+   020   SPOCK A               PEDIATR RES                      1   173 967
+   021   WOOD RE               LANCET                           2  1452 973
+CT   1   DANES BS              CLIN GENET                       8    85 975
+     2   GILLARD BK            PEDIATR RES                     10   907 976
+     3   DANES BS              TEX REP BIOL MED                34   135 976
+     4   DANES BS              CLIN GENET                      11    83 977
+     5   IMPERO JE             PEDIATR RES                     12   108 978
+     6   DANES BS              CLIN GENET                      13   327 978
+     7   WILSON GB             J LAB CLIN MED                  92   463 978

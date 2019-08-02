@@ -1,0 +1,149 @@
+PN 76176
+RN 00530 
+AN 76101892
+AU Wilson-G-B.  Fudenberg-H-H.
+TI Studies on cystic fibrosis using isoelectric focusing.  II.
+   Demonstration of deficient proteolytic cleavage of
+   alpha2-macroglobulin in cystic fibrosis plasma.
+SO Pediatr-Res. 1976 Feb. 10(2). P 87-96.
+MJ ALPHA-MACROGLOBULINS: me.  CYSTIC-FIBROSIS: bl.
+   PEPTIDE-HYDROLASES:  df.
+MN ALPHA-MACROGLOBULINS: ip, an, df.  ARGINASE: df, bl.
+   BLOOD-PROTEINS:  ip.  HUMAN.  ISOELECTRIC-FOCUSING.
+   PEPTIDE-HYDROLASES: bl.  PROTEIN-BINDING.  TRYPSIN: bl.
+AB A protein with an isoelectric point (pI) of 5.48 was found to be
+   deficient in plasma from most cystic fibrosis (CF) homozygotes and
+   obligate heterozygote carriers of CF as compared with normal control
+   plasma. Purification of the protein with a pI of 5.48 from normal
+   plasma was performed using ammonium sulfate precipitation, DEAE-
+   cellulose and CM-cellulose chromatography, Sephadex G-200- gel
+   filtration, starch block electrophoresis, and Sepharose 4B gel
+   filtration. The purified protein migrated as a single band on
+   polyacrylamide gel electrophoresis, and displayed a single arc on
+   immunoelectrophoresis against polyvalent antiserum to whole human
+   serum. Results from various techniques used in its characterization
+   indicate that this protein is a fragment of alpha2-macroglobulin
+   (alpha2M) which is derived from alpha2M by proteolytic cleavage of
+   intact alpha2M subunits. Quantitation of alpha2M levels in plasma
+   indicated no significant differences between levels of alpha2M in CF
+   homozygote, obligate heterozygote carrier, or normal control plasma
+   samples. Quantitation of arginine esterase activity in plasma treated
+   with cloroform and ellagic acid indicated that both the total
+   arginine esterase activity and that fraction of arginine esterase
+   activity inhibited by soybean trypsin inhibitor (SBTI) were decreased
+   in most CF homozygote and obligate heterozygote plasma samples
+   relative to normal control values. The results of this study indicate
+   that plasma samples from CF homozygotes and obligate heterozygote
+   carriers for CF show deficient proteolytic cleavage of alpha2M as
+   compared with normal control plasma, and suggest that a structural
+   abnormality in alpha2M or a deficiency in plasma proteolytic activity
+   may be responsible for this deficiency in proteolysis.
+RF 001   BARNETT DR            PEDIATR RES                      8   687 974
+   002   BARNETT DR            TEX REP BIOL MED                31   703 973
+   003   BARRETT AJ            BIOCHEM J                      133   709 973
+   004   BERATIS NG            PEDIATR RES                      7   958 973
+   005   BOWMAN BH             IN: MANGOS JA                         29 973
+   006   BOWMAN BH             CLIN GENET                       4   461 973
+   007   BOWMAN BH             SCIENCE                        167   871 970
+   008   COHEN LF              PEDIATR RES                      9   312 975
+   009   COLMAN RW             J CLIN INVEST                   48    23 969
+   010   CONNEALLY PM          TEX REP BIOL MED                31   639 973
+   011   CONOVER JH            PEDIATR RES                      7   220 973
+   012   CONOVER JH            LANCET                           1    47 975
+   013   CONOVER JH            LIFE SCI                        14   253 974
+   014   DAVIS BJ              ANN NY ACAD SCI                121   404 964
+   015   FAIRBANKS G           BIOCHEMISTRY                    10  2606 971
+   016   GANROT PO             CLIN CHIM ACTA                  13   518 966
+   017   GANROT PO             CLIN CHIM ACTA                  13   597 966
+   018   GANROT PO             CLIN CHIM ACTA                  16   328 967
+   019   GANROT PO             ACTA CHEM SCAND                 21   595 967
+   020   HARPEL PC             J EXP MED                      132   329 970
+   021   HARPEL PC             J EXP MED                      138   508 973
+   022   HIRSCHHORN K          IN: MANGOS JA                         11 973
+   023   JONES JM              BIOCHEM J                      127   187 972
+   024   KAPLAN AP             MICROVASC RES                    8    97 974
+   025   KUNKEL HG             IN: BIER M                           225 959
+   026   LANCHANTIN GF         PROC SOC EXP BIOL MED          121   444 966
+   027   LASKOWSKI M           IN: BOYER PD                     3   375 971
+   028   LIEBERMAN J           LANCET                           1  1230 974
+   029   LIEBERMAN J           CF CLUB ABST                          44 975
+   030   LOWRY OH              J BIOL CHEM                    193   265 951
+   031   MANGOS JA             PEDIATR RES                      2   378 968
+   032   MARGOLIS J            J PHYSIOL (LOND)               151   238 960
+   033   MCCOMBS ML            TEX REP BIOL MED                31   615 973
+   034   MCCONNELL DJ          J CLIN INVEST                   51  1611 972
+   035   MOLENAAR J            J IMMUNOL                      112  1444 974
+   036   MUNRO GF              CF CLUB ABST                    16     7 975
+   037   OUCHTERLONY O         IN: WEIR DM                          191 973
+   038   RAO GJS               PEDIATR RES                      8   684 974
+   039   RAO GJS               SCIENCE                        177   610 972
+   040   RATNOFF OD            ADV IMMUNOL                     10   145 969
+   041   RATNOFF OD            IN: GOOD RA                          135 971
+   042   RAYMOND S             ANN NY ACAD SCI                121   350 964
+   043   RENNERT OM            IN: MANGOS JA                         41 973
+   044   SAUNDERS R            J CLIN INVEST                   50  2376 971
+   045   SIEGELMAN AM          ARCH BIOCHEM BIOPHYS            97   159 962
+   046   STEINBACH M           REV FR ETUD CLIN BIOL           13   179 968
+   047   STEINBACH M           BIOCHIM BIOPHYS ACTA           154   228 968
+   048   WILSON GB             THESIS                                   974
+   050   WILSON GB             PEDIATR RES                      9   635 975
+   051   WILSON GB             LIFE SCI                        15   551 974
+   052   WILSON GB             CLIN CHIM ACTA                  49    79 973
+   053   CAUDILL M             LANCET                           2   307 973
+CT   1   SHAPIRA E             PEDIATR RES                     10   812 976
+     2   WILSON GB             PEDIATR RES                     10  1001 976
+     3   LEDERBERG S           AM J HUM GENET                  28   597 976
+     4   WILSON GB             TEX REP BIOL MED                34    51 976
+     5   FORSTNER G            CLIN CHIM ACTA                  70   459 976
+     6   SHAPIRA E             BIOCHEM BIOPHYS RES COMMUN      71   864 976
+     7   RAO GJS               PEDIATR RES                     11   981 977
+     8   WILSON GB             PEDIATR RES                     11   139 977
+     9   WILSON GB             PEDIATR RES                     11   317 977
+    10   ARNAUD P              J IMMUNOL METH                  16   221 977
+    11   CHAN KYH              CLIN CHIM ACTA                  74    71 977
+    12   SHAPIRA E             CLIN CHIM ACTA                  78   359 977
+    13   GOLDSMITH GH          J LAB CLIN MED                  89   131 977
+    14   SHAPIRA E             J BIOL CHEM                    252  7923 977
+    15   WILSON GB             NATURE                         266   463 977
+    16   WILSON GB             PEDIATR RES                     12   801 978
+    17   ALHADEFF JA           CLIN GENET                      14   189 978
+    18   RAO GJS               ENZYME                          23   314 978
+    19   VIRCA GD              ANAL BIOCHEM                    89   274 978
+    20   WILSON GB             J LAB CLIN MED                  92   463 978
+    21   ROMEO G               NATURE                         274   909 978
+    22   PEARSON RD            PEDIATR RES                     13   834 979
+    23   ROMEO G               PEDIATR RES                     13  1030 979
+    24   VANLEUVEN F           PEDIATR RES                     13  1384 979
+    25   WILSON GB             PEDIATR RES                     13  1079 979
+    26   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+    27   KURECKI T             ANAL BIOCHEM                    99   415 979
+    28   BARRETT AJ            BIOCHEM J                      181   401 979
+    29   SCANLIN TF            CLIN CHEST MED                   1   424 980
+    30   DAVIS PB              PEDIATR RES                     14    83 980
+    31   SHAPIRA E             BIOCHEM BIOPHYS RES COMMUN      93    50 980
+    32   ROMEO G               J LAB CLIN MED                  95   116 980
+    33   BURDON MG             CLIN CHIM ACTA                 100   225 980
+    34   PARSONS M             CLIN CHIM ACTA                 100   215 980
+    35   SCHIDLOW DV           AM REV RESPIR DIS              121    31 980
+    36   NELLES LP             BIOCHIM BIOPHYS ACTA           623    46 980
+    37   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981
+    38   WILSON GB             J CLIN INVEST                   68   171 981
+    39   VANLEUVEN F           J BIOL CHEM                    256  9016 981
+    40   OWENSWILLIAMS L       J PEDIATR GASTROENTEROL NUTR     1   567 982
+    41   WILSON GB             MED HYPOTHESES                   8   527 982
+    42   BURY AF               IRCS MED SCI BIOCHEM            10   255 982
+    43   BLITZER MG            PEDIATR RES                     16   203 982
+    44   BURY AF               PEDIATR RES                     16   613 982
+    45   ROBERTS RC            PEDIATR RES                     16   416 982
+    46   BRIDGES MA            CLIN CHIM ACTA                 118    33 982
+    47   BRIDGES MA            CLIN CHIM ACTA                 118    21 982
+    48   TUMMLER B             CLIN CHIM ACTA                 125   219 982
+    49   BACK SA               BIOCHEM MED                     30    34 983
+    50   BACK SA               J CHROMATOGR                   278    43 983
+    51   BRIDGES MA            ANN NY ACAD SCI                421   360 983
+    52   SHAPIRA E             ANN NY ACAD SCI                421   352 983
+    53   WILSON GB             ANN NY ACAD SCI                421   404 983
+    54   HJELM M               CLIN BIOCHEM                    17   284 984
+    55   EAGER KB              PEDIATR RES                     18   999 984
+    56   MARYNEN P             BIOCHIM BIOPHYS ACTA           799   187 984
+    57   GOLDSTEIN W           AM REV RESPIR DIS              134    49 986

@@ -1,0 +1,113 @@
+PN 77007
+RN 00589 
+AN 77178547
+AU Holby-N.  Olling-S.
+TI Pseudomonas aeruginosa infection in cystic fibrosis.  Bactericidal
+   effect of serum from normal individuals and patients with cystic
+   fibrosis on P. aeruginosa strains from patients with cystic fibrosis
+   or other diseases.
+SO Acta-Pathol-Microbiol-Scand [C]. 1977 Apr. 85(2). P 107-14.
+MJ BLOOD-BACTERICIDAL-ACTIVITY.  CYSTIC-FIBROSIS: im.
+   PSEUDOMONAS-AERUGINOSA.  PSEUDOMONAS-INFECTIONS: co.
+MN ADOLESCENCE.  ANTIBODIES-BACTERIAL: an.  CHILD.  COMPARATIVE-STUDY.
+   CYSTIC-FIBROSIS: co.  HUMAN.  PSEUDOMONAS-INFECTIONS: im.
+AB P. aeruginosa strains originating from the respiratory tract of
+   patients with cystic fibrosis (CF) and patients with other diseases
+   (non-CF) were analysed with regard to their sensitivity to the
+   bactericidal activity of human serum. P. aeruginosa strains isolated
+   from CF patients were more sensitive than strains from non-CF
+   patients to the bactericidal activity of normal human serum. The
+   bactericidal activity was heatlabile. As regards the sensitivity to
+   normal human serum, mucoid and non-mucoid variants were not found to
+   differ. Strains originating from chronically infected CF patients
+   with many precipitins against these bacteria did not differ with
+   respect to serum sensitivity from strains originating from
+   intermittently colonized CF patients without P. aeruginosa
+   precipitins. Compared with normal sera, CF sera showed similar or
+   higher bactericidal activity against a panel of P. aeruginosa
+   strains. In this respect, any difference between CF sera with
+   precipitins and CF sera without precipitins against P. aeurginosa was
+   not found. Sera from three CF patients chronically infected with P.
+   aeruginosa, and with many precipitins against these bacteria, showed
+   a selective inability in bactericidal activity against the patients'
+   own P. aeruginosa isolate possibly reflecting the presence of
+   "bactericidal blocking" antibodies.
+RF 001   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   83   553 975
+   002   BIGGAR WD             PROC NAT ACAD SCI USA           68  1716 971
+   003   BJORNSON AB           INFECT IMMUN                     2   453 970
+   004   BJORNSON AB           INFECT IMMUN                     4   462 971
+   005   BJORNSON AB           INFECT IMMUN                     5   775 972
+   006   BJORNSON AB           J INFECT DIS SUPPL             130   119 974
+   007   BJORNSON AB           J INFECT DIS SUPPL             130   127 974
+   008   BOXERBAUM B           AM REV RESPIR DIS              108   777 973
+   009   CROWDER JG            J LAB CLIN MED                  83   853 974
+   010   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA            962
+   011   DOGGETT RG            IN: LAWSON D PROC 5TH INT CF         175 969
+   012   GOLDMAN JN            INFECT DIS                     129   444 974
+   013   GOVAN JRW             J MED MICROBIOL                  8   513 975
+   014   GRIFFISS JM           J IMMUNOL                      114  1779 975
+   015   GUTTMAN RM            CLIN EXP IMMUNOL                19   121 975
+   016   HOWARD CJ             IMMUNOLOGY                      20   767 971
+   017   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   018   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   019   HOIBY N               SCAND J IMMUNOL SUPPL 2          4   187 975
+   020   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   549 975
+   021   KOCH C                ACTA PATH MICROBIOL SCAND (C)   83   144 975
+   022   LINDBERG U            ACTA PAEDIATR SCAND             64   432 975
+   023   MARTIN DR             J MED MICROBIOL                  6   111 973
+   024   MOREAU SC             SCIENCE                        190   278 975
+   025   MUSCHEL LH            J IMMUNOL                       76     1 956
+   026   OLLING S              INFECTION                        1    24 973
+   027   REED WP               IMMUNOLOGY                      26   205 974
+   028   ROWLEY D              IN: KASS E                           162 973
+   029   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   83   469 975
+   030   SIMBERKOFF MS         J LAB CLIN MED                  87   207 976
+   031   TAYLOR PW             CLIN SCI                        43   705 972
+   032   TAYLOR PW             J GEN MICROBIOL                 89    57 975
+   033   TAUB WH               INFECT IMMUN                    13  1343 976
+   034   WAISBREN BA           J IMMUNOL                       97   431 966
+   035   YOUNG LS              J INFECT DIS                   126   257 972
+   036   YOUNG LS              J INFECT DIS                   126   257 972
+   037   YOUNG LS              J INFECT DIS SUPPL             130   111 974
+   038   ZIERDT CH             J BACTERIOL                     87  1003 964
+CT   1   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     2   LARSSON P             MED MICROBIOL IMMUNOL          163    77 977
+     3   LIDINJANSON G         MED MICROBIOL IMMUNOL          164   247 978
+     4   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   87   229 979
+     5   HODSON ME             THORAX                          35   801 980
+     6   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   88   125 980
+     7   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981
+     8   KOEPP LH              INFECT IMMUN                    33   788 981
+     9   THOMASSEN MJ          INFECT IMMUN                    33   512 981
+    10   FICK RB               J CLIN INVEST                   68   899 981
+    11   MARKS MI              J PEDIATR                       98   173 981
+    12   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982
+    13   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    63 982
+    14   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    15   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982
+    16   OFFREDOHEMMER C       ANN MICROBIOL (PARIS)         A134   281 983
+    17   BOROWSKI RS           CURRENT MICROBIOL                9    25 983
+    18   PENKETH ARL           J MED MICROBIOL                 16   401 983
+    19   JAGGER KN             J CLIN MICROBIOL                17    55 983
+    20   SCHILLER NL           PEDIATR RES                     17   747 983
+    21   FICK RB               BULL EUR PHYSIOPATH RESP        19   151 983
+    22   CRYZ SJ               INFECT IMMUN                    39  1072 983
+    23   TAYLOR PW             MICROBIOL REV                   47    46 983
+    24   PENKETH A             AM REV RESPIR DIS              127   605 983
+    25   SCHILLER NL           CURRENT MICROBIOL               10   185 984
+    26   MESHULAM T            CLIN IMMUNOL IMMUNOPATHOL       32   151 984
+    27   KHARAZMI A            INFECT IMMUN                    43   161 984
+    28   SCHILLER NL           INFECT IMMUN                    45   748 984
+    29   THOMASSEN MJ          INFECT IMMUN                    45   741 984
+    30   FICK RB               J CLIN INVEST                   74   236 984
+    31   FALKENHAGEN U         Z UROL NEPHROL                  77   629 984
+    32   PIER GB               J INFECT DIS                   150   223 984
+    33   NICAS TI              EUR J CLIN MICROBIOL             4   175 985
+    34   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985
+    35   PAJDAK E              ARCH IMMUNOL THER EXP           33   499 985
+    36   OJENIYI B             ACTA PATH MICROB IMMU SCA (B)   93     7 985
+    37   SAWADA S              J INFECT DIS                   152  1290 985
+    38   SCHILLER NL           INFECT IMMUN                    54   689 986
+    39   FALKENHAGEN U         Z UROL NEPHROL                  79   619 986
+    40   FICK RB               AM REV RESPIR DIS              133   418 986
+    41   SPEERT DP             J HOSP INFECT                    9    11 987

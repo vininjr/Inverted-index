@@ -1,0 +1,117 @@
+PN 75138
+RN 00304
+AN 75217264
+AU Wilson-G-B.  Fudenberg-H-H.
+TI Studies on cystic fibrosis using isoelectric focusing.  I. An assay
+   for detection of cystic fibrosis homozygotes and heterozygote
+   carriers from serum.
+SO Pediatr-Res. 1975 Aug. 9(8). P 635-40.
+MJ CYSTIC-FIBROSIS: fg.  HETEROZYGOTE.  HOMOZYGOTE.
+MN ADOLESCENCE.  ADULT.  CHILD.  CHILD-PRESCHOOL.  CYSTIC-FIBROSIS: bl.
+   FEMALE.  GELS.  HUMAN.  HYDROGEN-ION-CONCENTRATION.  IGG: an.
+   INFANT.  ISOELECTRIC-FOCUSING.  MALE.  MIDDLE-AGE.
+AB We have developed a standardized biophysical assay for the rapid
+   detection of individuals homozygous or heterozygous for cystic
+   fibrosis (C/F). The assay employs isoelectric focusing in thin layer
+   polyacrylamide gels to analyze microliter quantities of whole serum
+   for the presence of a C/F factor protein and for deletions in a group
+   of proteins called proteins B, C, and D (Fig, 1). A pH 5-10 gradient
+   is used (Fig. 2) and each sample is screened using a serum volume
+   which contains 300 g immunoglobulin G (IgG). Individuals homozygous
+   or heterozygous for C/F are distinguished from normal unaffected
+   individuals on the basis of the presence of a C/F factor protein band
+   (Table 1). Heterozygous carriers for C/F are distinguished from C/F
+   homozygotes 75 percent of the time, on the basis of a deletion in
+   either band B, C, or D (Table 2). On the basis of screening 65
+   patients with cystic fibrosis, 61 heterozygous carriers for C/F, and
+   105 normal control subjects, it was concluded that no obvious
+   correlation existed between either sex, age, or severity of the
+   disease in the individual C/F patient, and the absolute presence or
+   absence of the C/F factor. In addition, no correlation existed
+   between sex or age and the presence of the C/F factor or deletions in
+   proteins B, C, and D in the individual heterozygous carrier for C/F
+   or normal control subjects. Analysis of serum samples from 68
+   patients with a variety of other diseases, many with clinical
+   symptoms resembling those seen in the patient with cystic fibrosis
+   (Table 3), indicated that the C/F factor protein described in this
+   study appears to be diagnostic for C/F genotypes, with the possible
+   exception of patients with certain types of leukemia.
+RF 001   BARNETT DR            TEX REP BIOL MED                31   697 973
+   002   BARNETT DR            TEX REP BIOL MED                31   703 973
+   003   BERATIS NG            PEDIATR RES                      7   958 973
+   004   BESLEY GTN            J MED GENET                      6   278 969
+   005   BOWMAN BH             TEX REP BIOL MED                31   611 973
+   006   BOWMAN BH             IN: MANGOS JA                         29 973
+   007   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973
+   008   BOWMAN BH             SCIENCE                        164   325 969
+   009   BOWMAN BH             SCIENCE                        167   871 970
+   010   CONNEALLY PM          TEX REP BIOL MED                31   639 973
+   011   CONOVER JH            PEDIATR RES                      7   224 973
+   012   CONOVER JH            CLIN RES                        21   531 973
+   013   CONOVER JH            PEDIATR RES                      7   220 973
+   014   CONOVER JH            LANCET                           1  1194 973
+   015   CONOVER JH            LANCET                           2  1501 973
+   016   CONOVER JH            LIFE SCI                        14   253 974
+   017   DANES BS              J EXP MED                      137  1538 973
+   018   DANKS DM              ANN HUM GENET                   28   323 965
+   019   FAHEY JL              J IMMUNOL                       94    84 965
+   020   GIBSON LE             PEDIATRICS                      23   545 959
+   021   LOBECK CC             IN: STANBURY JB                     1605 972
+   022   MANCINI G             IMMUNOCHEMISTRY                  2   235 965
+   023   MANGOS JA             PEDIATR RES                      2   378 968
+   024   MCCOMBS ML            TEX REP BIOL MED                31   615 973
+   025   MCCOMBS ML            CLIN GENET                       1   171 970
+   026   SCHMOYER IR           BIOCHEM BIOPHYS RES COMMUN      46  1923 972
+   027   SHWACHMAN H           IN: KENDIG EL JR                     541 967
+   029   SPOCK A               PEDIATR RES                      1   173 967
+   030   WILLIAMSON AR         IN: WEIR DM                              973
+   032   WILSON GB             DISSERT ABST INTERNAT           35   479 974
+   034   WILSON GB             LIFE SCI                        15   551 974
+   035   WILSON GB             CLIN CHIM ACTA                  49    79 973
+CT   1   WILSON GB             SCAND J IMMUNOL                  5   828 976
+     2   WILSON GB             PEDIATR RES                     10  1001 976
+     3   WILSON GB             PEDIATR RES                     10    87 976
+     4   WILSON GB             TEX REP BIOL MED                34    51 976
+     5   ANON                  J PEDIATR                       88   711 976
+     6   CHANGUS JE            ARCH PATHOL LAB MED            100     7 976
+     7   WOOD RE               AM REV RESPIR DIS              113   833 976
+     8   DISANTAGNESE PA       N ENGL J MED                   295   534 976
+     9   THOMAS JM             PEDIATR RES                     11   138 977
+    10   THOMAS JM             PEDIATR RES                     11  1148 977
+    11   WILSON GB             PEDIATR RES                     11   139 977
+    12   WILSON GB             PEDIATR RES                     11   317 977
+    13   WILSON GB             PEDIATR RES                     11   986 977
+    14   WILSON GB             PEDIATR RES                     11   143 977
+    15   ARNAUD P              J IMMUNOL METH                  16   221 977
+    16   BURDICK AB            HUM HERED                       27   366 977
+    17   WILSON GB             NATURE                         266   463 977
+    18   IMPERO JE             PEDIATR RES                     12   108 978
+    19   SCHOLEY J             PEDIATR RES                     12   800 978
+    20   WILSON GB             PEDIATR RES                     12   801 978
+    21   WILSON GB             J LAB CLIN MED                  92   463 978
+    22   ALLEN RC              J CHROMATOGR                   146     1 978
+    23   TULLY GW              PEDIATR RES                     13  1078 979
+    24   WILSON GB             PEDIATR RES                     13  1079 979
+    25   MANSON JC             LANCET                           1   330 980
+    26   WILSON GB             LANCET                           2   313 980
+    27   MAYO BJ               CLIN GENET                      18   379 980
+    28   WANG A                ARCH DIS CHILD                  55   130 980
+    29   HALLINAN F            MED HYPOTHESES                   7   793 981
+    30   NEVIN GB              HUM GENET                       56   387 981
+    31   HALLINAN FM           CLIN CHIM ACTA                 117   103 981
+    32   BOGART BI             PEDIATR RES                     16   223 982
+    33   MCNEELY MC            PEDIATR RES                     16    21 982
+    34   BULLOCK S             CLIN GENET                      21   336 982
+    35   BROCK DJH             HUM GENET                       60    30 982
+    36   HEELEY AF             CLIN CHEM                       29  2011 983
+    37   WILSON GB             THYMUS                           6   167 984
+    38   GRATAROLI R           PEDIATR RES                     18   130 984
+    39   WILSON GB             CLIN GENET                      26   331 984
+    40   GEDDES D              THORAX                          39   721 984
+    41   PASCALI VL            EUR J PEDIATR                  143   133 984
+    42   ANON                  LANCET                           2   249 985
+    43   VANHEYNINGEN V        CYTOGENET CELL GENET            40   767 985
+    44   SCAMBLER  P           HUM GENET                       69   250 985
+    45   QURESHI AR            J PEDIATR                      106   913 985
+    46   VANHEYNINGEN V        NATURE                         315   513 985
+    47   HAYWARD C             J IMMUNOL METH                  91   117 986

@@ -1,0 +1,66 @@
+PN 79227
+RN 01207 
+AN 79157701
+AU Gabridge-M-G.  Bright-M-J.  Agee-C-C.  Nickerson-J-M.  Henderson-N-S.
+TI Development of an improved tracheal explant bioassay for the
+   detection of the ciliary dyskinesia factor in cystic fibrosis serum.
+SO Pediatr-Res. 1979 Jan. 13(1). P 31-5.
+MJ CILIA: de.  CYSTIC-FIBROSIS: bl.  CYTOTOXINS: pd.  TRACHEA: de.
+MN ANIMAL.  CILIA: ph.  COMPARATIVE-STUDY.  CULTURE-MEDIA.  FEMALE.
+   GUINEA-PIGS.  HAMSTERS.  HUMAN.  MALE.  MOVEMENT.  MUCUS: de.
+   ORGAN-CULTURE: mt.  RABBITS.  RATS.  TRACHEA: ul.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB A tracheal ring explant system, when used with 25% cystic fibrosis
+   (CF) serum, displayed obvious ciliostasis. Hamster, rabbit, and
+   guinea pig explants all had measurable decreases in ciliary activity
+   after 24 hr of incubation in the serum. The differential response to
+   CF serum (relative to normal serum) was greatly increased by using
+   explants which were maintained 24-72 hr in minimal essential medium
+   (MEM) with 10% horse serum and which were selected on the basis of
+   optimal ciliary activity and vigor. With such a bioassay system of
+   guinea pig tracheal explants, incubation with 25% normal serum would
+   produce essentially no change in relative ciliary activity (score of
+   242 of a possible 300), whereas CF serum resulted in an 86% decrease
+   (score of 33). Scanning electron microscopic observation indicated
+   that the explants displaying the CF-ciliostatic effect had
+   significant accumulations of mucous over the ciliated epithelial
+   surface. A biochemical viability assay (dehydrogenase activity)
+   showed no cytonecrosis when CF serum-treated tissues were compared to
+   standard explants (10% horse serum in MEM) or control explants (25%
+   normal human serum).
+RF 001   ARAD I                ISR J MED SCI                   11    10 975
+   002   BARGMAN GJ            TEX REP BIOL MED                34    37 976
+   003   BAUR PS               TEX REP BIOL MED                34   155 976
+   004   BERATIS NG            PEDIATR RES                      7   958 973
+   005   BOWMAN BH             LIFE SCI                        19  1289 976
+   006   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975
+   007   CHANGUS JE            ARCH PATHOL LAB MED            100     7 976
+   008   CHERRY JD             ANN NY ACAD SCI                225   290 973
+   009   CHEUNG ATW            PEDIATR RES                     10   144 976
+   010   CHEUNG ATW            PEDIATR RES                     10   144 976
+   011   CONOVER JH            PEDIATR RES                      7   224 973
+   012   CONOVER JH            PEDIATR RES                      7   220 973
+   013   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   014   FORSTNER GG           CAN MED ASSOC J                113   550 975
+   015   GABRIDGE MG           IN: EVANS V                      1       976
+   016   GABRIDGE MG           J CLIN MICROBIOL                 3   560 976
+   017   GABRIDGE MG           INFECT IMMUN                    10  1127 974
+   018   GABRIDGE MG           IN VITRO                        13   510 977
+   019   GABRIDGE MG           INFECT IMMUN                    13    84 976
+   020   POLLEY MJ             J MED GENET                     11   249 974
+   021   SPOCK A               PEDIATR RES                      1   173 967
+   022   WOOD RE               AM REV RESPIR DIS              113   833 976
+   023   YEATES DB             ARCH DIS CHILD                  51    28 976
+CT   1   KENNEDY JR            PEDIATR RES                     14  1173 980
+     2   GABRIDGE MG           IN VITRO                        17   847 981
+     3   TEGNER H              ACTA PAEDIATR SCAND             70   629 981
+     4   GABRIDGE MG           ENVIRON HEALTH PERSPECT         44   189 982
+     5   VONEULER AM           ULTRASTRUCTURAL PATHOL           5    37 983
+     6   MA DI                 LIFE SCI                        32  2849 983
+     7   RUTLAND J             AM REV RESPIR DIS              128  1030 983
+     8   ROOMANS GM            SCANN ELECTRON MICROSC        1983   697 983
+     9   SANDERSON MJ          CELL MOTIL                       4   103 984
+    10   RUDICK VL             J CELL PHYSIOL                 118    67 984
+    11   WOOTEN MW             J CELL PHYSIOL                 121   490 984
+    12   WOOTEN MW             IN VITRO CELL DEVEL BIOL        21   207 985
+    13   HINGLEY ST            INFECT IMMUN                    51   254 986

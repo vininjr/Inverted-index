@@ -1,0 +1,87 @@
+PN 79221
+RN 01201 
+AN 80012536
+AU Feigal-R-J.  Shapiro-B-L.
+TI Altered intracellular calcium in fibroblasts from patients with
+   cystic fibrosis and heterozygotes.
+SO Pediatr-Res. 1979 Jun. 13(6). P 764-8.
+MJ BODY-FLUIDS: me.  CALCIUM: me.  CYSTIC-FIBROSIS: me.  HETEROZYGOTE.
+   INTRACELLULAR-FLUID: me.
+MN CELLS-CULTURED.  CYSTIC-FIBROSIS: fg.  FIBROBLASTS: me.  HUMAN.
+AB The importance of intracellular calcium (Ca) in secretion and
+   transmembrane ion movement led us to study Ca in cells from patients
+   with cystic fibrosis (CF) which is a lethal genetic exocrinopathy.
+   Skin fibroblasts from patients with CF, obligate heterozygotes (HZ),
+   and age- and sex-matched controls (C) were used in matched pair
+   experiments measuring 45Ca exchange into and efflux from the cells
+   over time. CF cell lines and HZ cell lines exhibit increased 45Ca
+   exchange when compared with their respective controls (P less than
+   0.005). The magnitude of this difference (approximately 30%) is not
+   reduced when cells are washed with lanthanum chloride after the
+   exchange period. This difference is likely attributable to an altered
+   capacity of one or more of the intracellular Ca sequestering
+   organelles. Further evidence for this explanation was seen in 45Ca
+   efflux experiments in which CF cells retained a higher percent of
+   their initial 0-time 45Ca than did C cells late in the efflux period
+   (P less than 0.05). The finding of an altered Ca pool size in both CF
+   and particularly HZ cells suggests that altered Ca metabolism is
+   related to the basic gene defect in CF.
+RF 001   BAUR PS               TEX REP BIOL MED                34   113 976
+   002   BLOMFIELD J           ARCH DIS CHILD                  48   267 973
+   003   BOGART BI             PEDIATR RES                     11   131 977
+   004   BOLTON WE             TEX REP BIOL MED                34    97 976
+   005   BORLE AB              METHODS ENZYMOL                 39   513 975
+   006   BORLE AB              TISSUE RES SUPPL                21    21 976
+   007   BOTELHO SY            J PEDIATR                       83   601 973
+   008   CARAFOLI E            SOC SYMP                        39    89 974
+   009   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   010   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   011   DOUGLAS WW            IN: CASE RM                              976
+   012   DUNN OJ               PRIMER FOR THE BIOMED SCI                964
+   013   FARRELL PM            PROC SOC EXP BIOL MED          149   340 975
+   014   FLETCHER DS           CLIN CHIM ACTA                  44     5 973
+   015   FOSTER DO             J BIOL CHEM                    244  2675 969
+   016   GIBSON LE             PEDIATRICS                      48   695 971
+   017   LEHMANN H             IN: STANBURY JB                          972
+   018   LEHNINGER AL          PROC NAT ACAD SCI USA           71  1520 974
+   019   LEHNINGER AL          ADV IMMUNOL                     29   259 967
+   020   LOBECK CC             IN: STANBURY JB                     1605 972
+   021   MANGOS JA             IN: ANDREOLI TE                          978
+   022   MOORE L               J CELL PHYSIOL                  91   289 977
+   023   OYAMA VI              PROC SOC EXP BIOL MED           91   305 956
+   024   RASMUSSEN H           CRIT REV BIOCHEM                 1    95 972
+   025   ROBBLEE LS            BIOCHIM BIOPHYS ACTA           463   448 976
+   026   SHAPIRO BL            CLIN CHIM ACTA                  82   125 978
+   027   VANBREEMAN C          CIRC RES                        33    44 972
+   028   WOTMAN S              ARCH ORAL BIOL                  16   663 971
+CT   1   SHAPIRO BL            PROC NAT ACAD SCI USA           76  2979 979
+     2   ANSAH TA              CELL CALC                        1   195 980
+     3   SCANLIN TF            CLIN CHEST MED                   1   424 980
+     4   KATZ S                CLIN CHIM ACTA                 100   245 980
+     5   ROOMANS GM            ULTRASTRUCTURAL PATHOL           2    53 981
+     6   ROOMANS GM            J SUBMICROSC CYTOL              13   445 981
+     7   REZNIK VM             PROC NAT ACAD SCI USA           78  7143 981
+     8   SORSCHER EJ           LANCET                           1   368 982
+     9   SEALE TW              ANN CLIN LAB SCI                12   415 982
+    10   BOGART BI             PEDIATR RES                     16   223 982
+    11   FEIGAL RJ             LIFE SCI                        30    93 982
+    12   SHAPIRO BL            AM J HUM GENET                  34   846 982
+    13   SHAPIRO BL            SCIENCE                        216   417 982
+    14   FONDACARO JD          LIFE SCI                        32  1449 983
+    15   MINER C               J PHYSIOL (LOND)               338  P 63 983
+    16   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983
+    17   ROOMANS GM            SCANN ELECTRON MICROSC        1983   697 983
+    18   SEYMOUR CA            BIOESSAYS                        1    38 984
+    19   KATZ S                CELL CALC                        5   421 984
+    20   CABRINI G             RIV ITAL PEDIATR                10   405 984
+    21   KAMOUN P              BIOCHEM MED                     31   104 984
+    22   RUSSI EW              CHEST                           86   475 984
+    23   GRINSTEIN S           BIOCHIM BIOPHYS ACTA           769   270 984
+    24   WALLER RL             CELL CALC                        6   245 985
+    25   KIRKPATRICK C         PEDIATR RES                     19  1341 985
+    26   SUTER S               PEDIATR RES                     19   346 985
+    27   MUALLEM S             BIOCHIM BIOPHYS ACTA           819   143 985
+    28   RUPP GM               MED HYPOTHESES                  20   245 986
+    29   MORRISSEY SM          DIGESTION                       34    28 986
+    30   FEIGAL RJ             ANN NY ACAD SCI                488    82 986
+    31   ROOMANS GM            SCANN ELECTRON MICROSC        1986   165 986

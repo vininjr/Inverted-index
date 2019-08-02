@@ -1,0 +1,34 @@
+PN 79229
+RN 01209 
+AN 80100639
+AU Tucker-R-D.  Gibbs-G-E.  Christensen-M-B.
+TI Cystic fibrosis serum effect on the short circuit current of rat
+   jejunum.
+SO Pediatr-Res. 1979 Dec. 13(12). P 1371-4.
+MJ CYSTIC-FIBROSIS: bl.
+MN ANIMAL.  CELL-MEMBRANE: me.  COMPARATIVE-STUDY.  CYSTIC-FIBROSIS: fg.
+   GENOTYPE.  HUMAN.  JEJUNUM: bs.  MALE.  MEMBRANE-POTENTIALS.  RATS.
+AB Sera from 100 subjects were tested for the presence of the cystic
+   fibrosis (CF) "factor" utilizing the short circuit current rat
+   jejunum bioassay. Comparing the mean percent decrease in short
+   circuit current, the presumed normal group differs from the
+   homozygous CF group at P = 0.001 and from the heterozygous group at P
+   = 0.05. The two CF genotypes are statistically different at P =
+   0.004. There is, however, a large overlap among the three groups,
+   which limits the assay's utility as a guide for factor purification
+   as well as clinical use.
+RF 001   ARAKI H               PEDIATR RES                      9   932 975
+   002   ARAKI H               PROC INT CF CONG 7TH                  28 976
+   003   BESLEY GTN            J MED GENET                      6   278 969
+   004   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975
+   005   BOWMAN BH             SCIENCE                        164   325 969
+   006   CHERRY JD             J PEDIATR                       79   937 971
+   007   CONOVER JH            LANCET                           1  1194 973
+   008   GILMORE JP            PROC SOC EXP BIOL MED          157    70 978
+   009   MANGOS JA             PEDIATR RES                      1   436 967
+   010   POSSELT HG            Z KINDERHEILK                  110    93 971
+   011   SPOCK A               PEDIATR RES                      1   173 967
+   012   USSING HH             ACTA PHYSIOL SCAND              61   484 964
+CT   1   TUCKER RD             COMPUT BIOL MED                 11   153 981
+     2   ALBAZZAZ FJ           RESPIRATION                     46    88 984
+     3   VONEULER AM           EXP MOL PATH                    43   142 985

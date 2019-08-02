@@ -1,0 +1,56 @@
+PN 75011
+RN 00178
+AN 75221819
+AU Hoiby-N.
+TI The serology of Pseudomonas aeruginosa analysed by means of
+   quantitative immunoelectrophoretic methods.  II.  Comparison of the
+   antibody response in man against thirteen O groups of Ps.
+   aeruginosa.
+SO Acta-Pathol-Microbiol-Scand [B]. 1975 Aug. 83(4). P 328-34.
+MJ ANTIBODIES-BACTERIAL.  ANTIGENS-BACTERIAL.  IMMUNOELECTROPHORESIS.
+   PSEUDOMONAS-AERUGINOSA: im.  SEROTYPING.
+MN ANTIBODY-SPECIFICITY.  COMPARATIVE-STUDY.  CYSTIC-FIBROSIS: im.
+   HUMAN.  SEROTYPING: mt.
+AB The occurrence of antibodies against antigens prepared from strains
+   representing 13 O groups of Pseudomonas aeruginosa and against a
+   polyvalent Ps. aeruginosa antigen (St-Ag) has been investigated in
+   sera from 100 patients. By means of fused rocket
+   immunoelectrophoresis with intermediate gel it was found that the
+   humoral immune response against Ps. aeruginosa resulting in
+   precipitating antibodies will be detected by St-Ag as well as by any
+   other of the antigen samples investigated. Six of the sera contained
+   group-specific antibodies which were revealed by only one of the
+   antigen samples used and not by St-Ag. These six sera were further
+   studied by means of various quantitative immunoelectrophoretic
+   methods using St-Ag as well as antigens prepared from the infecting
+   Ps. aeruginosa strain in the patient concerned. In all six sera, only
+   one extra precipitin could be detected using antigens prepared from
+   the homologous strain instead of St-Ag. This extra precipitin
+   corresponded presumably to group-specific O-antigens not included in
+   St-Ag. In sera from patients, these group-specific antibodies were
+   always accompanied by antibodies against antigens common to all
+   strains of Ps. aeruginosa.
+RF 001   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          1    71 973
+   002   AXELSEN NH            SCAND J IMMUNOL SUPPL 2          1   101 973
+   003   BOCK E                J IMMUNOL METH                   2    75 972
+   004   BOCK E                SCAND J IMMUNOL SUPPL 1          2    95 973
+   005   CROWDER JG            J LAB CLIN MED                  83   853 974
+   006   DOGGETT RG            INFECT IMMUN                     6   628 972
+   007   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973
+   008   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   009   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   010   HOIBY N               SCAND J IMMUNOL SUPPL 2          4   187 975
+   011   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   321 975
+   012   KROLL J               SCAND J IMMUNOL SUPPL                 79 973
+   013   MIKKELSEN OS          ACTA PATH MICROBIOL SCAND       73   373 968
+   014   MIKKELSEN OS          ACTA PATH MICROBIOL SCAND (B)   78   163 970
+   015   SVENDSEN PJ           SCAND J IMMUNOL SUPPL                 69 973
+CT   1   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   321 975
+     2   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   433 975
+     3   AXELSON NH            SCAND J IMMUNOL                  5   177 976
+     4   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   84   372 976
+     5   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   84   383 976
+     6   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     7   CLARKE CW             CLIN ALLERGY                     7   527 977
+     8   HOIBY N               SCAND J RESPIR DIS              58    65 977
+     9   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982

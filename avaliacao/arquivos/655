@@ -1,0 +1,59 @@
+PN 77074
+RN 00655 
+AN 78064391
+AU Breslow-J-L.  Epstein-J.  Vayo-M-M.  Fontaine-J-H.
+TI Decreased ouabain binding in cystic fibrosis fibroblasts in
+   potassium-free medium.
+SO Exp-Cell-Res. 1977 Dec. 110(2). P 399-407.
+MJ CYSTIC-FIBROSIS: me.  OUABAIN: me.
+MN BIOLOGICAL-TRANSPORT.  CULTURE-MEDIA.  FIBROBLASTS: me.  GLUCOSE: pd.
+   HUMAN.  POTASSIUM: pd.  RECEPTORS-DRUG: me.  RUBIDIUM: me.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB We have previously demonstrated that cystic fibrosis (CF) cells show
+   increased survival compared to normal cells when exposed to ouabain
+   in medium lacking potassium.  In this report, we show that the CF
+   cells bind significantly less ouabain than the normal cells in
+   potassium-deficient medium.  Using age-matched normal and CF skin
+   fibroblast strains, we show that (1) at ouabain concentrations <
+   20x10-9 M binding for both normal and CF cells is linear with time
+   for 1 h and reaches equilibrium after 4 h; (2) at ouabain
+   concentrations between 2 and 20x10-9 M, the initial rate of binding
+   for CF cells is approx. 70% of the normal cells; (3) under
+   equilibrium-binding conditions, Scatchard analysis reveals that
+   three different CF strains have 12, 16, and 44% fewer
+   ouabain-binding sites than their matched normal controls.  In
+   addition, studies in potassium-free medium of the inhibition of
+   86Rb flux (a K-plus analogue) into the cell by ouabain show no
+   differences between CF and normal cells.  We have also previously
+   shown that in a low glucose, potassium-deficient medium the CF cells
+   survived ouabain exposure no better than normal cells.  In this
+   report, equilibrium-binding studies with [3H]ouabain clearly show
+   that CF cells bind less ouabain under these conditions than normal
+   cells.  These results indicate that ouabain resistance in CF cells
+   is not solely a function of differences in ouabain binding.
+   Furthermore, the differential ouabain killing may not be due to ion
+   transport differences, but rather to as yet unknown mechanisms.  CF
+   cells thus appear to be unlike previously characterized
+   ouabain-resistant mutants.
+RF 001   ANON                  J PEDIATR                       88   711 976
+   002   EPSTEIN JL            PROC NAT ACAD SCI USA           74  1676 977
+   003   BAKER RM              CELL                             1     9 974
+   004   LEVER JE              J CELL PHYSIOL                  88   343 976
+   005   ROSENBERG HM          J CELL PHYSIOL                  85   135 975
+   006   BAKER RM              IN: COOK JS                           93 976
+   007   MAYHEW E              J CELL PHYSIOL                  79   441 972
+   008   MANKOVITZ R           CELL                             3   221 974
+   009   CORSARO CM            EXP CELL RES                    95    47 975
+   010   LOWRY OH              J BIOL CHEM                    193   265 951
+   011   FREUND JE             MODERN ELEMENTARY STATISTICS             967
+   012   SCATCHARD G           ANN NY ACAD SCI                 51   660 949
+   013   QUISSELL DO           NATURE                         247   115 974
+   014   AVERDUNK R            EXP CELL RES                    93   331 975
+   015   VAUGHAN GL            PROC NAT ACAD SCI USA           69  2627 972
+   016   BAKER PF              J PHYSIOL (LOND)               224   441 972
+CT   1   EPSTEIN J             SOMATIC CELL GENET               4   451 978
+     2   BRESLOW JL            CELL                            13   663 978
+     3   BRESLOW JL            SCIENCE                        201   180 978
+     4   REZNIK VM             PROC NAT ACAD SCI USA           78  7143 981
+     5   BRESLOW JL            N ENGL J MED                   304     1 981
+     6   LANGHOFF E            PEDIATR RES                     18   488 984

@@ -1,0 +1,77 @@
+PN 74062
+RN 00061 
+AN 74250648
+AU Hawley-H-B.  Lewis-R-M.  Swartz-D-R.  Gump-D-W.
+TI Tobramycin therapy of pulmonary infections in patients with cystic
+   fibrosis.
+SO Curr-Ther-Res. 1974 May. 16(5). P 414-23.
+MJ ANTIBIOTICS: tu.  LUNG-DISEASES: dt.  BACTERIAL-INFECTIONS: dt.
+   CYSTIC-FIBROSIS: co.  PSEUDOMONAS-INFECTIONS: dt.
+   STAPHYLOCOCCAL-INFECTIONS: dt.
+MN HUMAN.  ANTIBIOTICS: bl, pd, an.  AMINOGLYCOSIDES: tu, bl, pd, an.
+   LUNG-DISEASES: et, mi.  SPUTUM: mi, an.  PSEUDOMONAS: ip, de.
+   STAPHYLOCOCCUS: ip, de.
+AB Six patients having exacerbations of chronic pulmonary infections in
+   association with cystic fibrosis were treated with intramuscular
+   tobramycin 5 mg./kg./day in 3 divided doses.  The eight treatment
+   courses lasted 9 to 30 days.  Mean serum levels were 2.5 microg./ml.
+   at 1 to 3 hours and 0.2 microg./ml. at 7 1/2 to 8 hours after a dose
+   of tobramycin.  The mean tobramycin concentration in sputum was 0.3
+   microg./ml.  Eighty-two percent of the 66 pathogenic bacterial
+   isolates from sputum were either Pseudomonas sp. (64%) or
+   Staphylococcus aureus (18%).  Ninety-seven percent of Pseudomonas
+   sp. and 83 percent of Staphylococcus aureus were inhibited by 3.1
+   microg. tobramycin per ml.  No organism that was isolated before
+   therapy was observed to become resistant to tobramycin, although on
+   3 occasions colonization with new resistant gram-negative bacilli
+   occurred.  In 6 out of 8 courses of therapy patients showed clinical
+   improvement.  Elimination of bacterial pathogens from the sputum was
+   rarely achieved and was not necessary to produce clinical
+   improvement.  Colonization with resistant flora was an uncommon
+   finding.  Tobramycin's side effects were limited to local discomfort
+   at the injection site, nausea and vomiting.
+RF 001   POGUE RE              MINN MED                        52  1551 969
+   002   SHWACHMAN H           MINN MED                        52  1521 969
+   003   HUANG NN              J PEDIATR                       59   512 961
+   004   IACOCCA VF            AM J DIS CHILD                 106   315 963
+   005   KOCH KF               IN: HOBBY GL                         309 971
+   006   BLACK HR              ANTIMICROB AGENTS CHEMOTHER     11   314 971
+   007   RAWLINS GA            LANCET                           2   538 953
+   008   WARREN E              ANTIMICROB AGENTS CHEMOTHER      1    46 972
+   009   FISHER MW             J BACTERIOL                     98   835 969
+   010   SHWACHMAN H           AM J DIS CHILD                  96     6 958
+   011   SHADOMY S             ANTIMICROB AGENTS CHEMOTHER      1   412 972
+   012   DIENSTAG J            ANTIMICROB AGENTS CHEMOTHER      1    41 972
+   013   KIRBY WMM             J CLIN INVEST                   24   165 945
+   014   MARKS MI              J PEDIATR                       79   822 971
+   015   HUANG NN              J PEDIATR                       78   338 971
+CT   1   BROGDEN RN            DRUGS                           12   166 976
+     2   MCCRAE WM             SCOTT MED J                     21    68 976
+     3   MCCRACKEN GH          J PEDIATR                       88   315 976
+     4   WOOD RE               AM REV RESPIR DIS              113   833 976
+     5   BENDUSH CL            J INFECT DIS                   134  S219 976
+     6   MCCRAE WM             J INFECT DIS                   134  S191 976
+     7   NEU HC                J INFECT DIS                   134  S  3 976
+     8   PARRY MF              J INFECT DIS                   134  S194 976
+     9   LAU WK                PEDIATRICS                      60   372 977
+    10   ATTERHOLM I           SCAND J INFECT DIS              10   229 978
+    11   PAPORISZ U            MONOGR PAEDIATR                 10    31 979
+    12   FRIIS B               SCAND J INFECT DIS              11   211 979
+    13   KRAUSE PJ             CURR THER RES CLIN EXP          25   609 979
+    14   PAPORISZ U            EUR J PEDIATR                  130   259 979
+    15   MARTIN AJ             ARCH DIS CHILD                  55   604 980
+    16   WIENTZEN R            AM J DIS CHILD                 134  1134 980
+    17   MOMBELLI G            ANTIMICROB AGENTS CHEMOTHER     19    72 981
+    18   HYATT AC              J PEDIATR                       99   307 981
+    19   MALMBORG AS           SCAND J INFECT DIS            1981    64 981
+    20   SANDE MA              ARCH INTERN MED                142  2033 982
+    21   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982
+    22   BERGOGNEBEREZIN E     PRESSE MED                      12   287 983
+    23   GUAY DRP              DRUG INTEL CLIN PHARM           17    83 983
+    24   SZAFF M               ACTA PAEDIATR SCAND             72   651 983
+    25   LEVY J                J PEDIATR                      105   117 984
+    26   RODRIGUEZ JR          ANTIMICROB AGENTS CHEMOTHER     27   246 985
+    27   RODRIGUEZ JR          AM J MED                        78    42 985
+    28   MENDELMAN PM          AM REV RESPIR DIS              132   761 985
+    29   MARLIN GE             AM REV RESPIR DIS              134  1209 986
+    30   PEDERSEN SS           ANTIMICROB AGENTS CHEMOTHER     31   594 987

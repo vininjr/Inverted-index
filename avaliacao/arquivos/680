@@ -1,0 +1,87 @@
+PN 77099
+RN 00680 
+AN 77166681
+AU Yaffe-S-J.  Gerbracht-L-M.  Mosovich-L-L.  Mattar-M-E.  Danish-M.
+   Jusko-W-J.
+TI Pharmacokinetics of methicillin in patients with cystic fibrosis.
+SO J-Infect-Dis. 1977 May. 135(5). P 828-31.
+MJ CYSTIC-FIBROSIS: me.  METHICILLIN: me.
+MN ADOLESCENCE.  ADULT.  BACILLUS-SUBTILIS: de.  CREATININE: ur.
+   FEMALE.  HUMAN.  MALE.  METHICILLIN: ur.  SUPPORT-U-S-GOVT-P-H-S.
+AB The disposition of methicillin in normal subjects and in subjects
+   with cystic fibrosis (CF) was studied after administration of single
+   intravenous doses of 15 mg/kg. The area under the serum concentration
+   vs. time curve for CF patients was, on the average, only 75% of that
+   found for normal subjects. The low concentrations in serum were
+   caused by more rapid urinary excretion of the antibiotic, with rates
+   of renal clearance averaging 425 ml/min per 1.73 m2 in the patients
+   with CF and 362 ml/min per 1.73 m2 in the normal subjects. No
+   differences were found in volumes of distribution and metabolic
+   clearance rates of methicillin or in rates of creatinine clearance
+   between the two groups of subjects. These data support previous
+   findings with dicloxacillin which show that patients with CF exhibit
+   unusually rapid, active tubular secretion of certain penicillins that
+   may necessitate use of larger doses of these drugs in treatment of
+   infections.
+RF 001   LOWE CU               IN: BARNETT HL                       413 972
+   002   JUSKO WJ              PEDIATRICS                      56  1038 975
+   003   DITTERT LW            ANTIMICROB AGENTS CHEMOTHER      9    42 969
+   004   BENNETT JV            APPL MICROBIOL                  14   170 966
+   005   HEINEGARD D           CLIN CHIM ACTA                  43   305 973
+   006   METZLER CM            TECHNICAL REPORT UPJOHN COMPA            969
+   007   JUSKO WJ              J PHARM SCI                     61  1270 972
+   008   LOO JCK               J PHARM SCI                     59    53 970
+   009   HIRSCH GH             J PHARMACOL EXP THER           174   152 970
+CT   1   SOUICH PD             CLIN PHARMACOKINET               3   257 978
+     2   MARKS MI              ANTIMICROB AGENTS CHEMOTHER     13   753 978
+     3   BERGAN T              ARZNEIMITTEL FORSCH DRUG RES  29-2  1955 979
+     4   FINKELSTEIN E         J PEDIATR                       94   163 979
+     5   TOGNONI G             CLIN PHARMACOKINET               5   105 980
+     6   BENNETT SW            AM J HOSP PHARM                 37   523 980
+     7   BEAUDRY PH            J PEDIATR                       97   144 980
+     8   BAGGOT JD             J AM VET MED ASSOC             176  1085 980
+     9   MICHALSEN H           ANTIMICROB AGENTS CHEMOTHER     19  1029 981
+    10   MARKS MI              J PEDIATR                       98   173 981
+    11   STRANDVIK B           LANCET                           1   800 982
+    12   LEVY J                J ANTIMICROB CHEMOTHER          10   227 982
+    13   BINS JW               BR J CLIN PHARMACOL             14  P611 982
+    14   NEU HC                MED CLIN NORTH AM               66    51 982
+    15   KEARNS GL             J PEDIATR                      100   312 982
+    16   KELLY HB              J PEDIATR                      100   318 982
+    17   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982
+    18   PADOAN R              DRUGS UNDER EXP CLIN RES         9   661 983
+    19   HUANG NN              J ANTIMICROB CHEMOTHER          11   205 983
+    20   KERCSMAR CM           J ANTIMICROB CHEMOTHER          12   289 983
+    21   LEFF RD               PEDIATR CLIN NORTH AM           30    93 983
+    22   ARVIDSSON A           ACTA PAEDIATR SCAND             72   293 983
+    23   WESLEY AW             NZ MED J                        96   651 983
+    24   MACDONALD NE          J PEDIATR                      103   985 983
+    25   PADOAN R              J PEDIATR                      103   320 983
+    26   ISLES A               AM REV RESPIR DIS              127   417 983
+    27   NAHATA MC             DEVELOP PHARM THER               7   221 984
+    28   TURNER A              J ANTIMICROB CHEMOTHER          14   521 984
+    29   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984
+    30   SCHOFIELD DH          DRUG INTEL CLIN PHARM           18   153 984
+    31   REED MD               ANTIMICROB AGENTS CHEMOTHER     25   579 984
+    32   ZIEMNIAK JA           EUR J CLIN PHARMACOL            26   183 984
+    33   LEEDER JS             CLIN PHARMACOL THER             36   355 984
+    34   REED MD               J PEDIATR                      104   303 984
+    35   SPINO M               J PEDIATR                      105   829 984
+    36   ANON                  LANCET                           1  1020 985
+    37   KUHN RJ               CLIN PHARMACY                    4   555 985
+    38   WOOLF RA              CLIN PHARMACY                    4   664 985
+    39   PRANDOTA J            DEVELOP PHARM THER               8   311 985
+    40   REED MD               ANTIMICROB AGENTS CHEMOTHER     27   583 985
+    41   BLUMER JL             AM J MED                        79    37 985
+    42   HORREVORTS AM         CHEST                           88   260 985
+    43   JACOBS RF             J PEDIATR                      106  1001 985
+    44   WILSON CB             J PEDIATR                      106  1049 985
+    45   SPINO M               J PEDIATR                      107    64 985
+    46   ASSAEL BM             INT J PEDIATR NEPHROL            7   213 986
+    47   MICHALSEN H           METH FIND EXP CLIN PHARMACOL     8   727 986
+    48   MICHALSEN H           METH FIND EXP CLIN PHARMACOL     8   685 986
+    49   BENDER SW             INFECTION                       14    17 986
+    50   WRIGHT DB             DRUG INTEL CLIN PHARM           20   845 986
+    51   GOLDFARB J            J CLIN PHARMACOL                26   222 986
+    52   RUBIO TT              AM J MED                        81    73 986
+    53   REED MD               ANTIMICROB AGENTS CHEMOTHER     31   698 987

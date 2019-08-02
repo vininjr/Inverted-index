@@ -1,0 +1,55 @@
+PN 74003
+RN 00003 
+AN 74252221
+AU Kollberg-H.  Ekbohm-G.
+TI A clinical study of the diagnosis of cystic fibrosis by instrumental
+   neutron activation analysis of sodium in nail clippings.
+SO Acta-Paediatr-Scand. 1974 May. 63(3). P 411-7.
+MJ CYSTIC-FIBROSIS: di.  NAILS: an.  SODIUM: an.
+MN INFANT-NEWBORN.  INFANT.  CHILD-PRESCHOOL.  CHILD.  ADOLESCENCE.
+   ADULT.  HUMAN.  MALE.  FEMALE.  CYSTIC-FIBROSIS: me, fg.
+   ACTIVATION-ANALYSIS.  HETEROZYGOTE.  AGE-FACTORS.  INFANT-PREMATURE.
+   BIRTH-WEIGHT.  METHODS.
+AB This article reports on the possibility of using instrumental
+   neutron activation analysis (INAA) of sodium in nail clippings for
+   diagnosing cystic fibrosis (CF) in children and adults, for
+   detecting heterozygotes and for screening in the neonatal period.
+   Nail clippings from 1322 newborns, 22 CF patients (two of them
+   newborns), 52 healthy controls and 22 heterozygotes were analyzed.
+   The discrimination between CF patients and controls was found to be
+   precise for individuals above one year of age and INAA of nail
+   clippings should be accepted as a diagnostic test for CF after this
+   age.  Heterozygotes could not be detected by the method.  During the
+   first five days of life there is a big overlap between the values
+   from normal newborns and those of CF children, which makes the
+   method invaluable for early screening for CF.
+RF 001   BOWEN HJM             ADV ACTIVATION ANALYS            1   101 969
+   002   BRAY PT               PROC EWGCF 3RD ANNU MTG                  972
+   003   DI SANTAGNESE PA      PEDIATRICS                      12   549 953
+   004   FITE LE               PROC INT CONF MOD TRENDS             147 968
+   005   GEORGE L              ARCH DIS CHILD                  46   139 971
+   006   HEINTZ PH             THESIS                                   967
+   007   JILEK M               ZASTOSAWANIA MATEMATYKI          5   155 960
+   008   JOHNSON GF            PEDIATRICS                      47    88 971
+   009   KOLLBERG H            ACTA PAEDIATR SCAND             63   405 974
+   010   KOPITO L              N ENGL J MED                   272   504 965
+   011   SCHEFFE H             ANALYSIS OF VARIANCE                     959
+   012   SHWACHMAN H           NAT CF RES FOUND                         963
+   013   SHWACHMAN H           PEDIATRICS                      46   335 970
+   014   STAMM SJ              TERMINAL REPORT TO WASHINGTON            971
+   015   WARWICK WJ            IN: LAWSON D PROC 5TH INT CF         320 969
+   016   WINGE-FLENSBORG E     PROC EWGCF 1ST ANNU MTG                  970
+   017   WOODRUFF L            NUCL APPL                        6   352 969
+   018   WRIGHT SW             IN: LAWSON D PROC 5TH INT CF          91 969
+CT   1   KOLLBERG H            SCAND J CLIN LAB INVEST         35    17 975
+     2   VANSTEKELENBURG GJ    CLIN CHIM ACTA                  59   233 975
+     3   KOLLBERG H            ACTA PAEDIATR SCAND             64   477 975
+     4   TARNOKY AL            CLIN CHIM ACTA                  69   505 976
+     5   ANON                  J PEDIATR                       88   711 976
+     6   HOSLI P               ACTA PAEDIATR SCAND             67   617 978
+     7   ROOMANS GM            ACTA PAEDIATR SCAND             67    89 978
+     8   HEELEY AF             CLIN CHEM                       29  2011 983
+     9   ROOMANS GM            SCANN ELECTRON MICROSC        1983   697 983
+    10   BARDON A              ACTA PAEDIATR SCAND             73   263 984
+    11   ROOMANS GM            ANN NY ACAD SCI                428   121 984
+    12   CHAPMAN AL            EUR J RESPIR DIS                66   218 985

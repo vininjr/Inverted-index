@@ -1,0 +1,78 @@
+PN 75009
+RN 00176
+AN 76084672
+AU Bergan-T.  Hoiby-N.
+TI Epidemiological markers for Pseudomonas aeruginosa.  6. Relationship
+   between concomitant non-mucoid and mucoid strains from the
+   respiratory tract in cystic fibrosis.
+SO Acta-Pathol-Microbiol-Scand [Suppl]. 1975 Dec. 83(6). P 553-60.
+MJ CYSTIC-FIBROSIS: mi.  PSEUDOMONAS-AERUGINOSA: ip.
+   RESPIRATORY-SYSTEM: mi.
+MN ADOLESCENCE.  ADULT.  BACTERIOPHAGE-TYPING.  CHILD.  CHILD-PRESCHOOL.
+   CYSTIC-FIBROSIS: et.  FEMALE.  HUMAN.  MALE.  PHENOTYPE.  PYOCINS.
+   SEROTYPING.
+AB The simultaneously occurring mucoid (M) and non-mucoid (NM) variants
+   of Pseudomonas aeruginosa frequently observed in cultures from the
+   respiratory tract of chronically infected cystic fibrosis patients
+   have been studied. M cultures in vitro were unstable and easily
+   dissociated NM colonies. In a large proportion of the cases, M and NM
+   variants occurring simultaneously in cultures from one and the same
+   clinical specimen were of the same pyocine type, phage type, and
+   serogroup. In some remaining cases there were small differences
+   between the M and NM variants such that identity between the variants
+   from one and the same specimen was possible, although not definite.
+   The NM dissociants from M strains were of the same type as the M
+   variant. The possible role of cross-infection and the interaction of
+   bacteria and host response factors continuously tending to select the
+   unstable M variant in vivo are discussed.
+RF 001   BARTELL PF            INFECT IMMUN                     2   543 970
+   002   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   80   177 972
+   003   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   81    70 973
+   004   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   80    91 973
+   005   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   83     1 975
+   007   BURNS MW              BR MED J                         3   382 973
+   008   CARLSON DM            BIOCHEMISTRY                     5  2817 966
+   009   DIAZ F                J INFECT DIS                   121   269 970
+   010   DOGGETT RG            APPL MICROBIOL                  18   936 969
+   011   DOGGETT RG            J PEDIATR                       68   215 966
+   012   DOGGETT RG            INFECT IMMUN                     6   628 972
+   013   GILLIES RR            J PATHOL BACTERIOL              91   339 966
+   014   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   015   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   016   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   549 975
+   017   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973
+   018   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   83   459 975
+   019   JESSEN O              PSEUDOMONAS AERUGINOSA AND OT            965
+   020   KAGAYAMA M            J GEN APPL MICROBIOL            16   531 970
+   021   MARTIN DR             J MED MICROBIOL                  6   111 973
+   022   SCHWARZMANN S         INFECT IMMUN                     3   762 971
+CT   1   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   83   549 975
+     2   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     3   HOIBY N               SCAND J RESPIR DIS              58    65 977
+     4   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   107 977
+     5   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   142 977
+     6   MARKOWITZ SM          INFECT IMMUN                    22   530 978
+     7   SEALE TW              J CLIN MICROBIOL                 9    72 979
+     8   MAYBURY BA            ANTIMICROB AGENTS CHEMOTHER     15   494 979
+     9   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   87   229 979
+    10   THOMASSEN MJ          J INFECT DIS                   140   873 979
+    11   ISKHAKOVA KI          ZH MIKROBIO EPIDEMIO IMMUNOBI 1979    98 979
+    12   SAVITSKAYA KI         ZH MIKROBIO EPIDEMIO IMMUNOBI 1979    84 979
+    13   DEMKO CA              CURRENT MICROBIOL                4    69 980
+    14   MICHALSEN H           CHEMOTHERAPY                    26   135 980
+    15   WOODS DE              INFECT IMMUN                    30   694 980
+    16   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   88   125 980
+    17   MICHALSEN H           SCAND J INFECT DIS            1981    92 981
+    18   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982
+    19   MOLLER NE             EUR J RESPIR DIS                63   130 982
+    20   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982
+    21   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    22   ISKHAKOVA KI          ZH MIKROBIO EPIDEMIO IMMUNOBI 1982    33 982
+    23   ZIMAKOFF J            J HOSP INFECT                    4    31 983
+    24   BRYAN LE              J CLIN MICROBIOL                18   276 983
+    25   SANTINI G             BOLL IST SIEROTER MILAN         62   242 983
+    26   PENKETH A             AM REV RESPIR DIS              127   605 983
+    27   GOLD R                PEDIATR INFECT DIS               4   172 985
+    28   PIER GB               J CLIN MICROBIOL                24   189 986
+    29   ANASTASSIOU ED        J CLIN MICROBIOL                25   656 987
+    30   OGLE JW               J INFECT DIS                   155   119 987

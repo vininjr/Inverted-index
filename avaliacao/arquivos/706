@@ -1,0 +1,34 @@
+PN 77125
+RN 00706 
+AN 78048779
+AU Hirao-Y.  Homma-J-Y.  Zierdt-C-H.
+TI Serotyping of Pseudomonas aeruginosa from patients with cystic
+   fibrosis of the pancreas.
+SO Jpn-J-Exp-Med. 1977 Aug. 47(4). P 249-54.
+MJ CYSTIC-FIBROSIS: mi.  PSEUDOMONAS-AERUGINOSA: im.
+MN AGGLUTINATION-TESTS: mt.  COMPARATIVE-STUDY.  HUMAN.
+   SEROTYPING: mt.
+AB Serotyping of 30 mucoid strains isolated from cystic fibrosis
+   patients was carried out by slide agglutination tests with both live
+   and heat-killed cells and by tube agglutination test with heat-killed
+   cells. Comparison of the results obtained by these 2 methods revealed
+   that tube agglutination with heat-killed cells was the superior
+   method. More than half the strains were found to be Homma's serotype
+   15 (group M in the new schema [2]). Slide agglutination with live
+   cells did not give clear results: some strains showed occasionally
+   positive or negative agglutinations against the same serotype serum.
+   Changes in serotypes (groups in the new schema [2]) were found in
+   some strains, although the number was very small.
+RF 001   HOMMA JY              JAPAN J EXP MED                 44     1 974
+   002   HOMMA JY              JAPAN J EXP MED                 46   329 976
+   003   YABUUCHI E            JAPAN J EXP MED                 46   393 976
+   004   ZIERDT CH             J CLIN MICROBIOL                 1   521 975
+   005   HOMMA JY              JAPAN J EXP MED                 40   347 970
+   006   SHIONOYA H            JAPAN J EXP MED                 47   185 977
+   007   KODAMA H              JAPAN J EXP MED                 46   383 976
+   008   KONO M                JAPAN J EXP MED                 47     1 977
+   009   HOMMA JY              JAPAN J EXP MED                 42   171 972
+   010   KAWAHARAJO K          JAPAN J EXP MED                 43   225 973
+CT   1   HOMMA JY              JAP J EXP MED                   49    89 979
+     2   JAGGER KN             J CLIN MICROBIOL                17    55 983
+     3   OGLE JW               J INFECT DIS                   155   119 987

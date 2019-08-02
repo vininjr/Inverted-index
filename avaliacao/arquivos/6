@@ -1,0 +1,75 @@
+PN 74006
+RN 00006 
+AN 75014083
+AU Hoiby-N.  Mathiesen-L.
+TI Pseudomonas aeruginosa infection in cystic fibrosis.  Distribution
+   of B and T lymphocytes in relation to the humoral immune response.
+SO Acta-Pathol-Microbiol-Scand [B]. 1974 Aug. 82(4). P 559-66.
+MJ B-LYMPHOCYTES: im.  CYSTIC-FIBROSIS: im.  IMMUNITY.
+   PSEUDOMONAS-AERUGINOSA: im.  PSEUDOMONAS-INFECTIONS: im.
+   RESPIRATORY-TRACT-INFECTIONS: im.  T-LYMPHOCYTES: im.
+MN ADOLESCENCE.  ANTIBODIES-BACTERIAL.  ANTIGENS-BACTERIAL.  CHILD.
+   COMPLEMENT.  CYSTIC-FIBROSIS: mi, bl.  FEMALE.  HUMAN.
+   IMMUNE-ADHERENCE-REACTION.  IMMUNE-SERA.  IMMUNOELECTROPHORESIS.
+   IMMUNOGLOBULINS.  MALE.  NEUTROPHILS.  PRECIPITINS.
+   PSEUDOMONAS-AERUGINOSA: ip.  RABBITS: im.
+   RESPIRATORY-TRACT-INFECTIONS: mi.
+AB The influence of chronic Ps. aeruginosa infection on the occurrence
+   of bone marrow-derived lymphocytes (B cells) and thymus-derived
+   lymphocytes (T cells) in peripheral blood have been studied in 2
+   groups of patients with cystic fibrosis.  One group (9 patients)
+   suffered from chronic Ps. aeruginosa infection in the respiratory
+   tract and produced multiple Ps. aeruginosa precipitins which were
+   demonstrated by means of crossed immunoelectrophoresis.  The other
+   group (9 patients) had never harboured Ps. aeruginosa in the
+   respiratory tract and presented no demonstrable precipitins against
+   this bacteria.  The lymphocytes were examined for the presence of
+   2 surface markers for B cells: receptor for C3 complement component
+   (EAC rosette-formation) and surface immunoglobulins
+   (immunofluorescent staining), and for the presence of 1 surface
+   marker for T cells: spontaneous binding of sheep red blood cells (E
+   rosette-formation).  The B:T cell ratio was nearly identical in the
+   2 groups of patients whereas the total numbers of B and T cells were
+   significant higher in patients with chronic Ps. aeruginosa
+   infection.  The number of Ps. aeruginosa precipitins per serum was
+   significantly positively correlated to the total number of T cells,
+   wheras the correlation with the total number of B cells was
+   insignificant.
+RF 001   AIUTI F               INFECT IMMUN                     8   110 973
+   002   AIUTI F               CLIN EXP IMMUNOL                13   171 973
+   003   BENTWICH Z            CLIN IMMUNOL IMMUNOPATHOL        1   511 973
+   004   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA            962
+   005   DOGGETT RG            INFECT IMMUN                     6   628 972
+   006   DWYER JM              N ENGL J MED                   288  1036 973
+   007   FLORESHEIM GL         AGENTS ACTIONS                   2   231 972
+   008   GAJL-PECZALSKA KJ     N ENGL J MED                   288  1033 973
+   009   GAJL-PECZALSKA KJ     J CLIN INVEST                   52   919 973
+   010   GIFFORD RM            J S CAROLINA MED ASSOC          68   204 972
+   011   GORDON DS             AM REV RESPIR DIS              108   127 973
+   012   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973
+   013   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   014   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   015   JONDAL M              J EXP MED                      136   207 972
+   016   MELLSTEDT H           CLIN EXP IMMUNOL                15   321 973
+   017   ROSS GD               J CLIN INVEST                   52   377 973
+   018   SHEVACH EM            IN: MOLLER G                    16     3 973
+   019   STJERNSWARD J         LANCET                           1  1352 972
+CT   1   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+     2   VERBRUGGEN R          CLIN CHEM                       21     5 975
+     3   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   83   459 975
+     4   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     5   CLARKE CW             CLIN ALLERGY                     7   527 977
+     6   HOIBY N               SCAND J RESPIR DIS              58    65 977
+     7   SORENSEN RU           INFECT IMMUN                    23   398 979
+     8   LIEBERMAN MM          INFECT IMMUN                    29   489 980
+     9   HODSON ME             THORAX                          35   801 980
+    10   WILSON GB             J CLIN INVEST                   66  1010 980
+    11   HARPER TB             LUNG                           157   219 980
+    12   VANGEFFEL R           IMMUNOL LETTERS                  5   155 982
+    13   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982
+    14   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    63 982
+    15   SCHIOTZ PO            ACTA PAEDIATR SCAND SUPPL 301 1982    55 982
+    16   MARESZBABCZYSZYN J    ARCH IMMUNOL THER EXP           31   199 983
+    17   SORENSEN RU           EUR J RESPIR DIS                64   524 983
+    18   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985
+    19   KOMIYAMA K            CAN J MICROBIOL                 33    27 987

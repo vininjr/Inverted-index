@@ -1,0 +1,83 @@
+PN 79106
+RN 01086 
+AN 79151454
+AU Seale-T-W.  Thirkill-H.  Tarpay-M.  Flux-M.  Rennert-O-M.
+TI Serotypes and antibiotic susceptibilities of Pseudomonas aeruginosa
+   isolates from single sputa of cystic fibrosis patients.
+SO J-Clin-Microbiol. 1979 Jan. 9(1). P 72-8.
+MJ CYSTIC-FIBROSIS: mi.  PSEUDOMONAS-AERUGINOSA: cl.  SPUTUM: mi.
+MN ADOLESCENCE.  ADULT.  ANTIBIOTICS: pd.  CHILD.  CHILD-PRESCHOOL.
+   DRUG-RESISTANCE-MICROBIAL.  HAEMOPHILUS-INFLUENZAE: ip.  HUMAN.
+   PSEUDOMONAS-AERUGINOSA: de.  SEROTYPING.  STAPHYLOCOCCUS-AUREUS: ip.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB A phenotypic characterization of Pseudomonas aeruginosa from single
+   sputum samples of 21 typical cystic fibrosis patients indicated a
+   high frequency of heterogeneity among isolates on the basis of
+   differences in antibiotic resistance, colony morphology,
+   pigmentation, and serotype.  Two or more isolates with different but
+   stable susceptibilities to carnecillin, gentamycin, streptomycin,
+   tetracycline, chloramphenicol, and sulfamethoxazole plus
+   trimethoprim were detected in 38% of the sputa.  Differences
+   generally were independent of the mucoid state of the strain.  O-
+   antigen group determination with the Difco typing set showed that
+   two or more serologically distinct strains were present in 10/21
+   sputum specimens.  Nonmucoid derivatives of mucoid isolates almost
+   always retained both the antibiotic susceptibilities and serotype of
+   their parent strain.  These data suggest that cystic fibrosis
+   patients may be cocolonized/coinfected by difference strains of P.
+   aeruginosa more frequently than generally believed.  Alternatively,
+   phenotypically distinct strains from a single patient might arise as
+   phenotypic dissociants from a single infecting strain.  Because of
+   the frequency and multiplicity of phenotypically distinct P.
+   aeruginosa isolates which we obtained from our cystic fibrosis
+   patients, it is important to select multiple isolates from sputum
+   cultures for antimicrobial susceptibility testing so as to assess
+   adequately the susceptibility of this organism to antibiotic therapy
+   in cystic fibrosis.  We recommend that several colonies of each
+   distinguishable colony type of P. aeruginosa be pooled for the
+   antibiogram.
+RF 001   BAUER AW              AM J CLIN PATHOL                45   493 966
+   002   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   83   553 975
+   003   BOWMAN BH             IN: MANGOS JA                        277 976
+   004   BOXERBAUM B           AM REV RESPIR DIS              108   777 973
+   005   DIAZ F                J INFECT DIS                   121   269 970
+   006   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   007   DOGGETT RG            J PEDIATR                       68   215 966
+   008   GRIEBLE HG            N ENGL J MED                   282   531 970
+   009   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     1 977
+   010   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   011   LEVISON H             IN: MANGOS JA                          3 976
+   012   SHWACHMAN H           MEDICINE (BALTIMORE)            56   129 977
+   013   SCHWARZMANN S         INFECT IMMUN                     3   762 971
+   014   TALAMO RC             IN: MANGOS JA                        195 976
+   015   WILLIAMS RJ           J MED MICROBIOL                  6   409 973
+   016   ZIERDT CH             J BACTERIOL                     87  1003 964
+   017   ZIERDT CH             J CLIN MICROBIOL                 1   521 975
+CT   1   DEMKO CA              CURRENT MICROBIOL                4    69 980
+     2   MARKOWITZ SM          J ANTIMICROB CHEMOTHER           6   251 980
+     3   GODFREY AJ            ANTIMICROB AGENTS CHEMOTHER     19   705 981
+     4   IRVIN RT              ANTIMICROB AGENTS CHEMOTHER     19  1056 981
+     5   WILSON LA             AM J OPHTHALMOL                 92   546 981
+     6   MARKS MI              J PEDIATR                       98   173 981
+     7   SEALE TW              ANN CLIN LAB SCI                12   415 982
+     8   JANDA JM              J CLIN MICROBIOL                15   178 982
+     9   SHEEHAN DJ            J CLIN MICROBIOL                15   926 982
+    10   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982
+    11   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    12   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982
+    13   ANON                  LANCET                           2   257 983
+    14   GOVAN JRW             REV INFECT DIS                   5  S874 983
+    15   JAGGER KN             J CLIN MICROBIOL                17    55 983
+    16   FLOURNOY DJ           METH FIND EXP CLIN PHARMACOL     6   487 984
+    17   CHAN R                J CLIN MICROBIOL                19     8 984
+    18   MCNEILL WF            AM J CLIN PATHOL                81   742 984
+    19   GOLD R                PEDIATR INFECT DIS               4   172 985
+    20   LUZAR MA              INFECT IMMUN                    50   577 985
+    21   KOMIYAMA K            ORAL SURG                       59   590 985
+    22   BERKIN KE             EUR J RESPIR DIS                67   103 985
+    23   PIER GB               J INFECT DIS                   151   575 985
+    24   PACIFICO L            J INFECT DIS                   152   852 985
+    25   MAYO MS               J CLIN MICROBIOL                24   372 986
+    26   PIER GB               J CLIN MICROBIOL                24   189 986
+    27   KOMIYAMA K            CAN J MICROBIOL                 33   221 987
+    28   OGLE JW               J INFECT DIS                   155   119 987

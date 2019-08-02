@@ -1,0 +1,37 @@
+PN 79046
+RN 01026 
+AN 79255569
+AU Bogart-B-I.  Conod-E-J.  Gaerlan-P-F.  Denning-C-R.  Conover-J.
+TI Biological activities of cystic fibrosis serum.  III.  CF serum
+   induced uptake of 45Ca++ by rabbit tracheal explants.
+SO Biochem-Biophys-Res-Commun. 1979 Jun 27. 88(4). P 1398-404.
+MJ CALCIUM: me.  CYSTIC-FIBROSIS: bl.
+MN ANIMAL.  CELL-MEMBRANE-PERMEABILITY: de.  CILIA: pp.
+   CYSTIC-FIBROSIS: me, pp.  GALLOPAMIL: pd.  HETEROZYGOTE.  HUMAN.
+   IGG: ph.  RABBITS.  TRACHEA: me.
+AB Cystic Fibrosis (CF) serum and its isolated component IgG fraction
+   produce an increased uptake of 45Ca++ in rabbit tracheal explants
+   when compared to control serum and its isolated IgG fraction.
+   Heterozygote serum also produced an increased uptake of 45Ca++ but
+   not to the same extent as CF serum.  The calcium channel blocker
+   D600 inhibited the CF serum induced uptake of 45Ca++ indicating that
+   CF serum may be acting on the plasma membrane to produce changes in
+   calcium permeability in rabbit tracheal explants.
+RF 001   SPOCK A               PEDIATR RES                      1   173 967
+   002   CONOVER JH            PEDIATR RES                      7   220 973
+   003   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   004   BOWMAN BH             SCIENCE                        164   325 969
+   005   BOGART BI             PEDIATR RES                     11   131 977
+   006   BOGART BI             PEDIATR RES                     12    15 978
+   007   PUTNEY JW             J PHARMACOL EXP THER           199   526 976
+   008   CONOD EJ              PEDIATR RES                     11    45 977
+   009   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975
+   010   CONOVER JH            BIOCHEM BIOPHYS RES COMMUN      83  1595 978
+   011   FLECKENSTEIN A        IN: CARAFOLI E                       555 975
+   012   BANSCHBACH MW         BIOCHEM BIOPHYS RES COMMUN      84   922 978
+CT   1   BOWMAN BH             FED PROC                        39  3195 980
+     2   SCHONI M              SCHWEIZ MED WOCHENSCHR         111   658 981
+     3   WILSON GB             MED HYPOTHESES                   8   527 982
+     4   BOGART BI             PEDIATR RES                     16   223 982
+     5   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983
+     6   KATZ S                CELL CALC                        5   421 984

@@ -1,0 +1,84 @@
+PN 75094
+RN 00260
+AN 76025431
+AU Zierdt-C-H.  Williams-R-L.
+TI Serotyping of Pseudomonas aeruginosa isolates from patients with
+   cystic fibrosis of the pancreas.
+SO J-Clin-Microbiol. 1975 Jun. 1(6). P 521-6.
+MJ CROSS-INFECTION: mi.  CYSTIC-FIBROSIS: mi.  CROSS-INFECTION: mi.
+   PSEUDOMONAS-AERUGINOSA: cl.  SEROTYPING: mt.
+MN AGGLUTINATION-TESTS.  BIOLOGICAL-PRODUCTS: bi.
+   PSEUDOMONAS-AERUGINOSA: me.  SPECIES-SPECIFICITY.
+AB Pseudomonas aeruginosa isolates (173) from 144 patients with cystic
+   fibrosis (CF) of the pancreas in seven hospitals were serotyped with
+   the agglutination systems of Homma (1974) and Fisher et al. (1969).
+   The two systems were complementary. Strains from CF patients were
+   much less likely to furnish a stable type on repetitive typing tests
+   than strains from other patients. This was related to the frequent
+   occurrence of mucoid P. aeruginosa strains. The 173 strains were
+   divided among 11 Homma serotypes. A single Homma type (type 8)
+   capable of mucoid growth comprised 104 (60%) CF strains. Eight
+   serotypes were detected in 77 strains from 48 CF patients in one
+   hospital; three strains were detected in one hospital CF unit; and
+   two strains were detected in each of five hospital CF units. The CF
+   serotype comprised from 50 to 93% of CF strains in the seven
+   hospitals. These P. aeruginosa strains dissociated in vivo as judged
+   by mucoid and nonmucoid colonies on primary culture plates and
+   continued to dissociate during subcultures. Both colony type were the
+   same serotype. The tendency to regard colonial phenotypes (mucoid,
+   nonmucoid, rough) as separate strains was erroneous. Repetitive
+   typing with the two systems gave better results than a single system.
+   The mucoid P. aeruginosa strain is probably spread from patient to
+   patient, rather than acquiring its mucoid characteristic de novo in
+   the CF patient. It is not known why the mucoid CF strain has a
+   peculiar predilection for CF patients, nor why it generally loses the
+   quality in culture but retains it indefinitely in the patient.
+RF 001   CETIN ET              J BACTERIOL                     89  1432 965
+   002   CHADWICK P            CAN J MICROBIOL                 18  1153 972
+   003   DOGGETT RG            APPL MICROBIOL                  18   936 969
+   004   ELSTON HR             AM J CLIN PATHOL                48   519 967
+   005   FISHER MW             J BACTERIOL                     98   835 969
+   006   GOTO S                JAPAN J MICROBIOL               15   317 971
+   007   HOMMA JY              JAPAN J EXP MED                 44     1 974
+   008   HOMMA JY              JAPAN J EXP MED                 42   171 972
+   009   HOMMA JY              JAPAN J EXP MED                 41    89 971
+   010   JONES LF              APPL MICROBIOL                  27   400 974
+   011   KAWAHARAJO K          JAPAN J EXP MED                 43   225 973
+   012   SHIONOYA H            JAPAN J EXP MED                 38    81 968
+   013   ZIERDT CH             J BACTERIOL                     87  1003 964
+CT   1   WALLACE R             REV CAN BIOL                    35    87 976
+     2   VERON M               BULL INSTITUT PASTEUR           74   295 976
+     3   REYNOLDS HY           JAMA                           236  2190 976
+     4   DISANTAGNESE PA       N ENGL J MED                   295   597 976
+     5   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     6   HIRAO Y               JAP J EXP MED                   47   249 977
+     7   HOIBY N               SCAND J RESPIR DIS              58    65 977
+     8   MARKOWITZ SM          INFECT IMMUN                    22   530 978
+     9   KULCZYCKI LL          JAMA                           240    30 978
+    10   SEALE TW              J CLIN MICROBIOL                 9    72 979
+    11   THOMASSEN MJ          J INFECT DIS                   140   873 979
+    12   WOODS DE              INFECT IMMUN                    30   694 980
+    13   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   88   125 980
+    14   BALTIMORE RS          J INFECT DIS                   141   238 980
+    15   REYNOLDS HY           CLIN CHEST MED                   2   103 981
+    16   FICK RB               J CLIN INVEST                   68   899 981
+    17   PENNINGTON JE         J CLIN INVEST                   68  1140 981
+    18   MACONE AB             N ENGL J MED                   304  1445 981
+    19   KELLY NM              LANCET                           2   688 982
+    20   PUGASHETTI BK         J CLIN MICROBIOL                16   686 982
+    21   SPEERT DP             J PEDIATR                      101   227 982
+    22   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    23   ANON                  LANCET                           2   257 983
+    24   FICK RB               BULL EUR PHYSIOPATH RESP        19   151 983
+    25   BOYD RL               INFECT IMMUN                    39  1403 983
+    26   HANCOCK REW           INFECT IMMUN                    42   170 983
+    27   JOHNSON SR            OBSTET GYNECOL                  61  S  2 983
+    28   BUCKMIRE FLA          MICROBIOS                       41    49 984
+    29   FICK RB               J CLIN INVEST                   74   236 984
+    30   FICK RB               AM REV RESPIR DIS              129    76 984
+    31   HANCOCK REW           J INFECT DIS                   149   220 984
+    32   PEDERSEN SS           ACTA PAEDIATR SCAND             75   840 986
+    33   SPEERT DP             J HOSP INFECT                    9    11 987
+    34   ANASTASSIOU ED        J CLIN MICROBIOL                25   656 987
+    35   KOMIYAMA K            CAN J MICROBIOL                 33   221 987
+    36   OGLE JW               J INFECT DIS                   155   119 987

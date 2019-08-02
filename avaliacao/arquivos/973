@@ -1,0 +1,79 @@
+PN 78193
+RN 00973 
+AN 78250613
+AU Epstein-J.  Breslow-J-L.  Fitzsimmons-M-J.  Vayo-M-M.
+TI Pleiotropic drug resistance in cystic fibrosis fibroblasts:
+   increased resistance to cyclic AMP.
+SO Somatic-Cell-Genet. 1978 Jul. 4(4). P 451-64.
+MJ CYSTIC-FIBROSIS: pp.  DIBUTYRYL-CYCLIC-AMP: pd.
+MN CELL-LINE.  CELL-SURVIVAL: de.  DRUG-RESISTANCE.  ISOPROTERENOL: pd.
+   SUPPORT-U-S-GOVT-P-H-S.  3-5-CYCLIC-AMP-PHOSPHODIESTERASE: me.
+AB In previous studies, cystic fibrosis (CF) fibroblasts were
+   demonstrated to be resistant to the cytotoxic effects of ouabain,
+   dexamethasone, and the sex hormones, dihydrotestosterone, 17beta-
+   estradiol, and progesterone. We now show that CF fibroblasts also
+   exhibit greatly increased resistance to the cytotoxic effects of
+   exogenous dibutyryl cyclic AMP (cAMP), as well as to isoproterenol
+   and theophylline, drugs which are known to increase endogenous levels
+   of cAMP. CF cells were also shown to have normal amounts of (3H)cAMP
+   binding to protein kinase as well as normal amounts of cAMP-
+   stimulated protein kinase activity. Phosphodiesterase in CF cells was
+   also found to be stimulated by cAMP to the same degree as in normal
+   cells. These findings suggest that there is no detectable protein
+   kinase deficiency in CF cells. cf cells thus appear to be unlike some
+   cAMP-resistant mutants described by others which are defective in
+   protein kinase activity and cAMP regulation of phosphodiesterase
+   levels. The cross-resistance of CF fibroblasts to ouabain, steroid
+   hormones, and cAMP may provide a unique opportunity to study the
+   biochemical events involved in the metabolism of these drugs as well
+   as the basic biochemical defect in a common human genetic disease.
+RF 001   EPSTEIN JL            PROC NAT ACAD SCI USA           74  1676 977
+   002   EPSTEIN JL            PROC NAT ACAD SCI USA           74  5642 977
+   003   BRESLOW JL            CELL                            13   663 978
+   004   BRESLOW JL            EXP CELL RES                   110   399 977
+   005   LELIEVRE L            EXP CELL RES                   104   191 977
+   006   LOWRY OH              J BIOL CHEM                    193   265 951
+   007   INSEL PA              SCIENCE                        190   896 975
+   008   GILMAN AG             PROC NAT ACAD SCI USA           67   305 970
+   009   BEAVO JA              J BIOL CHEM                    245  5649 970
+   010   MANGANIELLO VC        BIOCHIM BIOPHYS ACTA           362   509 974
+   011   APPLEMAN MM           ADV CYCLIC NUCLEO RES            3    65 973
+   012   KUO JF                PROC NAT ACAD SCI USA           64  1349 969
+   013   ERLICHMAN J           J BIOL CHEM                    248  7607 973
+   014   BEAVO JA              IN: DRUMMOND P                   5   241 975
+   015   DANIEL V              PROC NAT ACAD SCI USA           70    76 973
+   016   COFFINO P             J CELL PHYSIOL                  85   603 975
+   017   BOURNE HR             J CELL PHYSIOL                  85   611 975
+   018   BUCHWALD M            PROC NAT ACAD SCI USA           73  2899 976
+   019   BOURNE HR             SCIENCE                        181   952 973
+   020   D ARMIENTO M          PROC NAT ACAD SCI USA           69   459 972
+   021   MAGANIELLO V          PROC NAT ACAD SCI USA           69   269 972
+   022   THOMPSON EB           METABOLISM                      23   159 974
+   023   MANKOVITZ R           CELL                             3   221 974
+   024   LEVER JE              J CELL PHYSIOL                  88   343 976
+   025   BAXTER JD             SCIENCE                        171   189 971
+   026   SIBLEY CH             CELL                             2   221 974
+   027   YAMAMOTO KR           IN: GREEP RO                    32     3 976
+   028   BOURGEOIS S           CELL                            11   423 977
+   029   BOURNE HR             SCIENCE                        187   750 975
+   030$  GRANNER DK            NATURE                         259   572 974
+   031   SCHAFFER LD           BIOCHIM BIOPHYS ACTA           192   304 969
+   032   MILLER TB             J BIOL CHEM                    246  3672 971
+   033   AXTON JH              J BIOL CHEM                    247  3579 972
+   034   STELLWAGEN RH         BIOCHEM BIOPHYS RES COMMUN      47  1144 972
+   035$  VAN RIJN H            J BIOL CHEM                     60   181 974
+   036   LEMAIRE I             CELL                            11   149 977
+   037   MOMMAERTS WFHM        PROC NAT ACAD SCI USA           45   791 959
+   038   HUG G                 J CLIN INVEST                   48   704 969
+   039   HUIJING F             AM J HUM GENET                  21   275 969
+CT   1   KURZ JB               SCIENCE                        206  1317 979
+     2   BUCHWALD M            ADV CYCLIC NUCLEO RES           12   243 980
+     3   DAVIS PB              PEDIATR RES                     14    83 980
+     4   DAVIS PB              PEDIATR RES                     14   863 980
+     5   BRESLOW JL            SCIENCE                        207  1007 980
+     6   GNEGY ME              BIOCHEM MED                     26   294 981
+     7   MARKOVAC J            BIOCHEM MED                     26   299 981
+     8   BRESLOW JL            N ENGL J MED                   304     1 981
+     9   UNSICKER K            CELL TISSUE RES                223    73 982
+    10   LANGHOFF E            PEDIATR RES                     18   488 984
+    11   PINSKY L              ADV HUM GENET                   16   299 987

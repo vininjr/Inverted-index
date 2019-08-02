@@ -1,0 +1,100 @@
+PN 76088
+RN 00442 
+AN 76215359
+AU Lederberg-S.
+TI Polypeptide mediators of cystic fibrosis.  pp.  259-71.
+SO In: Mangos JA, Talamo RC, ed. Cystic fibrosis: projections into the
+   future. New York, Stratton, 1976. WI 820 C9995 1976. (REVIEW).
+MJ CYSTIC-FIBROSIS: me.  PEPTIDES: me.
+MN ANIMAL.  BIOLOGICAL-ASSAY.  BLOOD-PROTEINS: an, me.  CELLS-CULTURED.
+   COMPLEMENT-3: me.  COMPLEMENT-5: me.  DISEASE-MODELS-ANIMAL.
+   HETEROZYGOTE.  HUMAN.  IGG.  MODELS-BIOLOGICAL.  MOLECULAR-WEIGHT.
+   MONOGRAPH.  PEPTIDES: an.  PROTEINURIA.  RATS.  REVIEW.  SALIVA: me.
+EX Although complex models involving multiple loci may be plausible, the
+   high frequency of cystic fibrosis in Caucasians is probably best
+   explained by selective advantage for the heterozygote carrier.  In
+   short, an analogy of cystic fibrosis with hemoglobin S sickle cell
+   anemia may be greater than with Tay-Sachs disease in terms of
+   molecular mechanisms.  Protein and polypeptide differences have been
+   reported for the humoral fluids of cystic fibrosis patients and their
+   heterozygotic relatives in connected with selected bioassay systems.
+   These directions relate to a model here proposed for the intermediate
+   stages of the physiology of cystic fibrosis, which builds on a large
+   body of elegant experimental work.  The basic tenet is that the cells
+   of cystic fibrosis heterozygotes and normal individuals are in a
+   stimulatory loop.  Chronic reserpine treatment exaggerates in the
+   normal rat a loop similar to the one exaggerated by genetic
+   differences in the human, elevating to pathological levels an
+   otherwise normal process.
+RF 001   STEINBERG AG          AM J HUM GENET                   8   162 956
+   002   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   003   LOBECK CC             IN: STANBURY JB                     1605 972
+   004   MANGOS JA             FUNDAMENTAL PROB CF AND RELAT            973
+   005   MCCOMBS ML            TEX REP BIOL MED                31   615 973
+   006   COHEN SS              INTRODUCTION TO POLYAMINES               971
+   007   LEDERBERG S           GAP CONF REP STRAT GEN DIS            15 972
+   008   RENNERT OM            IN: MANGOS JA                         41 973
+   010   MUNRO GF              CF CLUB ABST                    16     7 975
+   011   BDOLAH A              BIOCHEM BIOPHYS RES COMMUN      18   452 965
+   012   CECCARELLI B          ADV CYTOPHARMACOLOGY             2       974
+   013   RUSSELL DH            PROC NAT ACAD SCI USA           72  1482 975
+   014   HSIE AW               PROC NAT ACAD SCI USA           68   358 971
+   015   WHITFIELD JF          IN VITRO                         8   257 973
+   016   RASMUSSEN H           CRIT REV BIOCHEM                 1    95 972
+   017   SCHULTZ G             PROC NAT ACAD SCI USA           70  3889 973
+   018   DANKS DM              ANN HUM GENET                   28   323 965
+   019   KNUDSON AG JR         AM J HUM GENET                  19   388 967
+   020   CONNEALLY PM          TEX REP BIOL MED                31   639 973
+   021   DI SANTAGNESE PA      ANN NY ACAD SCI                 93   555 962
+   022   SPOCK A               PEDIATR RES                      1   173 967
+   023   BOWMAN BH             SCIENCE                        164   325 969
+   024   BESLEY GTN            J MED GENET                      6   278 969
+   025   DANES BS              J EXP MED                      136  1313 972
+   026   SCHMOYER IR           LIFE SCI PART 2                 11  1037 972
+   027   CONOVER JH            PEDIATR RES                      7   220 973
+   028   MANGOS JA             SCIENCE                        158   135 967
+   029   MANGOS JA             PEDIATR RES                      1   436 967
+   030   KAISER D              PEDIATR RES                      5   167 971
+   031   KAISER D              LANCET                           1  1003 970
+   032   BOWMAN BH             SCIENCE                        167   871 970
+   033   BARNETT DR            TEX REP BIOL MED                31   709 973
+   034   HERZBERG V            J CLIN INVEST                   52  2732 973
+   035   BOWMAN BH             BIOCHEM BIOPHYS RES COMMUN      64  1310 975
+   036   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973
+   037   BARNETT DR            TEX REP BIOL MED                31   703 973
+   038   DANES BS              J EXP MED                      137  1538 973
+   039   BARNETT DR            TEX REP BIOL MED                31   691 973
+   040   BARNETT DR            TEX REP BIOL MED                31   697 973
+   041   DOGGETT RG            CF CLUB ABST                          41 971
+   042   MCNEELY CM            CF CLUB ABST                    16     6 975
+   043   MANGOS JA             PEDIATR RES                      2   378 968
+   044   POLLEY MJ             J MED GENET                     11   249 974
+   045   CONOVER JH            PEDIATR RES                      7   224 973
+   046   BERATIS NG            PEDIATR RES                      7   958 973
+   047   CONOVER JH            LIFE SCI                        14   253 974
+   048   CONOVER JH            CLIN RES                        21   531 973
+   049   CONOVER JH            LANCET                           1  1194 973
+   050   CONOVER JH            LANCET                           2  1501 973
+   051   LIEBERMAN J           LANCET                           1  1230 974
+   052   LIEBERMAN J           AM REV RESPIR DIS              111   100 975
+   053   HANN S                LANCET                           2   520 974
+   054   CONOVER JH            LANCET                           1    47 975
+   055   CONOVER JH            PEDIATR RES                      9   394 975
+   056   RAO GJS               J PEDIATR                       80   573 972
+   057   RAO GJS               PEDIATR RES                      8   684 974
+   058   LIEBERMAN J           AM REV RESPIR DIS              109   399 974
+   059   LIEBERMAN J           PEDIATR RES                      3   571 969
+   060   RAO GJS               SCIENCE                        177   610 972
+   061   MANGOS JA             IN: LAWSON D PROC 5TH INT CF          25 969
+   062   ADSHEAD PC            ANN NY ACAD SCI                253   192 975
+   063   KATCHALSKY A          BIOPHYS J SUPPL 9                4     9 964
+   064   QUINTON PM            J CELL BIOL                     56   787 973
+   065   KRAUS I               PEDIATRICS                      47  1010 971
+   066   ANTONOWICZ I          PEDIATR RES                      6   803 972
+   067   ESTENSEN RD           NATURE                         248   347 974
+   068   GOLDSTEIN IM          BIOCHEM BIOPHYS RES COMMUN      60   807 974
+   069   BARTMAN J             J PEDIATR                       76   430 970
+   070   AMSTERDAM A           J CELL BIOL                     41   753 969
+   071   PICKERING R           ARCH ORAL BIOL                  20   153 975
+CT   1   DISANTAGNESE PA       N ENGL J MED                   295   534 976
+     2   WANNER A              AM REV RESPIR DIS              116    73 977

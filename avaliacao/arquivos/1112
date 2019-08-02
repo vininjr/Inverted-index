@@ -1,0 +1,77 @@
+PN 79132
+RN 01112 
+AN 80008520
+AU Loening-Baucke-V-A.  Mischler-E.  Myers-M-G.
+TI A placebo-controlled trial of cephalexin therapy in the ambulatory
+   management of patients with cystic fibrosis.
+SO J-Pediatr. 1979 Oct. 95(4). P 630-7.
+MJ AMBULATORY-CARE.  CEPHALEXIN: tu.  CYSTIC-FIBROSIS: co.
+MN ADMINISTRATION-ORAL.  ADOLESCENCE.  ADULT.
+   BACTERIAL-INFECTIONS: dt, et.  CEPHALEXIN: ad, ae.  CHILD.
+   CHILD-PRESCHOOL.  CLINICAL-TRIALS.  CYSTIC-FIBROSIS: pp.  FEMALE.
+   HUMAN.  INFANT.  MALE.  PLACEBOS.  RESPIRATORY-TRACT-INFECTIONS: dt.
+   SPUTUM: mi.
+AB The effects of oral administration of cephalexin were evaluated in a
+   double-blind, placebo-controlled, crossover study in 17 patients
+   with mild to moderate pulmonary disease due to cystic fibrosis.  For
+   two years, four-month periods with cephalexin were alternated with
+   four-month placebo periods.  Thus, patients served as their own
+   control subjects.  Fungal vulvovaginitis occurred in two patients
+   during cephalexin therapy.  During the 2 years of study, the rate of
+   colonization with mucoid strains of Pseudomonas aeruginosa increased
+   and disease severity deteriorated in patients initially colonized
+   with P. aeruginosa.  Short-term courses of sputum culture-specific
+   antibiotics improved the course of some patients with mild to
+   moderate pulmonary disease due to cystic fibrosis.  Treatment with
+   cephalexin decreased the frequency of respiratory illnesses,
+   respiratory illnesses requiring antibiotics, and hospitalizations
+   for respiratory illnesses in patients initially colonized with
+   Staphylococcus aureus and/or Haemophilus influenzae, and also
+   reduced colonization with these organisms.  Improved weight gain in
+   16 of 17 patients was associated with periods of cephalexin therapy.
+   Pulmonary function tests remained stable or improved in 10 or 14
+   patients.  Disease severity improved in patients not colonized with
+   P. aeruginosa.
+RF 001   SHWACHMAN H           N ENGL J MED                   241   185 949
+   002   DI SANTAGNESE PA      AM J DIS CHILD                  72    17 946
+   003   LAWSON D              IN: LAWSON D PROC 5TH INT CF         225 969
+   004   SHWACHMAN H           AM J DIS CHILD                  96     6 958
+   005   SHWACHMAN H           PEDIATRICS                      46   335 970
+   006   MATTHEWS LW           IN: MANGOS JA                        303 973
+   007   GIBSON LE             PEDIATRICS                      23   545 959
+   008   MONROE PW             APPL MICROBIOL                  18   214 969
+   009   HUANG NN              J PEDIATR                       59   512 961
+   010   LENNETTE EH           MANUAL OF CLINICAL MICROBIOLO            974
+   011   CATLIN BW             ANTIMICROB AGENTS CHEMOTHER      7   265 975
+   012   HUNTBERGER DV         STATISTICAL INFERENCE IN BIOM            970
+   013   SNEDECOR GW           STATISTICAL METHODS                      967
+   014   LOURIA DB             JAMA                           182  1082 962
+   015   LORIAN V              APPL MICROBIOL                  15   564 967
+   016   BARTLETT JG           AM REV RESPIR DIS              117  1019 978
+   017   STECHENBERG BW        PEDIATRICS                      58   532 976
+   018   BURNS MW              LANCET                           1   270 968
+   019   MAY JR                LANCET                           2   534 953
+   020$  MAY JR                J CLIN MICROBIOL                17   254 964
+   021   REYNOLDS HY           ANN INTERN MED                  82   819 975
+   022   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   023   DOGGETT RG            J PEDIATR                       68   215 966
+   024   DOGGETT RG            INFECT IMMUN                     6   628 972
+   025   KULCZYCKI LL          JAMA                           240    30 978
+   026   MAY JR                ARCH DIS CHILD                  47   908 972
+   027   MEARNS MB             ARCH DIS CHILD                  47   902 972
+CT   1   WIENTZEN R            AM J DIS CHILD                 134  1134 980
+     2   MARKS MI              J PEDIATR                       98   173 981
+     3   NOLAN G               J PEDIATR                      101   626 982
+     4   KRAEMER R             EUR J PEDIATR                  138   172 982
+     5   DAVIS PB              J PEDIATR                      102   177 983
+     6   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984
+     7   DAVIS PB              CHEST                           85   802 984
+     8   HARRISON CJ           PEDIATR PHARMACOL                5     7 985
+     9   DAVIS PB              SEM RESPIR MED                   6   261 985
+    10   MISCHLER EH           SEM RESPIR MED                   6   271 985
+    11   SMITH SR              J CLIN HOSP PHARM               10   243 985
+    12   NELSON JD             J PEDIATR                      106  1030 985
+    13   GOTZ M                MONATSSCHR KINDERHEILKD        133   718 985
+    14   FRIEND PA             J INFECT                        13    55 986
+    15   LITTLEWOOD JM         J ROY SOC MED                   79    55 986
+    16   FICK RB               AM REV RESPIR DIS              133   418 986

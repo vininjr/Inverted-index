@@ -1,0 +1,118 @@
+PN 75022
+RN 00188
+AN 75162186
+AU Pennington-J-E.  Reynolds-H-Y.  Wood-R-E.  Robinson-R-A.  Levine-A-S.
+TI Use of a Pseudomonas Aeruginosa vaccine in pateints with acute
+   leukemia and cystic fibrosis.
+SO Am-J-Med. 1975 May. 58(5). P 629-36.
+MJ BACTERIAL-VACCINES.  LEUKEMIA: im.  PSEUDOMONAS-AERUGINOSA: im.
+   PSEUDOMONAS-INFECTIONS: pc.
+MN ADOLESCENCE.  ADULT.  BACTERIAL-VACCINES: ad, ae.  CHILD.
+   CLINICAL-TRIALS.  CYSTIC-FIBROSIS: im.  DRUG-ADMINISTRATION-SCHEDULE.
+   DRUG-EVALUATION.  FEMALE.  HUMAN.  INJECTIONS-INTRAMUSCULAR.  MALE.
+   MIDDLE-AGE.
+AB A heptavalent lipopolysaccharide Pseudomonas vaccine was evaluated in
+   22 patients with acute leukemia and 12 patients with cystic fibrosis
+   during an 18 month interval at the Clinical Center of the National
+   Institutes of Health. Of the 34 patients, 32 had an excellent serum
+   hemagglutinating (HA) antibody response to immunization. In
+   comparison to the patients with cystic fibrosis, the patients with
+   leukemia had a smaller HA antibody response, which lasted a shorter
+   period of time, and also}i experienced greater toxicity from the
+   vaccine. The mixing of adrenal corticosteroids with vaccine greatly
+   decreased side reactions among the patients with leukemia without
+   significantly inhibiting antibody production. Previous antineoplastic
+   chemotherapy had little influence on antibody response in patients
+   with leukemia, with the exception of methortrexate. Vaccinated
+   patients with leukemia had 1 Pseudomonas infection of 14 bacterial or
+   fungal infections, whereas 2 pseudomonas infections of 5 bacterial or
+   fungal infections occurred in a control group of 20 patients with
+   acute leukemia. Of the 12 patients with cystic fibrosis, 4 had a
+   Pseudomonas infection after vaccination.
+RF 001   MARKLEY K             ANN SURG                       145   175 957
+   002   RABIN ER              N ENGL J MED                   265  1225 961
+   003   DI SANTAGNESE PA      N ENGL J MED                   277  1399 967
+   004   ROSE HD               AM REV RESPIR DIS              107   416 973
+   005   TILLOTSON JR          ANN INTERN MED                  68   295 968
+   006   LEVINE AS             SEMIN HEMATOL                    9   141 972
+   007   LEVINE AS             SEMIN HEMATOL                   11   141 974
+   008   SCHIMPFF SC           ANN INTERN MED                  77   707 972
+   009   PENNINGTON JE         AM J MED                        55   155 973
+   010   REYES MP              MEDICINE (BALTIMORE)            52   173 973
+   011   MARKLEY K             ANN INTERN MED                  74   140 971
+   012   HANESSIAN S           NATURE NEW BIOL                229   209 971
+   013   FISHER MW             J BACTERIOL                     98   835 969
+   014   ALEXANDER JW          J TRAUMA                        10   565 970
+   015   YOUNG LS              ANN INTERN MED                  79   518 973
+   016   HAGHBIN M             CANCER                          32   761 973
+   017   WOLFF SM              J INFECT DIS                   128   243 973
+   018   YOUNG LS              J INFECT DIS                   126   257 972
+   019   BJORNSON AB           INFECT IMMUN                     2   453 970
+   020   YOUNG LS              INFECT IMMUN                     2   495 970
+   021   SANTOS GW             FED PROC                        26   907 967
+   022   LEVENTHAL BG          ISR J MED SCI                   10   866 974
+   023   GUMP DW               ARCH INTERN MED                132   847 973
+   024   BODEY GP              AM J MED SCI                   260    82 970
+   025   DALE DC               J CLIN INVEST                   54   664 974
+   026   UFFELMAN JA           CLIN CHIM ACTA                  28   185 970
+CT   1   ANON                  LANCET                           2   168 975
+     2   LEVINE AS             CANCER                          36   813 975
+     3   WOOD RE               AM REV RESPIR DIS              113   833 976
+     4   DISANTAGNESE PA       N ENGL J MED                   295   597 976
+     5   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+     6   PENNINGTON JE         CANCER                          39  1345 977
+     7   KAZMIEROWSKI JA       J INFECT DIS                   135   438 977
+     8   HORTOBAGYI GN         CANCER IMMUNOL IMMUNOTHER        4   201 978
+     9   MOODY MR              INFECT IMMUN                    21   905 978
+    10   GEDDES AM             S AFR MED J                     53   121 978
+    11   BERGERON MG           SCAND J INFECT DIS            1978   189 978
+    12   PENNINGTON JE         INFECT IMMUN                    25  1029 979
+    13   POLLACK M             J CLIN INVEST                   63   276 979
+    14   WOOD RE               SOUTH MED J                     72   189 979
+    15   PENNINGTON JE         J INFECT DIS                   140    73 979
+    16   NETER E               ZENTRALBL BAKT PARA INFEK HYG  243   349 979
+    17   LEPRAT R              ANN MICROBIOL (PARIS)         B131   209 980
+    18   PASKO M               J MED                           11   303 980
+    19   FICK RB               J IMMUNOL METH                  38   103 980
+    20   RAMSEY PG             MEDICINE                        59   206 980
+    21   BALTIMORE RS          J INFECT DIS                   141   238 980
+    22   PENNINGTON JE         J INFECT DIS                   142   191 980
+    23   FICK RB               J CLIN INVEST                   68   899 981
+    24   PENNINGTON JE         J CLIN INVEST                   68  1140 981
+    25   PIZZO PA              J PEDIATR                       98   524 981
+    26   SEID RC               J BIOL CHEM                    256  7305 981
+    27   BODEY GP              SEM HEMATOL                     19   193 982
+    28   OHMAN DE              INFECT IMMUN                    37   662 982
+    29   HOOKE AM              INFECT IMMUN                    38   136 982
+    30   PIER GB               J CLIN INVEST                   69   303 982
+    31   PIER GB               J INFECT DIS                   145   217 982
+    32   PINCHING AJ           CLIN IMMUNOL ALLERGY             3   305 983
+    33   BODEY GP              REV INFECT DIS                   5   279 983
+    34   PENNINGTON JE         REV INFECT DIS                   5  S852 983
+    35   PIER GB               REV INFECT DIS                   5  S950 983
+    36   TEGTMEIER BR          REV INFECT DIS                   5  S963 983
+    37   BRYAN LE              J CLIN MICROBIOL                18   276 983
+    38   FICK RB               BULL EUR PHYSIOPATH RESP        19   151 983
+    39   CRYZ SJ               INFECT IMMUN                    39  1067 983
+    40   KLINGER JD            INFECT IMMUN                    39  1377 983
+    41   CRYZ SJ               INFECT IMMUN                    40   659 983
+    42   PIZZO PA              CANCER TREAT REP                67   223 983
+    43   MORRISON AJ           REV INFECT DIS                   6  S627 984
+    44   YOUNG LS              REV INFECT DIS                   6  S769 984
+    45   SPEERT DP             PEDIATR RES                     18   431 984
+    46   CRYZ SJ               INFECT IMMUN                    44   508 984
+    47   TSAY GC               INFECT IMMUN                    45   217 984
+    48   GONGGRIJP R           ANT V LEEUW J MICROBIOL         50   285 984
+    49   FICK RB               J CLIN INVEST                   74   236 984
+    50   YOUNG LS              AM J MED                        76   664 984
+    51   WHEELER WB            J PEDIATR                      104   695 984
+    52   OLSON B               J INFECT DIS                   150   808 984
+    53   GOULD IM              LANCET                           2  1224 985
+    54   SPEERT DP             SURV SYNTH PATHOL RES            4    14 985
+    55   MISCHLER EH           SEM RESPIR MED                   6   271 985
+    56   SHRYOCK TR            CURRENT MICROBIOL               12    91 985
+    57   BANNISTER P           J BIOL STANDARD                 13   321 985
+    58   PODNOS SD             WEST J MED                     143   622 985
+    59   OLSON B               J INFECT DIS                   152   769 985
+    60   PENNINGTON JE         REV INFECT DIS                   8  S426 986
+    61   CLASENER HAL          REV INFECT DIS                   9   295 987

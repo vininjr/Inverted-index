@@ -1,0 +1,86 @@
+PN 75032
+RN 00198
+AN 76060265
+AU Lamm-L-U.  Thorsen-I-L.  Petersen-G-B.  Jorgensen-J.  Henningsen-K.
+   Bech-B.  Kissmeyer-Nielsen-F.
+TI Data on the HL-A linkage group.
+SO Ann-Hum-Genet. 1975 May. 38(4). P 383-90.
+MJ HISTOCOMPATIBILITY-ANTIGENS.  HLA-ANTIGENS.  LINKAGE-GENETICS.
+MN BLOOD-GROUPS.  COMPUTERS.  CYSTIC-FIBROSIS: fg.  GENE-FREQUENCY.
+   GENOTYPE.  HUMAN.  PHOSPHOGLUCOMUTASE: bi.  RECOMBINATION-GENETIC.
+AB Lod scores from a study in 229 families of the linkage relations of
+   HL-A-PGM3 to 19 marker loci and cystic fibrosis are reported. The
+   data exclude that ADA belongs to this linkage group while they give
+   weak support for the inclusion of P. There is weak evidence for
+   linkage of cystic fibrosis to PGM3, but none for linkage to HL-A. No
+   new suggestive linkages appeared.
+RF 001   AZEN EA               BIOCHEM GENET                    3   215 969
+   002   BACH FH               AM J HUM GENET                  25   208 973
+   003   CHEN SH               SCIENCE                        173   148 971
+   004   CREAGAN RP            LANCET                           2  1449 973
+   005   DANES BS              J EXP MED                      129   775 969
+   006   DANES BS              AM J HUM GENET                  23   297 971
+   007   DAUSSET J             HISTOCOMPATIBILITY TESTING               972
+   008   EDWARDS JH            CLIN GENET                       3   371 972
+   009   EDWARDS JH            HISTOCOMPATIBILITY TESTING               972
+   010   FELLOUS M             EUR J IMMUNOL                    3   543 973
+   011   JONGSMA A             HUMANGENETIK                    20   195 973
+   012   LAMM LU               HUM HERED                       24   273 974
+   013   LAMM LU               HUM HERED                       20   305 970
+   014   LAMM LU               TISSUE ANTIGENS                  2   205 972
+   015   LAMM LU               NATURE NEW BIOL                231   109 971
+   016   MAYNARD-SMITH S       MATH TABLES RES WORKERS IN HU            961
+   017   MIDDLETON J           TISSUE ANTIGENS                  4   366 974
+   018   RENWICK JH            BR MED BULL                     25    65 969
+   019   ROBSON EB             ANN HUM GENET                   36   393 973
+   021   SVEJGAARD A           TISSUE ANTIGENS                  1    81 971
+CT   1   JONES EA              SOMATIC CELL GENET               2   483 976
+     2   BIJNEN AB             J IMMUNOGENET                    3   171 976
+     3   WEITKAMP LR           TISSUE ANTIGENS                  7   273 976
+     4   GOODCHILD MC          J MED GENET                     13   417 976
+     5   BODMER WF             CYTOGENET CELL GENET            16    24 976
+     6   LEWIS M               CYTOGENET CELL GENET            16   317 976
+     7   SIMON M               GUT                             17   332 976
+     8   DAY NK                VOX SANG                        31    96 976
+     9   JERSILD C             TRANSPLANTAT REV                32    43 976
+    10   RAUM D                J CLIN INVEST                   58  1240 976
+    11   ROTTHAUWE HW          DTSCH MED WSCHR                101   849 976
+    12   MUNRO A               NATURE                         264   145 976
+    13   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     3 977
+    14   BOMFORD A             LANCET                           1   327 977
+    15   KOMPF J               SCAND J IMMUNOL                  6   453 977
+    16   FELLOUS M             EUR J IMMUNOL                    7    22 977
+    17   GIRALDO G             CLIN IMMUNOL IMMUNOPATHOL        8   377 977
+    18   OHELA K               TISSUE ANTIGENS                  9    90 977
+    19   SAFWENBERG J          TISSUE ANTIGENS                 10   287 977
+    20   BREUNING MH           HUM GENET                       37   131 977
+    21   ROSENFELD SI          J IMMUNOL                      119   604 977
+    22   SIMON M               N ENGL J MED                   297  1017 977
+    23   HENNEQUET A           TISSUE ANTIGENS                 12   159 978
+    24   LEWIS M               CYTOGENET CELL GENET            22   452 978
+    25   WEITKAMP L            CYTOGENET CELL GENET            22    92 978
+    26   BODMER WF             PROC R SOC LOND (B)            202    93 978
+    27   BODMER WF             HARVEY LECTURES               1978    91 978
+    28   CUZNER ML             MOL ASP MED                      2   147 979
+    29   BERGER R              CLIN GENET                      15   245 979
+    30   HAUPTMANN G           REV FR TRANSFUS IMMUNOHEMATOL   22   587 979
+    31   PEPPER B              HUM HERED                       29   279 979
+    32   BENDER K              HUM GENET                       49   159 979
+    33   RAUM  D               J CLIN INVEST                   64   858 979
+    34   HERROD HG             J PEDIATR                       94   676 979
+    35   RUBINSTEIN P          J IMMUNOL                      122  2584 979
+    36   TACIEREUGSTER H       HELV PAEDIATR ACTA              35    31 980
+    37   NAKAO Y               CLIN EXP IMMUNOL                42    20 980
+    38   PEDERSEN L            HUM GENET                       54   371 980
+    39   LOPEZLARREA C         HUM GENET                       57   317 981
+    40   PLATZ P               DIABETOLOGIA                    23    16 982
+    41   NIELSEN OH            ACTA PAEDIATR SCAND             71   339 982
+    42   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982
+    43   MARDER HK             KIDNEY INT                      23   749 983
+    44   ROBSON EB             ANN HUM GENET                   48   347 984
+    45   REGUEIRO JR           HUM GENET                       67   437 984
+    46   EIBERG H              CLIN GENET                      27   206 985
+    47   EIBERG H              CLIN GENET                      28   265 985
+    48   PEDERSEN  EB          Q J MED                         57   883 985
+    49   SCHMIEGELOW K         CLIN GENET                      29   374 986
+    50   WERDELIN L            ACTA NEUROL SCAND               73     1 986

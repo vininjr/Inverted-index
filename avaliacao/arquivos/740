@@ -1,0 +1,36 @@
+PN 77159
+RN 00740 
+AN 77124789
+AU Thomas-J-M.  Merritt-A-D.  Hodes-M-E.
+TI Electrophoretic analysis of serum proteins in cystic fibrosis
+   [letter].
+SO Pediatr-Res. 1977 Feb. 11(2). P 138-9.
+MJ BLOOD-PROTEINS: an.  CYSTIC-FIBROSIS: bl.
+   ELECTROPHORESIS-POLYACRYLAMIDE-GEL.  ISOELECTRIC-FOCUSING.
+MN GAMMA-GLOBULINS: an.  HETEROZYGOTE.  HUMAN.
+EX We have attempted to reproduce the isoelectric focusing in thin layer
+   polyacrylamide gels (IEFAG) method specified by Wilson et al. in our
+   laboratory.  Since the resolution obtained with their procedure
+   appeared to be inadequate for identifying single protein bands in the
+   relevant region, we have incorporated several methodologic
+   improvements into the isoelectric focusing technique.  These
+   improvements have significantly enhanced the resolution and have thus
+   enabled us to demonstrate a greater degree of heterogeneity of serum
+   gamma-globulins than is visible in the paper of Wilson et al.
+   Despite the significant increase in the number of bands resolved by
+   our method, a difference among CF, heterozygote, and control sera in
+   the pH 8.4 - 8.5 region could not be detected.  In addition, the
+   two-step IEFAG/disc electrophoresis technique of Altland et al. has
+   been tested in our laboratory.  We have also modified this analytic
+   procedure, enabling the fractionation of several small proteins from
+   a portion of the IgG fraction.  Again, despite an improvement in
+   resolution which reveals more heterogeneity, no unique protein has
+   been observed consistently in the CF and heterozygote area.
+RF 001   ALTLAND K             HUMANGENETIK                    28   207 975
+   002   ANON                  J PEDIATR                       88   711 976
+   005   WILSON GB             PEDIATR RES                      9   635 975
+   006   WILSON GB             CLIN CHIM ACTA                  49    79 973
+CT   1   THOMAS JM             PEDIATR RES                     11  1148 977
+     2   WILSON GB             PEDIATR RES                     11   986 977
+     3   WILSON GB             PEDIATR RES                     11   139 977
+     4   WILSON GB             PEDIATR RES                     12   801 978

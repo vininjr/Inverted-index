@@ -1,0 +1,41 @@
+PN 74044
+RN 00044 
+AN 74258256
+AU Schmoyer-I-R.  Baglia-F-A.
+TI Cystic fibrosis: effect of media from cultured cystic fibrosis
+   fibroblasts on ATPase activity.
+SO Biochem-Biophys-Res-Commun. 1974 Jun 18. 58(4). P 1066-70.
+MJ CYSTIC-FIBROSIS: me.  ADENOSINE-TRIPHOSPHATASE: bl.
+   ERYTHROCYTES:  en.
+MN HUMAN.  COMPARATIVE-STUDY.  ERYTHROCYTES: cy, de.  FIBROBLASTS: me.
+   CELL-MEMBRANE: en, de.  CULTURE-MEDIA.  CELL-LINE.  DIALYSIS.
+   SODIUM: pd.  POTASSIUM: pd.  CALCIUM: pd.  MAGNESIUM: pd.
+   OUABAIN:  pd.
+AB Membrane associated ATPase activities of human red blood cells were
+   examined following the addition of spent fibroblast culture media
+   from normal and cystic fibrosis cell lines.  In comparison to normal
+   and unspent media, the cystic fibrosis media consistently depressed
+   the ATPase activities.
+RF 001   BOWMAN BH             SCIENCE                        167   871 970
+   002   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973
+   003   ANON                  GAP CONF REP CILIARY INHIBITO            973
+   004   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   005   HORTON CR             BIOCHEM BIOPHYS RES COMMUN      40   505 970
+   006   BALFE JW              SCIENCE                        162   689 968
+   007   COLE CH               CF CLUB ABST                    12       971
+   008   POST RL               J BIOL CHEM                    235  1796 960
+   009   POST RL               METHODS ENZYMOL                 10   762 967
+   010   LOWRY OH              J BIOL CHEM                    193   265 951
+   011   BADER H               GAP CONF REP CF FACTOR                   971
+CT   1   BOWMAN BH             LIFE SCI                        19  1289 976
+     2   BOWMAN BH             TEX REP BIOL MED                34     1 976
+     3   DANES BS              TEX REP BIOL MED                34   135 976
+     4   WARD JB               TEX REP BIOL MED                34    83 976
+     5   WARD JB               TEX REP BIOL MED                34    11 976
+     6   CAMPBELL IM           PEDIATRICS                      57   480 976
+     7   WOOD RE               AM REV RESPIR DIS              113   833 976
+     8   RAO GJS               PEDIATR RES                     11   981 977
+     9   YOKOYAMA M            PEDIATR RES                     11   765 977
+    10   APPLEGARTH DA         CLIN CHIM ACTA                  74   183 977
+    11   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+    12   MALER T               BIOCHIM BIOPHYS ACTA           598     1 980

@@ -1,0 +1,63 @@
+PN 79003
+RN 00983 
+AN 79228230
+AU Hoiby-N.  Hertz-J-B.
+TI Precipitating antibodies against Escherichia coli, Bacteroides
+   fragilis ss.  thetaiotaomicron and Pseudomonas aeruginosa in serum
+   from normal persons and cystic fibrosis patients, determined by
+   means of crossed immunoelectrophoresis.
+SO Acta-Paediatr-Scand. 1979 Jul. 68(4). P 495-500.
+MJ ANTIBODIES-BACTERIAL.  BACTEROIDES-FRAGILIS: im.  CYSTIC-FIBROSIS: im.
+   ESCHERICHIA-COLI: im.  PSEUDOMONAS-AERUGINOSA: im.
+MN ADOLESCENCE.  ADULT.  CHILD.  CHILD-PRESCHOOL.  CYSTIC-FIBROSIS: mi.
+   FEMALE.  HUMAN.  IMMUNOELECTROPHORESIS-TWO-DIMENSIONAL.  INFANT.
+   MALE.
+AB Serum from normal persons and from 133 cystic fibrosis patients was
+   examined for precipitins against faecal bacteria (E. coli and B.
+   fragilis) and against P. aeruginosa by means of crossed
+   immunoelectrophoresis.  27% of the normal sera contained 1-2
+   precipitins against E. coli, 16% contained one precipitin against B.
+   fragilis and 6% contained one precipitin against P. aeruginosa.  In
+   sera from cystic fibrosis patients, there was a significantly
+   increased prevalence of precipitins against E. coli (76%), B.
+   fragilis (38%) and P. aeruginosa (63%), and the mean number of
+   precipitins against each of these bacteria was 3 (range: 1-12), 1.4
+   (range: 1-4), and 16 (range: 1-60), respectively.  Increased numbers
+   of precipitins against P. aeruginosa were correlated with chronic
+   lung infection caused by this species and with poor prognosis,
+   whereas such associations were not revealed as regards precipitins
+   against the two other bacterial species.  Increased numbers of
+   precipitins against E. coli and B. fragilis were significantly
+   associated with increased numbers of precipitins against P.
+   aeruginosa.  It is suggested that this association is due to immune
+   reactions in the intestinal mucosa, resulting in increased
+   absorption of antigens from the gut.
+RF 001   BJORNEBOE M           LANCET                           1    58 972
+   002   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA            962
+   003   FINEGOLD SM           ANAEROBIC BACTERIA HUMAN DIS             977
+   004   GIBBONS A             BR MED J                         1   120 976
+   005   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   81   298 973
+   006   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   541 974
+   007   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   008   HOIBY N               SCAND J RESPIR DIS              56    38 975
+   009   HOIBY N               SCAND J IMMUNOL SUPPL 2          4   187 975
+   010   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   85   142 977
+   011   HOIBY N               ACTA PATH MICROBIOL SCAND (C) S262     1 977
+   012   MCFARLANE H           BR MED J                         1   423 975
+   013   SASAKI M              JAPAN J EXP MED                 45   335 975
+   014   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C)   86    37 978
+   015   SCHWAB JH             BACT REV                        39   121 975
+   016   SKIDMORE BJ           J IMMUNOL                      114   770 975
+   017   THERKELSEN AJ         MEDICINSK STATISTIK AKADEMISK            968
+   018   TOLO K                IMMUNOLOGY                      33   733 977
+   019   WALLWORK JC           CLIN EXP IMMUNOL                18   303 974
+   020   WALLWORK JC           CLIN ALLERGY                     6   349 976
+   021   WEEKE B               SCAND J IMMUNOL SUPPL 1          2    15 973
+   022   WEEKE B               SCAND J IMMUNOL SUPPL 1          2    47 973
+CT   1   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981
+     2   HOIBY N               ACTA PATH MICROBIOL SCAND (C)   89   185 981
+     3   KOCH C                ALLERGY                         37   191 982
+     4   BECK B                ACTA PAEDIATR SCAND SUPPL 301 1982   125 982
+     5   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+     6   BERG RD               EOS RIV IMMUNOL IMMUNOFARMACO    5   161 985
+     7   GOTZ M                MONATSSCHR KINDERHEILKD        133   718 985

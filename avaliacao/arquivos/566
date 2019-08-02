@@ -1,0 +1,90 @@
+PN 76213
+RN 00566 
+AN 77060021
+AU Danes-B-S.
+TI Expression of the cystic fibrosis genotype in cultured somatic cells.
+SO Tex-Rep-Biol-Med. 1976. 34(1). P 135-50.
+MJ CYSTIC-FIBROSIS: fg.
+MN CELL-MEMBRANE: me.  CELLS-CULTURED.  CYSTIC-FIBROSIS: me, pa.
+   FIBROBLASTS: me.  GENOTYPE.  HEPARIN: me.  HETEROZYGOTE.  HOMOZYGOTE.
+   HUMAN.  HYBRID-CELLS.  LEUKOCYTES: me.  LYSOSOMES: me.
+   MUCOPOLYSACCHARIDES: me.  PINOCYTOSIS.  STAINS-AND-STAINING.
+AB Observations on the characteristics of the cell with the cystic
+   fibrosis (CF) genotype in culture are reviewed. Although numerous and
+   diverse abnormalities have been described, none were specific for the
+   CF gene. The relevance of each of these abnormalities to the clinical
+   syndrome known as CF is discussed, emphasizing that the value thus
+   far of such cell culture research has been to learn how the CF gene
+   influences cellular function.
+RF 001   BAIG MM               J PEDIATR                       86    72 975
+   002   BARKA T               HISTOCHEMISTRY THEORY PRACTIC         84 963
+   003   BARNETT DR            TEX REP BIOL MED                31   691 973
+   004   BARNETT DR            PEDIATR RES                      8   687 974
+   005   BARNETT DR            TEX REP BIOL MED                31   697 973
+   006   BARNETT DR            TEX REP BIOL MED                31   703 973
+   007   BARNETT DR            TEX REP BIOL MED                31   709 973
+   008   BARTMAN J             J PEDIATR                       76   430 970
+   009   BEARN AG              TRANS ASSOC AM PHYSICIANS       82   248 969
+   010   BERATIS NG            PEDIATR RES                      7   958 973
+   010A  BOLTON WE             AM J HUM GENET                  27   394 975
+   011   BOWMAN BH             IN: MANGOS JA                         29 973
+   012   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973
+   013   BOWMAN BH             CLIN GENET                       4   461 973
+   014   BOWMAN BH             SCIENCE                        164   325 969
+   015   BOWMAN BH             SCIENCE                        167   871 970
+   016   BOWMAN BH             AM J HUM GENET                  25   16A 973
+   017   CAUDILL M             LANCET                           1    32 974
+   018   CHOU L                PEDIATR RES                      9   312 975
+   019   CONOVER JH            PEDIATR RES                      7   224 973
+   020   CONOVER JH            PEDIATR RES                      7   220 973
+   021   CONOVER JH            LANCET                           2  1501 973
+   022   CONOVER JH            LANCET                           1  1194 973
+   023   CONOVER JH            LIFE SCI                        14   253 974
+   024   DANES BS              IN: LAWSON D PROC 5TH INT CF          67 969
+   025   DANES BS              BIRTH DEF ORIG ART SER           8   114 972
+   026   DANES BS              LANCET                           2   765 973
+   027   DANES BS              LANCET                           2   655 974
+   028   DANES BS              CLIN GENET                       7   128 975
+   029   DANES BS              IN: KELLY S                          297 976
+   031   DANES BS              BIOCHEM GENET                   12   359 974
+   032   DANES BS              J EXP MED                      129   775 969
+   033   DANES BS              BIOCHEM BIOPHYS RES COMMUN      36   919 969
+   034   DANES BS              J EXP MED                      136  1313 972
+   035   DANES BS              CLIN GENET                       8    85 975
+   036   DANES BS              J EXP MED                      137  1538 973
+   037   DEMARS R              NAT CANCER INST MONOGRAPH       13   181 964
+   038   DI FERRANTE N         CONNECT TISSUE RES               1    93 972
+   039   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   040   DOGGETT RG            NATURE NEW BIOL                243   251 973
+   041   FLETCHER DS           CLIN CHIM ACTA                  44     5 973
+   042   FRATANTONI JC         PROC NAT ACAD SCI USA           60   699 968
+   043   HOUCK JC              PROC SOC EXP BIOL MED          147   167 974
+   045   KLAGSBRUN M           PEDIATR RES                      8   205 974
+   046   KRAUS I               PEDIATRICS                      47  1010 971
+   047   LIE SO                PROC NAT ACAD SCI USA           69  2361 972
+   048   MCMANUS SP            J MED GENET                     11   216 974
+   049   MATALON R             PROC NAT ACAD SCI USA           56  1310 966
+   050   MATALON R             BIOCHEM BIOPHYS RES COMMUN      33   954 968
+   051   MILUNSKY A            N ENGL J MED                   281  1128 969
+   052   NADLER HL             LANCET                           2    84 969
+   054   PALLAVICINI JC        J PEDIATR                       77   280 970
+   055   POLLEY MJ             J MED GENET                     11   249 974
+   056   RAFF EC               J CELL PHYSIOL                  74   235 969
+   057   RENNERT OM            CLIN PEDIATR                    11   351 972
+   058   RENNERT OM            PEDIATRICS                      50   485 972
+   059   ROBERTSON JA          LANCET                           1  1256 974
+   060   RUSSELL SB            J MED GENET                      8   441 971
+   061   SCHMOYER IR           BIOCHEM BIOPHYS RES COMMUN      58  1066 974
+   062   HOUCK JC              PROC SOC EXP BIOL MED          135   369 970
+   063   SPOCK A               PEDIATR RES                      1   173 967
+   064   SYLVEN B              ACTA HISTOCHEM SUPPL             1    79 958
+   065   TAYSI K               N ENGL J MED                   281  1108 969
+   066   WIESMANN UN           J PEDIATR                       77   685 970
+CT   1   BOWMAN BH             TEX REP BIOL MED                34     1 976
+     2   DANES BS              CLIN GENET                      13   327 978
+     3   WILSON GB             J LAB CLIN MED                  92   463 978
+     4   WILSON GB             PEDIATR RES                     13  1079 979
+     5   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+     6   BUCHWALD M            ADV CYCLIC NUCLEO RES           12   243 980
+     7   WILSON GB             J CLIN INVEST                   66  1010 980
+     8   TEGNER H              ACTA PAEDIATR SCAND             70   629 981

@@ -1,0 +1,39 @@
+PN 78172
+RN 00952 
+AN 78201164
+AU Knoke-J-D.  Stern-R-C.  Doershuk-C-F.  Boat-T-F.  Matthews-L-W.
+TI Cystic fibrosis: the prognosis for five-year survival.
+SO Pediatr-Res. 1978 May. 12(5). P 676-9.
+MJ CYSTIC-FIBROSIS: mo.
+MN ADOLESCENCE.  CHILD.  CHILD-PRESCHOOL.  HUMAN.  INFANT.  PROBABILITY.
+   PROGNOSIS.  SUPPORT-U-S-GOVT-P-H-S.
+AB Statistical discriminant analysis is applied to 41 concomitant
+   variables obtained during the first year of study of 226 patients
+   with cystic fibrosis. A discriminant function based on six variables
+   is developed which can be used as a predictive index. This index
+   estimates the probability of 5-year survival for an individual
+   patient and can also be used to classify patients into one of two
+   groups: (1) will live for 5 years or (2) will die within 5 years.
+   Speculation A classification rule for cystic fibrosis is presented
+   which correctly assigns 90% of the 5-year survivors and 84% of those
+   who expire. Such a classification scheme is useful for clinical and
+   research purposes.
+RF 001   AFIFI AA              AM J CARDIOL                    33   826 974
+   002   AFIFI AA              N ENGL J MED                   285  1497 971
+   003   CHANG PC              J AM STATIST ASSOC              69   336 974
+   004   DIXON WJ              BMDP: BIOMEDICAL COMPUTER PRO            975
+   005   DOERSHUK CF           J PEDIATR                       65   677 964
+   006   LACHENBRUCH PA        DISCRIMINANT ANALYSIS                    975
+   007   LACHENBRUCH PA        TECHNOMETRICS                   10     1 968
+   008   LURIA MH              ANN INTERN MED                  85   561 976
+   009   MATTHEWS LW           J PEDIATR                       65   558 964
+   010   MCCABE GP JR          TECHNOMETRICS                   17   103 975
+   011   MOORE DH              J AM STATIST ASSOC              68   399 973
+   012   SHUBIN H              CARDIOVASC RES                   2   329 968
+   013   SHWACHMAN H           AM J DIS CHILD                  96     6 958
+   014   STERN RC              J PEDIATR                       89   406 976
+   015   TAUSSIG LM            J PEDIATR                       82   380 973
+CT   1   KRAEMER R             HELV PAEDIATR ACTA              34   417 979
+     2   TUMMLER B             MONATSSCHR KINDERHEILKD        130   157 982
+     3   PARSONS HG            J PEDIATR GASTROENTEROL NUTR     2    44 983
+     4   DAVIS PB              SEM RESPIR MED                   6   261 985

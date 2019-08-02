@@ -1,0 +1,46 @@
+PN 77039
+RN 00621 
+AN 78080307
+AU Christian-S-T.  Monti-J-A.  Finley-W-H.
+TI Membrane fluidity in normal and cystic fibrosis fibroblasts.
+SO Biochem-Biophys-Res-Commun. 1977 Dec 7. 79(3). P 966-72.
+MJ CELL-MEMBRANE: ul.  CYSTIC-FIBROSIS: pp.
+MN CELLS-CULTURED.  FIBROBLASTS: ph.  HUMAN.  MALE.  PHOSPHOLIPIDS.
+   SKIN: ph, pp.  SPECTROMETRY-FLUORESCENCE.  TEMPERATURE.
+   SUPPORT-U-S-GOVT-NON-P-H-S.
+AB We have observed distinct differences in the polarization of
+   fluorescence and temperature dependent emission intensity of the
+   highly fluoescent phospholipid derivative
+   (1-acyl-2-(N-4-nitrobenzo-2-oxa-1,3-diazole)--aminocaproyl
+   phosphatidylcholine (NBD-PC), when incorporated in the plasma
+   membranes of normal and cystic fibrosis fibroblasts.  Fluorescence
+   polarization measurements indicate that the fluorochrome has a much
+   higher degree of rotational mobility in cystic fibrosis fibroblasts
+   as compared with normal cells.  Temperature dependent transitions in
+   the emission intensity of NBD-PC incorporated in normal fibroblasts
+   are indicated at 17.7 and 21.2 degrees C while the abnormal cell
+   membranes apparently undergo transitions at 8.7 and 13.5 degrees C.
+   These differences might be due to changes in plasma membrane
+   composition and/or organization, in the case of the cystic fibrosis
+   cells.
+RF 001   SINGER SJ             SCIENCE                        175   720 972
+   002   GITLER C              ANNU REV BIOPHYS BIOENG          1    51 972
+   003   SHINITZKY M           FEBS LETTERS                    24   247 973
+   004   INBAR M               J MOL BIOL                      81   245 973
+   005   RUDY B                BIOCHIM BIOPHYS ACTA           288   231 972
+   006   COGAN U               BIOCHEMISTRY                    12   521 973
+   007   MONTI JA              PROC AM SOC NEUROCHEM            8    75 977
+   008   CHEN RF               SCIENCE                        147   729 965
+   009   SKLAR LA              J SUPRAMOL STRUCT                4   449 976
+   010   BUTTERFIELD DA        PROC NAT ACAD SCI USA           71   909 974
+   011   BUTTERFIELD DA        BIOCHEMISTRY                    13  5078 974
+   012   BUTTERFIELD DA        NATURE                         263   159 976
+   013   BUTTERFIELD DA        ARCH BIOCHEM BIOPHYS           177   226 976
+   014   BUTTERFIELD DA        NATURE                         267   453 977
+CT   1   SHINITZKY M           BIOCHIM BIOPHYS ACTA           515   367 978
+     2   MONTI JA              ARCH BIOCHEM BIOPHYS           193   496 979
+     3   RIORDAN JR            BIOCHIM BIOPHYS ACTA           574    39 979
+     4   RIMON G               BIOCHEMISTRY                    19  4451 980
+     5   CHASE HP              METABOLISM                      29   365 980
+     6   MALER T               BIOCHIM BIOPHYS ACTA           598     1 980
+     7   HARRIS A              CLIN CHIM ACTA                 128    41 983

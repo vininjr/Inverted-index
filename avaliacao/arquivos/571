@@ -1,0 +1,39 @@
+PN 76218
+RN 00571 
+AN 77060028
+AU Bargman-G-J.
+TI Larval brine shrimp (Nauplii): a potentially useful model to study
+   cystic fibrosis.
+SO Tex-Rep-Biol-Med. 1976. 34(1). P 37-43.
+MJ CYSTIC-FIBROSIS: me.  MODELS-BIOLOGICAL.  SHRIMP: me.
+MN ANIMAL.  CYSTIC-FIBROSIS: fg.  ELECTROLYTES: me.
+   EXOCRINE-GLANDS:  me.  HETEROZYGOTE.  HOMOZYGOTE.  HUMAN.  LARVA.
+   OXYGEN-CONSUMPTION.  SALIVA: me.
+AB One of the most consistent characteristics of cystic fibrosis is the
+   abnormal handling of electrolytes by exocrine glands. The present
+   study has examined the possibility that diminished respiratory energy
+   formation is a primary biochemical error responsible for this
+   abnormality. Using oxygen consumption of intact larval brine shrimp,
+   quantitative differences have been observed from reaction of mixed
+   mouth saliva between CF heterozygotes and CF homozygotes. In
+   addition, information demonstrating a correlation between a
+   biochemical abnormality and disease severity was observed. The
+   differences observed in inhibition by saliva from both CF homozygotes
+   and obligate heterozygotes may occur as the result of 1) interference
+   with electron transfer from organic fuel molecules to molecular
+   oxygen or 2) interference with the mechanism responsible for
+   generating the biochemical reducing power necessary for multiple
+   biosynthetic reactions.
+RF 001   DANES BS              J EXP MED                      129   775 969
+   002   CONOVER JH            LANCET                           1  1122 973
+   003   LOBECK CC             IN: STANBURY JB                     1605 972
+   004   BARGMAN GJ            PEDIATR RES                      8   464 974
+   005   CONTE FP              J COMP PHYSIOL                  80   239 972
+   006   CONTE FP              J COMP PHYSIOL                  82   277 973
+   007   EWING RD              J COMP PHYSIOL                  88   217 974
+   008   EWING RD              J COMP PHYSIOL                  80   247 972
+   009   HOOTMAN SR            J COMP PHYSIOL                  79    97 972
+   010   SHAPIRO SS            BIOMETRICS                      21  1030 965
+CT   1   BOWMAN BH             TEX REP BIOL MED                34     1 976
+     2   GABRIDGE MG           PEDIATR RES                     13    31 979
+     3   JAKEL HP              BIOL ZENTRALBL                  98    55 979

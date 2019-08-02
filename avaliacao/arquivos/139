@@ -1,0 +1,104 @@
+PN 74140
+RN 00139 
+AN 74153997
+AU Boat-T-F.  Wiesman-U-N.  Pallavicini-J-C.
+TI Purification and properties of the calcium-precipitable protein in
+   submaxillary saliva of normal and cystic fibrosis subjects.
+SO Pediatr-Res. 1974 May. 8(5). P 531-9.
+MJ CYSTIC-FIBROSIS: me.  PHOSPHOPROTEINS: ip.  SALIVA: an.
+   SUBMANDIBULAR-GLAND: se.
+MN ADOLESCENCE.  ADULT.  AMINO-ACIDS: an.  CALCIUM.  COMPARATIVE-STUDY.
+   ELECTROPHORESIS-POLYACRYLAMIDE-GEL.  FEMALE.  CHROMATOGRAPHY-GEL.
+   HUMAN.  HYDROGEN-ION-CONCENTRATION.  ISOELECTRIC-FOCUSING.  MALE.
+   MOLECULAR-WEIGHT.  PHOSPHOPROTEINS: an.  PHOSPHORUS: an.
+   PRECIPITATION.  PROTEIN-BINDING.  SALIVARY-GLANDS: se.
+AB A calcium-precipitable protein (CaPP), previously shown to cause
+   turbidity of submaxilliary saliva (SMS) in patients with cystic
+   fibrosis (CF), was purified from normal and CF-SMS by (NH4)2SO4
+   precipitation, gel filtration, and preparative polyacrylamide gel
+   electrophoresis.  This protein has a molecular weight of 12,000.  It
+   contains large numbers of serine, glycine, and glutamic acid
+   residues, 0.85% phosphorus as phosphate monoester, and small amounts
+   of carbohydrate.  Precipitation (aggregation) of CaPP occurs at basic
+   pH values in the presence of ionic calcium and is enhanced by
+   increasing calcium concentration, CaPP concentration, or pH.
+   Aggregated CaPP binds calcium in molar quantities equal to the
+   number of phosphate prosthetic groups.  Alkaline phosphatase removes
+   all phosphate from CaPP and eliminates calcium-induced
+   precipitation.  Studies of CaPP from CF saliva have demonstrated no
+   electrophoretic or compositional differences from normal CaPP.
+   Higher than normal pH values or elevated CaPP concentrations are not
+   present in SMS of patients with CF and do not contribute to the
+   formation of turbid SMS.  Aggregation and precipitation of CaPP in
+   saliva of patients with CF seems to be induced primarily by elevated
+   levels of calcium in saliva.  This precipitation may be entirely, or
+   in part, responsible for focal obstruction of submaxillary gland
+   ducts in patients with CF.  However, little or no CaPP is secreted
+   in the lower gastrointestinal or tracheobronchial tracts.
+   Therefore, CaPP does not play a more general role in the obstructive
+   processes which characterize CF.
+RF 001  ANTONOPOULOS CA       ACTA CHEM SCAND                 16  1521 962
+   002   BETTELHEIM FA         BIOCHIM BIOPHYS ACTA           236   702 971
+   003   CHERNICK WS           MOD PROBL PEDIATR               10   125 967
+   004   CHERNICK WS           J PEDIATR                       59   890 961
+   005   DISCHE Z              J BIOL CHEM                    175   595 948
+   006   EDELHOCH H            BIOCHEMISTRY                     6  1948 967
+   007   FARBER S              ARCH PATHOL                     37   238 944
+   008$  FISCHER EH            IN: BOYER PD                     4   343 960
+   009   FISKE CH              J BIOL CHEM                     66   375 925
+   010   GUGLER EC             J PEDIATR                       71   585 967
+   011   GUGLER EC             J PEDIATR                       73   548 968
+   012   HAY DI                ARCH ORAL BIOL                  12   937 967
+   013   KUNITZ M              J GEN PHYSIOL                   24    15 940
+   014   LOWRY OH              J BIOL CHEM                    193   265 951
+   015   MANDEL ID             CLIN PEDIATR                     8   161 969
+   016   MARMAR J              GASTROENTEROLOGY                50   551 966
+   018   MECKEL AH             ARCH ORAL BIOL                  10   585 965
+   019   MCKENZIE HA           ADV PROT CHEM                   22    55 967
+   020   OSSERMAN EF           J EXP MED                      124   921 966
+   021   PALLAVICINI JC        PROTIDES BIOL FLUIDS            15   541 967
+   022   PERLMANN GE           ADV PROT CHEM                   10     1 955
+   023   REISFELD RA           NATURE                         195   281 962
+   024   SCHNEYER LH           J DENT RES                      33   683 954
+   025   SHANNON IL            US AIR FORCE SCHOOL OF AVIATI         60 960
+   026   SPIRO RG              N ENGL J MED                   281   991 969
+   027   SVENNERHOLM L         BIOCHIM BIOPHYS ACTA            24   604 957
+   028   VAN LOON EJ           AM J CLIN PATHOL                22  1134 952
+   029   WADSWORTH C           INT ARCH ALLERGY APPL IMMUNOL   21   131 962
+   030   WEBER K               J BIOL CHEM                    175   595 969
+   031   WARTON KL             BR MED J                         3   683 971
+   032   WOTMAN S              J PERIODONTOL                   44   278 973
+   033   WRIGLEY C             SCIENCE TOOLS                   15       968
+CT   1   BENNICK A             BIOCHEM J                      145   557 975
+     2   FORSTNER JF           BIOCHIM BIOPHYS ACTA           386   283 975
+     3   WILSON GB             SCAND J IMMUNOL                  5   828 976
+     4   ALLARS HM             PEDIATR RES                     10   584 976
+     5   ALLARS HM             PEDIATR RES                     10   578 976
+     6   FORSTNER JF           PEDIATR RES                     10   609 976
+     7   WU JT                 PEDIATR RES                     10   235 976
+     8   WOOD RE               AM REV RESPIR DIS              113   833 976
+     9   BENNICK A             BIOCHEM J                      155   163 976
+    10   MAYO JW               ARCH BIOCHEM BIOPHYS           175   507 976
+    11   SIEGEL IA             AM J PHYSIOL                   231   974 976
+    12   SANTAGNESE PAD        N ENGL J MED                   295   481 976
+    13   WOOD DL               PEDIATR RES                     11   827 977
+    14   NIEUWAMERONGEN AV     BIOCHIM BIOPHYS ACTA           495   324 977
+    15   OWEN E                J MOL MED                        3    49 978
+    16   KATZ S                PEDIATR RES                     12  1033 978
+    17   ALHADEFF JA           CLIN GENET                      14   189 978
+    18   KATZ S                RES COMMUN CHEM PATH PHARM      19   491 978
+    19   BOAT TF               ACS SYMPOSIUM SERIES          1978   108 978
+    20   LEACH SA              J DENT                           7   149 979
+    21   WILKES PD             J DENT                           7   213 979
+    22   MARRIOTT C            BIORHEOLOGY                     16   331 979
+    23   MANDEL ID             CRC CRIT REV CLIN LAB SCI       12   321 980
+    24   HALLINAN F            MED HYPOTHESES                   7   793 981
+    25   HAY DI                CALC TISS INT                   34   531 982
+    26   BAUM BJ               J GERONTOL                      37   392 982
+    27   SHOMERS JP            J DENT RES                      61   764 982
+    28   EGGEN KH              SCAND J DENT RES                90   182 982
+    29   EGGEN KH              SCAND J DENT RES                91   439 983
+    30   NORDBO H              SCAND J DENT RES                91   182 983
+    31   KATZ S                CELL CALC                        5   421 984
+    32   EGGEN KH              SCAND J DENT RES                93   426 985
+    33   DAVIS PB              J DENT RES                      66   667 987

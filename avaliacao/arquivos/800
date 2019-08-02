@@ -1,0 +1,105 @@
+PN 78019
+RN 00800 
+AN 78184587
+AU Parry-M-F.  Neu-H-C.
+TI A comparative study of ticarcillin plus tobramycin versus
+   carbenicillin plus gentamicin for the treatment of serious
+   infections due to gram-negative bacilli.
+SO Am-J-Med. 1978 Jun. 64(6). P 961-6.
+MJ ANTIBIOTICS: tu.  CARBENICILLIN: tu.  GENTAMICINS: tu.
+   GRAM-NEGATIVE-AEROBIC-BACTERIA: de.  PENICILLINS: tu.
+   PSEUDOMONAS-INFECTIONS: dt.  TICARCILLIN: tu.  TOBRAMYCIN: tu.
+MN COMPARATIVE-STUDY.  CYSTIC-FIBROSIS: dt.  DRUG-RESISTANCE-MICROBIAL.
+   DRUG-THERAPY-COMBINATION.  HUMAN.  KIDNEY-FUNCTION-TESTS.
+   KIDNEY: de.  PNEUMONIA: dt.  SEPTICEMIA: dt.
+AB The combination of ticarcillin plus tobramycin (TT) or carbenicillin
+   plus gentamicin (CG) was used to treat 82 patients with severe
+   systemic gram-negative infection in a prospective, randomized study.
+   Pseudomonas aeruginosa was the primary pathogen in 7 (93 per cent) of
+   these patients. Patients treated with TT responded more frequently
+   (92 per cent or 37 of 40) than patients treated with CG (71 per cent
+   or 30 of 42) (p is less than 0.05). This difference was primarily due
+   to a greater response to TT in patients with pulmonary infections (93
+   per cent versus 68 per cent) and infections due to Pseudomonas (92
+   per cent versus 70 per cent). Severity of underlying disease was also
+   an important determinant of response. Except for a greater incidence
+   of hepatotoxicity with CG (23 per cent versus 3 per cent; p is less
+   than 0.02), there was no difference in toxicity, colonization with
+   drug-resistant microorganisms or superinfection between the two
+   treatment groups. The combination of TT appears to be superior to CG
+   for the treatment of pulmonary infections due to Pseudomonas
+   aeruginosa.
+RF 001   ANDRIOLE VT           J INFECT DIS                   129   124 974
+   002   LUMISH RM             J INFECT DIS                   133   538 976
+   003   SCOTT RE              ANTIMICROB AGENTS CHEMOTHER     10   646 976
+   004   MYEROWITZ RL          J INFECT DIS                   124   239 971
+   005   MCCABE WR             BULL NY ACAD MED                51  1084 975
+   006   KLASTERSKY J          J INFECT DIS                   129   187 974
+   007   KLASTERSKY J          ANTIMICROB AGENTS CHEMOTHER      7   640 975
+   008   PARRY MF              J PEDIATR                       90   144 977
+   009   FELD R                J INFECT DIS                   135    61 977
+   010   SMITH CR              N ENGL J MED                   296   349 977
+   011   NEU HC                ANTIMICROB AGENTS CHEMOTHER     10   385 970
+   012   NEU HC                J INFECT DIS SUPPL             134     3 976
+   013   NEU HC                ANTIMICROB AGENTS CHEMOTHER      8   457 975
+   014   PARRY MF              J INFECT DIS                   133    46 976
+   015   MCHENRY MC            ANN INTERN MED                  74   192 971
+   016   BAUER AW              AM J CLIN PATHOL                45   493 966
+   017   NEU HC                APPL MICROBIOL                  21    66 971
+   018   FU KP                 ANTIMICROB AGENTS CHEMOTHER     10   511 976
+   019   PARRY MF              ANTIMICROB AGENTS CHEMOTHER      9   625 976
+   020   SHWACHMAN H           AM J DIS CHILD                  96     6 958
+   021   PARRY MF              J INFECT DIS SUPPL             134   194 976
+   022   HEWITT WL             POSTGRAD MED J SUPPL 7          50    55 974
+   023   LIPNER HI             J LAB CLIN MED                  86   183 975
+   024   BROWN CH 3RD          N ENGL J MED                   291   265 974
+   025   PARRY MF              J INFECT DIS                   134   476 976
+   026   LAU WK                AM J MED                        62   959 977
+CT   1   STEWART C             DRUG INTEL CLIN PHARM           13   692 979
+     2   MEYER M               CAN J MICROBIOL                 25  1232 979
+     3   HOPEFL AW             AM J HOSP PHARM                 36   178 979
+     4   CHOW M                CONN MED                        43    25 979
+     5   PANCOAST SJ           AM J MED                        67   747 979
+     6   ANDRIOLE VT           J LAB CLIN MED                  94   196 979
+     7   PENNINGTON JE         J INFECT DIS                   140   881 979
+     8   NEU HC                INFECTION                        8  S 62 980
+     9   KOHLER RB             J CLIN MICROBIOL                12    39 980
+    10   BROGDEN RN            DRUGS                           20   325 980
+    11   SORKNESS R            AM J HOSP PHARM                 37   555 980
+    12   YOUNG LS              J ANTIMICROB CHEMOTHER           8   121 981
+    13   BELL WE               ANN NEUROL                       9   313 981
+    14   HOPEFL AW             DRUG INTEL CLIN PHARM           15   697 981
+    15   ELLIS PP              CAN J OPHTHALMOL                16    79 981
+    16   MOZZANA R             HAEMATOLOGICA                   66   634 981
+    17   BRINKER KR            J LAB CLIN MED                  98   292 981
+    18   HYATT AC              J PEDIATR                       99   307 981
+    19   ELIOPOULOS GM         REV INFECT DIS                   4   282 982
+    20   BELL WE               SEM PERINATOL                    6     1 982
+    21   PARRY MF              J ANTIMICROB CHEMOTHER           9   273 982
+    22   PENNINGTON JE         ANTIMICROB AGENTS CHEMOTHER     22   406 982
+    23   ABRAMOWITZ PW         AM J HOSP PHARM                 39  1176 982
+    24   TENENBAUM MJ          MED CLIN NORTH AM               66    17 982
+    25   GRAFT DF              J PEDIATR                      100   497 982
+    26   KOHLER RB             ARCH INTERN MED                142  1335 982
+    27   BODEY GP              REV INFECT DIS                   5   279 983
+    28   SAVOIA D              DRUGS UNDER EXP CLIN RES         9   143 983
+    29   CHIN NX               J ANTIMICROB CHEMOTHER          11    33 983
+    30   SRINIVASAN S          INFECTION                       11   291 983
+    31   BINT AJ               J ANTIMICROB CHEMOTHER          12   115 983
+    32   GASPARETTO A          J ANTIMICROB CHEMOTHER          12   171 983
+    33   SHLAES DM             PEDIATR CLIN NORTH AM           30   121 983
+    34   KAHLMETER G           J ANTIMICROB CHEMOTHER          13     9 984
+    35   KELLY HW              DRUG INTEL CLIN PHARM           18   772 984
+    36   ENG RHK               INT J DERMATOL                  23   153 984
+    37   YOUNG LS              AM J MED                        76    61 984
+    38   MOORE RD              AM J MED                        77   657 984
+    39   SCULLY BE             ARCH INTERN MED                144    57 984
+    40   ACAR JF               REV INFECT DIS                   7  S513 985
+    41   LEVISON ME            REV INFECT DIS                   7  S656 985
+    42   SCULLY BE             REV INFECT DIS                   7  S669 985
+    43   CONE LA               ANTIMICROB AGENTS CHEMOTHER     28    33 985
+    44   BALTCH AL             AM J MED                        79     8 985
+    45   WILSON CB             J PEDIATR                      106  1049 985
+    46   HANNO P               UROL CLIN NORTH AM              13   577 986
+    47   ARPI M                CHEMOTHERAPY                    32    68 986
+    48   EVANS DA              AM J MED                        80    39 986

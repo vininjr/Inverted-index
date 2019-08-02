@@ -1,0 +1,751 @@
+PN 77023
+RN 00605 
+AN 77219997
+AU Wanner-A.
+TI Clinical aspects of mucociliary transport.
+SO Am-Rev-Respir-Dis. 1977 Jul. 116(1). P 73-125. (REVIEW).
+MJ CILIA: ph.  LUNG: ph.  MUCUS: ph.
+MN AIR-POLLUTANTS-ENVIRONMENTAL: ae.  ANESTHETICS: pd.  ANIMAL.
+   ASTHMA: pp.  BRONCHITIS: pp.  CHRONIC-DISEASE.  CILIA: cy, de.
+   CYSTIC-FIBROSIS: pp.  HUMAN.  LUNG: cy, de, pp.  MUCUS: cy, de.
+   OXYGEN.  RESPIRATORY-TRACT-INFECTIONS: pp.  REVIEW.  RHEOLOGY.
+   SMOKING: pp.  SYMPATHOMIMETICS: pd.  WEATHER.
+EX It has long been believed that the mucociliary apparatus of the
+   airways serves to remove inhaled particulate matter from the
+   tracheobronchial mucosa, thereby contributing to pulmonary host
+   defense.  This review deals mainly with factors affecting
+   mucociliary transport that may be of clinical importance.  The
+   information available at present strongly suggests that mucociliary
+   transport, at least in central airways, is impaired in most patients
+   with cystic fibrosis; however, it is still unclear whether this
+   disorder is a nonspecific feature of the chronic inflammatory airway
+   disease or represents an essential factor in the pathogenesis of the
+   pulmonary abnormalities.
+RF 001   SLEIGH MA             BIOLOGY OF CILIA AND FLAG                962
+   002   GRAY C                CILIARY MOVEMENT                         928
+   003   RIVERA JA             CILIA CILIATED EPITHELIUM AND            962
+   004   KINOSITA H            PHYSIOL REV                     47    53 967
+   005   KILBURN KH            AM REV RESPIR DIS               93   184 966
+   006   HILDING AC            MINN MED                        50   916 967
+   007   KILBURN KH            YALE J BIOL MED                 40   339 968
+   008   KILBURN KH            AM REV RESPIR DIS               98   449 968
+   009   OKESON GC             MAYO CLIN PROC                  45   361 970
+   010   ASMUNDSSON T          IN: DULFANO MJ                       107 973
+   011   DELAHUNTY JE          J LARYNGOL OTOL                 83   803 969
+   012   LEESON TS             J ANAT                          98   183 964
+   013   VON HAYCK H           HUMAN LUNG                               960
+   014   GILLESPIE JR          AM REV RESPIR DIS               95   477 967
+   015   RHODIN J              ANN OTOL RHINOL LARYNGOL        68   964 959
+   016   ALEXANDER I           THORAX                          30   171 975
+   017   RHODIN JAG            AM REV RESPIR DIS SUPPL 3       93     1 966
+   018   YONEDA K              AM REV RESPIR DIS              114   837 976
+   019   SERAFINI SM           BULL PHYSIOPATH RESPIR NANCY    12   415 976
+   021   VAN AS A              ENVIRON RES                      7     1 974
+   022   VANAS A               S AFR MED J                     46   347 972
+   023   HOLMA B               ARCH ENVIRON HEALTH             18   330 969
+   024   RHODIN J              Z ZELLFORSCH MIKROSK ANAT       44   415 956
+   025   FAWCETT DW            J MORPHOL                       94   221 954
+   026   BARBER VC             Z ZELLFORSCH MIKROSK ANAT       84   269 968
+   027   GIBBONS IR            J BIOPHYS BIOCHEM CYTOL          7   697 960
+   028   GIBBONS IR            J BIOPHYS BIOCHEM CYTOL         11   179 961
+   029   ROTH LE               J CELL BIOL                     20   249 964
+   030   DULFANO MJ            IN: DULFANO MJ                         3 973
+   031   SPICER SS             IN: DULFANO MJ                        22 973
+   032   ELFTMAN AG            AM J ANAT                       72     1 943
+   033   LARSELL O             AM J ANAT                       52   125 933
+   034   EBERT RV              AM REV RESPIR DIS              114   567 976
+   035   KILBURN KH            IN: DULFANO MJ                        69 973
+   036   LUCAS AM              ARCH OTOLARYNGOL                20   518 934
+   037   NOWELL JA             AM REV RESPIR DIS              103   313 971
+   038   SADE J                AM REV RESPIR DIS              102    48 970
+   039   ASMUNDSSON T          AM REV RESPIR DIS              102   388 970
+   040   BARCLAY AE            J PHYSIOL (LOND)                90   482 937
+   041   HILDING AC            AM J PHYSIOL                   191   404 957
+   042   LIGHTOWLER NM         BR J EXP PATHOL                 50   139 969
+   043   PROCTOR DF            AM REV RESPIR DIS              115    97 977
+   044   WILHELM DL            J PATHOL BACTERIOL              67   361 954
+   045   BATTISTA SP           TOXICOL APPL PHARMACOL          22    56 972
+   046   BANG FB               AM REV RESPIR DIS               93   142 966
+   047   HILDING AC            ACTA OTOLARYNGOL STOCKH         57   352 964
+   048   LUCAS AM              IN: KOWDRY EV                        409 932
+   049   WILSON GB             TRANS AM MICROSC SOC            94    43 975
+   050   SATIR P               IN: SLEIGH MA                        131 974
+   051   PITELKA DR            IN: SLEIGH MA                        437 974
+   052   GIBBONS IR            J CELL BIOL                     26   707 965
+   053   SAAVEDRA S            EXP CELL RES                    90   439 975
+   054   USUKI I               SCI REP RES INST TOHOKU UNIV    26    65 959
+   055   ALEXANDROV VY         DOKL AKAD NAUK SSSR            110   457 956
+   056$  BORHAUS EF            SCIENCE                         92   553 953
+   057   GOSSELIN RE           AM REV RESPIR DIS               93    41 966
+   058   GRAY J                PROC R SOC LOND BIOL            93   104 922
+   059   SLEIGH MA             AM REV RESPIR DIS               93    16 966
+   060   KNIGHT-JONES EW       Q J MICR SCI                    95   503 954
+   061   BROKAW CJ             AM REV RESPIR DIS               93    32 966
+   062   IRAVANI J             PFLUEGERS ARCH                 305   199 969
+   063   BAUER V               Z ALLG PHYSIOL                  10   230 910
+   064   AIELLO EL             SCIENCE                        146  1692 964
+   065   KINOSITA H            J FAC SCI UNIV TOKYO             7     1 954
+   066   KINOSITA H            J FAC SCI UNIV TOKYO            10   304 963
+   067   KAMADA T              J FAC SCI UNIV TOKYO             2   285 931
+   068   UEDA K                ANNOT ZOOL JAPON                34    99 961
+   069   MURAKAMI A            NATURE                         257    48 975
+   070   PEHLE K               ARCH EXP PATHOL PHARMAKOL      159   452 931
+   071   MCDONALD JF           AM J PHYSIOL                    85   395 928
+   072   RAZANSKY N            RUSS FIZIOL Z                    9   556 926
+   073   BRODY JS              CLIN RES                        29   507 971
+   074   REID L                ARCH ENVIRON HEALTH             10   265 965
+   075   REID L                BULL PHYSIOPATH RESPIR NANCY     9    15 973
+   076   TOREMALM NG           ACTA OTOLARYNGOL STOCKH SUPPL  158    43 960
+   077   GROTE JJ              ACTA OTOLARYNGOL STOCKH         79   124 975
+   078   BOAT TF               IN: DULFANO MJ                       243 973
+   079   BARTON AD             ARCH INTERN MED                131   140 973
+   080   NEGUS VE              ACTA OTOLARYNGOL STOCKH         56   204 963
+   081   LITT M                ARCH INTERN MED                126   417 970
+   082   RICHARDSON JB         CLIN RES                        23  647A 975
+   083   OLVER RE              AM REV RESPIR DIS              112   811 975
+   084   JENSSEN AO            SCAND J RESPIR DIS              54   290 973
+   085   SHARPEY W             EDINB MED SURG J                34   113 830
+   086   LOMMEL F              DTSCH ARCH KLIN MED             94   265 908
+   087   STEWART WC            AM J PHYSIOL                   152     1 948
+   088   HILDING AC            ANN OTOL RHINOL LARYNGOL        54   725 945
+   089   HILDING AC            N ENGL J MED                   256    34 957
+   090   IRAVANI J             BULL PHYSIOPATH RESPIR NANCY     9   397 975
+   092   HIRSCH JA             ARCH ENVIRON HEALTH             30   249 975
+   093   SACKNER MA            ANN INTERN MED                  82    40 975
+   094   CAMNER P              ARCH ENVIRON HEALTH             24    82 972
+   095   CAMNER P              AM REV RESPIR DIS              112   807 975
+   097   KING MA               AM REV RESPIR DIS              110   740 974
+   098   BARNETT B             ANN NY ACAD SCI                130   891 966
+   099   DULFANO MJ            AM REV RESPIR DIS              112   341 975
+   100   PUCHELLE E            BULL PHYSIOPATH RESPIR NANCY    12   771 976
+   101   ADLER K               J LAB CLIN MED                  88    22 976
+   102   SLEIGH MA             NATURE                         191   931 961
+   103   MILLER CE             J EXP BIOL                      49   617 968
+   104   IRAVANI J             ARCH PHARMAKON                  32   248 975
+   105   IRAVANI J             J PATHOL                       106    81 972
+   106   KINOSITA H            ANNOT ZOOL JAPON                25     8 952
+   108   FRIEDMAN M            AM REV RESPIR DIS              115    67 977
+   109   GOLDSTEIN SF          IN: SLEIGH MA                        111 974
+   110   RIVERA JA             CILIA CILIATED EPITHELIUM AND            962
+   112   CORSSEN HL            TEX REP BIOL MED                16   194 958
+   113   BALLENGER JJ          AM REV RESPIR DIS               93    61 966
+   114   BALLENGER JJ          ANN OTOL RHINOL LARYNGOL        72    31 963
+   115   BLECKER JD            ACTA OTOLARYNGOL STOCKH         71   726 971
+   116   BERNFELD P            AM REV RESPIR DIS SUPPL         93    74 966
+   117   RYLANDER R            AM REV RESPIR DIS               93    67 966
+   118   MERCKE U              ACTA OTOLARYNGOL STOCKH         78   444 974
+   119   PROETZ AW             ARCH OTOLARYNGOL                19   608 934
+   120   MERCKE U              ACTA OTOLARYNGOL STOCKH         78   118 974
+   121   DALHAMN T             ACTA PHYSIOL SCAND SUPPL 36          123 956
+   122   ADLER KB              ARCH ENVIRON HEALTH             27   364 973
+   123   DAVIS SS              BULL PHYSIOPATH RESPIR NANCY     9    47 973
+   124   AIACHE JM             BIORHEOLOGY                     11   375 974
+   125   OBRECHT B             BIORHEOLOGY                     12   211 975
+   126   DAVIS SS              IN: GABELNICK HL                     158 973
+   127   MCCUTCHEN CW          BIORHEOLOGY                     11   265 974
+   128   BLECKER JD            ANN OTOL RHINOL LARYNGOL        82   248 973
+   129   WARDELL JR JR         AM REV RESPIR DIS              191   741 970
+   130   LUTZ RJ               IN: GABELNICK HL                     119 973
+   131   ADAMS GK              J APPL PHYSIOL                  40   247 976
+   132   POWELL RL             J APPL PHYSIOL                  37   447 974
+   133   GILBOA A              BIORHEOLOGY                     13    67 976
+   134   MICHAELSON ED         PHYSIOLOGIST                    19   295 976
+   135   PHILIPPOFF W          BIORHEOLOGY                      7    55 970
+   136   BARNETT B             AM REV RESPIR DIS              101   773 970
+   137   MORROW PE             AM REV RESPIR DIS               96  1209 967
+   138   TAPLIN GV             RADIOLOGY                       85   365 965
+   139   ALBERT RE             ARCH ENVIRON HEALTH             14    10 967
+   140   ALBERT RE             ARCH INTERN MED                131   115 973
+   141   CAMNER P              ARCH ENVIRON HEALTH             26   294 973
+   142   MULLER M              KLIN WOCHENSCHR                 53   815 975
+   143   SANCHIS J             J APPL PHYSIOL                  33   757 972
+   144   ALBERT RE             ARCH ENVIRON HEALTH             18   738 969
+   145   YEATES DB             J APPL PHYSIOL                  39   487 975
+   146   WOOD PB               CAN ANAESTH SOC J               20   192 973
+   147   GIORDANO AM JR        ARCH ENVIRON HEALTH             25   443 972
+   148   BERKE HL              AM IND HYG ASSOC J              32   174 971
+   149   IRAVANI J             PNEUMONOLOGIE                  144    93 971
+   150   GOLDHAMER RE          METHOD FOR STUDYING MUCUS F              964
+   151   LAURENZI GA           PROC ASPEN EMPHYSEM CONF 10TH         27 967
+   152   GIORDANO A            ANN OTOL RHINOL LARYNGOL        85   631 976
+   153   SAKAKURA Y            PROC SOC EXP BIOL MED          140   870 972
+   154   MARIN MG              J APPL PHYSIOL                  27   385 969
+   155   WANNER A              ARCH ENVIRON HEALTH             27   370 973
+   156   LANDA JF              J APPL PHYSIOL                  38   946 975
+   158   LIERLE DM             ARCH OTOLARYNGOL                19    55 934
+   159   SCUDI JV              J PHARMACOL EXP THER           102   132 951
+   160   BOYD EM               ARCH OTOLARYNGOL                33   909 941
+   161   HILL JR               J PHYSIOL (LOND)               139   157 957
+   162   HILL L                LANCET                           2   802 928
+   163   KENSLER CJ            AM REV RESPIR DIS SUPPL         93    93 966
+   164   CARSON S              AM REV RESPIR DIS SUPPL         93    86 966
+   165   LAURENZI GA           N ENGL J MED                   279   333 968
+   166   BATTISTA SP           ARCH ENVIRON HEALTH             20   326 970
+   167   IRAVANI J             PFLUEGERS ARCH                 297   221 967
+   168   BAETJER AM            AM REV RESPIR DIS               93    79 966
+   169   BAETJER AM            J APPL PHYSIOL                  23   498 967
+   170   PROCTOR DF            ARCH INTERN MED                131   132 973
+   171   QUINLAN MF            AM REV RESPIR DIS               99    13 969
+   172   EWERT G               ACTA OTOLARYNGOL STOCKH SUPPL  200    32 965
+   173   SACKNER MA            J APPL PHYSIOL                  34   495 973
+   174   SANTA CRUZ R          AM REV RESPIR DIS              109   458 974
+   175   WOOD RE               AM REV RESPIR DIS              113   833 976
+   176   ANDERSEN IB           AM REV RESPIR DIS              106   438 972
+   177   PARKS CR              AM REV RESPIR DIS              104    99 971
+   178   PARKS CR              AM REV RESPIR DIS              108   513 973
+   179   BOHNING DE            J APPL PHYSIOL                  41   920 976
+   180   BAETJER AM            ARCH ENVIRON HEALTH             26    61 973
+   181   BANG BG               PROC SOC EXP BIOL MED          106   516 961
+   182   PROETZ AW             ANN OTOL RHINOL LARYNGOL        42   778 933
+   183   ASMUNDSSON T          AM REV RESPIR DIS              102   388 970
+   184   TOREMALM NG           ACTA OTOLARYNGOL STOCKH         53   442 961
+   185   HIRSCH JA             J APPL PHYSIOL                  39   242 975
+   186   FORBES AR             BR J ANAESTH                    45   874 973
+   187   PALMER KNV            LANCET                           1    91 960
+   188   LIFSCHITZ MI          AM REV RESPIR DIS              102   456 970
+   189   MATTHEWS LW           PEDIATRICS                      39   176 967
+   190   HIRSCH SR             IN: STEIN M                          351 975
+   191   CRAGG J               ARCH INTERN MED                107    81 967
+   192   BURTON JDK            LANCET                           1   235 962
+   193   TOREMALM NG           ACTA OTOLARYNGOL STOCKH         52   461 960
+   194   MERCKE U              ACTA OTOLARYNGOL STOCKH         78   253 974
+   195   IRAVANI J             PFLUEGERS ARCH                 297   221 967
+   196   IRAVANI J             PFLUEGERS ARCH                 297   221 967
+   197   TANAKA AT             J OTOLARYNGOL JAP               70  2091 967
+   198   DALHAMN T             ACTA PHYSIOL SCAND              49   242 960
+   199   MERCKE U              ACTA OTOLARYNGOL STOCKH         79   133 975
+   201   OLIPHANT JF           PHYSIOL ZOOL                    11    19 938
+   202   JENNINGS HS           AM J PHYSIOL                     2   311 899
+   203   PARKER GH             AM J PHYSIOL                    13     1 905
+   204   MERTON H              BIOL ZENTRALBL                  55   268 935
+   205   KAMADA T              PROC IMP ACAD TOKYO             16   125 940
+   206   HEE J                 BULL PHYSIOPATH RESPIR NANCY     9   377 973
+   207   KRUEGER AP            PROC SOC EXP BIOL MED           94   807 957
+   208   KRUEGER AP            PROC SOC EXP BIOL MED          102   355 959
+   209   KRUEGER AD            J GEN PHYSIOL                   44   269 960
+   210   GUILLERM R            C R ACAD SCI (D)(PARIS)        266   528 968
+   211   GUILLERM R            C R ACAD SCI (D)(PARIS)        262   669 966
+   212   BADRE R               ANN PHARM FR                    24   469 966
+   213   KENSLER CJ            AM REV RESPIR DIS SUPPL         93    93 966
+   214   BALDETORP L           ACTA RADIOL THER STOCKH         15   225 976
+   215   BOUSHY SF             AM J ROENTG RAD THER NUCL MED  108   287 970
+   216   MENDENHALL WL         J PHARMACOL EXP THER            60   111 937
+   217   MENDENHALL WL         J PHARMACOL EXP THER            69   295 940
+   218   HILDING AC            N ENGL J MED                   254  1155 956
+   219   DALHAMN T             ARCH OTOLARYNGOL                70   166 959
+   220   DALHAMN T             AM REV RESPIR DIS SUPPL         93   108 966
+   221   KENSLER CJ            N ENGL J MED                   269  1161 963
+   222   FALK HL               J NATL CANCER INST              23   999 959
+   223   GUILLERM R            BULL ACAD NATL MED             145   416 961
+   224   BATTISTA SP           FED PROC                        21   701 962
+   225   AUERBACH O            CANCER                          20  2055 967
+   226   LEUCHTENBERGER C      CANCER                          11   490 958
+   227   RYLANDER R            ARCH ENVIRON HEALTH             29   329 974
+   228   FRASCA JM             EXP MOL PATH                    21   300 974
+   229   REGLAND B             SCAND J RESPIR DIS              57   171 976
+   230   NIEWOEHNER DE         N ENGL J MED                   291   755 974
+   231   MATSUBA K             AM REV RESPIR DIS              104   516 971
+   232   PROETZ AW             ANN OTOL RHINOL LARYNGOL        48   176 939
+   233   WEISS W               ARCH ENVIRON HEALTH              9    50 964
+   234   WANG H                NATURE                         197   946 963
+   235   BALLENGER JJ          N ENGL J MED                   263   832 960
+   235   JAKAB GJ              AM REV RESPIR DIS              115    33 977
+   236   GUILLERM R            REV TUBERC PNEUMOL              36   187 972
+   237   DALHAMN T             ARCH ENVIRON HEALTH             21   633 970
+   238   GRAY JP               ARCH ENVIRON HEALTH             28   283 974
+   239   KENNEDY JR            SCIENCE                        168  1097 970
+   240   ALBERT RE             ARCH ENVIRON HEALTH             29    96 974
+   241   CARSON S              AM REV RESPIR DIS SUPPL         93    86 966
+   242   RAKIETEN N            ARCH OTOLARYNGOL                56   495 952
+   243   TSUCHIYA M            FED PROC                        18   453 959
+   244   DALHAMN T             ARCH OTOLARYNGOL                84   325 966
+   245   BERNFELD P            TOXICOL APPL PHARMACOL           6   103 964
+   246   DALHAMN T             ARCH OTOLARYNGOL                87   162 968
+   247   WYNDER E              CANCER                          16  1222 963
+   248   IRAVANI J             RESPIRATION                     29   480 972
+   249   DALHAMN T             AM REV RESPIR DIS               89   870 964
+   250   HOLMA B               ARCH ENVIRON HEALTH             18   171 969
+   251   DALHAMN T             AM REV RESPIR DIS               99   447 969
+   252   KAMIMSKI EJ           ARCH ENVIRON HEALTH             16   188 968
+   253   ALBERT RE             ARCH ENVIRON HEALTH             18    30 969
+   254   LA BELLE CW           ARCH ENVIRON HEALTH             12   588 966
+   255   BAIR WJ               IN: DAVIES CN                    2   251 967
+   256   DALHAMN T             ARCH ENVIRON HEALTH             17   746 968
+   257   FRANCES R             ARCH ENVIRON HEALTH             21    25 970
+   258$  RYLAND R              ARCH ENVIRON HEALTH             23   321 961
+   259   DALHAMN T             AM REV RESPIR DIS              103   855 971
+   260   CAMNER P              ARCH ENVIRON HEALTH             23   421 971
+   261   ALBERT RE             ARCH ENVIRON HEALTH             30   361 975
+   262   YERGIN B              AM REV RESPIR DIS SUPPL        115   183 977
+   263   IRAVANI J             RESPIRATION                     31   358 974
+   264   PAVIA D               NATURE                         226  1228 970
+   265   THOMSON ML            ARCH ENVIRON HEALTH             26    86 973
+   266   LOURENCO RV           J CLIN INVEST                   50  1411 971
+   267   CAMNER P              ARCH ENVIRON HEALTH             26    90 973
+   268   CAMNER P              ARCH ENVIRON HEALTH             25    60 972
+   269   BOHNING DE            ARCH ENVIRON HEALTH             30   457 975
+   270   ALBERT RE             ARCH ENVIRON HEALTH             22    12 971
+   271   DALHAMN T             AM REV RESPIR DIS SUPPL         93   108 966
+   272   HILDING AC            ANN OTOL RHINOL LARYNGOL        41    52 932
+   273   CRALLEY LV            J IND HYG TOXICOL               24   193 942
+   274   CAMNER P              ARCH ENVIRON HEALTH             27    81 973
+   275   BALCHUM OJ            J APPL PHYSIOL                  15    62 960
+   276   NADEL JA              ARCH ENVIRON HEALTH             10   175 965
+   277   GOLDRING IP           ARCH ENVIRON HEALTH             15   167 967
+   278   SPICER SS             AM REV RESPIR DIS              110    13 974
+   279   CHAKRIN LW            LAB INVEST                      30   145 974
+   280   MARTIN SW             ARCH ENVIRON HEALTH             25   158 972
+   281   REID L                ARCH INTERN MED                126   428 970
+   282   QUEVAUVILLER A        C R SOC BIOL (PARIS)           160  1845 961
+   283   DALHAMN T             AM REV RESPIR DIS               83   566 961
+   284   SPIEGELMAN JR         ARCH ENVIRON HEALTH             17   321 968
+   285   ANDERSEN I            ARCH ENVIRON HEALTH             28    31 974
+   286   WOLFF RK              ARCH ENVIRON HEALTH             30   521 975
+   287   AMDUR MO              ARCH ENVIRON HEALTH             16   460 968
+   288   DALHAMN T             ARCH ENVIRON HEALTH             16   821 968
+   289   FAIRCHILD GA          ARCH ENVIRON HEALTH             30   538 975
+   290   FAIRCHILD GA          ARCH ENVIRON HEALTH             25   174 972
+   291   ANON                  AIR QUALITY CRITERIA FOR SULF            969
+   292   FRANK NR              ARCH ENVIRON HEALTH             18   315 969
+   293   HAAGEN-SMIT AJ        ARCH INDUST HEALTH              20   399 959
+   294   LEWIS TR              ARCH ENVIRON HEALTH             18   596 969
+   295   STRESEMANN E          STAUB REINHALT LUFT             30    33 970
+   296   FREEMAN G             AM REV RESPIR DIS              106   563 972
+   297   DAVIDSON JT           AM REV RESPIR DIS               95   790 967
+   298   BLAIR WH              ARCH ENVIRON HEALTH             18   186 969
+   299   BUCKLEY RD            ARCH ENVIRON HEALTH             18   588 969
+   300   FREEMAN G             ARCH ENVIRON HEALTH             18   609 969
+   301   FREEMAN G             ARCH ENVIRON HEALTH             17   181 968
+   302   WAGNER WD             ARCH ENVIRON HEALTH             10   455 965
+   303   EHRLICH R             ARCH ENVIRON HEALTH             17   860 968
+   304   ANON                  AIR QUALITY CRITERIA FOR NIT             971
+   305   STOKINGER HE          ANNU REV PHARMACOL              12   407 972
+   306   BATES DV              J APPL PHYSIOL                  32   176 972
+   307   LINN WS               AM REV RESPIR DIS              114   477 976
+   308   MOORMAN WJ            ARCH ENVIRON HEALTH             26   153 973
+   309   TREMER HM             J NATL CANCER INST              23   979 959
+   310   FALK HL               ANN NY ACAD SCI                106   583 963
+   311   JAFFE LS              AM IND HYG ASSOC J              28   267 967
+   312   PLOPPER CG            AM J PATHOL                     71   375 973
+   313   FREEMAN G             ARCH ENVIRON HEALTH             26   209 973
+   314   STOKINGER HE          IN: STERN AC                         446 968
+   315   WOLBACH SB            J EXP MED                       42   753 925
+   316   SACKNER MA            AM REV RESPIR DIS SUPPL        115   241 977
+   317   SHY CM                ARCH ENVIRON HEALTH             27   123 973
+   318   SACKNER MA            AM REV RESPIR DIS SUPPL        115   240 977
+   319   CLARK JM              PHARMACOL REV                   32    37 971
+   320   BOAT TF               PEDIATR RES                      7   607 973
+   321   GUILLERM R            J PHYSIOL (PARIS)               58   228 966
+   322   SACKNER MA            BULL PHYSIOPATH RESPIR NANCY     9   403 973
+   323   KRAUNITZ J            J MT SINAI HOSP                 12   411 945
+   324   WOLFE WG              SURGERY                         72   236 972
+   325   WOLFE WG              SURG FORUM                      21   217 970
+   326   SACKNER MA            CHEST                           69   164 976
+   327   LUDWIN SK             LAB INVEST                      31   425 974
+   328   TORIKATA C            VIRCHOWS ARCH PATHOL NAT HIS   371   121 976
+   329   CLARK JM              J APPL PHYSIOL                  30   739 971
+   330   COMROE JH JR          JAMA                           128   710 945
+   331   FISHER AB             J APPL PHYSIOL                  24   529 968
+   332   DWAR KMS              J APPL PHYSIOL                  32   486 972
+   333   PAEGLE RD             ANESTHESIOLOGY                  44   287 976
+   334   KUHNE W               ARCH MIKROSK ANAT                2   372 966
+   335   DALHAMN T             ARCH ENVIRON HEALTH             16   271 968
+   336   KITCHING JA           J CELL COMP PHYSIOL             14   227 939
+   337   WELLER H              PROC SOC EXP BIOL MED           81    65 952
+   338   USUKI I               SCI REP RES INST TOHOKU UNIV    22    49 955
+   339   USUKI I               SCI REP RES INST TOHOKU UNIV    22   137 955
+   340   USUKI I               SCI REP RES INST TOHOKU UNIV    22   143 955
+   341   BRIDGER GP            LARYNGOSCOPE                    82   218 972
+   342   LICHTIGER M           ANESTHESIOLOGY                  42   753 975
+   343   NUNN JF               J CELL SCI                      15   537 974
+   344   FORBES AR             ANESTHESIOLOGY                  45    59 976
+   345   CRALLEY LV            J IND HYG TOXICOL               24   193 942
+   346   DALHAMN T             ACTA PHYSIOL SCAND SUPPL 36          123 956
+   347   MANCUSO TF            INDIAN MED SURG                 20   393 951
+   348   ANON                  CHROMIUM COMMITTEE ON MEDICAL            974
+   349   MASS MJ               ARCH ENVIRON HEALTH             31    96 976
+   350   FRANK R               AM REV RESPIR DIS              112   485 975
+   351   SACKNER MA            CHEST                           69   593 976
+   352   BOHNING DE            AM IND HYG ASSOC J              35   902 975
+   353   BERGMAN M             N ENGL J MED                   266   750 962
+   354   GOWDY JM              ARCH ENVIRON HEALTH             25   191 972
+   355   MCLAUGHLIN AIG        FOOD COSMET TOXICOL              1  1971 963
+   356   DRAIZE JH             PROC SCI SEC TOILET GOODS ASS   31    28 959
+   357   CALANDRA J            PROC SCI SEC TOILET GOODS ASS   39    41 958
+   358   ZUSKIN E              N ENGL J MED                   290   660 974
+   359   COHEN BM              AM REV RESPIR DIS              113   123 976
+   360   ANON                  AM REV RESPIR DIS               85   762 962
+   361   REID L                PATHOLOGY OF EMPHYSEMA                   967
+   362   WRIGHT RR             MED THORAC                      22   210 965
+   363   KLEINERMAN J          IN: BAUM GL                              974
+   364   ANON                  LANCET                           1   775 965
+   365   HOGG JC               N ENGL J MED                   278  1355 968
+   366   AUERBACH O            N ENGL J MED                   267   111 962
+   367   MISKOVITZ G           ACTA MORPHOL ACAD SCI HUNG      22    91 974
+   368   LEES AW               LANCET                           2  1112 959
+   369   WANNER A              RESPIRATION                     30   561 973
+   370   LEEDER S              J INFECT DIS                   131   731 975
+   371   HILDING AC            MED THORAC                      22   329 965
+   372   MACKLEM PT            ANN INTERN MED                  74   167 971
+   373   GOODMAN RM            FED PROC                        36   607 977
+   374   LOURENCO RV           AM REV RESPIR DIS              101   460 970
+   375   CAMNER P              SCAND J RESPIR DIS              54   272 973
+   376   LUCHSINGER PC         AM REV RESPIR DIS               97  1046 968
+   377   PATRICK G             J APPL PHYSIOL                  42   451 977
+   378   CAMNER P              ARCH ENVIRON HEALTH             26    90 973
+   379   THOMSON ML            J APPL PHYSIOL                  26   535 969
+   380   PIRCHER FT            AM J ROENTG RAD THER NUCL MED   94   807 965
+   381   LOPEZ-VIDRIERO MT     BULL PHYSIOPATH RESPIR NANCY     9   339 973
+   382   TOIGO A               AM REV RESPIR DIS               87   487 963
+   384   PUCHELLE E            BULL PHYSIOPATH RESPIR NANCY     9   237 973
+   385   LOPATA M              AM REV RESPIR DIS              110   730 974
+   386   BONOMO L              CLIN CHIM ACTA                  10   214 964
+   387   REID L                IN: LIEBOW AA                         87 968
+   388   REID L                LANCET                           1   275 954
+   389   DULFANO MJ            AM REV RESPIR DIS              104    88 971
+   390   CHARMAN J             BIORHEOLOGY                      9   185 972
+   391   MITCHELL-HEGGS PF     BIORHEOLOGY                     11   417 974
+   392   ZUELZER WW            PEDIATRICS                       4    53 949
+   393   ESTERLY JR            JOHNS HOPKINS MED J            122    94 968
+   394   MATTHEWS LW           AM REV RESPIR DIS               88   199 963
+   395   LAMBLIN G             CLIN CHIM ACTA                  36   329 972
+   396   ROUSSEL P             J BIOL CHEM                    250  2114 975
+   397   BOAT TF               IN: MANGOS JA                        165 976
+   398   STURGESS JM           IN: LAWSON D PROC 5TH INT CF         368 969
+   399   FEATHER EA            BR J DIS CHEST                  64   192 970
+   400   SPOCK A               PEDIATR RES                      1   173 967
+   401   BOWMAN BH             SCIENCE                        164   325 969
+   402   POSSELT HG            Z KINDERHEILK                  110    93 971
+   403   CHRISTENSEN J         IN: LAWSON D PROC 5TH INT CF          49 969
+   404   CONOVER JH            LANCET                           1  1194 973
+   405   LEDERBERG S           IN: MANGOS JA                        259 976
+   406   WOOD RE               LANCET                           2  1452 973
+   408   WOOD RE               AM REV RESPIR DIS              111   733 975
+   409   YEATES DB             ARCH DIS CHILD                  51    28 976
+   410   SANCHIS J             N ENGL J MED                   288   651 973
+   411   THOMSON ML            N ENGL J MED                   289   749 973
+   412   HUBER HL              ARCH INTERN MED                 30   689 922
+   413   ALEXANDER HL          J ALLERGY                       34   305 963
+   414$  DUNNILL MS            J CLIN PATHOL                   13    27 960
+   415   HILDING AC            ANN OTOL RHINOL LARYNGOL        52     5 943
+   416   SANTA CRUZ R          AM REV RESPIR DIS              109   458 974
+   417   MOSSBERG B            SCAND J RESPIR DIS              57   119 976
+   418   BALLENGER JJ          ANN OTOL RHINOL LARYNGOL        58   351 949
+   419   MILLER DL             BR MED J                         1   291 965
+   420   BARTON AD             CHEST SUPPL                     63    59 973
+   421   BURGI H               BULL PHYSIOPATH RESPIR NANCY     9   191 973
+   422   SALVATO G             THORAX                          23   168 968
+   423   GUIRGIS HA            J ALLERGY CLIN IMMUNOL          51    86 973
+   424   DENNIS EG             J ALLERGY                       35   464 964
+   425   RYLEY HC              BR J EXP PATHOL                 49   625 968
+   426   HOFFNIANVOU H         ALLERG ASTHMAFORSCH             14   227 968
+   427   RYLEY HC              BR J EXP PATHOL                 49   625 968
+   428   KEAL EE               IN: STEIN M                          223 975
+   429   SQUERKIN NG           J PATHOL                        89   535 965
+   430   WANNER A              J APPL PHYSIOL                  39   950 975
+   431   PECORA DV             J THORAC CARDIOVASC SURG        37   653 959
+   432   LAURENZI GA           N ENGL J MED                   265  1273 961
+   433   LAURENZI GA           AM REV RESPIR DIS               93   134 966
+   434   SPENCER H             PATHOLOGY OF THE LUNG                    968
+   435   HERS JFP              LANCET                           2  1141 958
+   436   WALSH JJ              ARCH INTERN MED                108   376 961
+   437   FRANCIS T JR          J EXP MED                       68   789 938
+   438   LEMERCIER G           ARCH GESAMTE VIRUSFORSCH        44   337 974
+   439   CREASIA DA            HEALTH PHYS                     23   865 972
+   440   BIBERFELD C           J BACTERIOL                    102   855 970
+   441   COLLIER AM            INFECT IMMUN                     3   694 971
+   442   PUCHELLE E            PATHOL BIOL (PARIS)             24    93 976
+   443   BARTON AD             J LAB CLIN MED                  88   423 976
+   444   PUCHELLE E            BULL PHYSIOPATH RESPIR NANCY     9   237 973
+   445   CHERNICK WS           PEDIATRICS                      24   739 959
+   446   BANG FB               AM J HYG                        79   260 964
+   447   LOURENCO RV           J CLIN INVEST                   50   62A 971
+   448   CAMNER P              AM REV RESPIR DIS              108   131 973
+   449   JARSTRAND C           AM REV RESPIR DIS              110   415 974
+   450   LINDHOLM CE           ACTA ANAESTHESIOL SCAND SUPPL   33     1 969
+   451   AMIKAM B              AM REV RESPIR DIS              105   747 972
+   452   SACKNER MA            CHEST                           64   284 973
+   453   HILDING AC            ANN OTOL RHINOL LARYNGOL        80   565 971
+   454   PAEGLE RD             ANESTH ANALG CLEVE              54   340 975
+   455   KLAINER AS            AM J MED                        58   674 975
+   456   SACKNER MA            BULL PHYSIOPATH RESPIR NANCY     9   403 973
+   457   SACKNER MA            CHEST                           68   774 975
+   458   HILDING AC            AM REV RESPIR DIS               98   646 968
+   459   HILDING AC            TRANS AM ACAD OPHTHALMOL OTOL   72   604 968
+   460   HILDING AC            ANN OTOL RHINOL LARYNGOL        71   455 962
+   461$  MORINARI H            J THORAC CARDIOVASC SURG        47   484 974
+   462   EDMUNDS LH            SURGERY                         66    15 969
+   463   BRODY JS              J APPL PHYSIOL                  32   160 972
+   464   MACKLIN CC            J THORAC SURG                   31   238 956
+   465   CORYLLOS PN           ARCH SURG                       21  1214 930
+   466   LAVER MB              PROG SURG                        5     1 966
+   467   GAMSU G               AM REV RESPIR DIS              114   673 976
+   468   MOERSCH HJ            DIS CHEST                       23   621 953
+   469   AUERBACH O            CANCER                           9    76 956
+   470   RYAN RF               PROC STAFF MTG MAYO CLIN        31   478 956
+   471   IRAVANI J             RESPIRATION                     32   157 975
+   472   CORSSEN G             ANESTHESIOLOGY                  21   237 960
+   473   CORSSEN G             ANAESTHETIST                     7   309 958
+   474   BANG FB               AM REV RESPIR DIS               93   142 966
+   475$  EWERT G               ANN OTOLARYNGOL                 76   359 967
+   476   ROSSMAN CM            AM REV RESPIR DIS SUPPL        115   239 977
+   477   PLATTNER F            PFLUEGERS ARCH                 228   281 931
+   478   LUCAS AM              ARCH OTOLARYNGOL                21   285 935
+   479   ANNIS P               ANESTHESIOLOGY                  44    74 976
+   480   FOSTER WM             J APPL PHYSIOL                  41   146 976
+   481   PAVIA D               LANCET                           1   449 971
+   482   BLAIR AMJN            BR J PHARMACOL                  35   379 969
+   483   INNES IR              IN: GOODMAN LS                       530 970
+   484   LOPEZ-VIDRIERO MT     THORAX                          30   543 975
+   485   BULBRING E            PROC R SOC LOND BIOL           141   445 953
+   486   KORDIK P              BR J PHARMACOL                   7    67 952
+   487   CORSSEN G             J APPL PHYSIOL                  14   901 959
+   488   NELSON DJ             J PHYSIOL (LOND)               243    63 974
+   489   IRAVANI J             INT J CLIN PHARMACOL SUPPL 4          20 972
+   491   NOMURA S              PROC SOC EXP BIOL MED           25   252 928
+   492   DONGEN K VAN          ACTA PHYSIOL PHARMACOL           4   500 956
+   493   DONGEN K VAN          ARCH INT PHARMACODYN THER       93   261 953
+   494   LAURENZI GA           AM REV RESPIR DIS               93    60 966
+   495   GOSSELIN RE           AM REV RESPIR DIS               93    41 966
+   496   IRAVANI J             PNEUMONOLOGIE SUPPL                  267 976
+   497   IRAVANI J             RESPIRATION                     31   350 974
+   498   STURGESS JM           BR J EXP PATHOL                 54   388 973
+   499   STURGESS JM           CLIN SCI                        43   533 972
+   500$  DAVIS B               AM REV RESPIR DIS              112    57 975
+   501   VAN AS A              RESPIRATION                     31   146 974
+   502   CARSON S              AM REV RESPIR DIS SUPPL         93    86 966
+   503   CAMNER P              ARCH ENVIRON HEALTH             29    79 976
+   504   KONIETZKO N           PNEUMONOLOGIE                  152   203 975
+   505   MOSSBERG B            SCAND J RESPIR DIS              57   119 976
+   506   SEAMAN GR             J CELL COMP PHYSIOL             37   309 951
+   507   FLOREY HW             BR J EXP PATHOL                 13   269 932
+   508   BAKER AP              AM REV RESPIR DIS              111   423 975
+   509   CHAKRIN LW            AM REV RESPIR DIS              108    69 973
+   510   STURGESS J            EXP MOL PATH                    16   362 972
+   511   UMEDA T               ACTA DERMATOL (KYOTO)           14   629 929
+   512   KENSLER CJ            AM REV RESPIR DIS SUPPL         93   102 966
+   513   CAMNER P              ARCH ENVIRON HEALTH             29   220 974
+   514   GOSSELIN RE           J CELL COMP PHYSIOL             58    17 961
+   515   GOSSELIN RE           J GEN PHYSIOL                   46   277 962
+   516   SCHOR SL              SCIENCE                        148   500 965
+   517   DADAIAN JH            AM REV RESPIR DIS              103   808 971
+   518   BLAICH W              ARCH EXP PATHOL PHARMAKOL      211    67 950
+   519   GREENWOOD G           ARCH OTOLARYNGOL                43   632 946
+   520   CUTHBERT MF           PROC R SOC MED                  64    15 971
+   521   KEAL EE               POSTGRAD MED J                  47   171 971
+   523   BOYD EM               PHARMACOL REV                    6   521 954
+   524   PERRY WF              J PHARMACOL EXP THER            73    65 941
+   525   HIRSCH SR             J LAB CLIN MED                  74   346 969
+   526   SHEFFNER AL           ANN NY ACAD SCI                106   298 963
+   527   LIEBERMAN J           J CLIN INVEST                   43  1892 964
+   528   DULFANO MJ            JAMA                           207  1310 968
+   529   BOYD EM               RESPIRATORY TRACT FLUID                  972
+   530   EDWARDS GF            CHEST                           70   506 976
+   531   IRAVANI J             ARZNEIMITTEL FORSCH             24   849 974
+   532   IRAVANI J             ARZNEIMITTEL FORSCH             22  1744 972
+   533   KONIETZKO N           BULL PHYSIOPATH RESPIR NANCY    11   145 975
+   534   THOMSON ML            THORAX                          28   742 973
+   535   THOMSON ML            THORAX                          30   669 975
+   536   SLEIGH MA             J EXP BIOL                      33    15 956
+   537   GOSSELIN RE           AM REV RESPIR DIS               93    41 966
+   538   LAURENZI GA           AM REV RESPIR DIS              103   800 971
+   539   PAVIA D               AM REV RESPIR DIS              113    92 976
+   540   BANG FB               AM REV RESPIR DIS               93   142 966
+CT   1   BATEMAN JRM           CLIN SCI MOL MED                55   523 978
+     2   CHOPRA SK             AM REV RESPIR DIS              118   367 978
+     3   CONNOLLY TP           AM REV RESPIR DIS              118   965 978
+     4   HARRIS CC             NATURE                         272   633 978
+     5   SCHLESINGER RB        J ENVIRON PATHOL TOXICOL         2  1351 979
+     6   CLARK DG              PHARMACOL THER                   5   149 979
+     7   HANNA CJ              AGENTS ACTIONS                   9   301 979
+     8   OKUYAMA H             J ENVIRON SCI HEALTH (C)        13   267 979
+     9   SACKNER MA            BULL EUR PHYSIOPATH RESP        15   505 979
+    10   REZNIKSCHULLER H      INT REV EXP PATHOL              20   211 979
+    11   MELLIS CM             PEDIATR CLIN NORTH AM           26   553 979
+    12   STURGESS JM           PEDIATR CLIN NORTH AM           26   481 979
+    13   NADEL JA              ANNU REV PHYSIOL                41   369 979
+    14   KING M                J APPL PHYSIOL                  47    26 979
+    15   FORBES AR             ANESTHESIOLOGY                  50    26 979
+    16   TATTERSFIELD AE       BR J ANAESTH                    51   681 979
+    17   BATEMAN JRM           CLIN SCI                        56  P  9 979
+    18   GULSVIK A             SCAND J RESPIR DIS              60   275 979
+    19   PUCHELLE E            SCAND J RESPIR DIS              60   307 979
+    20   HSU IC                J CLIN INVEST                   64  1245 979
+    21   WANNER A              AM J MED                        67   477 979
+    22   DREISIN RB            J LAB CLIN MED                  93   674 979
+    23   BATEMAN JRM           AM REV RESPIR DIS              119   200 979
+    24   LARSEN GL             AM REV RESPIR DIS              119   399 979
+    25   PATERSON JW           AM REV RESPIR DIS              120  1149 979
+    26   SMALDONE GC           AM REV RESPIR DIS              120   747 979
+    27   WOLFF RK              AM REV RESPIR DIS              120   137 979
+    28   DUNNILL MS            J PATHOL                       128   221 979
+    29   KARASICK D            AM J ROENTGENOL                132   459 979
+    30   LEW CD                CLIN CHEST MED                   1   297 980
+    31   FEIN A                CRIT CARE MED                    8    94 980
+    32   RISSER NL             HEART LUNG                       9    57 980
+    33   AHMED T               CLIN RESP PHYSIOL               16   533 980
+    34   PAVIA D               CLIN RESP PHYSIOL               16   335 980
+    35   VERDUGO P             FERTIL STERIL                   33   193 980
+    36   LIPPMANN M            BR J IND MED                    37   337 980
+    37   COHEN BS              HEALTH PHYS                     39   619 980
+    38   VERDUGO P             J APPL PHYSIOL                  48   868 980
+    39   WELSH MJ              J APPL PHYSIOL                  49   905 980
+    40   MIRRAKHIMOV MM        TER ARKH                        52    22 980
+    41   BATEMAN JRM           CLIN SCI                        58  P  6 980
+    42   MATTHYS H             EUR J RESPIR DIS                61    98 980
+    43   MOSSBERG B            EUR J RESPIR DIS                61    51 980
+    44   MOSSBERG B            EUR J RESPIR DIS                61     8 980
+    45   PUCHELLE E            EUR J RESPIR DIS                61   195 980
+    46   PUCHELLE E            EUR J RESPIR DIS                61    29 980
+    47   ROOKLIN AR            PEDIATRICS                      66   526 980
+    48   MEDICI TC             SCHWEIZ MED WOCHENSCHR         110   237 980
+    49   MEYER MB              AM REV RESPIR DIS              121   887 980
+    50   ISAWA T               TOHOKU J EXP MED               130   189 980
+    51   WEISS T               FORTSCHR GEB RONTG NUKL        133   594 980
+    52   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981
+    53   DIRKSEN ER            CELL MOTIL                       1   247 981
+    54   BOUCHER RC            CLIN CHEST MED                   2   377 981
+    55   YEATES DB             ANN BIOMED ENG                   9   577 981
+    56   SVARTENGREN M         CLIN RESP PHYSIOL               17    87 981
+    57   YANAURA S             JAP J PHARMACOL                 31   951 981
+    58   JAUREGUI WO           MED (BUENOS AIRES)              41    75 981
+    59   LEIKAUF G             AM IND HYG ASSOC J              42   273 981
+    60   BOUCHER RC            J APPL PHYSIOL                  50   613 981
+    61   MIRRAKHIMOV MM        TER ARKH                        53   110 981
+    62   MIDDLETON E           MED CLIN NORTH AM               65  1013 981
+    63   REYNOLDS HY           MED CLIN NORTH AM               65   667 981
+    64   WEISSBERGER D         J ALLERGY CLIN IMMUNOL          67   357 981
+    65   GALANT SP             J CLIN INVEST                   68   253 981
+    66   CAMNER P              CHEST                           80   824 981
+    67   FAZIO F               CHEST                           80   827 981
+    68   RUTLAND J             CHEST                           80   865 981
+    69   SADOUL P              CHEST                           80   885 981
+    70   WANNER A              CHEST                           80   867 981
+    71   WEISS T               CHEST                           80   881 981
+    72   KNOWLES MR            AM REV RESPIR DIS              124   484 981
+    73   LAVIOLETTE M          AM REV RESPIR DIS              124   397 981
+    74   MARTIN DW             WEST J MED                     135   300 981
+    75   ANON                  LANCET                           1   203 982
+    76   SCHOONOVER GA         J CLIN SURG APP PHYSIOL METAB    1   125 982
+    77   PERSSON CGA           MED HYPOTHESES                   8   515 982
+    78   RUTLAND J             BR J CLIN PHARMACOL             13   679 982
+    79   CLEE MD               PHARMACOL THER                  16   283 982
+    80   TATTERSFIELD AE       PHARMACOL THER                  17   299 982
+    81   ANDERSSON KE          ACTA ANAESTHESIOL SCAND         26    12 982
+    82   COCKCROFT DW          CURR THER RES CLIN EXP          31   138 982
+    83   SCHLESINGER RB        BIOSCIENCE                      32    45 982
+    84   BIGNON J              ANN BIOL CLIN                   40   209 982
+    85   SCHLESINGER RB        HEALTH PHYS                     42    73 982
+    86   SWINBURNE S           BR J CANCER                     46   625 982
+    87   MARIN MG              J APPL PHYSIOL                  52   198 982
+    88   MAURER DR             J APPL PHYSIOL                  52  1018 982
+    89   FLOOD PR              ACTA ZOOL                       63    17 982
+    90   GULSVIK A             EUR J RESPIR DIS                63    15 982
+    91   HYBBINETTE JC         ACTA OTOLARYNGOL STOCKH         93   465 982
+    92   HYBBINETTE JC         ACTA OTOLARYNGOL STOCKH         93   151 982
+    93   HYBBINETTE JC         ACTA OTOLARYNGOL STOCKH         94   121 982
+    94   HYBBINETTE JC         ACTA OTOLARYNGOL STOCKH         94   351 982
+    95   WOLFF RK              AM REV RESPIR DIS              126   505 982
+    96   IRWIN RS              J INFECT DIS                   145   234 982
+    97   PUCHELLE E            AM J PHYSIOL                   242  C 31 982
+    98   CHRETIEN J            SCHWEIZ MED WOCHENSCHR                36 983
+    99   ZANKER KS             ATEMWEGS LUNGENKRANKH            9   181 983
+   100   GALANT SP             PEDIATR CLIN NORTH AM           30   931 983
+   101   NELSON R              AM J VET RES                    44  1165 983
+   102   WEISS T               RESPIRATION                     44   338 983
+   103   CLARK TJH             POSTGRAD MED J                  59    54 983
+   104   DVORETSKY LI          KLIN MED                        61    20 983
+   105   KOHLER D              KLIN WSCHR                      61   243 983
+   106   MINETTE A             EUR J RESPIR DIS                64   401 983
+   107   CHEN LC               TOXICOL APPL PHARMACOL          71   123 983
+   108   WELSH MJ              J CLIN INVEST                   71  1614 983
+   109   MURPHY S              PEDIATRICS                      72     1 983
+   110   CLOUTIER MM           POSTGRAD MED                    73   169 983
+   111   KASAMATSU S           FOLIA PHARMACOL JAP             81    29 983
+   112   BELSON TP             LARYNGOSCOPE                    93   549 983
+   113   GAIL DB               AM REV RESPIR DIS              127   366 983
+   114   WALLACE JM            AM REV RESPIR DIS              128  1077 983
+   115   BOUCHER RC            LUNG                           161     1 983
+   116   OHASHI Y              ACTA OTOLARYNGOL STOCKH SUPPL  397    49 983
+   117   TODRES ID             SEM ANESTHES                     3    98 984
+   118   GLECKMAN RA           PHARMACOTHERAPY                  4    81 984
+   119   MORGAN KT             FUND APPL TOXICOL                4    58 984
+   120   ABRAHAM WM            SEM RESPIR MED                   5   324 984
+   121   CLARKE SW             SEM RESPIR MED                   5   319 984
+   122   PAVIA D               SEM RESPIR MED                   5   345 984
+   123   STURGESS JM           SEM RESPIR MED                   5   301 984
+   124   WANNER A              SEM RESPIR MED                   5   329 984
+   125   HECK HD               REV BIOCHEM TOXICOL              6   155 984
+   126   BORUM P               CLIN OTOLARYNGOL                 9   329 984
+   127   GOLDSTEIN E           J TOXICOL ENVIRON HEALTH        13   415 984
+   128   LIPPMANN M            J TOXICOL ENVIRON HEALTH        13   441 984
+   129   SVARTENGREN M         BULL EUR PHYSIOPATH RESP        20   133 984
+   130   WANNER A              BULL EUR PHYSIOPATH RESP        20   477 984
+   131   JULIANO RL            PHARMACOL THER                  24   355 984
+   132   ALEXOPOULOS C         ACTA ANAESTHESIOL SCAND         28    68 984
+   133   SCHLESINGER RB        ENVIRON RES                     34   268 984
+   134   STANLEY PJ            THORAX                          39   239 984
+   135   LAFORTUNA CL          RESPIRATION                     45   111 984
+   136   LEIKAUF GD            AM IND HYG ASSOC J              45   285 984
+   137   TODISCO T             RESPIRATION                     45   303 984
+   138   BELL JA               MT SINAI J MED                  51   215 984
+   139   KNOWLES M             J APPL PHYSIOL                  56   868 984
+   140   PETRUSON B            ARCH OTOLARYNGOL               110   576 984
+   141   LOKE J                ARCH SURG                      119   956 984
+   142   CURTIS LN             AM REV RESPIR DIS              129   816 984
+   143   GROSS NJ              AM REV RESPIR DIS              129   856 984
+   144   MARTIN TR             AM REV RESPIR DIS              130   778 984
+   145   MORGAN KT             AM REV RESPIR DIS              130   275 984
+   146   DULL WL               ARCH INTERN MED                144  2399 984
+   147   LURIE A               REV MALAD RESPIR                 2   117 985
+   148   SCHLESINGER RB        FUND APPL TOXICOL                5   435 985
+   149   MORGAN KT             ACTA PHARMACOL SINICA            6   113 985
+   150   BICKERT WG            COMPEND CONT ED PRACT VET        7  S309 985
+   151   SAKAKURA Y            CLIN OTOLARYNGOL                10    79 985
+   152   AKKOCLU G             ATEMWEGS LUNGENKRANKH           11   527 985
+   153   KONIETZKO N           ATEMWEGS LUNGENKRANKH           11   145 985
+   154   MAJIMA Y              ANN BIOMED ENG                  13   515 985
+   155   SHENAI JP             PEDIATR RES                     19   185 985
+   156   DOWNES JJ             INT ANESTHESIOL CLIN            23    37 985
+   157   MAGNUSSEN H           INTERNIST                       26   201 985
+   158   PAUWELS R             ACTA CLIN BELG                  40     1 985
+   159   PERRUCHOUD AP         THER UMSCH                      42   126 985
+   160   RONCORONI AJ          MED (BUENOS AIRES)              45   183 985
+   161   SCHLESINGER RB        ENVIRON HEALTH PERSPECT         63    25 985
+   162   LINDBERG S            EUR J RESPIR DIS                66    40 985
+   163   VASTAG E              EUR J RESPIR DIS                66    93 985
+   164   WANNER A              EUR J RESPIR DIS                66    49 985
+   165   SCHUYLER MR           J ALLERGY CLIN IMMUNOL          76   614 985
+   166   ROTH RM               SOUTH MED J                     78   573 985
+   167   WANNER A              AM J MED                        79    16 985
+   168   HARADA RN             CHEST                           87   247 985
+   169   WANNER A              AM REV RESPIR DIS              131  S 36 985
+   170   MARTIN TR             AM REV RESPIR DIS              132   254 985
+   171   ISAWA T               TOHOKU J EXP MED               145   259 985
+   172   ROTH Y                BRAIN RES                      330   291 985
+   173   FALING LJ             CLIN CHEST MED                   7   599 986
+   174   KNOWLES MR            CLIN CHEST MED                   7   285 986
+   175   WANNER A              CLIN CHEST MED                   7   247 986
+   176   KOHLER D              ATEMWEGS LUNGENKRANKH           12   358 986
+   177   WHALEY SL             J TOXICOL ENVIRON HEALTH        19   569 986
+   178   WORMAN HJ             BIOCHEMISTRY                    25  1549 986
+   179   HINGLEY ST            INFECT IMMUN                    51   254 986
+   180   HENNESSY SJ           J APPL PHYSIOL                  60  2109 986
+   181   ROBERT C              PHARM ACTA HELV                 61   210 986
+   182   WOLFF RK              ENVIRON HEALTH PERSPECT         66   223 986
+   183   KOHLER D              EUR J RESPIR DIS                69   319 986
+   184   KONIETZKO N           EUR J RESPIR DIS                69    72 986
+   185   YEATES DB             EUR J RESPIR DIS                69   100 986
+   186   WANNER A              AM J MED                        81    23 986
+   187   MORGAN KT             TOXICOL APPL PHARMACOL          86   448 986
+   188   MIYATA T              FOLIA PHARMACOL JAP             88    57 986
+   189   BURMAN WJ             CHEST                           89   410 986
+   190   LINDBERG S            ANN OTOL RHINOL LARYNGOL        95    94 986
+   191   MAURIZI M             ACTA OTOLARYNGOL STOCKH        102   136 986
+   192   WINKLER GC            AM J PATHOL                    122   541 986
+   193   LAZARUS SC            AM J PHYSIOL                   251  C387 986
+   194   KARLSSON JA           ARCH INT PHARMACODYN THER      280   191 986
+   195   YOKOYAMA E            ENVIRON RES                     42   114 987
+   196   KIM CS                J APPL PHYSIOL                  62   959 987
+   197   WHALEY SL             J APPL PHYSIOL                  62  1331 987
+   198   WANNER A              CHEST                           91  S 49 987

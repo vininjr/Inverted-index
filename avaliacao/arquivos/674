@@ -1,0 +1,62 @@
+PN 77093
+RN 00674 
+AN 77187640
+AU Ligas-J-R.  Primiano-F-P-Jr.  Saidel-G-M.  Doershuk-C-F.
+TI Comparison of measures of forced expiration.
+SO J-Appl-Physiol. 1977 Apr. 42(4). P 607-13.
+MJ CYSTIC-FIBROSIS: pp.  LUNG: ph.
+MN ADOLESCENCE.  ADULT.  CHILD.  CHILD-PRESCHOOL.
+   FORCED-EXPIRATORY-FLOW-RATES.  HUMAN.  METHODS.  MODELS-BIOLOGICAL.
+   SUPPORT-U-S-GOVT-P-H-S.  VITAL-CAPACITY.
+AB Theoretical relationships among a number of parameters were derived
+   for idealized timed vital capacity (TVC) and maximal expiratory flow-
+   volume (MEFV) curves to determine a minimal set of independent
+   parameters. Normal pediatric subjects and those with cystic fibrosis
+   were studied to verify these relationships experimentally. The
+   average flow over the middle half (FEF25-75%) of the forced vital
+   capacity (FVC) and flows at various exhaled percentages of the FVC
+   (FEF50%, FEF75%), as well as moments of the TVC and MEFV curves were
+   computed. From the TVC moments, a mean transit time (MTT) and an
+   index of dispersion (ID) were also calculated. The minimum
+   information needed to detect pulmonary mechanical changes associated
+   with obstructive lung disease requires at least two reproducible
+   measures: one related to the mean slope (e.g., FEF25-75%/FVC or MTT)
+   and the other to the shape (e.g;, ID) of the effort-independent
+   portion of the MEFV curve.
+RF 001   ALLEN GW              AM REV RESPIR DIS              104    61 971
+   002   BLACK LF              AM REV RESPIR DIS              110   282 974
+   003   BOUHUYS A             BREATHING                                974
+   004   BOUHUYS A             J CLIN INVEST                   48  1159 969
+   005   CLEMENT J             RESPIR PHYSIOL                  15    70 972
+   006   CLEMENT J             J APPL PHYSIOL                  31    55 971
+   007   DOERSHUK CF           J PEDIATR                       65   677 964
+   008   FISH J                AM REV RESPIR DIS              109   700 974
+   009   FRY DL                AM J MED                        29   672 960
+   010   GREEN M               J APPL PHYSIOL                  37   793 974
+   011   GREEN M               J APPL PHYSIOL                  37    67 974
+   012   HALD A                STATISTICAL THEORY WITH ENGIN            952
+   013   HOEL PG               INTRODUCTION TO MATHEMATICAL             971
+   014   HOGG JC               N ENGL J MED                   278  1355 968
+   015   HYATT RE              AM REV RESPIR DIS              107   191 973
+   016   KNUDSON RJ            AM REV RESPIR DIS              113   587 976
+   017   LANDAU LI             AM REV RESPIR DIS              108   593 973
+   018   LANDAU LI             AM REV RESPIR DIS              111   725 975
+   019   LEUALLEN EC           AM REV TUBERC PULM DIS          72   783 955
+   020   MCCALL CB             J APPL PHYSIOL                  10   215 957
+   021   MCCARTHY DS           AM REV RESPIR DIS              112   407 975
+   022   MEAD J                J APPL PHYSIOL                  22    95 967
+   023   NEUBURGER N           J APPL PHYSIOL                  40   329 976
+   024   PRIDE NB              J APPL PHYSIOL                  23   646 967
+   025   SAIDEL GM             J APPL PHYSIOL                  38   328 975
+   026   SOBOL BJ              AM REV RESPIR DIS              107   753 973
+   027   TAKISHIMA TG          SCAND J RESPIR DIS              48   384 967
+   028   WENG TR               AM REV RESPIR DIS               99   879 969
+   029   ZAMEL N               AM REV RESPIR DIS              107   861 973
+   030   ZAPLETAL A            PEDIATRICS                      48    64 971
+CT   1   TSAI MJ               IEEE TRANS BIOMED ENG           26   293 979
+     2   PIMMEL RL             AM REV RESPIR DIS              120  1245 979
+     3   PREFAUT C             BULL EUR PHYSIOPATH RESP        16    25 980
+     4   MENKES H              ANN BIOMED ENG                   9   501 981
+     5   PIMMEL RL             J APPL PHYSIOL                  51  1581 981
+     6   PESLIN R              BULL EUR PHYSIOPATH RESP        18   679 982
+     7   GILBERT R             ARCH INTERN MED                145  1635 985

@@ -1,0 +1,45 @@
+PN 79075
+RN 01055 
+AN 80045420
+AU Butterworth-J.  Duncan-J-J.
+TI Carboxypeptidase B activity of cultured skin fibroblasts and
+   relationship to cystic fibrosis.
+SO Clin-Chim-Acta. 1979 Sep 15. 97(1). P 39-43.
+MJ CARBOXYPEPTIDASES: me.  CYSTIC-FIBROSIS: en.
+MN ARGININE: aa, me.  CELLS-CULTURED.  DITHIOTHREITOL: pd.
+   FIBROBLASTS: en.  HIPPURATES: me.  HUMAN.  HYDROGEN-ION-CONCENTRATION.
+   SUBCELLULAR-FRACTIONS: en.
+AB Enzyme activity against hippuryl-L-arginine was studied in cultured
+   skin fibroblasts from controls and cystic fibrosis patients. The
+   enzyme had a lysosomal distribution and an acid optimum of pH 4.5
+   with little or no activity present above pH 7.0. Dithiothreitol was
+   required for full activity and the kinetics of thiol activation were
+   different for the control and cystic fibrosis enzyme. The properties
+   and lysosomal distribution of the enzyme indicated that it was a
+   carboxypeptidase B. Substrate affinity, thermolability, pH stability,
+   the fall and rise in activity with subculture, the cyclical pattern
+   of activity through serial passage and the level of activity were
+   similar for the control and cystic fibrosis enzyme.
+RF 001   CONOVER JH            LIFE SCI                        14   253 974
+   002   BUTTERWORTH J         CLIN CHIM ACTA                  44   295 973
+   003   GUY GJ                CLIN CHIM ACTA                  87    63 978
+   004   BUTTERWORTH J         CLIN CHIM ACTA                  40   139 972
+   005   LOWRY OH              J BIOL CHEM                    193   265 951
+   006   DAWSON RMC            DATA FOR BIOCHEMICAL RESEARCH            972
+   007$  MARINKOVIC DV         BIOCHEM J                      163   265 951
+   008   ERDOS EG              BIOCHEM PHARMACOL               11   585 962
+   009   OSHIMA G              BIOCHIM BIOPHYS ACTA           365   344 974
+   010   PLUMMER TH            J BIOL CHEM                    253  3907 978
+   011   LIEBERMAN J           AM REV RESPIR DIS              111   100 975
+   012   KOHEIL A              BIOCHIM BIOPHYS ACTA           524   156 978
+   013   GREENBAUM LM          J BIOL CHEM                    237  1082 962
+   014   OTTO K                BIOCHIM BIOPHYS ACTA           379   462 975
+   015   NINJOOR V             BIOCHIM BIOPHYS ACTA           370   308 974
+   016   TAYLOR SL             BIOCHIM BIOPHYS ACTA           341    99 974
+   017   MCDONALD JK           IN: BARRETT AJ                       311 977
+   018   SHAPIRO BL            PROC SOC EXP BIOL MED          144   181 973
+CT   1   BUTTERWORTH J         ANAL BIOCHEM                   106   156 980
+     2   BUTTERWORTH J         CLIN CHIM ACTA                 108   143 980
+     3   BUTTERWORTH J         CLIN CHIM ACTA                 108   347 980
+     4   BUTTERWORTH J         CLIN CHIM ACTA                 122    51 982
+     5   BUYS CHCM             CLIN CHIM ACTA                 136   229 984

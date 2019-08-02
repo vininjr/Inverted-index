@@ -1,0 +1,63 @@
+PN 79041
+RN 01021 
+AN 80175020
+AU Bergan-T.  Michalsen-H.
+TI Pharmacokinetics of azlocillin in children with cystic fibrosis.
+SO Arzneimittelforschung. 1979. 29(12a). P 1955-7.
+MJ CYSTIC-FIBROSIS: me.  PENICILLINS: me.
+MN ADOLESCENCE.  CHILD.  CHILD-PRESCHOOL.
+   DOSE-RESPONSE-RELATIONSHIP-DRUG.  FEMALE.  HALF-LIFE.  HUMAN.
+   KINETICS.  MALE.  PENICILLINS: bl, ur.  TIME-FACTORS.
+AB 6-E1(R)-2-(oxo-imidazolidine-1-carboxamido)-2-phenyl-acetamido]-
+   penicillanic acid sodium salt (azlocillin, Securopen) was given in
+   doses of 100 and 200 mg/kg body weight to children with cystic
+   fibrosis. After intravenous bolus infections, the serum half-life was
+   0.82 +/- 0.12 h after the lower dose and 0.98 +/- 0.18 h after the
+   higher dose. This was consequent to a dose limited elimination
+   kinetics due to limitation in both renal and non-renal processes of
+   elimination. Upon doubling of the dose from 100 to 200 mg/kg, the
+   total body clearance dropped from 13.93 to 5.10 1/h. Evaluation of
+   data presented in other publications indicate that a dose limited
+   elimination kinetics is the normal situation for azlocillin. Besides,
+   the serum concentrations of patients with cystic fibrosis were
+   considerably lower than seen in the healthy state. The reason is
+   faster elimination by the renal route in cystic fibrosis.
+RF 001   BERGAN T              ANTIMICROB AGENTS CHEMOTHER     13   801 978
+   002   BERGAN T              ACTA PATH MICROBIOL SCAND (B)   80   101 972
+   003   EVANS MAL             J ANTIMICROB CHEMOTHER           4   255 978
+   004   GIAMARELLOU H         INT SYMPOS ACYLUREIDOPENICILL         68 978
+   005   JUSKO WJ              PEDIATRICS                      56  1038 975
+   006   KONIG HB              INFECTION                        5   170 977
+   007   KRASEMANN C           INT SYMPOS ACYLUREIDOPENICILL         84 978
+   008   LODE H                INFECTION                        5   163 977
+   009   REEVES DS             INT SYMPOS ACYLUREIDOPENICILL         18 978
+   010   WAGNER JG             FUND CLIN PHARMACOKINETICS               975
+   011   WIRTH K               INFECTION                        4    25 976
+   012   YAFFE SJ              J INFECT DIS                   135   828 977
+CT   1   MICHALSEN H           ANTIMICROB AGENTS CHEMOTHER     19  1029 981
+     2   BERGAN T              SCAND J INFECT DIS            1981    33 981
+     3   MALMBORG AS           SCAND J INFECT DIS            1981    64 981
+     4   MICHALSEN H           SCAND J INFECT DIS            1981    92 981
+     5   LEVY J                J ANTIMICROB CHEMOTHER          10   235 982
+     6   ELIOPOULOS GM         ANN INTERN MED                  97   755 982
+     7   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982
+     8   MICHALSEN H           ACTA PAEDIATR SCAND SUPPL 301 1982   101 982
+     9   AGOSTINI M            DRUGS UNDER EXP CLIN RES         9   671 983
+    10   BERGAN T              J ANTIMICROB CHEMOTHER          11   101 983
+    11   MASTELLA G            J ANTIMICROB CHEMOTHER          12   297 983
+    12   ISLES A               AM REV RESPIR DIS              127   417 983
+    13   MARTINI N             J CLIN HOSP PHARM                9   303 984
+    14   SINGLAS E             PRESSE MED                      13   788 984
+    15   LEEDER JS             CLIN PHARMACOL THER             36   355 984
+    16   PENKETH A             THORAX                          39   299 984
+    17   MICHALSEN H           PATHOL RES PRACT               178   261 984
+    18   ANON                  LANCET                           1  1020 985
+    19   WOOLF RA              CLIN PHARMACY                    4   664 985
+    20   PRANDOTA J            DEVELOP PHARM THER               8   311 985
+    21   HORREVORTS AM         CHEST                           88   260 985
+    22   JACOBS RF             J PEDIATR                      106  1001 985
+    23   WILSON CB             J PEDIATR                      106  1049 985
+    24   SORGEL F              EUR J PEDIATR                  143   249 985
+    25   MICHALSEN H           METH FIND EXP CLIN PHARMACOL     8   727 986
+    26   BENDER SW             INFECTION                       14    17 986
+    27   SCHAAD UB             ACTA PAEDIATR SCAND             75   128 986

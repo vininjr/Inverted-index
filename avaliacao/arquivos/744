@@ -1,0 +1,58 @@
+PN 77163
+RN 00744 
+AN 78011300
+AU Wilson-G-B.  Arnaud-P.  Fudenberg-H-H.
+TI Improved method for detection of cystic fibrosis protein in serum
+   using the LKB multiphor electrofocusing apparatus.
+SO Pediatr-Res. 1977 Sep. 11(9 Pt 1). P 986-9.
+MJ BLOOD-PROTEINS: an.  CYSTIC-FIBROSIS: bl.
+MN ASTHMA: bl.  CYSTIC-FIBROSIS: fg.  HETEROZYGOTE.  HOMOZYGOTE.  HUMAN.
+   ISOELECTRIC-FOCUSING: is.  SUPPORT-U-S-GOVT-P-H-S.
+AB We have developed an improved method for the detection of cystic
+   fibrosis protein (CFP). The method employs the LKB Multiphor to
+   electrofocus whole serum, instead of the apparatus used in previous
+   studies. Two basic modifications were necessary: (1) a pH 2.5--10.0
+   gradient instead of a pH 5--10 gradient, and (2) constant power for
+   focusing the serum proteins instead of constant voltage. The first
+   modification ensured adequate dissolution of the CFP-IgG complexes
+   (or other precursor complexes which may liberate CFP). The second
+   modification ensured a linear gradient (between pH 3.8 and pH 9.2),
+   excellent resolution in the pH 8--9 region, and the separation of CFP
+   within 2 hr without overheating of the gel. Electrofocusing with the
+   LKB Multiphor permits the detection of CFP in as many as 24 serum
+   samples per gel. Results obtained from the analysis of 31 cystic
+   fibrosis, 28 obligate heterozygote carrier, and 28 normal control
+   sera indicate that CFP can be reproducibly and accurately detected in
+   sera using the LKB Multiphor.
+RF 002   ALTLAND K             HUMANGENETIK                    28   207 975
+   003   AWDEH ZL              NATURE                         219    66 968
+   004   DI SANTAGNESE PA      N ENGL J MED                   295   534 976
+   005   SMITH QT              PEDIATR RES                     10   999 976
+   006   THOMAS JM             PEDIATR RES                     11   138 977
+   007   WILLIAMSON AR         IN: WEIR DM                              973
+   008   WILSON GB             PEDIATR RES                     10  1001 976
+   009   WILSON GB             SCAND J IMMUNOL                  5   829 976
+   010   WILSON GB             TEX REP BIOL MED                34    51 976
+   011   WILSON GB             PEDIATR RES                      9   635 975
+   012   WILSON GB             CLIN CHIM ACTA                  49    79 973
+   013   WILSON GB             PEDIATR RES                     11   139 977
+   014   WILSON GB             PEDIATR RES                     11   143 977
+   016   WOOD RE               AM REV RESPIR DIS              113   833 976
+CT   1   SCHOLEY J             PEDIATR RES                     12   800 978
+     2   WILSON GB             PEDIATR RES                     12   801 978
+     3   NAGY EC               PEDIATR RES                     13   729 979
+     4   TULLY GW              PEDIATR RES                     13  1078 979
+     5   WILSON GB             PEDIATR RES                     13  1079 979
+     6   MANSON JC             LANCET                           1   330 980
+     7   TARNOKY AL            J ROY SOC MED                   73    73 980
+     8   ACKERMAN SJ           J IMMUNOL                      125  2118 980
+     9   HALLINAN FM           CLIN CHIM ACTA                 117   103 981
+    10   VICKERS MF            ANN CLIN BIOCHEM                19   442 982
+    11   BULLOCK S             CLIN GENET                      21   336 982
+    12   CAREY WF              MED J AUST                       2   528 983
+    13   HEELEY AF             CLIN CHEM                       29  2011 983
+    14   WILSON GB             THYMUS                           6   167 984
+    15   GRATAROLI R           PEDIATR RES                     18   130 984
+    16   ROBINSON PA           ANN CLIN BIOCHEM                21    70 984
+    17   WILSON GB             CLIN GENET                      26   331 984
+    18   QURESHI AR            J PEDIATR                      106   913 985

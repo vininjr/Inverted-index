@@ -1,0 +1,122 @@
+PN 79105
+RN 01085 
+AN 79194554
+AU Spicer-K-M.  Allen-R-C.  Hallett-D.  Buse-M-G.
+TI Synthesis of hemoglobin Aic and related minor hemoglobin by
+   erythrocytes.  In vitro study of regulation.
+SO J-Clin-Invest. 1979 Jul. 64(1). P 40-8.
+MJ ERYTHROCYTES: me.  HEMOGLOBIN-A: bi.  HEMOGLOBINS: me.
+MN ADULT.  CHILD.  CYSTIC-FIBROSIS: bl.  DIABETES-MELLITUS: bl.
+   FETAL-HEMOGLOBIN: me.  GLUCOSE: pd.  HEMODIALYSIS.  HEMOGLOBIN-C: me.
+   HEMOGLOBIN-SICKLE: me.  HEXOSES: bl.  HUMAN.
+   HYDROGEN-ION-CONCENTRATION.  IN-VITRO.  INSULIN: pd.  MALE.
+   PHOSPHORYLATION.  TEMPERATURE.  TIME-FACTORS.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB Factors that influence hemoglobin (Hb)Aic synthesis by intact
+   erythrocytes were studied in vitro.  After incubation cells were
+   lysed, and hemoglobins were separated by isoelectric focusing on
+   polyacrylamide slab gels and quantitated by microdensitometry.
+   HbAic increased with time, glucose concentrations (5-500 mM) and
+   incubation temperature (4 degrees-37 degrees C).  Low temperatures
+   allowed prolonged incubations with minimal hemolysis.  At 4 degrees
+   C HbAic increased linearly with time for 6 wk; after incubation at
+   the highest glucose concentration, HbAic comprised 50% of total
+   hemoglobin.  Insulin (1 and 0.1 mU/ml) did not affect HbAic
+   synthesis in vitro.  In addition to glucose, galactose and mannose,
+   but not fructose, served as precursors to HbAic.  A good substrate
+   for hexokinase (2-deoxy-glucose) and a poor hexokinase substrate
+   (3-O-methyl-glucose), were better precursors for HbAic synthesis
+   than glucose, suggesting that enzymatic phosphorylation of glucose
+   is not required for HbAic synthesis.  Autoradiography after
+   erythrocyte incubation with 32P-phosphate showed incorporation of
+   radioactivity into HbAia1 and HbAia2, but not HbAib, Aic, or A.
+   Acetylated HbA, generated during incubation with acetylsalicylate,
+   migrated anodal to HbAic and clearly separated from it.
+   Erythrocytes from patients with insulinopenic diabetes mellitus
+   synthesized HbAic at the same rate as controls when incubated with
+   identical glucose concentrations.  Likewise, the rate of HbAic
+   synthesis by erythrocytes from patients with cystic fibrosis and
+   congenital spherocytosis paralleled controls.  When erythrocytes
+   from cord blood and from HbC and sickle cell anemia patients were
+   incubated with elevated concentrations of glucose, fetal Hb, HbC,
+   and sickle Hb decreased whereas hemoglobins focusing at isoelectric
+   points near those expected for the corresponding glycosylated
+   derivatives appeared in proportionately increased amounts.
+RF 001   BUNN HF               J CLIN INVEST                   57  1652 976
+   002   KOENIG RJ             DIABETES                        25   230 976
+   003   KOENIG RJ             N ENGL J MED                   295   417 976
+   004   GABBAY KH             J CLIN ENDOCRINOL METAB         44   859 977
+   005   GONEN BA              LANCET                           1   734 977
+   006   STEVENS VJ            J BIOL CHEM                    252  2998 977
+   007   HANEY DN              PROC NAT ACAD SCI USA           73  3534 976
+   008   BUNN HF               SCIENCE                        200    21 978
+   009   DIXON HBF             BIOCHEM J                      129   203 972
+   010   BUNN HF               BIOCHEM BIOPHYS RES COMMUN      67   103 975
+   011   KOENIG RJ             J BIOL CHEM                    252  2992 977
+   012   SPICER KM             DIABETES                        27   384 978
+   013   BEUTLER E             IN: GREENWALT TJ                     189 974
+   014   BEUTLER E             J LAB CLIN MED                  80   723 972
+   015   BRIDGES KR            J CLIN INVEST                   56   201 975
+   016   TRIVELLI LA           N ENGL J MED                   284   353 971
+   017   SCHNEK AG             J AM CHEM SOC                   83  1472 961
+   018   DRABKIN DL            J BIOL CHEM                    164   703 946
+   019   STEVENS VJ            PROC NAT ACAD SCI USA           75  2918 978
+   020   PAULSEN EP            DIABETES                        25   890 976
+   021   MORGAN HE             CURR TOP MEMBRANES TRANSP        4   255 973
+   022   MCDONALD MJ           J BIOL CHEM                    253  2327 978
+   023   BUNN HF               HUMAN HEMOGLOBIN                       8 977
+   024   BASSETT PY            BLOOD                           51   971 978
+   025   ROSE IA               J BIOL CHEM                    239    12 964
+   026   BEUTLER E             RED CELL METABOLISM                  123 975
+   027   KRISHNAMOORTHY R      FEBS LETTERS                    77    99 977
+   028   DOLHOFER R            FEBS LETTERS                    85    86 978
+   029   LEFEVRE PG            PHARMACOL REV                   13    39 961
+   030   CANTOR SM             J AM CHEM SOC                   62  2113 940
+   031   LOS JM                J AM CHEM SOC                   78  1564 956
+   032   FLUCKIGER R           FEBS LETTERS                    71   356 976
+   033   ZIPPER H              BIOCHIM BIOPHYS ACTA           282   311 972
+   034   GAMBHIR KK            DIABETES                        27   701 978
+   035   GRAF R                DIABETES SUPPL                  26   368 977
+   036   ABDELLA PM            BIOCHIM BIOPHYS ACTA           490   462 977
+   037   BUNN HF               J CLIN INVEST                   49  1088 970
+CT   1   FITZGERALD MD         AM J HEMATOL                     9   311 980
+     2   SVENDSEN PA           DIABETOLOGIA                    19   130 980
+     3   BERNSTEIN RE          CLIN CHEM                       26   174 980
+     4   MENARD L              CLIN CHEM                       26  1598 980
+     5   ROMEN W               KLIN WSCHR                      58  1013 980
+     6   BERGER W              SCHWEIZ MED WOCHENSCHR         110   485 980
+     7   BARTOSZ G             MECH AGEING DEV                 17   237 981
+     8   MONNIER LH            DIABETOLOGIA                    20    12 981
+     9   BOUCHER BJ            DIABETOLOGIA                    21    34 981
+    10   DEAN PDG              DIABETOLOGIA                    21   579 981
+    11   MORTENSEN HB          SCAND J CLIN LAB INVEST         41   451 981
+    12   FADEL HE              AM J OBSTET GYNECOL            139   397 981
+    13   FADEL HE              AM J OBSTET GYNECOL            141   704 981
+    14   GOEBEL FD             RES EXP MED                    179   133 981
+    15   PEREJDA AJ            COLLAGEN RELAT RES               2    83 982
+    16   ESCHWEGE E            DIABETE METAB                    8   137 982
+    17   LEUTENEGGER M         DIABETE METAB                    8   249 982
+    18   UITTO J               CONNECT TISS RES                10   287 982
+    19   POWELL HC             CLIN BIOCHEM                    15   133 982
+    20   PEER G                ISR J MED SCI                   18   960 982
+    21   BARTOSZ G             MECH AGEING DEV                 20   223 982
+    22   VIALETTES B           DIABETOLOGIA                    22   264 982
+    23   HOWARD CF             DIABETES                        31  1105 982
+    24   ARNQVIST H            SCAND J CLIN LAB INVEST         42   265 982
+    25   PANZER S              BLOOD                           59  1348 982
+    26   BACHEM MG             KLIN WSCHR                      60   497 982
+    27   SMITH RJ              J CLIN INVEST                   69  1164 982
+    28   BASSET P              J CHROMATOGR                   227   267 982
+    29   MORTENSEN HB          BIOCHIM BIOPHYS ACTA           707   154 982
+    30   MEHL TD               DIABETES CARE                    6    34 983
+    31   ZELLER WP             PEDIATR RES                     17   200 983
+    32   COHEN MP              EXP GERONTOL                    18   461 983
+    33   WETTRE S              DIABETOLOGIA                    24   148 983
+    34   CZECH A               J CHRON DIS                     36   803 983
+    35   SANDHU RS             CLIN BIOCHEM CONTEM THEO TECH    3   215 984
+    36   MIEDEMA K             ANN CLIN BIOCHEM                21     2 984
+    37   OLESEN HA             SCAND J CLIN LAB INVEST         44   329 984
+    38   DAVIDOFF P            REV MED CHIL                   112     3 984
+    39   COSSU G               J CHROMATOGR                   307   103 984
+    40   KUMAR A               BIOCHEM MED                     34   112 985
+    41   ABRAHAM EC            HEMOGLOBIN                      10   173 986

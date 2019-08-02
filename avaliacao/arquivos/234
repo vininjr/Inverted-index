@@ -1,0 +1,78 @@
+PN 75068
+RN 00234
+AN 76042342
+AU Ryley-H-C.  Neale-L-M.  Brogan-T-D.  Bray-P-T.
+TI Screening for cystic fibrosis by analysis of meconium for albumin
+   and protease inhibitors.
+SO Clin-Chim-Acta. 1975 Oct 15. 64(2). P 117-25.
+MJ ALBUMINS: an.  ALPHA-1-ANTITRYPSIN: an.  CHYMOTRYPSIN: ai.
+   CYSTIC-FIBROSIS: di.  INFANT-NEWBORN-DISEASES: di.  MECONIUM: an.
+MN ALBUMINS: im.  COMPARATIVE-STUDY.  FECES: an.  HUMAN.
+   IMMUNOELECTROPHORESIS.  INFANT-NEWBORN.  MASS-SCREENING.  METHODS.
+AB A qualitative method of detecting elevated meconium protein
+   concentration was compared with a method of determining meconium
+   albumin concentration by electroimmunoassay since elevated meconium
+   protein levels can indicate pancreatic insufficiency caused by cystic
+   fibrosis. Between 5 and 10 per 1000 healthy infants passed meconium
+   specimens that gave a false positive reaction with the Boehringer
+   Mannheim test strip and contained a greater than expected
+   concentration of albumin.  It was possible to exclude pancreatic
+   insufficiency in all of these children by determining the ratio,
+   albumin : alpha1-antitrypsin in meconium and subsequent faecal
+   specimens, since it was found that values of this ratio in excess of
+   2.0 suggested pancreatic insufficiency of the type associated with
+   cystic fibrosis. Three of 14 neonates with subsequently proven cystic
+   fibrosis yielded meconium specimens giving negative test strip
+   results and low albumin concentrations. In two of these patients, the
+   ratio, albumin : alpha1-antitrypsin in the meconium was within normal
+   limits but, within two months of birth, the albumin : alpha1-
+   antitrypsin ratio in the faeces of both children was greater than 3.0
+   suggesting that pancreatic insufficiency had developed.
+RF 001   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   002   GEORGE L              ARCH DIS CHILD                  46   139 971
+   003   WARWICK WJ            MINN MED                        52  1567 969
+   004   DI SANTAGNESE PA      N ENGL J MED                   277  1344 967
+   005   DI SANTAGNESE PA      N ENGL J MED                   277  1399 967
+   006   BUCHANAN DJ           PEDIATRICS                       9   304 952
+   007   WISER WC              PEDIATRICS                      33   115 964
+   008   GREEN MN              PEDIATRICS                      21   635 958
+   009   ROULET DLA            SCHWEIZ MED WOCHENSCHR          91    74 961
+   010   PRITCHARD JA          OBSTET GYNECOL                  25   289 965
+   011   HIGA Y                AM J OBSTET GYNECOL            119   932 974
+   012   RYLEY HC              ARCH DIS CHILD                  49   901 974
+   013   DAVIDSON AG           BR MED J                         4   362 971
+   014   STEPHAN U             PADIATRISCHE PRAXIS             12   487 973
+   015   HELLSING K            SCAND J CLIN LAB INVEST         33   333 974
+   016   BULL FE               ARCH DIS CHILD                  49   602 974
+   017   RYLEY HC              J CLIN PATHOL                   26   852 973
+   018   CRAWFORD IP           ARCH BIOCHEM BIOPHYS           156   215 973
+   019   ROSEBAUM T            SCIENCE TOOLS APPL NOTE 87               973
+   020   AVRAMEAS S            IMMUNOCHEMISTRY                  6    53 969
+   021   FAGERHOL MK           IN: MITTMAN C                        145 972
+   022   SIEGAL S              NONPARAMETRIC STATISTICS                 956
+   023   PROSSER R             ARCH DIS CHILD                  49   597 974
+CT   1   RYLEY HC              LANCET                           2   365 976
+     2   GRIFFITHS AD          ARCH DIS CHILD                  51   901 976
+     3   RYLEY HC              ARCH DIS CHILD                  51   641 976
+     4   ANON                  BR MED J                         1   596 977
+     5   CROSSLEY JR           BR MED J                         1   428 977
+     6   CROSSLEY JR           LANCET                           2  1093 977
+     7   KRAEMER R             SCHWEIZ MED WOCHENSCHR         107  1105 977
+     8   STARK JM              J CLIN PATHOL                   31  1177 978
+     9   EVANS TJ              ARCH DIS CHILD                  53   239 978
+    10   RYLEY HC              MONOGR PAEDIATR                 10   151 979
+    11   STEPHAN U             MONOGR PAEDIATR                 10    41 979
+    12   UXA F                 MINERVA PEDIATR                 31   831 979
+    13   RYLEY HC              ARCH DIS CHILD                  54    92 979
+    14   DOYLE EE              IR MED J                        72    93 979
+    15   MASTELLA G            RIV ITAL PEDIATR                 7   581 981
+    16   MORRIS TJ             CLIN ALLERGY                    11   561 981
+    17   EVANS RT              J CLIN PATHOL                   34   911 981
+    18   RYLEY HC              J CLIN PATHOL                   34   179 981
+    19   THOMAS DW             GASTROENTEROLOGY                80   776 981
+    20   PARK RW               GASTROENTEROLOGY                81  1143 981
+    21   DODGE JA              ARCH DIS CHILD                  57   774 982
+    22   PEDERZINI F           RIV ITAL PEDIATR                 9   445 983
+    23   HEELEY AF             CLIN CHEM                       29  2011 983
+    24   RYLEY HC              CLIN CHIM ACTA                 135    49 983
+    25   NAYLOR EW             SEM PERINATOL                    9   232 985

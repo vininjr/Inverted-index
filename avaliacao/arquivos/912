@@ -1,0 +1,105 @@
+PN 78132
+RN 00912 
+AN 78197203
+AU Kulczycki-L-L.  Murphy-T-M.  Bellanti-J-A.
+TI Pseudomonas colonization in cystic fibrosis.  A study of 160
+   patients.
+SO JAMA. 1978 Jul 7. 240(1). P 30-4.
+MJ BRONCHI: mi.  CARRIER-STATE: mi.  CYSTIC-FIBROSIS: co.
+   PSEUDOMONAS-AERUGINOSA: ip.  PSEUDOMONAS-INFECTIONS: co.
+MN ADOLESCENCE.  ADULT.  ANTIBIOTICS: pd, tu.  CHILD.  CHILD-PRESCHOOL.
+   CYSTIC-FIBROSIS: mi.  DISEASE-SUSCEPTIBILITY.
+   DRUG-RESISTANCE-MICROBIAL.  FOLLOW-UP-STUDIES.  HUMAN.  INFANT.
+   PSEUDOMONAS-AERUGINOSA: de, gd.  PSEUDOMONAS-INFECTIONS: dt.
+   SUPPORT-U-S-GOVT-NON-P-H-S.
+AB We investigated the role of Pseudomonas aeruginosa colonization in
+   the respiratory tracts of cystic fibrosis (CF) patients to relate the
+   effect of this colonization to progression of bronchial airway
+   pathologic conditions and to the patients' clinical progress, and to
+   identify predisposing factors to persistence of P aeruginosa
+   colonization and bronchial tree damage. Half of 160 CF patients
+   studied had persistent P aeruginosa respiratory tract colonization;
+   the other half had none. Pseudomonas aeruginosa seems to have an
+   exclusive propensity for the respiratory tract and may appear at any
+   age. Treatment with antibiotics, including aminoglycosides, failed to
+   eradicate P aeruginosa. The continuous use of antibiotics seemed to
+   contribute to the persistence of P aeruginosa and the appearance of
+   mucoid strains of P aeruginosa.
+RF 001   REYNOLDS HY           JAMA                           236  2190 976
+   002   ELSTON HR             AM J CLIN PATHOL                48   519 967
+   003   HARRISON GM           CF CLUB ABST                    16    42 975
+   004   LARAYA-CUASAY LR      J PEDIATR                       89    23 976
+   005   GIBSON LE             PEDIATRICS                      23   545 959
+   006   SHWACHMAN H           AM J DIS CHILD                  96     6 958
+   007   ALTMAN RP             J PEDIATR SURG                   8   809 973
+   008   WARING WW             PEDIATRICS                      39   166 967
+   009   DOGGETT RG            LANCET                           1   236 971
+   010   REYNOLDS HY           ANN INTERN MED                  82   819 975
+   011   HOIBY N               ACTA PATH MICROBIOL SCAND (B)   82   551 974
+   012   ZIERDT CH             J CLIN MICROBIOL                 1   521 975
+   013   BELLANTI JA           PROC INT CF CONG 7TH                  20 976
+   014   PENNINGTON JE         J INFECT DIS                   131   158 975
+   015   MILLIS RM             CHEST                           71   508 977
+   016   DI SANTAGNESE PA      AM J DIS CHILD                  72    17 946
+   017   HUANG NN              J PEDIATR                       59   512 961
+   018   BURNS MW              LANCET                           1   270 968
+   019   DOERSHUK CF           IN: MANGOS JA                            976
+CT   1   KULCZYCKI LL          MONOGR PAEDIATR                 10    27 979
+     2   LOENINGBAUCKE VA      J PEDIATR                       95   630 979
+     3   MCCARTHY MM           CLIN PEDIATR                    19   746 980
+     4   LAM J                 INFECT IMMUN                    28   546 980
+     5   BEAUDRY PH            J PEDIATR                       97   144 980
+     6   WIENTZEN R            AM J DIS CHILD                 134  1134 980
+     7   BALTIMORE RS          J INFECT DIS                   141   238 980
+     8   CARLONE S             MICROBIOLOGICA                   4   215 981
+     9   KOEPP LH              CURRENT MICROBIOL                6   383 981
+    10   MOSS RB               J PEDIATR                       99   215 981
+    11   BAKER NR              CURRENT MICROBIOL                7    35 982
+    12   BAKER NR              IN VITRO                        18   369 982
+    13   SORDELLI DO           CLIN IMMUNOL IMMUNOPATHOL       22   153 982
+    14   BAKER NR              CAN J MICROBIOL                 28   248 982
+    15   BALTIMORE RS          HELV PAEDIATR ACTA              37   547 982
+    16   BOYCE JR              INFECT IMMUN                    37   695 982
+    17   BOYCE JR              INFECT IMMUN                    37   840 982
+    18   OHMAN DE              INFECT IMMUN                    37   662 982
+    19   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    33 982
+    20   HOIBY N               ACTA PAEDIATR SCAND SUPPL 301 1982    75 982
+    21   BODEY GP              REV INFECT DIS                   5   279 983
+    22   CROSS A               REV INFECT DIS                   5  S837 983
+    23   GOVAN JRW             REV INFECT DIS                   5  S874 983
+    24   BALTIMORE RS          PEDIATR RES                     17   952 983
+    25   CUKOR G               J CLIN MICROBIOL                18   457 983
+    26   BOYD RL               INFECT IMMUN                    39  1403 983
+    27   HASTIE AT             INFECT IMMUN                    40   506 983
+    28   DORING G              INFECT IMMUN                    42   197 983
+    29   PENKETH A             AM REV RESPIR DIS              127   605 983
+    30   HACKING AJ            J GEN MICROBIOL                129  3473 983
+    31   BOUCHER RC            LUNG                           161     1 983
+    32   ADLER KB              JAMA                           249  1615 983
+    33   CHAN R                J CLIN MICROBIOL                19     8 984
+    34   PENKETH A             THORAX                          39   299 984
+    35   BUCKMIRE FLA          MICROBIOS                       41    49 984
+    36   KUHN RJ               CLIN PHARMACY                    4   555 985
+    37   EFTIMIADI C           DRUGS UNDER EXP CLIN RES        11   241 985
+    38   OLIVER AM             J CLIN LAB IMMUNOL              17    85 985
+    39   IRVIN RT              CAN J MICROBIOL                 31   268 985
+    40   STACK BHR             THORAX                          40   358 985
+    41   JACQUOT J             INFECT IMMUN                    47   555 985
+    42   MARCUS H              INFECT IMMUN                    47   723 985
+    43   SORDELLI DO           INFECT IMMUN                    49   265 985
+    44   WINKLER U             KLIN WSCHR                      63   490 985
+    45   LINDEMANN RA          J DENT RES                      64    54 985
+    46   SORDELLI DO           EUR J RESPIR DIS                67   118 985
+    47   TABLAN OC             J PEDIATR                      107   382 985
+    48   BROWN J               AM J DIS CHILD                 139   836 985
+    49   GOVAN JRW             MICROBIOL SCI                    3   302 986
+    50   FRIEND PA             J INFECT                        13    55 986
+    51   PADGETT PJ            CURRENT MICROBIOL               14   187 986
+    52   PEDERSEN SS           J ANTIMICROB CHEMOTHER          17   505 986
+    53   PEDERSEN SS           ACTA PAEDIATR SCAND             75   840 986
+    54   ADLER KB              AM J PATHOL                    125   501 986
+    55   STUTTS MJ             AM REV RESPIR DIS              134    17 986
+    56   LONNQVIST B           J INFECT DIS                   153   175 986
+    57   DUNNE WM              DIAGN MICROBIOL INFECT DIS       6   165 987
+    58   BOUCHER RC            TOXICOL APPL PHARMACOL          87   264 987
+    59   GOLDBERG JB           J BACTERIOL                    169  1349 987

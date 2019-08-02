@@ -1,0 +1,102 @@
+PN 74145
+RN 00144 
+AN 75010573
+AU Fox-W-W.  Bureau-M-A.  Taussig-L-A.  Martin-R-R.  Beaudry-P-H.
+TI Helium flow-volume curves in the detection of early small airway
+   disease.
+SO Pediatrics. 1974 Sep. 54(3). P 293-9.
+MJ AIRWAY-OBSTRUCTION: di.  CYSTIC-FIBROSIS: co.  HELIUM: du.
+   RESPIRATORY-FUNCTION-TESTS.
+MN ADOLESCENCE.  AIRWAY-OBSTRUCTION: co, pp.  CARBON-DIOXIDE: bl.
+   CHILD.  CYSTIC-FIBROSIS: pp.  FEMALE.  HUMAN.  LUNG: ra, pp.  MALE.
+   OXYGEN: bl.  PARTIAL-PRESSURE.  RESPIRATION.  SPIROMETRY.
+   VITAL-CAPACITY.
+AB To assess small airway disease in cystic fibrosis (CF) patients with
+   minimal pulmonary involvement, maximal expiratory flow volume (MEFV)
+   curves were obtained while the patients were breathing first air and
+   then an 80% helium-20% oxygen gas mixture.  Fifteen CF patients and
+   24 controls were studied.  Flow rates at 50% and 25% vital capacity
+   (VC) were calculated from the air and helium-mixture MEFV curves and
+   were compared to give flow ratios at these lung volumes.  At 50% VC,
+   the helium/air flow ratios were similar in CF patients and normal
+   subjects.  At 25% VC, the flow ratio was significantly lower (p < 
+   0.05) in the CF patients.  The air and helium MEFV curves were
+   superimposed and the point where the curves crossed (point of
+   identical flow, PIF) was determined and expressed in % VC.  For the
+   CF patients, the mean PIF was 18% and for the controls, 5% (p <
+   .001).  Nine of the 15 CF patients had PIF values greater than 2
+   standard deviations (SD) from the normal mean.  None of the
+   following tests were abnormal in more than three patients: FEV1/FVC,
+   MMEF, RV/TLC, Vmax 50% TLC (TLC/sec), and Vmax 25% VC (TLC/sec).
+   Arterial oxygen tensions were below 86 mm Hg in four patients.
+   Closing volumes by the 100% helium bolus technique were normal in
+   all patients.  Determination of the PIF appears to be a simple,
+   noninvasive, and sensitive test for the detection of early small
+   airway involvement.
+RF 001   MELLINS RB            PEDIATRICS                      44   315 969
+   002   ZAPLETAL A            PEDIATRICS                      48    64 971
+   003   LANDAU LI             AM REV RESPIR DIS              108   593 973
+   004   LAMARRE A             PEDIATRICS                      50   291 972
+   005   HOGG JC               N ENGL J MED                   278  1355 968
+   006   HOGG JC               N ENGL J MED                   282  1283 970
+   007   MEAD J                N ENGL J MED                   282  1318 970
+   008   MCCARTHY DS           AM J MED                        52   747 972
+   009   DESPAS PJ             J CLIN INVEST                   51  3235 972
+   010   MEAD J                J APPL PHYSIOL                  22    95 967
+   011   MACKLEM PT            ARCH ENVIRON HEALTH             14     5 967
+   012   DI SANTAGNESE PA      IN: NELSON WE                        856 969
+   013   TAUSSIG LM            J PEDIATR                       82   380 973
+   014   BEAUDRY PH            AM REV RESPIR DIS               95   248 967
+   015   WENG TR               AM REV RESPIR DIS               99   879 969
+   016   POLGAR G              PULMONARY FUNCTION TESTING IN            971
+   017   ZAPLETAL A            J APPL PHYSIOL                  26   308 969
+   018   GREEN M               J APPL PHYSIOL                  33   827 972
+   019   SIGGAARD ANDERSEN O   SCAND J CLIN LAB INVEST         12   172 960
+   020   LEVISON H             AM REV RESPIR DIS              101   972 970
+   021   FEATHERBY EA          AM REV RESPIR DIS              102   737 970
+   022   MANSELL A             J APPL PHYSIOL                  33   711 972
+   023   REILLY BJ             RADIOLOGY                       98   281 971
+   024   HILL DJ               AM REV RESPIR DIS              106   873 972
+   025   SEELY JE              SCIENCE                        172   741 971
+CT   1   LANDAU LI             AM REV RESPIR DIS              111   725 975
+     2   CORBET A              AM REV RESPIR DIS              112   513 975
+     3   RONCORONI AJ          MED (BUENOS AIRES)              36   347 976
+     4   WOOD RE               AM REV RESPIR DIS              113   833 976
+     5   WAYNE KS              AM REV RESPIR DIS              114    15 976
+     6   TAUSSIG LM            PEDIATR RES                     11   261 977
+     7   TAUSSIG LM            CLIN PEDIATR                    16    57 977
+     8   CHERNICK V            PEDIATRICS                      59   783 977
+     9   VANCE JC              PEDIATRICS                      60   263 977
+    10   COATES AL             J PEDIATR                       90   611 977
+    11   WOHL MEB              J PEDIATR                       90   405 977
+    12   LOREN ML              J PEDIATR                       91   688 977
+    13   WALSON PD             J PEDIATR                       91   321 977
+    14   PROCTOR DF            AM REV RESPIR DIS              115    97 977
+    15   ZAPLETAL A            BULL EUR PHYSIOPATH RESP        14   265 978
+    16   BUREAU MA             PEDIATRICS                      61   842 978
+    17   GURWITZ D             PEDIATRICS                      62   789 978
+    18   COATES AL             J PEDIATR                       92   247 978
+    19   ANCIC P               REV MED CHIL                   106   709 978
+    20   GURWITZ D             PEDIATR CLIN NORTH AM           26   603 979
+    21   MCBRIDE JT            PEDIATR CLIN NORTH AM           26   537 979
+    22   LANDAU LI             THORAX                          34   217 979
+    23   DULL WL               RESPIRATION                     38    18 979
+    24   SANTAGNESE PAD        AM J MED                        66   121 979
+    25   LOUGHLIN GM           J PEDIATR                       94   365 979
+    26   WIESEMANN H           RESPIRATION                     41   181 981
+    27   ZUSKIN E              INT ARCH OCCUP ENVIRON HEALTH   49    41 981
+    28   COATES AL             ARCH DIS CHILD                  56   106 981
+    29   CLOUTIER MM           PEDIATRICS                      67     6 981
+    30   LOUGHLIN GM           CHEST                           79   206 981
+    31   TAUSSIG LM            AM REV RESPIR DIS              123   640 981
+    32   TECULESCU DB          LUNG                           159   127 981
+    33   TECULESCU DB          CLIN PHYSIOL                     2   379 982
+    34   KERREBIJN KF          EUR J RESPIR DIS                63    35 982
+    35   BEGIN R               AM J MED                        72   743 982
+    36   REDDING GJ            AM REV RESPIR DIS              126    31 982
+    37   PAGTAKHAN RD          J APPL PHYSIOL                  56  1204 984
+    38   WOLFSON MR            J PEDIATR                      104   752 984
+    39   TAL A                 EUR J PEDIATR                  142   117 984
+    40   TECULESCU DB          BULL EUR PHYSIOPATH RESP        21   193 985
+    41   DESMOND KJ            PEDIATR PULMONOL                 2   128 986
+    42   ALLEN JL              CLIN PEDIATR                    25   541 986

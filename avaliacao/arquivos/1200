@@ -1,0 +1,76 @@
+PN 79220
+RN 01200 
+AN 80055641
+AU Will-P-C.  Boat-T-F.  Hopfer-U.
+TI Evidence against a specific effect of serum from patients with
+   cystic fibrosis on sodium-dependent glucose transport in the rat
+   jejunum.
+SO Pediatr-Res. 1979 Oct. 13(10). P 1129-33.
+MJ CYSTIC-FIBROSIS: bl.  GLUCOSE: me.  JEJUNUM: me.  SODIUM: pd.
+MN ANIMAL.  HUMAN.  IN-VITRO.  MALE.  MICROVILLI: me.  PHLORHIZIN: pd.
+   RATS.
+AB Sera from patients with cystic fibrosis of the pancreas (CF) and
+   normal human sera were assayed for the ability to inhibit sodium-
+   dependent glucose transport in rat brush-border membrane vesicles.
+   Fresh CF and age- and sex-matched control sera were both inhibitory
+   when compared to physiologic saline. The inhibition by CF serum was
+   44 +/- 13% (mean +/- SD) at a final serum concentration of 6.7%, 67
+   +/- 34% at 10% serum, and 68 +/- 28% at 20% serum. The ratio of the
+   inhibition of CF sera compared to that of control sera was 1.00,
+   0.78, and 0.93 at 6.7, 10, and 20% serum concentrations,
+   respectively. Although a slightly greater inhibition by CF serum was
+   observed at a concentration of 10%, this is probably not significant
+   because no difference could be detected at a concentration of 20%
+   serum. Glucose transport in the presence of serum was sensitive to
+   phlorizin indicating that the residual glucose transport was
+   proceeding by the sodium-dependent glucose transport system. These
+   findings suggest that CF serum does not specifically inhibit the
+   sodium-dependent glucose transport system. The intravesicular space
+   accessible to glucose was reduced in the presence of CF or control
+   serum. Fresh CF serum was 1.4 times more effective than fresh control
+   serum (P less than 0.01). The presence of substantial vesicle-
+   shrinking activity in control serum indicates that this activity
+   cannot be considered specific for CF.
+RF 001   ARAKI H               PEDIATR RES                      9   932 975
+   002   ARAKI H               PROC INT CF CONG 7TH                  28 976
+   003   ARVANITAKIS S         TEX REP BIOL MED                34   175 976
+   004   BARNETT DR            TEX REP BIOL MED                31   709 973
+   005   BENKE PJ              PROC SOC EXP BIOL MED          137  1283 971
+   006   BENSADOUN A           ANAL BIOCHEM                    70   241 976
+   007   BROWN GA              LANCET                           2   639 971
+   008   CONOD EJ              PEDIATR RES                     11    45 977
+   009   DESJEUX JF            EUROPEAN SOC PEDIAT RES MTG              970
+   010   DESJEUX JF            CF CLUB ABST                    15       974
+   011   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   012   DOERSHUK CF           J PEDIATR                       65   677 964
+   013   DOGGETT RG            TEX REP BIOL MED                31   685 973
+   014   FRIZZELL RA           J MEMBR BIOL                    27   297 976
+   015   FROMTER E             NATURE NEW BIOL                235     9 972
+   016   GILMORE JP            PROC SOC EXP BIOL MED          157    70 978
+   017   HOPFER U              PROC NAT ACAD SCI USA           72  2027 975
+   018   HOPFER U              J SUPRAMOL STRUCT                7     1 977
+   019   HOPFER U              J BIOL CHEM                    248    25 973
+   020   HOPFER U              ANN NY ACAD SCI                264   414 975
+   021   KAISER D              PEDIATR RES                      5   167 971
+   022   LOWRY OH              J BIOL CHEM                    193   265 951
+   023   MANGOS JA             TEX REP BIOL MED                31   651 973
+   024   MANGOS JA             SCIENCE                        158   135 967
+   025   MANGOS JA             PEDIATR RES                      1   436 967
+   026   MENG K                PFLUEGERS ARCH                 357    91 975
+   027   MORIN CL              BIOMEDICINE EXPRESS             19   133 973
+   028   MURER H               PROC NAT ACAD SCI USA           71   484 974
+   029   SCHMITZ J             BIOCHIM BIOPHYS ACTA           323    98 973
+   030   SCHNEYER LH           AM J PHYSIOL                   219  1050 970
+   031   SCHNEYER LH           PHYSIOL REV                     52   720 972
+   032   SCHULTZ SG            PHYSIOL REV                     50   637 970
+   033   SHAPIRO BL            PEDIATR RES                      9   885 975
+   034   SIGRIST-NELSON K      J BIOL CHEM                    250  5674 975
+   035   TANNENBAUM C          FED PROC                        36   360 977
+   036   TAUSSIG LM            LANCET                           1  1367 972
+   037   TAYLOR A              PEDIATR RES                      8   861 974
+   038   WILSON GB             NATURE                         266   463 977
+   039   WILSON GB             PEDIATR RES                     11   317 977
+   040   ZAR JH                BIOSTATISTICAL ANALYSIS                  974
+CT   1   WILL PC               PEDIATR RES                     14  1245 980
+     2   BANCHINI G            PEDIATR RES                     15  1073 981
+     3   ALBAZZAZ FJ           RESPIRATION                     46    88 984

@@ -1,0 +1,103 @@
+PN 75143
+RN 00309
+AN 75176050
+AU Martinez-J-R.  Adelstein-E.  Quissel-D.  Barbero-G-J.
+TI The chronically reserpinized rat as a possible model for cystic
+   fibrosis.  I. Submaxillary gland morphology and ultrastructure.
+SO Pediatr-Res. 1975 May. 9(5). P 463-9.
+MJ CYSTIC-FIBROSIS: ci.  DISEASE-MODELS-ANIMAL.  RATS.  RESERPINE.
+   SUBMANDIBULAR-GLAND: ul.
+MN ANIMAL.  BODY-WEIGHT.  CELL-NUCLEUS: ul.  CYTOPLASM: ul.
+   ENDOPLASMIC-RETICULUM: ul.  INJECTIONS-INTRAPERITONEAL.
+   ISOPROTERENOL: pd.  MALE.  MICROSCOPY-ELECTRON.  MUCINS: me.
+   MUCOPROTEINS: me.  NEURAL-TRANSMISSION: de.  ORGAN-WEIGHT.
+   PILOCARPINE: pd.  RESERPINE: ad.  STIMULATION-CHEMICAL.
+   SUBMANDIBULAR-GLAND: me, pa.
+AB Rats treated for 7 days with reserpine develop structural changes in
+   the submaxillary gland that resemble those that have been reported in
+   cystic fibrosis. The salivary exocrinopathy is characterized by
+   increased amounts of PAS-reactive mucoprotein in the acinar cells and
+   by obstruction and dilatation of ducts by precipitated material with
+   the same staining characteristics as those found in the acinar
+   elements.
+RF 001   BARBERO GJ            IN: DI SANTAGNESE PA                 208 964
+   002   BENMILOUD M           ACTA PHYSIOL SCAND              59    34 963
+   003   BLOMFIELD J           GUT                             14   558 973
+   004   CHERNICK WS           ANN NY ACAD SCI                106   698 963
+   005   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   006   DI SANTAGNESE PA      N ENGL J MED                   277  1344 967
+   007   DI SANTAGNESE PA      N ENGL J MED                   277  1399 967
+   008   DOGGETT RG            J CLIN PATHOL                   24   270 971
+   009   JOHANSEN PG           ANN NY ACAD SCI                106   755 963
+   010   LEESON CR             HANDBOOK OF PHYSIOLOGY SECT 6    2   463 967
+   011   LEV R                 AM J PATHOL                     46    23 965
+   012   MANGOS JA             SCIENCE                        158   135 967
+   013   PREECE A              MANUAL FOR HISTOLIC TECHNIC              972
+   014   SCOTT BL              AM J ANAT                      104   115 959
+   015   SHACKLEFORD JM        J HISTOCHEM CYTOCHEM            12   512 964
+   016   SHACKLEFORD JM        IN: DI SANTAGNESE PA                  51 966
+   017   SPICER SS             ANN NY ACAD SCI                106   379 963
+   018   SPICER SS             IN: DI SANTAGNESE PA                  26 966
+   019   TAMARIN A             ANN NY ACAD SCI                106   609 963
+   020   TAYLOR PW JR          J PHARMACOL EXP THER           156   483 967
+   021   WAGNER BM             AM J DIS CHILD                  99    61 960
+CT   1   MARTINEZ JR           J PHARMACOL EXP THER           194   384 975
+     2   THOMPSON FE           PEDIATR RES                     10   632 976
+     3   RENNERT OM            TEX REP BIOL MED                34   187 976
+     4   MARTINEZ JR           MO MED                          73   173 976
+     5   WOOD RE               AM REV RESPIR DIS              113   833 976
+     6   DISANTAGNESE PA       N ENGL J MED                   295   597 976
+     7   WOOD DL               PEDIATR RES                     11   827 977
+     8   DAVIS PB              PEDIATR RES                     12   703 978
+     9   PERLMUTTER J          PEDIATR RES                     12   188 978
+    10   FORSTNER JF           DIGESTION                       17   234 978
+    11   SIMSON JAV            LAB INVEST                      39   157 978
+    12   SIMSON JAV            J MICROSC                      113   185 978
+    13   DISANTAGNESE PA       MONOGR PAEDIATR                 10    66 979
+    14   MARTINEZ JR           PEDIATR RES                     13  1156 979
+    15   MAWHINNEY TP          PEDIATR RES                     13   760 979
+    16   QUISSELL DO           ARCH ORAL BIOL                  24   639 979
+    17   SORDELLI DO           LIFE SCI                        24  2003 979
+    18   SETSER ME             EXP MOL PATH                    31   413 979
+    19   MARTINEZ JR           EXPERIENTIA                     35  1343 979
+    20   SETSER ME             LAB INVEST                      41   256 979
+    21   LEE JA                ANN CLIN LAB SCI                10   227 980
+    22   BUCHWALD M            ADV CYCLIC NUCLEO RES           12   243 980
+    23   MAWHINNEY TP          PEDIATR RES                     14   872 980
+    24   MORTON D              PEDIATR RES                     14    18 980
+    25   ROSCHER AA            PEDIATR RES                     14   261 980
+    26   BYLUND DB             NATURE                         285   229 980
+    27   MCCURDY RE            PEDIATR RES                     15  1308 981
+    28   GALANT SP             J CLIN INVEST                   68   253 981
+    29   ROSCHER AA            J PHARMACOL EXP THER           216   419 981
+    30   FORSTNER J            AM J PHYSIOL                   241  G443 981
+    31   CUTLER LS             VIRCHOWS ARCH PATHOL ANAT HIS  392   185 981
+    32   ROOMANS GM            ULTRASTRUCTURAL PATHOL           3   285 982
+    33   SHIFFMAN ML           PEDIATR RES                     16   104 982
+    34   FORSTNER G            ADV EXP MED BIOL               144   199 982
+    35   JONES CJ              J PHYSIOL (LOND)               332  P 65 982
+    36   ROOMANS GM            SCANN ELECTRON MICROSC        1982   229 982
+    37   MARTINEZ JR           PEDIATR RES                     17   523 983
+    38   SHIFFMAN ML           PEDIATR RES                     17   486 983
+    39   DAVIS PB              J CHRON DIS                     36   269 983
+    40   WERLIN SL             EXP MOL PATH                    39    24 983
+    41   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983
+    42   ROOMANS GM            SCANN ELECTRON MICROSC        1983   697 983
+    43   BOYD RL               PEDIATR RES                     18  1028 984
+    44   MULLER RM             EXP MOL PATH                    40   391 984
+    45   MULLER RM             EXP MOL PATH                    41   363 984
+    46   SPICER SS             ENVIRON HEALTH PERSPECT         55   193 984
+    47   WATSON E              J DENT RES                      63    82 984
+    48   SATO K                J CLIN INVEST                   73  1763 984
+    49   BRADY RC              EXP CELL RES                   150   141 984
+    50   ROOMANS GM            ANN NY ACAD SCI                428   121 984
+    51   BARDON A              BIOCHEM MED                     33    99 985
+    52   MULLER RM             EXP MOL PATH                    43    97 985
+    53   MULLER RM             ACTA PHYSIOL SCAND             123   383 985
+    54   BRADY RC              AM J PHYSIOL                   248  G 54 985
+    55   MULLER RM             SCANN ELECTRON MICROSC        1985  1583 985
+    56   SMITH AC              CLIN GASTROENTEROL              15   815 986
+    57   DAVIS PB              HORM METAB RES                  18   217 986
+    58   HAZLETT D             PEDIATR RES                     20  1236 986
+    59   KLEIN RM              ARCH ORAL BIOL                  31   133 986
+    60   ROOMANS GM            SCANN ELECTRON MICROSC        1986   165 986

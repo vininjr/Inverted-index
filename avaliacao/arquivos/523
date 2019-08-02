@@ -1,0 +1,67 @@
+PN 76169
+RN 00523 
+AN 76221607
+AU Gahl-W-A.  Changus-J-E.  Pitot-H-C.
+TI The effect of spermidine and spermine on proliferation in vitro of
+   fibroblasts from normal and cystic fibrosis patients.
+SO Pediatr-Res. 1976 May. 10(5). P 531-5.
+MJ CELL-DIVISION: de.  CYSTIC-FIBROSIS: pa.  SPERMIDINE: pd.
+   SPERMINE:  pd.
+MN DEPRESSION-CHEMICAL.  FIBROBLASTS: cy, de, gd.  HUMAN.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB The effects of spermidine and spermine at varying concentrations upon
+   the replicative ability of human fibroblasts in cell culture have
+   been studied. The average concentrations of spermidine causing a 50%
+   inhibition of prolifertion (ID50) after 3 days of growth for three
+   normal cell strains and three strains derived from patients with
+   cystic fibrosis (CF) were 4.4 X 10(-6) +/- 1.2 M and 6.2 X 10(-6) +/-
+   2.1 M, respectively. The values for spermine were 2.0 X 10(-6) +/-
+   0.5 M for normal and 2.2 X 10(-6) +/- 0.1 M for fibroblasts from
+   cystic fibrosis patients. No significant difference between the
+   replicative ability of normal and CF cell strains was seen over a
+   wide range of polyamine concentrations employed for a period of up to
+   3 days.
+RF 001   ALARCON RA            ARCH BIOCHEM BIOPHYS           106   240 964
+   002   ALARCON RA            ARCH BIOCHEM BIOPHYS           137   365 970
+   003   ALARCON RA            J THEOR BIOL                    37   159 972
+   004   ALARCON RA            ARCH BIOCHEM BIOPHYS            94   540 961
+   005   NOUSIA-ARVANITAKIS S  PEDIATR RES                      7   336 973
+   006   BACHRACH U            BIOCHIM BIOPHYS ACTA           134   174 967
+   007   BLASCHKO H            J PHYSIOL (LOND)               145   124 959
+   009   COHEN SS              INTRODUCTION TO POLYAMINES               971
+   010   COHEN LF              PEDIATR RES                      9   312 975
+   011   DYKSTRA WG            SCIENCE                        149   428 965
+   012   GIBSON LE             PEDIATRICS                      23   545 959
+   013   GOLDSTEIN J           EXP CELL RES                    37   494 965
+   014   HAM RG                BIOCHEM BIOPHYS RES COMMUN      14    34 964
+   015   HAM RG                IN VITRO                        10   119 974
+   016   HERBST EJ             ANN NY ACAD SCI                171   691 970
+   017   HIGGINS ML            J CELL PHYSIOL                  74   149 969
+   018   HIRSCH JG             J EXP MED                       97   345 953
+   019   HIRSCH JG             J EXP MED                       95   191 952
+   020   JANNE J               ACTA PHYSIOL SCAND SUPPL 300           1 967
+   021   KIMES BW              BIOCHIM BIOPHYS ACTA           228   223 971
+   022   LOBECK CC             IN: STANBURY JB                     1605 972
+   023   LUNDGREN DW           CF CLUB ABST                    15     2 974
+   024   MAGER J               BIOCHIM BIOPHYS ACTA            36   529 959
+   025   MUNRO GF              CF CLUB ABST                    16     7 975
+   026   OTSUKA H              J CELL SCI                       9    71 971
+   027   POHJANPELTO P         EXP CELL RES                    80   137 973
+   028   POHJANPELTO P         NATURE NEW BIOL                235   247 972
+   030   RENNERT OM            IN: MANGOS JA                         41 973
+   031   ROZANSKY R            J GEN MICROBIOL                 10    11 954
+   032   RUSSELL DH            IN: RUSSELL DH                         1 973
+   033   RUSSELL DH            CANCER RES                      31   248 971
+   034   TABOR CW              J BIOL CHEM                    239  2194 964
+   035   TABOR CW              J BIOL CHEM                    208   645 954
+   036   TABOR H               PHARMACOL REV                   16   245 964
+CT   1   LIVINGSTON JN         J BIOL CHEM                    252   560 977
+     2   GAHL WA               CHEMBIOL INTERACT               22    91 978
+     3   GAHL WA               IN VITRO                        15   252 979
+     4   CLO C                 BIOCHEM J                      182   641 979
+     5   SEALE TW              ARCH BIOCHEM BIOPHYS           198   164 979
+     6   WEBBER MM             CELL BIOL INT REP                4   185 980
+     7   GAHL WA               PEDIATR RES                     14   118 980
+     8   SWANSON TL            IN VITRO                        16   761 980
+     9   JENSEN PKA            IN VITRO                        18   867 982
+    10   HENLE KJ              CANCER RES                      46   175 986

@@ -1,0 +1,52 @@
+PN 79180
+RN 01160 
+AN 79221589
+AU Hosli-P.  Kollberg-H.  Vogt-E.
+TI Operational definition of cystic fibrosis.  I.
+SO Monogr-Paediatr. 1979. 10. P 90-5.
+MJ CYSTIC-FIBROSIS: di.
+MN ANIMAL.  CYSTIC-FIBROSIS: en, fg, me.  FIBROBLASTS: me.
+   HETEROZYGOTE.  HOMOZYGOTE.  HUMAN.  HYDROLASES: me.  LYSOSOMES: en.
+EX Recently, one of us suggested a new hypothesis concerning the 'basic
+   defect' of cystic fibrosis.  The purpose of the present paper is to
+   review this model and to critically discuss its eventual diagnostic
+   applications.  With extensive studies, we collected experimental data
+   which contribute five major arguments in favour of the proposition
+   that CF may be an enzyme recognition site mutant.  With fibroblast
+   cultures the three genotypes can be separated in the following way:
+   CF homozygote, leaky for alkaline phosphatase (A1P) and lysosomal
+   hydrolases/A1P is Tamm-Horsfall glycoprotein (THP) inducible; CF
+   heterozygote, leaky for A1P and lysosomal hydrolases/A1P is not THP
+   inducible; normal control, not leaky for A1P and lysosomal
+   enzymes/A1P is not THP inducible.  With the exception of a second
+   double-blind study, the THP induction as well as the leakage analysis
+   seem to be statistically unequivocal: they strongly support our
+   hypothesis concerning the basic defect in CF.
+RF 001   HOSLI P               PROC INT CF CONG 7TH                 278 976
+   002   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      79   741 977
+   003   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      73   209 976
+   004   HOSLI P               HUM HERED                       27   185 977
+   005   WARD JB JR            TEX REP BIOL MED                34    11 976
+   006   RENNERT OM            GAP CONF REP TISS CULT APPR            1 977
+   007   HOSLI P               IN: MOTULSKY AG                      226 974
+   010   HOSLI P               ADV EXP MED BIOL                68     1 976
+   011   HOSLI P               CLIN CHEM                       23  1476 977
+   012   BOAT TF               IN: MANGOS JA                        165 976
+   013   HOSLI P               HUM GENET                       41   169 978
+   015   HICKMAN S             BIOCHEM BIOPHYS RES COMMUN      57    55 974
+   016   WIESMANN UN           N ENGL J MED                   284   109 971
+   017   SCANLIN TF JR         PROC INT CF CONG 7TH                  44 976
+   020   MANGOS JA             SCIENCE                        158   135 967
+   021   PALADE GE             INT SYMP ON LYSOSOMES ABST            36 972
+   022   PALADE GE             CF Q ANNOTATED REFERENCES       14    29 975
+   023   HOSLI P               TISSUE CULTIVATION ON PLASTIC            972
+CT   1   HOSLI P               LANCET                           2   543 979
+     2   DISANTAGNESE PA       MONOGR PAEDIATR                 10    66 979
+     3   HOSLI P               FEBS LETTERS                   104   271 979
+     4   TEGNER H              ACTA PAEDIATR SCAND             70   629 981
+     5   MALER T               J BIOL CHEM                    256  1420 981
+     6   CAREY WF              MED J AUST                       2   528 983
+     7   HEELEY AF             CLIN CHEM                       29  2011 983
+     8   CEDER O               ACTA PAEDIATR SCAND             72   291 983
+     9   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983
+    10   BUYS CHCM             CLIN CHIM ACTA                 136   229 984

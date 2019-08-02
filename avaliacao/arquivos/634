@@ -1,0 +1,96 @@
+PN 77052
+RN 00634 
+AN 77203751
+AU Hosli-P.
+TI Quantitative assays of enzyme activity in single cells: early
+   prenatal diagnosis of genetic disorders.
+SO Clin-Chem. 1977 Aug. 23(8). P 1476-84.
+MJ ALKALINE-PHOSPHATASE: bi.  METABOLISM-INBORN-ERRORS: di.
+   PRENATAL-DIAGNOSIS.
+MN AMNIOTIC-FLUID: cy.  CHROMOSOME-ABNORMALITIES: di.
+   CYSTIC-FIBROSIS: di.  ENZYME-INDUCTION.  FEMALE.
+   HISTOCYTOCHEMISTRY: is.  HUMAN. ISOENZYMES: an.  LYSOSOMES: en.
+   PREGNANCY.
+AB The combined use of special cell culture techniques and biochemical
+   ultramicromethods permits one to handle very small amounts of
+   materials, to reduce the costs of chemicals, and more accurately to
+   assess gene dosage effects by expressing enzyme activities per cell
+   instead of per total cell protein. An alkaline phosphatase induction
+   test has been developed which allows one to screen small numbers of
+   fibroblasts for lysosomal storage diseases, cystic fibrosis, and
+   chromosomal disorders. A successful attempt has been made to automate
+   the microtechniques. Combining the alkaline phosphatase induction
+   with the ultramicro automatization should eventually permit one to
+   screen all pregnancies for major possible fetal genetic defects.
+   Automated ultramicro enzyme assays should contribute to the general
+   development of clinical chemistry.
+RF 001   LEVY HL               ADV HUM GENET                    4     1 973
+   002   MILUNSKY A            PRENATAL DIAGNOSIS OF HEREDIT            973
+   003   HOSLI P               ANAT ANZ                       120   583 967
+   004   HOSLI P               TISSUE CULTIVATION ON PLASTIC            972
+   005   HOSLI P               BULL EUR SOC HUM GENET          32       972
+   006   HOSLI P               IN: SPERLING O                       811 974
+   007   HOSLI P               PRENATAL DIAGNOSIS NEWSLETTER    1    10 972
+   008   HOSLI P               IN: MOTULSKY AG                      226 974
+   009   HOSLI P               PROC INT CONG ASSOC SCI 3RD          354 974
+   010   HOSLI P               IN: VOLK BW                            1 976
+   011   LOWRY OH              FLEXIBLE SYSTEM OF ENZYMATIC             972
+   012   ROTMAN B              PROC NAT ACAD SCI USA           47  1981 961
+   013   WUDL L                SCIENCE                        184   992 974
+   014   DE BRUYN CHMM         BIOCHEM BIOPHYS RES COMMUN      68   483 976
+   015   NADLER HL             IN: BERGSMA D                         26 970
+   016   BROCK DJH             LANCET                           2   923 973
+   017   PAUL J                CELL AND TISSUE CULTURE                  970
+   018   UITENDAAL MP          ADV EXP MED BIOL               76A   597 977
+   019   GABRIEL A             FEBS LETTERS                    39   307 974
+   020   SAIFERT A             CLIN CHEM                       20   538 974
+   021   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      73   209 976
+   023   SCHRODER J            J MED GENET                     12   230 975
+CT   1   HOSLI P               BIOCHEM BIOPHYS RES COMMUN      79   741 977
+     2   UITENDAAL MP          BIOCHEM GENET                   16  1187 978
+     3   HOSLI P               CLIN CHEM                       24  1325 978
+     4   HOSLI P               HUM GENET                       41   169 978
+     5   HOSLI P               ACTA PAEDIATR SCAND             67   617 978
+     6   BAHR GF               ANAL QUANT CYTOL                 1     1 979
+     7   CAREY WF              MED J AUST                       2   604 979
+     8   JOLLY RD              AM J MED GENET                   4   293 979
+     9   HOSLI P               MONOGR PAEDIATR                 10    90 979
+    10   HOSLI P               EUR SURG RES                    11   205 979
+    11   KAISER E              CLIN BIOCHEM                    12   208 979
+    12   OKADA S               ACTA HISTOCHEM CYTOCHEM         12   193 979
+    13   SCOTT IV              CLIN BIOCHEM                    12   275 979
+    14   HOSLI P               CLIN GENET                      15   487 979
+    15   UITENDAAL MP          IN VITRO                        15   103 979
+    16   SANDHOFF K            HUM GENET                       50   107 979
+    17   CAREY WF              AUST J EXP BIOL MED SCI         57   225 979
+    18   GRAVEL RA             PROC NAT ACAD SCI USA           76  6520 979
+    19   OKADA S               CLIN CHIM ACTA                  96   281 979
+    20   BENZIE RJ             CAN MED ASSOC J                120   685 979
+    21   AVRAMEAS S            J IMMUNOL                      122   648 979
+    22   MALINBERDEL J         CYTOMETRY                        1   222 980
+    23   GALJAARD H            TRENDS BIOCHEM SCI               5   201 980
+    24   AITKEN DA             J MED GENET                     17   187 980
+    25   BUCHANAN PD           CLIN GENET                      18   177 980
+    26   SCHOONDERWALDT HC     CLIN GENET                      18   348 980
+    27   VANLAARHOVEN JPRM     J IMMUNOL METH                  39    47 980
+    28   GAUSSET P             CLIN EXP IMMUNOL                42   294 980
+    29   MARKOVIC O            PERIOD BIOL                     82   491 980
+    30   GLICK D               HISTOCHEM J                     13   227 981
+    31   GARDNER HA            OTOL CLIN NORTH AM              14    47 981
+    32   KATO T                ACTA HISTOCHEM CYTOCHEM         14   343 981
+    33   HARRIS A              CLIN GENET                      20   315 981
+    34   JAKEL HP              BIOL ZENTRALBL                 100   273 981
+    35   DEBERSAQUES J         BR J DERMATOL                  104   147 981
+    36   HOSLI P               EUR J PEDIATR                  137   116 981
+    37   STEPHENSON SR         AM J OBSTET GYNECOL            141   319 981
+    38   FIGARELLA C           EUR J CLIN INVEST               12   145 982
+    39   GALJAARD H            METH CELL BIOL                  26   241 982
+    40   GRAVEL RA             ANAL BIOCHEM                   119   360 982
+    41   CEDER O               SCANN ELECTRON MICROSC        1982   723 982
+    42   DEBRUYN CHMM          CLIN BIOCHEM                    16    38 983
+    43   BLUTHMANN H           DIFFERENTIATION                 24    65 983
+    44   JAKEL HP              BIOMED BIOCHIM ACTA             42  1123 983
+    45   GRAVEL RA             HUM GENET                       65   112 983
+    46   CEDER O               ACTA PAEDIATR SCAND             72   291 983
+    47   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983
+    48   LEOTARD B             CLIN CHEM                       32  1779 986

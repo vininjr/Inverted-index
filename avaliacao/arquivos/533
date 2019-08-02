@@ -1,0 +1,83 @@
+PN 76179
+RN 00533 
+AN 76197024
+AU Forstner-J-F.  Forstner-G-G.
+TI Effects of calcium on intestinal mucin: implications for cystic
+   fibrosis.
+SO Pediatr-Res. 1976 Jun. 10(6). P 609-13.
+MJ CALCIUM: pd.  CYSTIC-FIBROSIS: me.  INTESTINAL-SECRETIONS: de.
+   MUCINS: me.
+MN ANIMAL.  ELECTROPHORESIS-POLYACRYLAMIDE-GEL.  RATS.  SOLUBILITY.
+   ULTRACENTRIFUGATION.  VISCOSITY.
+AB A major feature of the disease cystic fibrosis is the excessive
+   concentration of mucus within ducts and glands of mucous-producing
+   organs. Some mucous secretions also show an elevation in calcium
+   concentration. Using purified rat intestinal goblet cell mucin as a
+   model mucin, we have investigated the effect of millimolar additions
+   (1-25 mM) of CaCl2 on the physical properties of the mucin.
+   Isotonicity of incubation media was preserved in order to mimic in
+   vivo conditions. CaCl2 (8-15mM) caused a 15-33% decrease in
+   viscosity, no change in electrophoretic mobility in acrylamide gels,
+   and a 20-30% decrease in solubility of the mucin. Solubility changes
+   were reversed by the addition of EDTA (20 mM) to incubations.
+   Insolubility was also produced in incubations of mucin with a mixture
+   of soluble intestinal contents (NaCl washings). These findings
+   strongly suggest that the mucin became smaller and more dense as
+   calcium was added, a process most probably achieved by loss of
+   intramolecular water.
+RF 001   ALLEN A               GUT                             13   666 972
+   002   BARTOLINI A           J MEMBR BIOL                    13   283 973
+   003   BELLA A JR            ARCH BIOCHEM BIOPHYS           150   679 972
+   004   BETTELHEIM FA         BIOCHIM BIOPHYS ACTA           236   702 971
+   005   BOAT TF               PEDIATR RES                      8   531 974
+   006   BUDDECKE E            IN: GOTTSCHALK A                         966
+   007   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   008   FORSTNER JF           BIOCHIM BIOPHYS ACTA           386   283 975
+   009   FORSTNER JF           CAN J BIOCHEM                   51  1154 973
+   010   FORSTNER JF           BIOCHEM J                      124   563 971
+   011   FORSTNER JF           J CELL SCI                      12   585 973
+   012   GIBSON LE             PEDIATRICS                      48   695 971
+   013   GUGLER EC             J PEDIATR                       71   585 967
+   014   JAKOWSKA S            CF AND RELATED HUMAN AND ANIM            970
+   015   JOOS RW               PROC SOC EXP BIOL MED          124  1268 967
+   016   NEGUS V               PROC R SOC MED                  60    75 967
+   017   PIGMAN W              ANN ANAT PATHOL                 17   227 972
+   018   ROBERTS GP            EUR J BIOCHEM                   50   265 974
+   019   ROUSSEL P             J BIOL CHEM                    250  2114 975
+   020   TAYLOR M              LARYNGOSCOPE                    84   612 974
+   021   WARNER RR             J CELL BIOL                     64    54 975
+   022   WARTON KL             BR MED J                         3   570 971
+CT   1   SANTAGNESE PAD        N ENGL J MED                   295   481 976
+     2   RAO GJS               PEDIATR RES                     11   981 977
+     3   WOOD DL               PEDIATR RES                     11   827 977
+     4   NEUTRA MR             LAB INVEST                      36   535 977
+     5   KATZ S                PEDIATR RES                     12  1033 978
+     6   ALHADEFF JA           CLIN GENET                      14   189 978
+     7   FORSTNER JF           DIGESTION                       17   234 978
+     8   KATZ S                RES COMMUN CHEM PATH PHARM      19   491 978
+     9   NAKAMURA J            CHEM PHARMACEUT BULL            26   857 978
+    10   NEUTRA MR             GASTROENTEROLOGY                75   701 978
+    11   LIST SJ               BIOCHEM J                      175   565 978
+    12   BOAT TF               ACS SYMPOSIUM SERIES          1978   108 978
+    13   MARRIOTT C            BIORHEOLOGY                     16   331 979
+    14   SHAPIRO BL            PROC NAT ACAD SCI USA           76  2979 979
+    15   SCANLIN TF            CLIN CHEST MED                   1   424 980
+    16   DAVIS PB              PEDIATR RES                     14    83 980
+    17   KATZ S                CLIN CHIM ACTA                 100   245 980
+    18   LAMONT JT             BIOCHIM BIOPHYS ACTA           629   553 980
+    19   HALLINAN F            MED HYPOTHESES                   7   793 981
+    20   HUTH SW               ARCH OPHTHALMOL                 99  1628 981
+    21   TABAK LA              J ORAL PATHOL                   11     1 982
+    22   MURAKAMI T            CHEM PHARMACEUT BULL            30   659 982
+    23   FORSTNER G            ADV EXP MED BIOL               144   199 982
+    24   MARRIOTT C            ADV EXP MED BIOL               144    89 982
+    25   ZENTLERMUNRO PL       BR MED J                       287   501 983
+    26   KATZ S                CELL CALC                        5   421 984
+    27   KARLSSON S            J MED GENET                     21   441 984
+    28   ALBAZZAZ FJ           RESPIRATION                     46    88 984
+    29   ALBAZZAZ FJ           J APPL PHYSIOL                  59  1191 985
+    30   MULLER RM             SCANN ELECTRON MICROSC        1985  1583 985
+    31   ALBAZZAZ FJ           CLIN CHEST MED                   7   259 986
+    32   SMITH AC              CLIN GASTROENTEROL              15   815 986
+    33   RUBINSTEIN S          PEDIATRICS                      78   473 986
+    34   FEIGAL RJ             ANN NY ACAD SCI                488    82 986

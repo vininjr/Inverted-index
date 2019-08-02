@@ -1,0 +1,72 @@
+PN 79225
+RN 01205 
+AN 80055663
+AU Romeo-G.  Parsons-M.  Bossen-A.  Blessing-Moore-J.
+   Cavalli-Sforza-L-L.
+TI Binding of 125I-labeled proteinases to plasma proteins in cystic
+   fibrosis.
+SO Pediatr-Res. 1979 Sep. 13(9). P 1030-6.
+MJ BLOOD-PROTEINS: me.  CYSTIC-FIBROSIS: bl.
+   PEPTIDE-PEPTIDOHYDROLASES: bl.  TRYPSIN: bl.
+MN ALPHA-MACROGLOBULINS: me.  ARGININE.
+   ELECTROPHORESIS-POLYACRYLAMIDE-GEL.  ESTERASES: bl.  HUMAN.  IGG: me.
+   IMMUNOELECTROPHORESIS.  IODINE-RADIOISOTOPES.  PROTEIN-BINDING.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB Samples of plasma or serum from 53 cystic fibrosis (CF) patients, 90
+   relatives of CF patients , and 159 controls have been incubated with
+   porcine or bovine 125I-trypsin, electrophoresed on polyacrylamide
+   gel, and autoradiographed. In these individuals, the main binding
+   protein for 125I-trypsin has been shown to be alpha 2-macroglobulin
+   (alpha 2M). Using this method of analysis, no difference in
+   electrophoretic migration of 125I-trypsin-alpha 2M complexes has been
+   observed between CF and control individuals. However, trypsin binding
+   to IgG has been observed in 80% of CF patients, 30% of their mothers,
+   3% of controls, and in two patients affected with pancreatitis. These
+   trypsin binding immunoglobulins are called TbIg, and specifically,
+   Tb1gG when referring to the G class. Experimental evidence indicates
+   that binding of trypsin to IgG occurs through the Fab portion of the
+   molecule. Tb1gG must be antibodies most probably induced by the
+   exogenous trypsin ingested daily by most CF patients (and by patients
+   affected with chronic pancreatitis). Antibodies against porcine
+   pancreatic elastase have been observed using the same analysis, but
+   not as frequently as Tb1g.
+RF 001   AARON R               IMMUNOCHEMISTRY                  3   451 966
+   002   BORGSTROM A           SCAND J CLIN LAB INVEST         36   809 976
+   003   CHAN KYH              CLIN CHIM ACTA                  74    71 977
+   004   DAIGER S              PROC NAT ACAD SCI USA           72  2076 975
+   005   DANES BS              J EXP MED                      137  1538 973
+   006   DEBANNE MT            BR J EXP PATHOL                 54   571 973
+   007   DOERSHUK CF           J PEDIATR                       65   677 964
+   008   DOLAN TF JR           AM REV RESPIR DIS              110   812 974
+   009   ELIAS E               LANCET                           2    66 977
+   010   ERICKSON RP           IMMUNOCHEMISTRY                 11    41 974
+   012   GIBBONS RA            BIOCHIM BIOPHYS ACTA           444     1 976
+   013   GOLDSMITH GH          J LAB CLIN MED                  89   131 977
+   014   HUNTER WM             NATURE                         194   495 962
+   015   KEIL B                IN: BOYER PD                     3   249 971
+   016   LAURELL CB            ANAL BIOCHEM                    10   358 965
+   017   LIEBERMAN J           AM REV RESPIR DIS              109   399 974
+   018   MURRAY MJ             ANN INTERN MED                  53   548 960
+   019   OHLSSON K             ACTA PHYSIOL SCAND              81   269 971
+   020   OUCHTERLONY O         IN: WEIR DM                              978
+   021   OWEN JA               NATURE                         182  1373 958
+   022   RAO GJS               PEDIATR RES                      8   684 974
+   023   ROMEO G               AM J HUM GENET                  29   92A 977
+   024   SCHROEDER DD          J BIOL CHEM                    243   294 968
+   025   SHAPIRA E             BIOCHEM BIOPHYS RES COMMUN      71   864 976
+   026   SHAPIRA E             PEDIATR RES                     10   812 976
+   027   STANWORTH DR          IN: WEIR DM                      6     1 978
+   028   STEIN AA              J PEDIATR                       65   495 964
+   029   TALAMO RC             PEDIATR RES                      6   430 972
+   030   TWAROG FJ             J ALLERGY CLIN IMMUNOL          59    35 977
+   031   WALSH-PLATT M         AM J HUM GENET                  29  111A 977
+   032   WILSON GB             PEDIATR RES                     10    87 976
+   033   YUNG BY               BIOCHEM BIOPHYS RES COMMUN      65   927 975
+CT   1   DENARO M              PEDIATR RES                     14  1086 980
+     2   ROMEO G               J LAB CLIN MED                  95   116 980
+     3   PARSONS M             CLIN CHIM ACTA                 100   215 980
+     4   THOMAS JM             CLIN CHIM ACTA                 111   199 981
+     5   COX KL                J PEDIATR GASTROENTEROL NUTR     1   345 982
+     6   ROBERTS RC            PEDIATR RES                     16   416 982
+     7   BRIDGES MA            ANN NY ACAD SCI                421   360 983
+     8   SHAPIRA E             ANN NY ACAD SCI                421   352 983

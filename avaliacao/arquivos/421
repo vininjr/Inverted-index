@@ -1,0 +1,90 @@
+PN 76066
+RN 00421 
+AN 76140667
+AU Lebenthal-E.  Antonowicz-I.  Shwachman-H.
+TI Enterokinase and trypsin activities in pancreatic insufficiency and
+   diseases of the small intestine.
+SO Gastroenterology. 1976 Apr. 70(4). P 508-12.
+MJ ENTEROPEPTIDASE: me.  INTESTINAL-DISEASES: en.
+   INTESTINAL-MUCOSA:  en.  INTESTINE-SMALL: en.
+   PANCREATIC-DISEASES: en.  PEPTIDE-PEPTIDOHYDROLASES: me.  TRYPSIN: me.
+MN CHILD.  CHILD-PRESCHOOL.  CYSTIC-FIBROSIS: en.  DIARRHEA: en.
+   DISACCHARIDASES: df.  FOOD-HYPERSENSITIVITY: en.
+   HYPOPROTEINEMIA:  en.  INFANT.  MALABSORPTION-SYNDROMES: en.
+   MILK-PROTEINS: ae.  STREPTOKINASE: df.  TRYPSIN: df.
+AB The interrelationship of enterokinase and trypsin activities were
+   investigated in 133 infants and children with a variety of
+   gastrointestinal and pancreatic disorders. Fourteen patients with
+   diarrhea and grade II mucosal injury revealed a significant (P less
+   than 0.01) reduction of enterokinase, trypsin, and disaccharidase
+   activites as compared to 59 children with normal mucosa. Nine
+   patients with cystic fibrosis and pancreatic insufficiency had normal
+   mucosal enterokinase activity and elevated intraluminal enterokinase
+   activity with very low or no trypsin activity. Patients with
+   hypoproteinemia and gastrointestinal protein loss, associated with
+   intestinal lymphangiectasia (4 patients) and intestinal lymphoid
+   nodular hyperplasia (3 patients), had normal or insignificant
+   decrease of enterokinase and trypsin activities. In patients with
+   steatorrhea, a normal sweat test, normal intestinal mucosa, and
+   absent trypsin activity, two entities were defined. One group (3
+   patients) was diagnosed as Schwachman-Diamond syndrome with
+   pancreatic insufficiency and normal mucosal and intraluminal
+   enterokinase activity. The second group (2 patients) with absent
+   mucosal and intraluminal enterokinase activity and normal lipase and
+   amylase activities was diagnosed as congenital enterokinase
+   deficiency.
+RF 001   KUNITZ M              J GEN PHYSIOL                   22   429 939
+   002   MAROUX S              J BIOL CHEM                    246  5031 971
+   003   NORDSTROM C           BIOCHIM BIOPHYS ACTA           242   209 971
+   004   HADORN B              LANCET                           1   812 969
+   005   TARLOW MJ             ARCH DIS CHILD                  45   651 970
+   006   HADORN B              SWED NUTR FOUND SYMP 11              107 973
+   007   NIESSEN KH            KINDERHEILK                    121    49 973
+   008   RUTGEERSTS L          TIJDSCHR GASTROENTEROL          15   379 972
+   009   LEBENTHAL E           PEDIATRICS                      56   585 975
+   010   HADORN B              GASTROENTEROLOGY                66   548 974
+   011   WOODLEY JF            GUT                             13   900 972
+   012   GOLDMAN AS            PEDIATRICS                      32   425 963
+   013   WALDMANN TA           GASTROENTEROLOGY                50   422 966
+   014   ANTONOWICZ I          PEDIATRICS                      49   847 972
+   015   SHWACHMAN H           J PEDIATR                       65   645 964
+   016   TOWNLEY RRW           PEDIATRICS                      36   911 965
+   017   DAHLQVIST A           ANAL BIOCHEM                     7    18 964
+   018   LOWRY OH              J BIOL CHEM                    193   265 951
+   019   EGGSTEIN M            KLIN WOCHENSCHR                 33   879 955
+   020   EGGERMONT E           ACTA GASTROENTEROL BELG         34   655 971
+   021   NORDSTROM C           LANCET                           1   933 972
+   022   TAKANO K              OKAJIMAS FOLIA ANAT JPN         48    15 971
+CT   1   LEBENTHAL E           CLIN GASTROENTEROL               6   397 977
+     2   LEBENTHAL E           PEDIATR RES                     11   282 977
+     3   HERMONTAYLOR J        GUT                             18   259 977
+     4   MORIN CL              PEDIATRICS                      60   114 977
+     5   ANTONOWICZ I          GASTROENTEROLOGY                72  1299 977
+     6   RINDERKNECHT H        AM J DIG DIS                    23   327 978
+     7   FREEMAN HJ            ANNU REV MED                    29    99 978
+     8   KWONG WKL             GASTROENTEROLOGY                74  1277 978
+     9   THEIL KW              J AM VET MED ASSOC             173   548 978
+    10   SCHMIDT E             CLIN BIOCHEM                    12   247 979
+    11   SCHMIDT E             J CLIN CHEM CLIN BIOCHEM        17   693 979
+    12   TSAGIKYAN TA          VOPR MED KHIM                   25   161 979
+    13   BERG NO               ACTA PAEDIATR SCAND             68   275 979
+    14   HATCH TF              J NUTR                         109  1874 979
+    15   HERMAN RH             WEST J MED                     130    95 979
+    16   BURKE V               J MED MICROBIOL                 13   103 980
+    17   DOCKTER G             MONATSSCHR KINDERHEILKD        128   732 980
+    18   NIESSEN KH            MONATSSCHR KINDERHEILKD        128   301 980
+    19   LENTZE MJ             LANCET                           2   504 982
+    20   STAFFORD RJ           CLIN GASTROENTEROL              11   141 982
+    21   LEBENTHAL E           DIGESTION                       23    39 982
+    22   LENTZE MJ             J PEDIATR GASTROENTEROL NUTR     2  S252 983
+    23   BOSSMANN B            J CLIN CHEM CLIN BIOCHEM        21     1 983
+    24   LOJDA Z               HISTOCHEMISTRY                  78   251 983
+    25   GHISHAN FK            GASTROENTEROLOGY                85   727 983
+    26   GREEN JR              J PEDIATR GASTROENTEROL NUTR     3   630 984
+    27   KAI H                 J PEDIATR GASTROENTEROL NUTR     3   328 984
+    28   HJELM M               CLIN BIOCHEM                    17   284 984
+    29   BOSSMANN B            ACTA HISTOCHEM                  74   217 984
+    30   MANN NS               GASTROENTEROLOGY                86   384 984
+    31   DOCKTER G             MONATSSCHR KINDERHEILKD        132   589 984
+    32   CALVIN RT             J PEDIATR GASTROENTEROL NUTR     4   949 985
+    33   NEWMAN BM             AM J PHYSIOL                   250  G103 986

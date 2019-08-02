@@ -1,0 +1,112 @@
+PN 78181
+RN 00961 
+AN 78225004
+AU Davis-P-B.  Braunstein-M.  Jay-C.
+TI Decreased adenosine 3':5'-monophosphate response to isoproterenol in
+   cystic fibrosis leukocytes.
+SO Pediatr-Res. 1978 Jun. 12(6). P 703-7.
+MJ ADENOSINE-CYCLIC-MONOPHOSPHATE: bl.  CYSTIC-FIBROSIS: bl.
+   ISOPROTERENOL: pd.  LEUKOCYTES: me.
+MN ADOLESCENCE.  ADULT.  ANTIBIOTICS.  CYSTIC-FIBROSIS: fg.  DIGOXIN.
+   FEMALE.  GRANULOCYTES: me.  HETEROZYGOTE.  HOMOZYGOTE.  HUMAN.
+   LEUKOCYTES: de.  MALE.  MIDDLE-AGE.  PANCREATIC-EXTRACTS.
+   PROSTAGLANDINS-E: pd.  RECEPTORS-ADRENERGIC-BETA: ph.
+AB Leukocyte preparations from cystic fibrosis (CF) patients produced
+   markedly less adenosine 3':5'-monophosphate (cAMP) in response to
+   isoproterenol than normal cells.  Both stimulation ratio and net
+   isoproterenol-stimulated accumulation of cAMP were significantly (P
+   < 0.001) lower in mixed leukocyte preparations from 20 CF patients
+   (29 trials) compared to 21 normal subjects (49 trials).  There was
+   no significant correlation of results with clinical score, and no
+   differences in the CF group attributable to medications or presence
+   of pancreatic insufficiency.  CF heterozygotes had mean stimulation
+   ratio and mean net isoproterenol-stimulated cAMP intermediate
+   betweem normal and CF.  There were no statistically significant
+   differences among normal subjects, CF patients, and CF heterozygotes
+   in basal cAMP or prostaglandin E1-stimulated cAMP.  Purified
+   mononuclear cells from five normal persons and seven CF homozygotes
+   had the same basal and prostaglandin E1-stimulated cAMP, but
+   isoproterenol-stimulated cAMP was markedly depressed (P < 0.01) in
+   the CF cells.  Granulocytes from six normal persons and nine CF
+   patients also had the same basal and prostaglandin E1-stimulated
+   cAMP, but isoproterenol-stimulated cAMP was decreased (P < 0.05) in
+   the CF samples.  These results clearly demonstrate a difference
+   between normal and CF leukocytes in cAMP response to beta-adrenergic
+   stimulation.  The diminised cAMP response to beta-adrenergic
+   stimulation in CF is probably related to the presence of a CF gene,
+   and may interact with other genetic abnormalities to produce the
+   clinical syndrome of CF.
+RF 001   ATKINSON JP           J CYCLIC NUCLEOTIDES RES         2   297 976
+   002   BOLANDE RP            ARCH PATHOL                     95   172 973
+   003   BOURNE HR             J PHARMACOL EXP THER           178     1 971
+   004   BOYD EM               CAN MED ASSOC J                 82   821 960
+   005   BOYUM A               SCAND J CLIN LAB INVEST SUPPL   97    77 968
+   006   BRAUNSTEIN M          CF CLUB ABST                          28 975
+   007   BROWN BL              ADV CYCLIC NUCLEO RES            2    25 972
+   008   BUCHWALD M            PROC NAT ACAD SCI USA           73  2899 976
+   009   BUSSE WW              J ALLERGY CLIN IMMUNOL          58   586 976
+   010   CAMPBELL IM           PEDIATRICS                      57   480 976
+   011   CHERNICK WS           MOD PROBL PEDIATR               10   125 967
+   012   CHERNICK WS           J PEDIATR                       59   890 961
+   013   CONOLLY ME            J CLIN INVEST                   58  1307 976
+   015   DAVIS PB              FED PROC                        36   409 977
+   016   DIEM K                DOCUMENTA GEIGY SCIENTIFIC TA        156 970
+   017   DI SANTAGNESE PA      N ENGL J MED                   295   481 976
+   018   ENGELHARD VH          PROC NAT ACAD SCI USA           73  4482 976
+   019   FARBER S              AM J DIS CHILD                  64   953 942
+   021   LEFKOWITZ RJ          N ENGL J MED                   295   323 976
+   022   MANGOS JA             IN: LAWSON D PROC 5TH INT CF          25 969
+   023   MARTINEZ JR           PEDIATR RES                      9   463 975
+   024   MARTINEZ JR           PEDIATR RES                      9   470 975
+   025   MCEVOY FA             LANCET                           2   236 975
+   026   MICKEY J              J BIOL CHEM                    250  5727 975
+   027   MURAD F               J CLIN ENDOCRINOL METAB         40   552 975
+   028   PARKER DW             J CLIN INVEST                   52    48 973
+   029   PATEL KR              CLIN ALLERGY                     4   311 974
+   030   RUBIN LS              PEDIATRICS                      38   865 966
+   031   SCHAAP T              IN: MANGOS JA                        291 976
+   032   SIMOPOULOS AP         PEDIATR RES                      6   355 972
+   033   SNIDER DE             J CLIN INVEST                   58   524 976
+   034   STURGESS JM           BR J EXP PATHOL                 54   388 973
+   035   TALLMAN JF            PROC NAT ACAD SCI USA           74   873 977
+   036   TAUSSIG LM            J PEDIATR                       82   380 973
+   037   THOMPSON FE           PEDIATR RES                     10   632 976
+   038   WILLIAMS LT           J CLIN INVEST                   57   149 976
+   039   WRIGHT R              PEDIATR RES                     10   373 976
+   040   ZENSER TV             J BIOL CHEM                    251  7431 976
+CT   1   BANSCHBACH MW         BIOCHEM BIOPHYS RES COMMUN      84   922 978
+     2   DISANTAGNESE PA       MONOGR PAEDIATR                 10    66 979
+     3   LAKE CR               CLIN CHIM ACTA                  92   141 979
+     4   DAVIS PB              IRCS MED SCI BIOCHEM             8   413 980
+     5   AURBACH GD            ADV CYCLIC NUCLEO RES           12     1 980
+     6   BUCHWALD M            ADV CYCLIC NUCLEO RES           12   243 980
+     7   DAVIS PB              PEDIATR RES                     14    83 980
+     8   DAVIS PB              PEDIATR RES                     14   863 980
+     9   ROSCHER AA            PEDIATR RES                     14   261 980
+    10   AITKEN DA             J MED GENET                     17   187 980
+    11   DAVIS PB              J LAB CLIN MED                  96    75 980
+    12   LEMANSKE RF           AM REV RESPIR DIS              122   213 980
+    13   DAVIS PB              N ENGL J MED                   302  1453 980
+    14   MARKOVAC J            BIOCHEM MED                     26   299 981
+    15   JOHNSON DL            RES COMMUN CHEM PATH PHARM      32   377 981
+    16   GALANT SP             J CLIN INVEST                   68   253 981
+    17   LEMANSKE RF           AM REV RESPIR DIS              123   622 981
+    18   BYLUND DB             J PHARMACOL EXP THER           218   134 981
+    19   FRASER CM             N ENGL J MED                   305  1165 981
+    20   ROAN Y                PEDIATR RES                     16   591 982
+    21   MOTULSKY HJ           N ENGL J MED                   307    18 982
+    22   ZAMMARCHI E           RIV ITAL PEDIATR                 9   505 983
+    23   DAVIS PB              J CHRON DIS                     36   269 983
+    24   DAVIS PB              J CLIN INVEST                   71  1787 983
+    25   CABRINI G             RIV ITAL PEDIATR                10   405 984
+    26   STESSMAN J            J GERONTOL                      39   667 984
+    27   SATO K                J CLIN INVEST                   73  1763 984
+    28   EBSTEIN RP            ISR J MED SCI                   21   302 985
+    29   MITCHELL EA           AUST PAEDIATR J                 21   127 985
+    30   ERICKSON RP           AM J HUM GENET                  37   124 985
+    31   KOPELMAN H            N ENGL J MED                   312   329 985
+    32   DAVIS PB              HORM METAB RES                  18   217 986
+    33   DAVIS PB              PEDIATR RES                     20  1290 986
+    34   BOUCHER RC            J CLIN INVEST                   78  1245 986
+    35   SCHONI MH             EUR J PEDIATR                  145    80 986
+    36   SPAIDE RF             AM J OPHTHALMOL                103   204 987

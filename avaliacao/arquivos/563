@@ -1,0 +1,91 @@
+PN 76210
+RN 00563 
+AN 77060024
+AU Arvanitakis-S.  Mangos-J.  Mcsherry-N-R.  Rennert-O.
+TI Effect of polyamines and cystic fibrosis serum on glucose transport.
+SO Tex-Rep-Biol-Med. 1976. 34(1). P 175-86.
+MJ CYSTIC-FIBROSIS: bl.  GLUCOSE: me.  POLYAMINES: pd.
+MN ADULT.  ANIMAL.  CHILD.  EPITHELIUM: me.  FEMALE.  HETEROZYGOTE.
+   HOMOZYGOTE.  HUMAN.  IN-VITRO.  JEJUNUM: me.  MALE.  RATS.
+   SPERMIDINE: pd.
+AB The effect of plasma or serum from homozygotes and heterozygotes for
+   the cystic fibrosis (CF) gene on the active uptake of 3-0-14C-methyl-
+   D-glucose (3-0-14C-MDG) by rat jejunal epithelium was studied.
+   Furthermore, the role of the polyamine, spermidine, and its products
+   of metabolic degradation on glucose transport were investigated, and
+   a relationship to the pathogenesis of membrane dysfunction in cystic
+   fibrosis was postulated. Glucose transport in everted rat jejunal
+   rings was used in the study. Results were expressed as 3-0-14C-MDG
+   concentration ratio between the intracellular (ICF) and the
+   extracellular fluid spaces (ECF) of the jejunal rings at the end of a
+   60 min incubation period. The mean ratio obtained from incubations of
+   the rat jejunal rings in medium consisting of Krebs-Ringer-
+   bicarbonate buffer and the labeled sugar was considered as 100%
+   uptake. When plasma or serum, with or without spermidine, was mixed
+   with the medium in a volume ratio of 1:3, a decrease in the active
+   uptake of 3-0-14C-MDG was observed, expressed as percent inhibition.
+   Percent inhibition of 3-0-14C-MDG uptake obtained when the rat
+   jejunal rings were incubated in normal plasma was compared to that
+   obtained with plasma from cystic fibrosis genotypes. It was found
+   that: 1) plasma from 25 homozygous children had greater inhibitory
+   effect on glucose uptake than plasma from 26 normal children; 2)
+   plasma from 9 heterozygous women had greater inhibitory effect than
+   that from 6 normal women; 3) the inhibitory effect of plasma from 3
+   homozygous children was not influenced by dialysis; 4) the inhibitory
+   effects of paired plasma and serum samples from 9 homozygotes were
+   comparable; 5) spermidine added to the incubating electrolyte
+   solution did not affect glucose transport; 6) the addition of
+   spermidine to reaction mixtures containing normal plasma potentiated
+   the inhibitory effect; and 7) mixing and incubation of fresh bovine
+   serum with reaction mixtures containing plasma from homozygotes
+   decreased the inhibitory effect. The predominant inhibitory effect of
+   plasma or serum from homozygotes and heterozygotes for the CF gene
+   appears to be related to a nondialyzeable molecule(s). It does not
+   seem to reflect the presence of high plasma glucose levels in cystic
+   fibrosis nor to be the result of competitive inhibition between
+   sugars. It does not seem to be the result of sodium or other
+   electrolyte differences. A similar inhibitory effect is acquired by
+   normal plasma after the addition of spermidine. On the other hand,
+   plasma from CF homozygotes loses its inhibitory effect after
+   incubation with fresh bovine serum. These findings may indicate that
+   products of metabolic degradation of spermidine are responsible for
+   the inhibitory effect of glucose transport and suggest the
+   possibility of a role in abnormal polyamine metabolism in the
+   pathogenesis of cystic fibrosis.
+RF 001   BACHRACH U            J GEN VIROL                     13   415 971
+   002   BOWMAN BH             SCIENCE                        164   325 969
+   003   BOWMAN BH             SCIENCE                        167   871 970
+   004   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973
+   005   BREMER HJ             CLIN CHIM ACTA                  32   407 971
+   006   BROWN GA              LANCET                           2   639 971
+   007   CRANE RK              ABSORPTION OF SUGARS HANDBOOK    3       968
+   008   DESJEUX JF            EUROPEAN SOC PEDIAT RES MTG              970
+   009   MCEWEN C              J BIOL CHEM                    240  2003 965
+   010   FITZPATRICK DF        NATURE NEW BIOL                235   173 972
+   011   HORTON CR             BIOCHEM BIOPHYS RES COMMUN      40   505 970
+   012   KAISER D              PEDIATR RES                      5   167 971
+   013   KIMES BW              BIOCHIM BIOPHYS ACTA           228   223 971
+   014   KREMZNER LT           BIOCHEM PHARMACOL               19  2541 970
+   015   LOWRY OH              J BIOL CHEM                    193   265 951
+   016   MANGOS JA             SCIENCE                        158   135 967
+   017   MANGOS JA             PEDIATR RES                      1   436 967
+   018   MANGOS JA             PEDIATR RES                      2   378 968
+   019   OLSEN WA              J CLIN INVEST                   49    96 970
+   020   PEGG AE               BIOCHIM BIOPHYS ACTA           232   630 971
+   021   RAO GJS               J PEDIATR                       80   573 972
+   022   RAO GJS               SCIENCE                        177   610 972
+   023   RAINA A               PROC NAT ACAD SCI USA           55  1587 966
+   024   RENNERT OM            CLIN PEDIATR                    11   351 972
+   025   SCHMOYER IR           BIOCHEM BIOPHYS RES COMMUN      46  1923 972
+   026   SPOCK A               PEDIATR RES                      1   173 967
+   027   TABOR H               PHARMACOL REV                   16   245 964
+   028   TABOR CW              J BIOL CHEM                    239  2194 964
+   029   WALTER V              CLIN RES                        19   204 971
+CT   1   BOWMAN BH             TEX REP BIOL MED                34     1 976
+     2   WRIGHT RK             PEDIATR RES                     12   830 978
+     3   WILL PC               PEDIATR RES                     13  1129 979
+     4   THEOHARIDES TC        LIFE SCI                        27   703 980
+     5   SHIPE JR              CRC CRIT REV CLIN LAB SCI       16     1 981
+     6   KIMBERLY MM           ANAL CHEM                       53   789 981
+     7   SCALABRINO G          ADV CANCER RES                  36     1 982
+     8   GENEDANI S            LIFE SCI                        38  1293 986

@@ -1,0 +1,63 @@
+PN 79090
+RN 01070 
+AN 80024183
+AU Walsh-Platt-M.  Rao-G-J.  Nadler-H-L.
+TI Protease deficiency in plasma of patients with cystic fibrosis.
+   Reduced reaction of 4-methylumbelliferylguanidinobenzoate with
+   plasma of patients with cystic fibrosis.
+SO Enzyme. 1979. 24(4). P 224-9.
+MJ CYSTIC-FIBROSIS: en.  HYMECROMONE: bl.  PEPTIDE-HYDROLASES: df.
+   UMBELLIFERONES: bl.
+MN BENZAMIDINES: pd.  CHILD.  GUANIDINES: bl, me.  HUMAN.
+   HYMECROMONE: aa, me.  PEPTIDE-HYDROLASES: bl.  TRYPSIN-INHIBITORS: me.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB Protease activity in plasma is assayed using 4-
+   methylumbelliferylguanidinobenzoate. The assay is modified by
+   carrying out the reaction in the presence and absence of benzamidine,
+   a competitive inhibitor of trypsin-like proteases. The parameters of
+   the assay are described in detail. Using this assay, our earlier
+   demonstration of a deficiency of protease activity in plasma of
+   patients with cystic fibrosis is confirmed. The activity, corrected
+   for the nonspecific hydrolysis of 4-
+   methylumbelliferylguanidinobenzoate by benzamidine, is expressed as
+   nanomoles of 4-methylumbelliferone released per milliliter plasma.
+   Under standard conditions, the activity in plasma activated with
+   chloroform-ellagic acid was 127.2 +/- 23.1 in 7 controls, 70.4 +/-
+   11.7 in 11 obligate heterozygotes, and 48.7 +/- 16.6 in 12 patients
+   with cystic fibrosis. Identical results were obtained when
+   unactivated plasma was used. These data demonstrate that the
+   judicious use of specific inhibitors such as benzamidine might be
+   useful in assaying low levels of protease activity in crude systems.
+RF 001   ARMITAGE P            STATISTICAL METHODS IN MEDICA            971
+   002   BENDER ML             J AM CHEM SOC                   88  5890 966
+   003   CHASE T JR            BIOCHEMISTRY                     8  2212 969
+   004   JAMESON GW            BIOCHEM J                      131   107 973
+   005   RAO GJS               J PEDIATR                       80   573 972
+   006   RAO GJS               PEDIATR RES                      8   684 974
+   007   RAO GJS               PEDIATR RES                      9   739 975
+   008   RAO GJS               SCIENCE                        177   610 972
+   009   RAO GJS               ENZYME                          23   314 978
+   010   WALSH-PLATT M         AM J HUM GENET                  29  111A 977
+   011   WALSH-PLATT M         PEDIATR RES                     12   874 978
+   012   WALSH-PLATT M         LANCET                           1   622 979
+   013   WALSH-PLATT M         PEDIATR RES                     12   874 978
+CT   1   NADLER HL             LANCET                           2    96 980
+     2   NADLER HL             PEDIATRICS                      66   690 980
+     3   WALSH MMJ             AM J OBSTET GYNECOL            137   978 980
+     4   SCHIOTZ PO            ACTA PATH MICROBIOL SCAND (C) S276     1 981
+     5   SCHWARTZ M            LANCET                           2  1226 981
+     6   BRANCHINI BR          LANCET                           1   618 982
+     7   CAREY WF              MED J AUST                       2   314 982
+     8   BURY AF               PEDIATR RES                     16   613 982
+     9   SCHWARTZ M            CLIN CHIM ACTA                 124   213 982
+    10   TUMMLER B             CLIN CHIM ACTA                 125   219 982
+    11   GREEN JR              EUR J PEDIATR                  139    35 982
+    12   CAREY WF              MED J AUST                       2   528 983
+    13   BROCK DJH             PRENAT DIAGN                     3     1 983
+    14   POENARU L             PRENAT DIAGN                     3   169 983
+    15   BRANCHINI BR          PEDIATR RES                     17   850 983
+    16   HEELEY AF             CLIN CHEM                       29  2011 983
+    17   BRIDGES MA            ANN NY ACAD SCI                421   360 983
+    18   CEDER O               ACTA PAEDIATR SCAND SUPPL 309 1983     1 983
+    19   ANON                  LANCET                           2   249 985
+    20   QURESHI AR            J PEDIATR                      106   913 985

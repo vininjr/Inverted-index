@@ -1,0 +1,86 @@
+PN 76178
+RN 00532 
+AN 76101886
+AU Farrell-P-M.  Fox-G-N.  Spicer-S-S.
+TI Determination and characterization of ciliary ATPase in the presence
+   of serum from cystic fibrosis patients.
+SO Pediatr-Res. 1976 Feb. 10(2). P 127-35.
+MJ ADENOSINE-TRIPHOSPHATE: me.  CILIA: en.  CYSTIC-FIBROSIS: en.
+   EPITHELIUM: en.  EPITHELIUM: cy.
+MN ADENOSINE-TRIPHOSPHATASE: me.  ANIMAL.  CHROMATOGRAPHY: mt.
+   CYSTIC-FIBROSIS: bl.  ELECTROLYTES: pd.  HUMAN.  HYDROLYSIS.
+   IN-VITRO.  MICROSCOPY-ELECTRON.  OYSTERS: an.  RABBITS.
+AB The purpose of this investigation was twofold: (1) to identify and
+   characterize the enzymatic ATP hydrolysis system of epithelial cilia,
+   and (2) to develop a quantitative, biochemical test for the
+   ciliotoxic cystic fibrosis (CF) factor based on inhibition of ATP
+   utilization by ciliary preparations. Our rationale for selecting this
+   system for CF factor analysis relates to the tight and essential
+   mechanochemical coupling of functioning cilia. Using rabbit tracheal
+   epithelium as the source, a high molecular weight (greater than
+   200,000) ATPase was identified, partially purified, and extensively
+   characterized. The properties of this protein were similar to those
+   observed in previous studies of others with flagellar and ciliary
+   dynein (the motility-associated ATPase) isolated from microorganisms.
+   Analysis of the pH profile revealed a broad range of high enzymatic
+   activity between 6.5 and 9. Studies with potential cation activators
+   showed that the enzyme is activated equally by either Ca2+ or Mg2+ in
+   equimolar concentrations. No activation occurred in the presence of
+   Zn2+, Na+, H+, or Na+ plus K+ and the effect of Mg2+ or Ca2+ was not
+   inhibited by Na+, K+, or Na+ plus K+. The enzyme hydrolyzed Mg2+-
+   containing solutions of UTP, CTP, and ADP at 51-54% the rate of ATP
+   dephosphorylation, whereas Mg-deoxy-ATP was hydrolyzed 79% as
+   effectively as ATP. Using a newly devised, analytical technique with
+   [gamma-32P]ATP as the substrate, the ATP hydrolysis of various
+   ciliary preparations from rabbit trachea and oyster gill (including
+   motile suspensions) was monitored in the presence of sera from CF
+   homo- and heterozygotes. Reproducible rates of ATP dephosphorylation
+   averaging 27 nmol/min/mg protein were demonstrable with homogenates
+   of ciliated epithelium. None of the test systems evaluated, however,
+   were capable of demonstrating CF-related differences in ATPase
+   activity or ATP utilization. Although these attemps have been
+   unsuccessful thus far, the approach described in this report provides
+   an example of an objective, quantitative, biochemical assessment of
+   ciliary function.
+RF 001   AIELLO EL             PHYSIOL ZOOL                    23   120 960
+   002   BARGMAN GJ            PEDIATR RES                      8   464 974
+   003   BESLEY GTN            J MED GENET                      6   278 969
+   004   BOWMAN BH             PROC NAT ACAD SCI USA           70   548 973
+   005   BOWMAN BH             SCIENCE                        164   325 969
+   006   BROKAW CJ             SCIENCE                        156    76 967
+   007   BROKAW CJ             ARCH BIOCHEM BIOPHYS           125   770 968
+   008   BROKAW CJ             ARCH BIOCHEM BIOPHYS           142    91 971
+   009   CHERRY JD             J PEDIATR                       79   937 971
+   010   CHEUNG ATW            CF CLUB ABST                    14    28 973
+   011   COLE CH               PEDIATR RES                      6   616 972
+   012   CONOVER JH            PEDIATR RES                      7   220 973
+   013   CONOVER JH            PEDIATR RES                      7   224 973
+   014   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+   015   ECKERT R              SCIENCE                        176   473 972
+   016   EISENBERG E           J BIOL CHEM                    245  2451 970
+   017   FAIRBANKS G           BIOCHEMISTRY                    10  2606 971
+   018   FISKE CH              J BIOL CHEM                     66   375 925
+   019   GRAY J                PROC R SOC LOND BIOL            96    95 924
+   020   GIBBONS IR            J BIOL CHEM                    241  5500 966
+   021   GIBBONS IR            J CELL BIOL                     54   365 972
+   022   GIBBONS BH            J CELL BIOL                     54    75 972
+   023   HORTON CR             BIOCHEM BIOPHYS RES COMMUN      40   505 970
+   024   KINOSITA H            PHYSIOL REV                     47    53 967
+   025   LOWRY OH              J BIOL CHEM                    193   265 951
+   026   MANGOS JA             PEDIATR RES                      1   436 967
+   027   MANGOS JA             GAP CONF REP CILIARY INHIBITO          2 973
+   028   POSSELT HG            Z KINDERHEILK                  110    93 971
+   029   SKOU JC               PHYSIOL REV                     45   596 965
+   030   SPOCK A               PEDIATR RES                      1   173 967
+   031   TAYLOR A              PEDIATR RES                      8   861 974
+   032   WARNER FD             ADV CELL MOL BIOL                2   193 972
+   033   WACHSTEIN M           J HISTOCHEM CYTOCHEM             8   387 960
+   034   WATANABE T            BIOCHEM BIOPHYS RES COMMUN      52   195 973
+   035   WETZEL MG             J CELL BIOL                     30   299 966
+   036   WOOD RE               LANCET                           2  1452 973
+CT   1   MARTINEZ JR           MO MED                          73   173 976
+     2   WOOD RE               AM REV RESPIR DIS              113   833 976
+     3   DISANTAGNESE PA       N ENGL J MED                   295   534 976
+     4   BOGART BI             PEDIATR RES                     12    15 978
+     5   KURLANDSKY LE         PEDIATR RES                     14  1263 980
+     6   MALER T               BIOCHIM BIOPHYS ACTA           598     1 980

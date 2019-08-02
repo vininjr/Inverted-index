@@ -1,0 +1,107 @@
+PN 77090
+RN 00671 
+AN 77248610
+AU Ten-Kate-L-P.
+TI Cystic fibrosis in the Netherlands.
+SO Int-J-Epidemiol. 1977 Mar. 6(1). P 23-34.
+MJ CYSTIC-FIBROSIS: oc.
+MN ADOLESCENCE.  AGE-FACTORS.  CAUCASOID-RACE.  CHILD.  CHILD-PRESCHOOL.
+   CYSTIC-FIBROSIS: mo.  HUMAN.  INFANT.  INFANT-NEWBORN.
+   INTESTINAL-OBSTRUCTION: oc.  NETHERLANDS.  RETROSPECTIVE-STUDIES.
+   SAMPLING-STUDIES.  SEASONS.  SEX-FACTORS.
+AB In the Netherlands a retrospective study of the prevalence of cystic
+   fibrosis (CF) at birth has been performed by means of an inquiry set
+   up among 815 medical specialists (paediatricians, lung specialists
+   and pathologists) and by analysis of hospital admission data, death
+   certificates and data of the national CF foundation. The study was
+   confined to the years of birth 1961-1965. On a total of 1,239,566
+   live births 342 infants and children were found to have CF (1/3600).
+   A list of all studies on the frequency of CF in Caucasian populations
+   is presented as an appendix. A seasonal trend in the expression of
+   the CF gene at birth (either with or without meconium ileus) was
+   noted.
+RF 001   KULCZYCKI LL          AM J DIS CHILD                 127    64 974
+   002   WRIGHT SW             AM J HUM GENET                  20   157 968
+   003   ANON                  HUMANGENETIK                    30   273 975
+   004   ANON                  J PEDIATR                       88   711 976
+   005   STEPHAN U             PEDIATRICS                      55    35 975
+   006   SHWACHMAN H           N ENGL J MED                   255   999 956
+   007   GIBSON LE             PEDIATRICS                      23   545 959
+   008   EDWARDS JH            ANN HUM GENET                   25    83 961
+   009   CUTLER SJ             J CHRON DIS                      8   699 958
+   010   WARWICK WJ            J ASTHMA RES                     5   277 968
+   011   HOLSCLAW DS           AM J DIS CHILD                 109   101 965
+   012   DONNISON AB           PEDIATRICS                      37   833 966
+   013   GRACEY M              CF CLUB ABST                             969
+   014   GEORGE L              ARCH DIS CHILD                  46   139 971
+   015   MCPARTLIN JF          ARCH DIS CHILD                  47   207 972
+   016   KESSLER WR            PEDIATRICS                       8   648 951
+   017   DI SANTAGNESE PA      PEDIATRICS                      12   549 953
+   018   STEINBERG AG          AM J HUM GENET                  12   416 960
+   019   KRAMM ER              AM J PUBLIC HEALTH              52  2041 962
+   020   DANKS DM              ANN HUM GENET                   28   323 965
+   021   TEN KATE LP           THESIS                                   975
+   022   SHWACHMAN H           PEDIATRICS                      36   689 965
+   023   PUGH RJ               ARCH DIS CHILD                  42   544 967
+   024   BRUNECKY Z            J MED GENET                      9    33 972
+   025   OREILLY D             INT J EPIDEMIOL                  3   247 974
+   026   ROBERTS GBS           ANN HUM GENET                   24   127 960
+   027   HALL BD               J MED GENET                      5   262 968
+   028   CARTER CO             IN: BODIAN M                          49 952
+   029   FEINGOLD J            ANN GENET (PARIS)               17   257 974
+   030   BERNHEIM M            PEDIATRIE                       16    17 961
+   031   GILLY R               ARCH FR PEDIATR                 28    49 971
+   032   SELANDER P            ACTA PAEDIATR SCAND             51    65 962
+   033   KOLLBERG H            PROC EWGCF 1ST ANNU MTG                  970
+   034   NIELSEN EL            ACTA PAEDIATR SCAND             61   377 972
+   035   KOCH G                IN: VON WINDORFER A                   30 968
+   036   STEPHAN U             PADIATRISCHE PRAXIS             12   487 973
+   037   BAUMANN T             HELV PAEDIATR ACTA SUPPL 8      13     1 958
+   038   NEVANLINNA HR         HEREDITAS                       71   195 972
+   039   ZYCHOWICZ C           PEDIATR POLSKA                  40   289 965
+   040   HOUSTEK J             CESK PEDIATR                    17   445 962
+   041   SIMANKOVA N           ANN GENET (PARIS)                7    84 964
+   042   HOUSTEK J             REV MED LIEGE                   22   421 967
+   043   BRUNECKY Z            PAEDIATR GRENZGEB                8    99 969
+   044   REIDERMAN MI          GENETIKA (SOV GENETICS)          7   148 971
+   045   BOCHKOVA DN           PEDIATRIIA                      12    24 974
+   046   GURSON CT             HELV PAEDIATR ACTA              28   165 973
+   047   LEVIN S               IN: GOLDSCHMIDT E                    294 963
+   048   SUPER M               S AFR MED J                     49   818 975
+   049   BECROFT DMO           NZ MED J                        68   113 968
+   050   TRIMBLE BK            ANN HUM GENET                   38   199 974
+   051   GOODMAN HO            AM J HUM GENET                   4    59 952
+   052   MERRITT AD            J LAB CLIN MED                  60   998 962
+   053   MERRITT AD            JAMA                           184   152 963
+   054   HANNA BL              IN: US PUB HEAL SERV PUB1163           7 963
+   055   CONNEALLY PM          TEX REP BIOL MED                31   639 973
+   056   STEINBERG AG          IN: GOLDSCHMIDT E                    133 963
+   057   LOWE CU               AM J DIS CHILD                  78   349 949
+   058   KULCZYCKI LL          AM J DIS CHILD                 100   174 960
+   059   HONEYMAN MS           AM J HUM GENET                  17   461 965
+   060   ANDERSEN DH           AM J DIS CHILD                  72    62 946
+   061   SULTZ HA              AM J PUBLIC HEALTH              56  1461 966
+   062   GLUCKSON MM           CF CLUB ABST                             974
+   063   CLARKE CA             IN: ROBERTS DF                           969
+   064   ANON                  UNO DEMOGRAPHIC YEARBOOK        13       961
+   065   CARTER CO             MOD PROBL PEDIATR               10   372 967
+   066   ANDERSON CM           MOD PROBL PEDIATR               10   381 967
+   067   WRIGHT SW             IN: LAWSON D PROC 5TH INT CF          91 969
+   069   DI SANTAGNESE PA      N ENGL J MED                   277  1287 967
+CT   1   BOIS E                CLIN GENET                      14    73 978
+     2   WARWICK WJ            HELV PAEDIATR ACTA              33   117 978
+     3   BRACKENRIDGE CJ       ANN HUM GENET                   42   197 978
+     4   NEVIN GB              J MED GENET                     16   122 979
+     5   DEMENAIS F            REV EPIDEMIOL SANTE PUBLIQUE    27     5 979
+     6   BRACKENRIDGE CJ       AM J MED GENET                   5   295 980
+     7   BRACKENRIDGE CJ       AM J MED GENET                   5   303 980
+     8   ROMEO G               RIV ITAL PEDIATR                 7   201 981
+     9   DAVID TJ              J MED GENET                     18   299 981
+    10   SINNEMA G             ACTA PAEDIATR SCAND             72   427 983
+    11   PASSARGE E            EUR J PEDIATR                  143    54 984
+    12   STURGESS JM           AM J MED GENET                  22   383 985
+    13   ROMEO G               AM J HUM GENET                  37   338 985
+    14   ALLAN JL              ACTA PAEDIATR SCAND             74   286 985
+    15   DANKERTROELSE JE      LANCET                           1   802 986
+    16   KOLLBERG H            J TROP PEDIATR                  32   293 986
+    17   DANKERTROELSE JE      ACTA PAEDIATR SCAND             76   209 987

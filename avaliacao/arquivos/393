@@ -1,0 +1,88 @@
+PN 76038
+RN 00393 
+AN 76254571
+AU Cohen-L-F.  Lundgren-D-W.  Farrell-P-M.
+TI Distribution of spermidine and spermine in blood from cystic
+   fibrosis patients and control subjects.
+SO Blood. 1976 Sep. 48(3). P 469-75.
+MJ CYSTIC-FIBROSIS: bl.  SPERMIDINE: bl.  SPERMINE: bl.
+MN CELL-FRACTIONATION.  CELL-SEPARATION.  CITRATES: bl.
+   COMPARATIVE-STUDY.  HEPARIN: bl.  HUMAN.  MALE.  POLYAMINES: bl.
+AB Previous studies have shown an abnormality of the spermidine-to-
+   spermine (Spd/Spm) ratio in whole blood of cystic fibrosis homo-and
+   heterozygotes. To investigate Spd and Spm distribution amoung blood
+   components as a possible cause of the abnormality, blood was
+   fractionated using Rabinowitz's glass bead technique and Boyum's
+   Ficoll-Hypaque method. Free (unconjugated) polyamines were  extracted
+   with perchloric acid and quantitated on an amino acid analyzer. In
+   controls, mean +/- SEM concentrations in nmoles/10(9) cells of Spd
+   and Spm, respectively, were 1.02 +/- 0.08 and 0.894 +/- 0.28 for
+   erythrocytes; 126 +/- 31 and 357 +/- 105 for lymphocytes; 36 +/- 16
+   and 240 +/- 33 for granulocytes; and less than 0.5 and less than 0.5
+   nmoles/ml for plasma. When converted to the concentration in whole
+   blood, it was found that greater than 90% of Spd and over 70% of Spm
+   was associated with erythrocytes. While the higher cellular
+   concentration in leukocytes was not unexpected, the fact that Spd and
+   Spm in whole blood were primarily associated with erythrocytes was a
+   new finding. Comparison with controls revealed that the Spd/Spm ratio
+   in both whole blood and erythrocytes was significantly higher in the
+   group of cystic fibrosis patients.
+RF 001   TABOR H               ADV ENZYMOL                     36   203 972
+   002   COHEN SS              INTRODUCTION TO POLYAMINES               971
+   003   RUSSELL DH            IN: RUSSELL DH                         1 973
+   004   SCHIMPFF SC           IN: RUSSELL DH                       395 973
+   005   RENNERT OM            IN: MANGOS JA                         41 973
+   006   LUNDGREN DW           CLIN CHIM ACTA                  62   357 975
+   007   TAUSSIG LM            J PEDIATR                       82   380 973
+   008   RABINOWITZ Y          BLOOD                           23   811 964
+   009   BOYUM A               SCAND J CLIN LAB INVEST SUPPL   97    77 968
+   010   ROSENTHAL SM          J PHARMACOL EXP THER           116   131 956
+   011   TABOR H               PHARMACOL REV                   16   245 964
+   012   GRAZIANO KD           BIOMEDICINE                     21   197 974
+   013   DESSER H              CLIN CHIM ACTA                  63   243 975
+CT   1   RUSSELL DH            CLIN CHEM                       23    22 977
+     2   INOUE H               SEIKAGAKU                       49   411 977
+     3   LUNDGREN DW           J PEDIATR                       90  1034 977
+     4   ALHADEFF JA           CLIN GENET                      14   189 978
+     5   DUNZENDORFER U        CANCER RES                      38  2321 978
+     6   SAEKI Y               J CHROMATOGR                   145   221 978
+     7   ROSENBLUM MG          SCIENCE                        200  1496 978
+     8   LUNDGREN DW           AM J PHYSIOL                   234  E451 978
+     9   SAVORY J              LANCET                           2  1136 979
+    10   TAKAMI H              LANCET                           2   912 979
+    11   RUSSELL DH            PEDIATR RES                     13  1137 979
+    12   WILSON GB             J LAB CLIN MED                  93   800 979
+    13   RATTENBURY JM         CLIN CHIM ACTA                  95    61 979
+    14   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+    15   MILANO G              ONCODEVELOP BIOL MED             1   215 980
+    16   SHIPE JR              ANN CLIN LAB SCI                10   128 980
+    17   BAYLIN SB             PEDIATR RES                     14   921 980
+    18   GAHL WA               PEDIATR RES                     14   118 980
+    19   LEISTI S              PEDIATR RES                     14   339 980
+    20   SCHAEFER GB           PEDIATR RES                     14   580 980
+    21   SWENDSEID ME          LIFE SCI                        26   533 980
+    22   THEOHARIDES TC        LIFE SCI                        27   703 980
+    23   DUNZENDORFER U        ARZNEIMITTEL FORSCH DRUG RES  30-2  1801 980
+    24   LORIA D               MED (BUENOS AIRES)              40   607 980
+    25   TAKAMI H              BR J CANCER                     41   751 980
+    26   UEHARA N              CANCER                          45   108 980
+    27   UEHARA N              GANN                            71   393 980
+    28   SHIPE JR              CRC CRIT REV CLIN LAB SCI       16     1 981
+    29   MOULINOUX JP          LIFE SCI                        29   955 981
+    30   RUSSELL DH            NEUROLOGY                       31    80 981
+    31   CHENG PW              J BIOL CHEM                    257  6251 982
+    32   RUSSELL DH            CRC CRIT REV CLIN LAB SCI       18   261 983
+    33   TOKUNAGA A            HIROSHIMA J MED SCI             32   127 983
+    34   TOKUNAGA A            HIROSHIMA J MED SCI             32   113 983
+    35   EKSTROM J             ACTA PHYSIOL SCAND             119   287 983
+    36   FUJIHARA S            J CHROMATOGR                   277    53 983
+    37   CHAYEN R              CELL BIOCHEM FUNCT               2    15 984
+    38   SHULL GE              J THEOR BIOL                   110   461 984
+    39   VORONCHIKHINA LD      LAB DELO                             443 985
+    40   RAM BP                CRC CRIT REV BIOCHEM            17   257 985
+    41   MOULINOUX JP          CLIN CHIM ACTA                 145    77 985
+    42   VORONCHIKHINA LD      VOPR MED KHIM                   32    43 986
+    43   OTA DM                INT J CANCER                    38   245 986
+    44   TADOLINI B            BIOCHEM BIOPHYS RES COMMUN     134  1365 986
+    45   MOULINOUX JP          EUR J CANCER CLIN ONCOL         23   237 987
+    46   ISOBE K               BIOCHEM MED METAB BIOL          37   110 987

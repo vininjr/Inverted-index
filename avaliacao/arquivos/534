@@ -1,0 +1,43 @@
+PN 76180
+RN 00534 
+AN 77057091
+AU Wilson-G-B.  Arnaud-P.  Monsher-M-T.  Fudenberg-H-H.
+TI Detection of cystic fibrosis protein by electrofocusing.
+SO Pediatr-Res. 1976 Dec. 10(12). P 1001-2.
+MJ BLOOD-PROTEINS: an.  CYSTIC-FIBROSIS: bl.  ISOELECTRIC-FOCUSING.
+MN HETEROZYGOTE.  HOMOZYGOTE.  HUMAN.  ISOELECTRIC-FOCUSING: mt.
+EX Detection of cystic fibrosis protein (CFP) using out method involves
+   rather exacting requirements for the collection of serum samples and
+   their subsequent analysis by electrofocusing.  Minor variations in
+   the methods described for sample collection and storage may cause
+   degradation and loss of CFP and this by itself could lead to
+   erroneous results since many CF samples would appear to be CFP
+   negative, making it impossible to observe a consistent difference
+   between a group of CF samples and normal control samples by
+   electrofocusing.  From the results presented by Thomas et al. and
+   Figure 1 of the letter by Smith et al., it is obvious that neither
+   group has reproduced the protein handling patterns presented in
+   either of our previous reports.  The pH gradients are not the same,
+   the location of the sample pads relative to the anode are not the
+   same, and the protein banding patterns are totally different.  We
+   question the validity of the techniques used, claims of having
+   reproduced our method for detecting CFP, or supposed improvements
+   designed to enhance the detection of CFP.
+RF 001   ALTLAND K             HUMANGENETIK                    28   207 975
+   002   AWDEH ZL              NATURE                         219    66 968
+   003   CONOVER JH            PEDIATR RES                      7   220 973
+   004   SMITH QT              PEDIATR RES                     10   999 976
+   005   THOMAS JM             CF CLUB ABST                    17    19 976
+   006   WILLIAMSON AR         IN: WEIR DM                              973
+   007   WILSON GB             PEDIATR RES                     10    87 976
+   008   WILSON GB             PEDIATR RES                      9   635 975
+   009   WILSON GB             CLIN CHIM ACTA                  49    79 973
+   010   WILSON GB             CLIN RES                        24   295 976
+CT   1   THOMAS JM             PEDIATR RES                     11  1148 977
+     2   WILSON GB             PEDIATR RES                     11   986 977
+     3   WILSON GB             PEDIATR RES                     11   317 977
+     4   WILSON GB             PEDIATR RES                     11   139 977
+     5   WILSON GB             NATURE                         266   463 977
+     6   SCHOLEY J             PEDIATR RES                     12   800 978
+     7   WILSON GB             PEDIATR RES                     12   801 978
+     8   JAMIESON A            HUM GENET                       70   168 985

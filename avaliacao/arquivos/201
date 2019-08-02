@@ -1,0 +1,78 @@
+PN 75035
+RN 00201
+AN 75203428
+AU Adshead-P-C.  Martinez-J-R.  Kilburn-K-H.  Hess-R-A.
+TI Ciliary inhibition and axonemal microtubule alterations in
+   freshwater mussels.
+SO Ann-NY-Acad-Sci. 1975 Jun 30. 253. P 192-212.
+MJ CILIA: de.  MICROTUBULES: de.  MUSSELS: ul.
+MN ANIMAL.  BLOOD.  CILIA: ph.  CYSTIC-FIBROSIS: bl.  HETEROZYGOTE.
+   HOMOZYGOTE.  HUMAN.  MALE.  MICROSCOPY-ELECTRON.  MOVEMENT.
+   MUSSELS:  de, ph.  RATS.  RESERPINE: pd.  SALIVA: de.
+EX A phenomenon associated with the genetic disease of cystic fibrosis
+   (CF) is the presence of a serum factor that stops or discoordinates
+   ciliary beating.  This effect has been demonstrated by exposing
+   freshwater mussel or oyster gill cilia, or rabbit tracheal cilia, to
+   sera from homozygous or heterozygous cystic fibrosis subjects.  Assay
+   reproducibility is unsatisfactory, however, and the mechanism of the
+   effect is not understood.  Nor do we know why there may be
+   considerable differences between the activity of tested heterozygotes
+   and of homozygotes.  Because the ciliary assay is capricious, there
+   is a need to understand how ciliary beating is disturbed or stopped.
+   Since microtubules are important in the mechanism of ciliary motion,
+   they could conceivably show alterations during the response to
+   inhibitory substances.  There has been no ultrastructural study,
+   however, of the effects of ciliary inhibition on the axonemal
+   components.  Therefore, this study was designed to examine ciliary
+   structure during the different stages of ciliary inhibition.  Rapid
+   microtubular disappearance and reappearance occurs in the terminal
+   cilia of the freshwater mussel Unio when exposure to CF serum causes
+   a shock-stop reaction, and return to water allows resumption of
+   normal ciliary beating.  In contrast, a slow-stop reaction causes
+   distortion of cilia, asynchronous beating, and ejection of cells from
+   the distal gill filament, but ciliary axonemal structure is
+   preserved.  Slow-stopped cilia do not resume their beating in water.
+   Saliva from reserpine-treated rats causes ciliary inhibition similar
+   to that induced by CF serum.
+RF 001   SPOCK A               PEDIATR RES                      1   173 967
+   002   BOWMAN BH             SCIENCE                        164   325 969
+   003   BOWMAN BH             SCIENCE                        167   871 970
+   004   BESLEY GTN            J MED GENET                      6   278 969
+   005   CONOVER JH            PEDIATR RES                      7   220 973
+   006   CHERRY JD             J PEDIATR                       79   937 971
+   007   MARTINEZ JR           PEDIATR RES                      9   463 975
+   008   MARTINEZ JR           PEDIATR RES                      9   463 975
+   009   SATIR P               J CELL BIOL                     18   345 963
+   010   SATIR P               J GEN PHYSIOL                   50   241 967
+   011   SATIR P               J CELL BIOL                     39    77 968
+   012   AIELLO EL             J CELL BIOL                     54   493 972
+   013   WARNER FD             J CELL SCI                      12   313 973
+   014   SHIGENAKA Y           J CELL SCI                       8   127 971
+   015   GIBBONS IR            J BIOPHYS BIOCHEM CYTOL         11   179 961
+   016$  MILLONIG G            J APPL PHYS                     32  1637 961
+   017   SATO T                STAIN TECHNOL                   48   223 973
+   018   REYNOLDS ES           J CELL BIOL                     17   208 963
+   019   ADSHEAD PC            CF CLUB ABST                    15    25 974
+   020   HOPKINS JM            J CELL SCI                       7   823 970
+   021   COSTELLO DP           BIOL BULL                      145   292 973
+   022   CONOVER JH            LANCET                           1  1194 973
+   023   BEHNKE O              INT REV EXP PATH                 9     1 970
+   024   WILSON L              FED PROC                        33   151 974
+   025   WILSON L              FED PROC                        33   158 974
+   026   WILSON L              J CELL BIOL                     58   709 973
+   027   GOSS RJ               ADV CELL BIOL                    1   233 970
+   028   BOVEE EC              ARCH PROSTISTENK               104   503 960
+   029   BARDELE CF            Z ZELLFORSCH MIKROSK ANAT      130   219 972
+   030   WITMAN GB             J CELL BIOL                     54   507 972
+   031   MARTINEZ JR           CF CLUB ABST                    15     3 974
+   032   VOLLET JJ             J CELL BIOL                     55  269A 972
+CT   1   BAUR PS               TEX REP BIOL MED                34   155 976
+     2   CZEGLEDYNAGY E        LAB INVEST                      35   588 976
+     3   MARTINEZ JR           MO MED                          73   173 976
+     4   WOOD DL               PEDIATR RES                     11   827 977
+     5   KILBURN KH            J ULTRASTRUCT RES               60    34 977
+     6   BOGART BI             PEDIATR RES                     12    15 978
+     7   MARTINEZ JR           PEDIATR RES                     13  1156 979
+     8   NAGY EC               PEDIATR RES                     13   729 979
+     9   KENNEDY JR            PEDIATR RES                     14  1173 980
+    10   SILLERS PJ            CAN J BIOCHEM                   59   777 981

@@ -1,0 +1,54 @@
+PN 78105
+RN 00886 
+AN 78129865
+AU Lewis-S-M.
+TI Emptying patterns of the lung studied by multiple-breath N2 washout.
+SO J-Appl-Physiol. 1978 Mar. 44(3). P 424-30.
+MJ MODELS-BIOLOGICAL.  RESPIRATION.
+MN ADULT.  AGING.  CHILD.  CYSTIC-FIBROSIS: pp.  HUMAN.
+   LUNG-DISEASES-OBSTRUCTIVE: pp.  LUNG-VOLUME-MEASUREMENTS.
+   LUNG: ph, pp.  NITROGEN.  RESPIRATORY-DEAD-SPACE.
+   SUPPORT-U-S-GOVT-P-H-S.  SUPPORT-U-S-GOVT-NON-P-H-S.
+AB Changes in the nitrogen concentration seen during the single-breath
+   nitrogen washout reflect changes in relative flow (V) from units with
+   differing ventilation/volume ratios (V/V0). The multiple-breath
+   washout provides sufficient data for the V for units with varying
+   V/V0 to be plotted as a function of the volume expired. Flow from the
+   dead space may also be determined. In young normals the emptying
+   patterns are narrow and unimodal throughout the alveolar plateau with
+   little or no flow from the dead space at the end of the breath. Older
+   normals show more flow from the dead space, particularly toward the
+   end of the breath, and some show a high V/V0 mode early in the
+   breath. Patients with obstructive lung disease have a high flow from
+   the dead space which is present throughout the breath. A well
+   ventilated mode at the end of the breath is seen in some obstructed
+   subjects. Patients with cystic fibrosis showed a poorly ventilated
+   mode appearing at the end of the breath as well as a very high dead
+   space.
+RF 001$  BAKER LG              RESPIR PHYSIOL                  21   119 974
+   002   BALL WC JR            J CLIN INVEST                   41   519 962
+   003   DOLLFUSS RE           RESPIR PHYSIOL                   2   234 967
+   004   ENGEL LA              J APPL PHYSIOL                  35     9 973
+   005   EVANS JW              BULL MATH BIOPHYS               32    59 970
+   006   EVANS JW              BULL MATH BIOPHYS               29   711 967
+   007   EVANS JW              J APPL PHYSIOL                  42   889 977
+   008   FOWLER WS             AM J PHYSIOL                   154   405 948
+   009   FOWLER WS             J APPL PHYSIOL                   2   283 949
+   010   FOWLER WS             J CLIN INVEST                   31    40 952
+   011   LEWIS SM              J APPL PHYSIOL                  44   416 978
+   012   MCCARTHY DS           AM J MED                        52   747 972
+   013   MARTIN CJ             RESPIR PHYSIOL                  21   157 974
+   014   MILLETTE B            J APPL PHYSIOL                  27   587 969
+   015   PAIVA M               J APPL PHYSIOL                  35   401 973
+   016   POWER G               J APPL PHYSIOL                  27   701 969
+   017   SCHERER PW            BULL MATH BIOPHYS               34   393 972
+   018   SIKAND R              J APPL PHYSIOL                  21  1331 966
+   019   SUDA Y                J APPL PHYSIOL                  29   480 970
+   020   TSUNODA S             J APPL PHYSIOL                  32   644 972
+   021   WAGNER PD             J APPL PHYSIOL                  36   588 974
+   022   YOUNG AC              J CLIN INVEST                   53  1178 974
+CT   1   LAMEDICA G            RESPIRATION                     39   333 980
+     2   JALOWAYSKI AA         RESPIRATION                     43   249 982
+     3   RUBIN DZ              J APPL PHYSIOL                  56   708 984
+     4   CUMMING G             CLIN PHYSIOL                     5    33 985
+     5   BUCHANAN PR           CLIN PHYS PHYSIOL MEASURE        7   237 986

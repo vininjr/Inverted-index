@@ -1,0 +1,55 @@
+PN 76045
+RN 00400 
+AN 76208332
+AU Schneyer-C-A.  Wilborn-W-H.
+TI Effects of cystic fibrosis serum on the rat parotid gland.
+SO Cell-Tissue-Res. 1976 Jun 11. 169(1). P 111-21.
+MJ CYSTIC-FIBROSIS: bl.  PAROTID-GLAND: de.
+MN ANIMAL.  ATROPHY.  CHILD.  CYSTIC-FIBROSIS: im.  FEMALE.  HUMAN.
+   MITOSIS: de.  PAROTID-GLAND: im, ul.  RATS.  TISSUE-EXTRACTS: pd.
+   SUPPORT-U-S-GOVT-P-H-S.
+AB Injections of serum from human patients with cystic fibrosis into
+   adult rats caused pronounced structural modifications and increased
+   mitotic rate in the parotid gland. Mitotic rate was increased from a
+   low level of 0.02/1,000 acinar cells in parotid glands of adult rats
+   to 6.5/1,000 acinar cells after 2 or 3 days of serum injection. At
+   the light and electron microscopic levels, significant acinar cell
+   atrophy and degranulation were observed. Cellular necrosis, and
+   increases in quantity of lysosome-like dense bodies, mast cells, and
+   macrophages were also detected. These changes are suggestive of
+   tissue response to injurious foreign protein. Furthermore, the fact
+   that normal sera pronounced the same kind of effects (but greatly
+   reduced in extent) strengthens the view that these effects result
+   from the immunologic response of the host organ to foreign antigen.
+   Since, however, the responses of the rat parotid to cystic fibrosis
+   serum were considerably more marked than those elicited by normal
+   serum, the rat parotid may thus have potential usefulness in assaying
+   for the presence of human cystic fibrosis factor.
+RF 001   BLOMFIELD J           GUT                             14   558 973
+   002   BOWMAN BH             IN: MANGOS JA                         29 973
+   003   BOWMAN BH             SCIENCE                        164   325 969
+   004   BURTON K              BIOCHEM J                       62   315 956
+   005   CERIOTTI GJ           J BIOL CHEM                    214    59 955
+   006   CONOD EJ              PEDIATR RES                      9   724 975
+   007   DALCQ AM              IN: DE REUCK AVS                         963
+   008   DOGGETT RG            TEX REP BIOL MED                31   685 973
+   009   DEDUVE C              ANNU REV PHYSIOL                28   435 966
+   010   EL-MOFTY S            EXPERIENTIA                     30   950 974
+   011   ERSHOFF BH            PROC SOC EXP BIOL MED          110   262 965
+   012   HERZBERG VL           AM J HUM GENET                  24   46A 972
+   013   KABAT EA              EXPERIMENTAL IMMUNOCHEMISTRY             961
+   014   RUTBERG U             ACTA ODONT SCAND SUPPL 30       19    11 961
+   015   SCHNEYER CA           IN: GOSS R                               972
+   016   SIMSON JV             Z ZELLFORSCH MIKROSK ANAT      101   175 969
+   017   SPOCK A               PEDIATR RES                      1   173 967
+   018   WEIL-MALBERBE H       METHODS BIOCHEM ANAL            16   293 968
+   019   WILBORN WH            Z ZELLFORSCH MIKROSK ANAT      103     1 970
+   020   WILBORN WH            Z ZELLFORSCH MIKROSK ANAT      130   471 972
+CT   1   JAKEL HP              BIOL ZENTRALBL                  98    55 979
+     2   OLIVER C              AM J ANAT                      155   185 979
+     3   HAND AR               ARCH ORAL BIOL                  26   369 981
+     4   VONEULER AM           ULTRASTRUCTURAL PATHOL           5    37 983
+     5   QWARNSTROM EE         J ORAL PATHOL                   12   430 983
+     6   ROOMANS GM            SCANN ELECTRON MICROSC        1983   697 983
+     7   ROOMANS GM            ANN NY ACAD SCI                428   121 984
+     8   VONEULER AM           EXP MOL PATH                    43   142 985
