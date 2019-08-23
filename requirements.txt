@@ -1,2 +1,0 @@
-matplotlib==3.0.3
-nltk==3.4.4
